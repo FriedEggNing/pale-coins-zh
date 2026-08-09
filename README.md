@@ -30,7 +30,22 @@ anything that reads wrong.*
 先找到游戏目录（Steam 里右键游戏 → 管理 → 浏览本地文件），
 默认通常是 `...\steamapps\common\Pale Coins`。
 
-### 方法 A：手动安装（简单，无需改游戏文件）
+### 方法 A：一键安装（推荐）
+
+下载并解压本包后，**右键 `install.ps1` → 使用 PowerShell 运行**。
+脚本会自动找到游戏目录、备份原字体、复制汉化文件、并把语言设为中文。
+
+如果自动找不到游戏，可以手动指定路径：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File install.ps1 -GamePath "D:\Steam\steamapps\common\Pale Coins"
+```
+
+卸载：运行 `uninstall.ps1`，会还原原版字体、删除汉化文件、把语言改回英文。
+
+> 装之前请先关掉游戏。脚本会把原版字体备份到游戏目录下的 `_zh_backup\`。
+
+### 方法 A（手动版）：不想跑脚本的话
 
 1. **备份**游戏目录下的 `PixelFont.ttf` 和 `pixelplay.ttf`（复制一份到别处即可）。
 2. 把本包的 `lang\localization\zh` 整个文件夹，复制到游戏的 `lang\localization\` 下。
