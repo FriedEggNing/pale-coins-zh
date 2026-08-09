@@ -1,0 +1,33 @@
+type,id,text,zh
+action,action-9d485927-f2f1-1618-b9b5-4a7876189875,"Oh, it's you.",哦，是你啊。
+option,choice-27bb25bc-aea4-4a89-ae8b-cf5a8fedcd00,What about the forgery of the key?,钥匙仿制得怎么样了？
+option,choice-fe3cdd97-9e65-bfd7-a43f-39c85d5f4b78,I'm on my way.,我先走了。
+action,action-b6d3a5d1-2fa8-60a8-bf25-cf1498af2a43,"Oh, I am glad you're here.
+I just received the forgery of the key.","哦，你来得正好。
+我刚拿到仿制的钥匙。"
+action,action-6caf5a6a-25a4-2900-9745-78b72d45cca4,My contact still needs time for the forgery.,我的联络人还需要点时间来仿制。
+action,action-20b7a43a-5947-6e56-624c-be0bb3eacafd,At least we were able to get our hands on the needed materials.,至少我们已经把所需的材料弄到手了。
+action,action-12d50527-4e4e-8bdd-bdde-b8b31976bc9a,"The required material seems to be quite special, so it's taking some time to locate.",所需的材料似乎相当特殊，找起来要花些时间。
+action,action-5b92dfd3-7499-6f44-c77a-83e89d1a5ab4,Catch you later!,回头见！
+action,action-43f32cfa-b185-c6a6-d30f-7aa38c55ed4b,"Let me tell you, this guy knows his craft.
+I can barely tell the difference between the keys.","跟你说，这家伙手艺真不赖。
+这两把钥匙我几乎分不出来。"
+action,action-c1305045-0854-5e47-d734-67f707853c8d,...,……
+action,action-aa2e5fdd-a1e8-c63e-9a54-a0634bc4a8d4,"Fuck!
+I can't tell the difference between the forgery and the original!","妈的！
+我分不清哪把是仿品、哪把是原件了！"
+action,action-10f8dfa1-4e8c-4325-f061-d0c999a8859a,Which one's yours?,哪把是你的？
+option,choice-f6ebc2e2-2b9e-3c42-d46f-2b2e22d5d400,The left key is mine.,左边那把是我的。
+option,choice-1f3a06d1-e613-00f5-9792-15f28c24f1b8,The right key is mine?,右边那把是我的……吧？
+option,choice-e627791a-19a5-b08e-e0a8-c169350043be,How should I know?!,我怎么知道？！
+action,action-7b700cea-acee-4984-3366-0db30616d0b5,"Ok good.
+Gladly, you are able to tell the difference.","那就好。
+幸好你还分得清。"
+action,action-6cd68ebb-937f-5751-e78f-1fa19cbb82b8,"Ok fuck it!
+I think this one's the original key.","行，管他呢！
+我看这把就是原件。"
+action,action-8185d98c-0247-7ff2-bf89-f059bc47b5cf,"Now, we both have what we were looking for.
+Oh, I almost forgot...","这下我们俩都各取所需了。
+哦，差点忘了……"
+action,action-f70fe4e5-067d-1376-aae7-3afe7cc12a80,See you at the Crossroad Inn!,十字路旅店见！
+action,action-452068e8-90b5-c7a7-7ec3-7aba375b3aa5,Thank you for lending me the key.,谢谢你把钥匙借给我。

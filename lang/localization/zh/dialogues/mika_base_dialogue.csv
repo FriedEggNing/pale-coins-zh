@@ -1,0 +1,22 @@
+type,id,text,zh
+action,action-6858429a-1c44-4c63-c791-405dadb118da,Thank you for saving my ass in the wasteland.,谢谢你在荒地救了我一命。
+action,action-8933c51d-ba6f-6f21-16b2-946c9f1a84d7,"I thought, I was going to die there.",我还以为自己要死在那儿了。
+action,action-2914be33-13bc-6fc5-6f4c-870c6759cd31,"Oh, it's you again.
+Is there anything you need?","哦，又是你。
+有什么需要吗？"
+option,choice-0e00a676-9037-ef14-1702-5fcc68a9b6c8,Who are you?,你是谁？
+option,choice-11b4bd69-3fef-933e-9442-4f95d09852a0,Where was the key to the temple?,神殿的钥匙原来在哪儿？
+option,choice-70d677d8-6117-7a8b-e905-21bec83f74e6,What did you do in the wasteland?,你在荒地做什么？
+option,choice-fbfb844a-2edc-e6a3-fc0d-434b279e6447,See you!,回见！
+action,action-f7169773-70d9-24cd-b356-47ea623fb41c,I just happened to see a mage put it in one of the pillars in front of the temple.,我碰巧看到一个法师把它放进了神殿前的一根石柱里。
+action,action-091fc8e3-5d63-e08d-7dbd-55997ccd7e02,Maybe it is still there.,也许它还在那儿。
+action,action-47839bc6-ea5e-34f5-a3d2-3c2e64978130,God be with you.,愿神与你同在。
+action,action-5223f9c5-3d3c-c1b5-3c09-8b92f441bd12,Goran had me looking for some information about that big temple there.,戈兰让我去打探那边那座大神殿的情报。
+action,action-4ca2c19f-9075-9bb2-ce86-b1c1a8b80050,I only managed to find out about their leader.,我只查到了关于他们首领的事。
+action,action-6b919556-555f-edbf-bec8-af3eaa9b3fbd,The orcs seem to call him Gru'Ra.,兽人们好像管他叫格鲁拉。
+action,action-bd7cd8e8-fe05-294c-db23-b42fffdc61f8,"He is a very powerful mage, and uses lightning to strike his opponents down.",他是个非常强大的法师，会用闪电击倒对手。
+action,action-becec742-2ad8-ba7b-acd3-6e5df69278cb,"In case you ever happen to face him, make sure you are resistant to fire.
+Otherwise you'll end up as a piece of coal.","万一你哪天要和他交手，务必备好火焰抗性。
+不然你就会变成一块焦炭。"
+action,action-02a863f5-aab5-ba14-a127-a3a96fb931b7,"I missed to introduce myself, did I?",我还没自我介绍，对吧？
+action,action-aea69139-6ebf-0cf3-7dd9-80568a6d9ccc,I am #:Mika:#.,我是#:米卡:#。

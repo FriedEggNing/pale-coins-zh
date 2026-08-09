@@ -1,0 +1,41 @@
+type,id,text,zh
+action,action-dc8ab577-080f-db73-8147-701e537373a7,Can you bastards stop walking through my land?!,你们这帮混蛋能不能别从我的地里走？！
+action,action-78e6cbb6-e601-2138-03f9-0f356380b987,"Damn it!
+This ain't a circus!","该死！
+这儿又不是马戏团！"
+option,choice-714905b2-9243-df1e-4418-96927d9bb474,Calm down.,冷静点。
+option,choice-03643016-1ca9-ba81-9d64-1ee804d48246,Are you always this friendly?,你平时都这么友善吗？
+action,action-a94a5efd-557c-8667-75ca-c8c4bb4e126a,Calm down?!,冷静点？！
+action,action-81000219-9058-d00a-007d-0df6b46ec00b,"Open your mouth once more, and I'll shove my pitchfork in there as far as it goes!",你再敢张嘴，我就把草叉捅进你嘴里，能捅多深捅多深！
+action,action-9012d916-78b2-e8a2-6b66-c795e0049f56,"Ever since the king made this god damn road through my farm, there's always someone passin' through.",自打国王把这条天杀的路修穿了我的农场，就总有人从这儿过。
+action,action-769158e1-50ce-0c1a-6eda-3ab2126f27ef,"Always some soldiers, travellers or beggars.",不是士兵，就是旅人，再不然就是乞丐。
+action,action-b4970eb9-daa3-7ca7-7348-f3a6bf6e95e0,Some of them even end up stealing my wheat or some chicken!,有些家伙甚至偷我的麦子和鸡！
+action,action-6af7a61b-3f48-3dcf-3fe7-241246765b7f,By god... I just about had enough of all this bullshit!,老天爷……这些破事我真是受够了！
+action,action-80519691-98d2-06bb-5113-432cb5281d0e,Huh?,嗯？
+option,choice-9f570334-2a0b-fbe5-5a21-4e80d2b685a2,Who are you?,你是谁？
+option,choice-01505581-08ad-e064-9a2d-51127efe9328,Is this your farm?,这是你的农场吗？
+option,choice-99a9a84b-a8e8-b16b-3ffc-b4dcfedf9b9a,Who do you work for?,你为谁干活？
+option,choice-3feb9e1a-4438-2af3-3f7a-50f72b6d7cd5,Do you have something to sell?,你有什么东西要卖吗？
+option,choice-b6145d8a-a3da-f41b-cbec-2ed28e9f85a5,I saw a huge shadow recently.,我最近看到了一个巨大的影子。
+option,choice-01288b86-dd3f-4c02-1dd3-ffbaaf4b7bb6,See you!,回见！
+action,action-3d0f3fd9-110a-3a83-4f30-69d83468d223,"No, this is my chicken's farm.",不，这是我家鸡的农场。
+action,action-0ea768b4-8702-398e-a716-13170fd55f2a,"Of course it's MINE, you dumbass!",当然是我的，你这蠢货！
+action,action-9740a8ce-3464-0824-dcae-ebebccc534b7,My late father and I built this place up with our own bare hands!,这地方是我和我过世的父亲亲手一点点建起来的！
+action,action-efa2711c-228b-08a4-f468-82fd7fc38a33,Only stuff I don't need myself.,只卖我自己用不着的东西。
+action,action-2e66c425-8a74-a342-3e77-a31337f9b832,Stay away from my chicken and fields!,离我的鸡和田地远点！
+action,action-23ede635-ee97-0b6c-814c-dfa746ac2408,"That's true.
+Somethin' flew over my land towards the south.","确有其事。
+有个什么东西从我的地上空飞过去了，往南边去了。"
+action,action-56ce5605-a909-6923-1604-770c3ca038e3,Rumors say it was a dragon.,有传言说那是一条龙。
+action,action-01998a8d-8eae-b16e-616a-61b1f20482f2,"Never saw a dragon myself, so I ain't inclined to believe that shit.",我自己从没见过龙，所以才不信那套鬼话。
+action,action-d0f689c3-8a72-c96c-5c71-33e19fa53c4e,"Why do you want to know?
+Do you want to set your friends on me?","你问这个干什么？
+想叫你的朋友来对付我？"
+action,action-5d59aa45-7b23-e8c9-4c08-1f15de4eb3b8,The good ol' #:Roland:# knows how to defend himself.,老#:罗兰:#我可懂得怎么保护自己。
+action,action-5e354ec2-d389-bdb1-5e7d-eab5efd9ccce,You better watch out!,你最好小心点！
+action,action-30eed56a-2407-afd5-31b8-86328718dabb,"For all the people in the capital and, obviously, for our BELOVED king.",为王都的所有人干活，当然啦，还有我们“敬爱的”国王。
+action,action-6231746d-2876-2822-6db6-77ec226b6313,At least I don't have to pay taxes due to my work.,至少凭这份活计，我不用交税。
+action,action-9f5c0518-fead-e3cb-eb80-075f6880044f,"Every once in a while the wizards of the academy want somethin' as well.
+Unlike the king, they pay properly.","学院的法师们偶尔也会来要点东西。
+跟国王不一样，他们给钱倒是爽快。"
+action,action-09fbd268-cc5f-ae22-2d62-10b6c6a74a09,And now leave me alone. I still have a lot to do.,行了，别烦我了。我还有一堆活儿要干。

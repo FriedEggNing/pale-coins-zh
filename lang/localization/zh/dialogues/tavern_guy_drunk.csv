@@ -1,0 +1,21 @@
+type,id,text,zh
+action,action-e7cd2669-465f-e240-bed8-4961584fada1,"Lemme tell ya, man!",我跟你说啊，伙计！
+action,action-5fdf2e7b-b086-f9ff-1c66-e58ae9b88b64,"Back when I served me sentence in the castle dungeon, people seemed to disappear.",想当年我在城堡地牢里蹲大狱的时候，老有人莫名其妙就不见了。
+action,action-89134564-2d76-0943-aa97-8673df4a5e81,One night I hear' one of the guards say sumthin' 'bout some #:candles:#.,有天夜里，我听见一个看守嘀咕什么#:蜡烛:#的事儿。
+action,action-8f8fe742-ac21-0ebe-2914-e48007cde550,*hicks,*打嗝
+action,action-9d80c7ed-fd68-f193-3258-e347ac96f1a1,*hicks,*打嗝
+action,action-792908c9-c129-24eb-99ca-a04bc03b701e,Ya need sumthin'?,你有啥事儿？
+option,choice-22150747-15bb-ecc7-ccc2-c4f041bfc2b6,What do you know about the castle dungeon?,关于城堡地牢你知道些什么？
+option,choice-ddb2b15b-5289-5246-bacc-39aae1d50bad,A beer for a story.,一杯啤酒换个故事。
+option,choice-c0b9329c-01d9-e430-965c-9159908e09e3,What is past the dungeon walls?,地牢的墙后面是什么？
+option,choice-1c6f0678-7349-b383-fd32-455c88de0c9e,See you.,回见。
+action,action-0f1db4cc-7ed7-5f80-48a6-ce0c7d6fcce7,"A lot.
+I spent a few years of me life in that place already.","知道的可多了。
+我这辈子在那鬼地方蹲了好几年呢。"
+action,action-76a2c909-451e-b699-42c4-f3d80de0ce89,"If ya wanna hear a story ya better get me a drink, though.",不过你要想听故事，最好先给我弄杯酒来。
+action,action-e0da3614-a760-04c7-77c1-1f46ace4adaa,A beer for a story.,一杯啤酒换个故事。
+action,action-9315691c-565e-6b3f-18bd-a0f3fa152fee,"Ya don't even have a beer on ya', pal.",你身上连杯啤酒都没有，老兄。
+action,action-ca7e06be-90c3-5021-a63b-a66c3a0a7266,Get me sumthin' to drink first!,先给我弄点喝的来！
+action,action-e9a3e49d-5c44-a35d-1239-5ae2909e5de3,Some say the ol' king's crypt is behind the walls.,有人说老国王的墓穴就在墙后头。
+action,action-bce6ecca-0d40-322e-f47d-87adcfa3d026,"If you ask me, I'd rather stay in my cell than havin' to escape through a crypt.",要我说啊，我宁可待在牢房里，也不想从墓穴里逃出去。
+action,action-2140fec0-0201-ac70-3a8d-12171a1cd4c3,*hicks,*打嗝

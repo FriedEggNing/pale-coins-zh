@@ -1,0 +1,86 @@
+type,id,text,zh
+action,action-c57d2a1b-21dd-11a2-0534-d678f4e54751,Ah! Back at last!,啊！总算回来了！
+action,action-7ed0ada9-dc0f-d4ae-c23f-cfa64e4ee12c,I thought I would never see this place again!,我还以为再也见不到这地方了呢！
+action,action-67875157-041c-f4bd-0ed6-717a54fec52c,"I must thank you for getting me out of that hole, and for getting my staff back.",我得谢谢你把我从那个鬼地方救出来，还帮我找回了法杖。
+action,action-fcc4e562-ce5f-1d9d-9062-090a02240d87,"Ah, there you are. Now... what is that you need?",啊，你来了。说吧……你需要什么？
+option,choice-a2036488-0aa9-9370-3c5f-fc78fb223b58,Do you know anything about the Champion's Coin?,你知道冠军硬币的事吗？
+option,choice-eb6e6895-bc47-bd08-eca8-c2bf3acddd94,Why did you close the mines?,你为什么把矿井封了？
+option,choice-8561004b-deaf-4d3b-afe7-1134eb9a4e0a,How long have you worked for Balder?,你为巴尔德做事多久了？
+option,choice-a55a55bc-8684-e5a1-6aa9-3536605ee5ef,Teleport me over the bridge.,把我传送到桥对面。
+option,choice-886868d5-d66f-57cf-079c-5e4768d8360c,Can I see your wares?,能看看你的货物吗？
+option,choice-f31528d3-4f35-645a-c22d-64b73696311f,I'd like training in the arts of magic.,我想学习魔法技艺。
+option,choice-23066e11-ac45-a0e4-4700-f340bd588860,Can you brew potions?,你能调配药水吗？
+option,choice-73728508-c6b4-8316-cbc4-acdb16e3cd02,Nothing at the moment.,暂时没什么事。
+action,action-ce6b2eb2-f2cf-4812-6e71-5ca9182a7df6,"Well, a rather interesting tale.",嗯，这说来倒是个有趣的故事。
+action,action-5430eda5-65ac-821a-2143-74658ba0e3cf,"During one of our many mining expeditions, we encountered something near the end of the mines.",在一次采矿作业中，我们在矿井尽头附近发现了一些东西。
+action,action-fe84e0bd-b5bb-89c0-e436-df34bb9f615b,We dug through a wall and saw a beautiful grotto with a waterfall.,我们挖穿了一面墙，看到一座美丽的洞窟，里面还有一道瀑布。
+action,action-5f80576d-436a-1380-8118-7063b1e01b9a,But that wasn't the reason. The reason for the closing were some ancient ruins we found behind the waterfall.,但那不是封矿的原因。真正的原因是我们在瀑布后面发现的一处古代遗迹。
+action,action-893c02c9-e2a4-1d68-3e66-07e4ed6fe42c,"As I approached them, I felt a strong magical presence, and a feeling of fear and dread washed over me.",当我靠近遗迹时，我感到一股强大的魔力，一阵恐惧与不安瞬间将我笼罩。
+action,action-9aa1d9fb-22dd-4788-723a-303f028d3704,"Ahem... anyway. After that, I refused to let anyone near those ruins, and I ordered Balder to close off the mines until further notice.",咳……总之。从那以后，我不许任何人靠近那处遗迹，还让巴尔德把矿井封了，等候另行通知。
+action,action-89399d10-3b23-b9a7-5b48-3b817beec330,Hmm... The Champion's Coin?,唔……冠军硬币？
+action,action-e3f3cccb-1546-5843-2178-5a81a14f563a,"Ah, I am assuming those are the magical coins that were mentioned in the Broken Wall texts behind the waterfall in the mine.",啊，我猜那应该就是矿井瀑布后面残壁文字中提到的魔法硬币。
+action,action-4d56ee77-4c4c-2bbc-5b45-e4db83a52853,The magical coins were said to possess great power and said power would be bestowed upon whoever is wielding the coin.,据说那些魔法硬币蕴含强大的力量，持有硬币之人便能获得这股力量。
+action,action-614f768b-d570-075b-598b-a2a03eb0b710,"Overall, they seem like something from an ancient past, something that wanted to be buried and forgotten. For what reason? I... couldn't tell you.",总的来说，它们像是来自远古的东西，一种想要被埋葬、被遗忘的东西。至于原因？我……说不上来。
+action,action-88f97b1a-305d-a54e-c346-902bb0d88838,All I do know is that they don't seem to exist anymore.,我只知道，它们似乎已经不复存在了。
+action,action-4d6133bc-4a53-4305-95c5-47814f5d1d9e,"Oh, I've worked with Balder for years now. We were partners before this group was even established!",哦，我和巴尔德共事很多年了。早在这支队伍成立之前，我们就是搭档了！
+action,action-4267599a-88ab-cac9-b276-9711808543bb,He can get things done and I figure out what things have to get done.,他负责把事情办成，我负责想清楚该办什么事。
+action,action-fbde41dd-386f-2a66-115e-f28c3ef17a0b,"Putting it simply, we work well together.",简单来说，我们配合得很好。
+option,choice-26888e36-448f-657b-1c88-ffe60926d5e6,Can you help me find out more about these coins?,你能帮我进一步调查这些硬币吗？
+action,action-d4017bd8-40cc-3b76-3cb4-6947e591c6d0,"I could help you, yes.
+That would require someone to go through the mine, which is closed at the moment.","帮你？可以。
+不过那得有人穿过矿井才行，而矿井眼下还封着。"
+action,action-4aa8a628-8e11-6c37-bc94-f7782e5753dc,I would need to investigate the texts in the ruins once again!,我得再去研究一遍遗迹里的文字！
+action,action-d7e22569-8f5e-1d4a-24cd-92123921ad5b,"You did prove yourself before and helped me out of my misery, so I am willing to help you.",你之前证明过自己，还把我从困境中救了出来，所以我愿意帮你。
+action,action-617ae823-3e2c-bc84-9dfe-20c61114d678,Take this key and open the mine.,拿上这把钥匙，去把矿井打开吧。
+option,choice-6fd2e7bd-01f1-b987-7372-2493aaf0d52a,See you there.,那里见。
+option,choice-41fe6eb7-2d85-289b-968b-1ff873961c99,I'll do some work of my own before I meet you there.,我先去办点自己的事，再去那里找你。
+action,action-9091b59b-237e-7631-21b5-438b22ba5932,See you!,回头见！
+action,action-6ec01a8d-e2a9-37fc-fc17-099d692d8a15,"Just don't take too long, alright?",别耽搁太久，行吗？
+action,action-2d03fb81-b217-3712-6a60-f982c5d143fc,See you later.,回头见。
+action,action-2c5b5e04-ecd4-b1f3-5c14-1630075cd805,"Of course!
+I don't have much, but It'll get you by.","当然！
+我的货不多，但够你应付日常了。"
+action,action-529d52f9-9c52-e326-d918-b5e67799893b,"Ah, so you seek to understand the arcane?
+Very well!","啊，你想探求奥术的奥秘？
+很好！"
+action,action-fde06734-e9b2-d742-0eab-ebbb305d8293,As you wish.,如你所愿。
+action,action-dee85e44-b1a0-9012-02c4-e4888babcc65,Wait a second!,等等！
+action,action-a057c0ae-5608-642c-691a-525291a7435c,Jens already repaired the bridge.,延斯已经把桥修好了。
+action,action-908a7ed6-156d-a8df-80f1-d355acf8319e,Use your feet and don't waste my time!,用你自己的腿走，别浪费我的时间！
+action,action-ebbcfbca-21e4-65a5-97d9-27d15c3e646c,Hold still for a second.,站着别动。
+action,action-31161598-a3e7-5699-8f3d-cb876d67b053,Now... is there anything you wanted to ask?,那么……你有什么想问的吗？
+option,choice-cf78e1ba-e66f-0a3a-126d-aad8e71acf6a,"Fire Mastery (min. 5 INT) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_fire_mastery_10"",""only_once_on_difficulty"": true}","火焰精通（需智力5）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_fire_mastery_10"",""only_once_on_difficulty"": true}"
+option,choice-286db7de-a55f-3dc3-2a4b-325e0fd6e1ac,"Ice Mastery (min. 5 INT) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_ice_mastery_10"",""only_once_on_difficulty"": true}","冰霜精通（需智力5）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_ice_mastery_10"",""only_once_on_difficulty"": true}"
+option,choice-02fbcd0c-5e7c-0012-d2ca-8dc2f51e5b45,"Mana Regeneration (min. 10 MAG) [3 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_mana_regeneration_1"",""only_once_on_difficulty"": true}","魔力回复（需魔力10）[3 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_mana_regeneration_1"",""only_once_on_difficulty"": true}"
+option,choice-d76188a9-c9a3-12d4-c533-6220d5c80c5e,Maybe later.,以后再说吧。
+action,action-9242252d-f49f-f1ea-6781-2d18f943de34,Alright.,好的。
+action,action-eb9934b8-bba7-c353-26ca-6c93123b082b,"Make sure, to not burn yourself, though.",不过可别烧着自己了。
+action,action-c59ae15d-1e4a-7b79-2aed-dc1881a04f58,"Other than fire, keeping ice controlled is the key.",与火焰不同，冰霜的关键在于保持掌控。
+action,action-e0c9a37f-4dee-7b9e-8576-1735ebb9ff56,Fire is chaotic in its nature. Try to avoid controlling it too much.,火焰天性混乱。尽量别过度控制它。
+action,action-25020533-59ec-3227-778d-7f6e9747d69c,Let it go free!,放任它自由燃烧吧！
+action,action-cbeeffc2-23cc-5b65-85f8-4ab79e489b8c,"That way, the ice will be more compressed and deal more damage in the end.",这样一来，冰霜会被压缩得更紧密，最终造成更大的伤害。
+action,action-6748b7c8-5d9d-47eb-994f-8890e9ae39ac,"Here, take this.
+A few coins is the least I can do for you.","来，拿着。
+这点钱不多，算是我的一点心意。"
+action,action-d6b878ee-2569-547e-1301-90195c29bc6b,The Pale Coins...,苍白硬币……
+action,action-bd9fef34-0d3f-d474-496b-f8d8b9467fd6,"Lets meet at the ruins later.
+I'll have to discuss something with Balder first.","稍后我们在遗迹见吧。
+我得先和巴尔德商量点事。"
+action,action-0ecf98a3-c946-89f4-dd3f-5d5e6f9921fd,The difference between a mage and an apprentice is the way they handle their mana.,法师与学徒的区别，在于他们运用魔力的方式。
+action,action-1c9bb93d-0c5e-e709-f9e8-c6bf89313211,"A true mage is able to pull energy out of the environment, which allows you to regenerate your mana on your own.",真正的法师能从周围环境中汲取能量，这样便能自行回复魔力。
+action,action-745ed91e-4e51-f1d8-ab59-f732798ef801,"You have to forgive me, but I must not talk to you until you pay your fine to Balder.",请你见谅，但在你向巴尔德付清罚金之前，我不能和你说话。
+action,action-dfa2d7fe-235c-70c8-e389-12b68187a3a1,"To be honest, potions have never been my strong suit.
+If you're looking for someone to brew your potions, try the Academy of Mages.","老实说，药水从来不是我的强项。
+如果你想找人调配药水，去魔法学院看看吧。"
+action,action-c1ebebee-0c07-3486-3708-e7f175fa75a6,"Leila might also be able to brew you a potion or two.
+She's been researching a lot of alchemy lately.","蕾拉说不定也能给你调配一两瓶药水。
+她最近一直在钻研炼金术。"
+option,choice-0feabd52-bb7d-e0a0-1c72-cab1150fcb9e,You mentioned an academy.,你提到了一座学院。
+option,choice-dbd39078-f0c1-6143-f708-134fb19a3240,Thank you! That's all I wanted to know.,谢谢！我想知道的就这些。
+action,action-a3789241-2720-4c16-d9b2-cd2dee33db76,Do you need anything else?,你还需要什么吗？
+action,action-1501bc2c-0416-b2e9-4cd5-d99d8512e0c0,The academy is located north of the capital. It is pretty much the only place in Grenmark where you can study magic properly.,学院位于王都以北。那差不多是格伦马克唯一能正经研习魔法的地方。
+action,action-0a63950e-7d99-444b-ddf9-79894cd1b49e,"If you're interested in magic, you should at least stop by.",如果你对魔法感兴趣，至少该去看看。
+action,action-86a17391-0a81-6cf1-4f50-773b61affb46,"Oh, you joined the academy?",哦，你加入学院了？
+action,action-b9bab114-dd78-180d-d14b-162c88f7011c,"Brings back memories!
+I spent ages there messing with spells and learning about the arts of magic before my time at the royal court.","真让人怀念！
+在进入王廷之前，我在那里待了很多年，摆弄法术，钻研魔法技艺。"

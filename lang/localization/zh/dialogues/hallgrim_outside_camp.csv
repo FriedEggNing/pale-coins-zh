@@ -1,0 +1,83 @@
+type,id,text,zh
+action,action-607a0438-229e-747b-902c-4bc6ff5ce8c8,*Hic*,*嗝*
+action,action-bb7aae35-afbd-60f4-e675-8d3db8b6f2ad,Aww man...,哎哟妈呀……
+action,action-f203de79-3b8d-4bdb-8d8c-b77a3cd67b3b,My head feels like it's goin' to explode any second now.,我这脑袋感觉随时都要炸开了。
+action,action-e0cc4feb-6292-90da-fd22-86faeb83c0cf,...,……
+action,action-e5ab77f1-7be8-70fc-e3a6-7908e40f5f8e,Hey you!,嘿，你！
+action,action-355acc0c-b1cf-c817-814e-aaadc3718c1a,Do you have sumthin' 'gainst this headache?,你有啥能治头疼的玩意儿吗？
+action,action-0609ea97-183f-388d-8cbf-d2e90390c42c,Maybe a beer?,比如来瓶啤酒？
+option,choice-9bc93e44-b7c4-8bc5-bfea-20c6147ca14d,"Here, have a beer.",给，来瓶啤酒。
+option,choice-9a0e34ba-4a86-f72c-0b1f-d508a4b356b0,Don't have any on me at the moment.,我身上现在没有。
+option,choice-9a0c62d5-54a6-a279-3477-75d2c5dd18b3,"Uh, are you sure about that?",呃，你确定要这样？
+action,action-7d6d2245-80d0-6a79-6b4b-f39e6acadf40,"Hell yeah, I am sure.",废话，当然确定。
+action,action-d841d2af-dda1-23cc-352b-1dc79f7a6f79,There's nothin' like a recovery beer after a long night drinkin'.,喝了一宿的酒，没啥比来瓶回魂酒更得劲的了。
+action,action-645ea4f6-1a3c-d2e3-ee43-c53315f63db9,Thank you buddy!,谢了伙计！
+action,action-1177e9b4-e732-c696-0744-7a7ee33b5d00,I owe you one!,我欠你个人情！
+action,action-f183e1a3-92a7-6eab-c5a3-4b037a6467b1,Too bad.,真可惜。
+option,choice-816f8074-7bbc-75f9-df0b-0ce7e65e8462,Who are you?,你是谁？
+option,choice-553537da-205a-b1d8-13bf-f7595383b83f,What are you doing here?,你在这儿干什么？
+option,choice-03f52c7b-fd41-e6e9-ec1d-addffb4d8743,Did you see Themir?,你见过塞米尔吗？
+option,choice-97b586bb-ec09-5145-c5bc-307c1b330a74,I found Danny. He is dead.,我找到丹尼了。他死了。
+option,choice-36e03109-c559-e336-6d61-79e651196e61,Where did Danny go?,丹尼去哪儿了？
+option,choice-59639b1b-c447-3cd5-04ac-79cefe0125b5,See you!,回见！
+action,action-4acd1e4e-fb3a-76ff-1163-d694e9bc4de0,I am #:Hallgrim:#.,我是#:哈尔格里姆:#。
+action,action-3d0072ca-b9e1-0ef1-4fad-f675cb9713c6,I usually work the forge in the camp.,我平时在营地里打铁。
+option,choice-f725dbc1-2060-83a3-3f17-a9dca8eded28,You're a smith?,你是铁匠？
+action,action-84eed77a-dd7a-9368-18aa-213958e0b728,Most of the time.,大部分时候是。
+action,action-1c2507b1-d02f-dd78-7e6c-3561ea9cd6cc,As long as I ain't hungover. Haha!,只要没宿醉就行。哈哈！
+action,action-f6114691-0262-c5ff-a811-8ba1efbb2749,At the moment? *hic*,现在吗？*嗝*
+action,action-10120f9b-dd6d-c185-45b8-9b557203137f,Sobering up.,醒酒呗。
+action,action-c6fb1fec-e095-74c1-6327-0f366640fdcd,"Balder's ain't fond of me drinkin', but that's his problem. *hic*",巴尔德不待见我喝酒，但那是他的事。*嗝*
+action,action-5d30c06f-369c-82dc-81aa-266d09716b8b,Speakin' 'bout bein' drunk.,说到喝醉这事儿。
+action,action-e0f2720c-1e11-db17-9815-03616cd3a236,Did you see #text.frames=4##text.color=highlight#Danny#text.default#?,你见过#text.frames=4##text.color=highlight#丹尼#text.default#吗？
+option,choice-126e3f93-2c8b-efde-0b34-798b4464541f,Who's Danny?,丹尼是谁？
+action,action-392f7741-8968-e575-fc44-1ebe6c3e4cb6,"Small fella', strange clothes, always drunk, maaagnificent mustache.",小个子，衣着古怪，成天醉醺醺，还留着一撮漂——亮的小胡子。
+action,action-659aad05-9222-9ad6-d0c9-b2b7cf6cd759,That's Danny.,那就是丹尼。
+option,choice-21b531b4-be24-8c18-a440-75497e291485,"Oh, he must be who I found then. He's… dead, I'm afraid.",哦，那我找到的肯定就是他了。他……恐怕已经死了。
+option,choice-f05a003d-4faa-a57e-7344-a30426466b62,I have not met him yet.,我还没碰到过他。
+action,action-2ddd593c-5490-9cdd-2fd6-c2cd75f9e6d2,Damn!,该死！
+action,action-fdd8edce-4dbf-2824-c8ad-8fa734cad604,"Yesterday, that drunkard left to get more booze.",昨天，那个酒鬼出去找酒喝了。
+action,action-428cec45-eed3-661b-ee70-6a2a4c87cd8d,He took my good hammer and went #text.frames=4##text.color=highlight#south#text.default#.,他拿走了我那把好锤子，往#text.frames=4##text.color=highlight#南边#text.default#去了。
+action,action-05ffaeb8-6674-7629-66fe-dc5462c51b4d,Mentioned sumthin' about a booze hideout of a wizard.,嘟囔了句什么巫师藏酒的窝点。
+action,action-3002d983-24f5-33c2-f0b1-04ba4da5b546,"Neither Danny, booze nor my hammer is here.",现在丹尼、酒、我的锤子，一样都没影儿。
+action,action-0fbc4743-cbd0-b00a-cae5-f3e489705a29,God...,老天……
+action,action-5cfcd824-cf18-a6d8-c056-91b0c9347da6,"If I weren't hungover, I'd be looking for him and beating his drunk ass.",要不是我还宿醉着，我早去找他，把他那醉醺醺的屁股揍开花了。
+action,action-8c90f84e-a7bc-0eb1-c5a3-acc55067ce48,"Could you look for him, lad?",小子，你能去找找他吗？
+option,choice-81817f60-f079-11c7-dc62-efe5ba412149,"Sure, I can look for Danny.",行，我可以去找丹尼。
+option,choice-bcec315c-cbf0-ecb1-5579-a3a2716a7a02,"I don't have time for that, right now.",我现在没时间管这个。
+action,action-54de453a-f983-7ecc-32d6-5ee66c92e63d,"Aw c'mon, lad. Shame then.",哎，别这样啊小子。那真可惜。
+action,action-19051ea2-ccfe-a0f6-fd66-9ab66e145331,"In case you find him, give him a beating he won't forget, haha!",要是碰到他，替我狠狠揍他一顿，让他一辈子忘不了，哈哈！
+action,action-1ebcd512-9216-705e-7758-9a5b6f640889,Where did you find him?,你在哪儿找到他的？
+action,action-d6fdf430-05ca-339d-e9f1-92530469d759,Wha? Wait. What?!,啥？等等。什么？！
+action,action-f6b6558b-fa70-adef-a53a-eb0a46e97409,Are you kiddin' me?!,你逗我呢？！
+option,choice-31adf6ba-cc34-8981-18b1-85d2f6cafeb3,He was dead when I found him. There was nothing I could do.,我找到他时他已经死了。我无能为力。
+action,action-a14994ca-073e-12ed-6e6b-9705963f49e1,"Danny, that old bastard.",丹尼，那个老混蛋。
+action,action-bf3806d8-8289-5da7-d8cb-93e54d8107d3,What the hell happened?,到底出什么事了？
+option,choice-57a4d2ad-bb0d-4edd-a7f0-1898cbe891a5,"In a cave, south of here.",在南边的一个洞穴里。
+action,action-bdb6de8c-d95a-7644-ba96-d45908732294,Shit...,妈的……
+action,action-9ea7535d-bb46-c95c-d99c-c5cd1e6377d5,I'll look for him later and give him a proper burial.,我回头去找他，好好把他安葬了。
+action,action-5d5e98db-ed75-a63b-a603-8be451c3e72c,By the way...,对了……
+action,action-eb4178bf-0863-beed-c2bf-9c0fa97d0169,Was there a hammer nearby?,附近有没有一把锤子？
+action,action-b0133dae-4f95-77c1-841b-c77dedc723df,Danny took it yesterday.,丹尼昨天把它拿走了。
+option,choice-e819742b-cd77-5b2d-00ce-a8431db24c75,Yes actually. Here you go.,还真有。给你。
+option,choice-f3d6cfeb-9b03-df67-6ece-ad438f8bfb81,"No, I didn’t see any hammer.",没有，我没看见什么锤子。
+action,action-eafcf00d-7410-7183-6137-8d26fe4facb5,Thanks lad. I really owe you one.,谢了小子。我真欠你一个人情。
+action,action-db18064e-840c-7407-9376-d05a27f12602,Ah shit.,啊，妈的。
+action,action-90f6c014-1226-1b86-1133-df8204a4b04b,"I'll look for it later, I guess. *hic*",那我回头自己找找吧。*嗝*
+action,action-53fa4f0f-92e6-0612-5fec-2ffc0af05f32,"It'd be better for me, to get my ass back into the camp.",我还是赶紧滚回营地比较好。
+action,action-c10173f7-939a-a328-534c-421958c2bd79,Balder's sure to be pissed already.,巴尔德八成已经气炸了。
+action,action-7be6ce8f-af50-fc96-dc8e-94b89506c6e4,"But first… *opens beer* …to you, Danny.",不过先……*打开啤酒*……敬你，丹尼。
+action,action-ac324a46-4cab-e38e-1774-5b69a9d9f74c,Our strange wizard?,我们那个怪巫师？
+action,action-cd513b53-347a-bdd7-1001-cd3a700c9653,He left the camp before I came here.,我来这儿之前他就离开营地了。
+action,action-a1d18ab6-67b9-d694-ac23-eb619ea9042e,Balder said that he is missin'.,巴尔德说他失踪了。
+action,action-44b78c36-d1ac-2242-024b-d869bd83d899,Imma be honest with ya.,跟你说句实话。
+action,action-0c39367a-092d-7c9d-7139-5d1cb8c7ad15,I never liked that ol' sparkle finger.,我从来就不喜欢那个老火花指头。
+action,action-e6f01d0c-21eb-2392-07ae-57f71d37a9fb,Maybe he went north to the bandits.,说不定他往北投强盗去了。
+action,action-19b3d29f-55a4-0d74-f05b-557704aaee93,Or even better...,或者更妙……
+action,action-7fd471b5-74a5-7062-3a3d-8379797837ed,"Maybe he went south and fell into a hole of the goblins, haha!",说不定他往南走，掉进哥布林的洞里了，哈哈！
+action,action-405d0cf5-9836-5816-92da-4be25eb9fc65,Sure thing!,没问题！
+action,action-b7101bd8-b1f6-a65d-5f97-8f8fa9d8dcb3,"Be sure to meet me in the camp later, lad. I'll have something for you.",回头记得来营地找我，小子。我有东西给你。
+action,action-9429fb19-78d3-3e76-1b0d-74558ee21368,...,……
+action,action-b3b8897f-d7c3-3811-44df-b0ecba780221,"Thanks for telling me, lad.",谢谢你告诉我，小子。
+action,action-0cd95080-0106-72a9-c2b0-d2159659a1ac,"You'll get compensated of course, haha!",当然少不了你的报酬，哈哈！
+action,action-d6ab61c5-5666-8f23-e069-e1e20e21d682,He went south of here.,他往南边去了。

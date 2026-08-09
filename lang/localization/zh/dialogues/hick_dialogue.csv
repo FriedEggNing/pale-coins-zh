@@ -1,0 +1,115 @@
+type,id,text,zh
+action,action-5158a703-1a17-0620-fdf4-716d7bc2158d,"Hey, what's up?",嘿，有什么事？
+option,choice-d3c5d0f2-0789-ab1f-fce5-0f215706dbdc,Advisor Edmon told me to get my equipment.,顾问埃德蒙让我来领装备。
+option,choice-57d9a77c-1a1b-54ac-1f2c-f88ebfaf1b50,Who are you?,你是谁？
+option,choice-c18b9377-1fed-3b1d-9db4-5b1b9e8574c6,Show me your wares.,让我看看你的货。
+option,choice-40f983bc-7a4c-a56a-2b64-9b137d2fc596,What do you know about this key?,你了解这把钥匙吗？
+option,choice-8093a6d8-7f69-c0cd-6b64-192e58ebd514,Marvin dealt with fake wine.,马文在倒卖假酒。
+option,choice-258b28e6-d55e-d919-f9b5-7d7faa1080f5,What can you tell me about the bandits?,关于那些强盗，你知道些什么？
+option,choice-a3303eb0-c3b4-2272-f216-5c304401543f,I found this bag of the raider chief.,我找到了掠夺者首领的这个袋子。
+option,choice-8e265b1c-2531-04c5-86e9-bfed57c2a385,What do you know about this list? (Cedric's Customer List),你了解这份名单吗？（塞德里克的客户名单）
+option,choice-bbe28592-2e0c-fbd2-0678-f0bd0e63f24c,Cedric's list of customers was stolen by the Guard.,塞德里克的客户名单是被卫队的人偷的。
+option,choice-f7d3aae4-2e86-4d48-ac1e-cf03f12aee0e,I want to train.,我想接受训练。
+option,choice-2238db7b-c222-9320-3f94-7d4d400a7b23,See you!,回头见！
+action,action-76bf0f69-cc4c-63e3-e55c-81c3674df710,"Sure!
+I already received a notice about a new one.","没问题！
+我已经接到通知，说要来个新人了。"
+action,action-b99637be-4c4a-c647-b1d2-880ce0d6c1cd,Take this armor of a Royal Guard and be proud of it.,拿好这套皇家卫队的护甲，好好珍惜这份荣耀。
+action,action-353caef8-45ab-ca3d-ea51-6c65b3d4131c,"If you are in need of a new weapon, speak to Kolfinn, the smith here in the capital.",要是你需要新武器，就去找科尔芬，他是王都这里的铁匠。
+action,action-71d991ba-7cc8-a8af-f7b4-baaa2f2db94d,"I am #:Hick:#, the quartermaster of the Royal Guards.",我是#:希克:#，皇家卫队的军需官。
+action,action-199b8ccc-065f-43b9-11d5-4031953f200f,Let me see.,让我看看。
+action,action-e48a83cc-50f6-85bd-99b2-6a07e667f9ad,...,……
+action,action-51efac47-3b04-a936-023c-6fa84cb9846e,"Where did you get that key from?
+This is the key to the basement of our barracks.","你从哪儿弄来的这把钥匙？
+这是我们兵营地下室的钥匙。"
+action,action-2fd89146-6632-972a-da30-45be4234bd72,"Usually, it's only given to the quartermaster or royal guards who need to regularly check the #:king's crypt:#.",通常只有军需官，或是需要定期查看#:王室墓穴:#的皇家卫兵才能拿到它。
+action,action-13aa8c19-48b1-74a9-d145-414e79155bb1,"I should confiscate this key, but I will turn a blind eye this time.",按理我该没收这把钥匙，但这次我就睁一只眼闭一只眼吧。
+action,action-3dbdd0e0-3f6f-8425-d4c4-a53065fd89bf,For the king!,为了国王！
+action,action-b27911cc-15bd-16ee-e9b9-d9d6f6c0c3cf,"He did what?!
+Is he out of mind?","他干了什么？！
+他疯了吗？"
+action,action-c95fae0e-1dde-4069-4b35-48983055346d,"He was in charge of the latest deliveries for Baron Frestek.
+This certainly won't reflect well on our relationship with the Baron.","弗雷斯泰克男爵最近几批货都是他负责送的。
+这下我们和男爵的关系肯定要受影响了。"
+action,action-322343ed-175f-9782-b0d6-45757cca214c,"Holy crap!
+How do I explain this to my boss?","见鬼！
+我该怎么跟上头交代？"
+action,action-30b0320c-fb5f-bf8a-1cf1-f4fa37c25880,I know very little about the bandits themselves. I'm actually only here in the barracks and never outside the city gate.,强盗本身的事我知道得很少。我其实一直待在兵营里，从没出过城门。
+action,action-14600975-6db8-0e2d-d211-f82bf9825659,Everything I know comes from the guards when they bring me the bandits' junk.,我知道的一切都来自卫兵们——他们会把强盗的破烂玩意儿送来给我。
+option,choice-122edfca-90cd-7909-d641-61f5193c42ed,What do the guards bring you?,卫兵们都给你送些什么？
+action,action-77037352-8c84-10fe-52b6-7eb50bec2baf,"Mostly junk like rings or amulets.
+Sometimes there are notes or documents among them that I'm supposed to bring to the king immediately.","大多是戒指、护符之类的破烂。
+有时里面会夹着字条或文件，那些我得立刻呈给国王。"
+option,choice-71ea4143-ae3f-9666-0cb0-4c7b789f7732,Why should you bring the documents to the king?,为什么要把文件呈给国王？
+action,action-aa569541-9e73-3d1a-303a-5ec6edbd87c8,I'm not sure. I think he's probably trying to find out information about the bandits.,我说不准。我猜他大概是想打探强盗的情报。
+action,action-799268b4-cb95-8633-7e39-0031130ca5da,But that is only a guess.,不过这只是猜测。
+action,action-76b57e2e-7d47-7236-98a2-4730ecd94f80,"This key leads to the basement of the barracks.
+From there, you can access the #:Royal Crypt:# if you have work downstairs.","这把钥匙通往兵营的地下室。
+要是你在下面有差事，可以从那里进入#:王室墓穴:#。"
+action,action-cd40d685-2119-323c-4b4b-470178fc177b,"From the raider chief?
+Let me take a look.","掠夺者首领的？
+让我看看。"
+action,action-524c581a-e065-3cd8-8cab-8b963e3b288a,...,……
+action,action-2470078b-ffe4-cbff-2c79-fcf6895d022b,"Hmm... A few rings, gems, a rusty dagger...",唔……几枚戒指、几颗宝石、一把生锈的匕首……
+action,action-2911956b-256d-5b21-f1b5-73196e83b721,...,……
+action,action-3be06b78-e1fe-0f38-043a-d3569980dc53,"What is that?
+It looks like a scroll.","那是什么？
+看着像一卷卷轴。"
+action,action-463ce2a7-9b95-ab90-f12c-d41d0b3f72ce,"Surely, the king wants to see that.",国王肯定想看看这个。
+action,action-f93a12c4-4320-4e09-3c27-70ec89d57e55,"Thank you!
+That was a good find.","谢谢你！
+这可是个好收获。"
+action,action-ed8567db-b9ad-22f4-d588-d550f6d68d9e,Here's your reward.,这是你的报酬。
+action,action-f458e0f5-46c1-8ac6-a82c-f6a0db468f2a,I've got a decent handle on spears and rapiers.,长矛和刺剑我都使得不错。
+action,action-60f0ab9d-2de9-30ca-9a4b-53c485db44c3,"But as long as you're not one of us, I'm not allowed to teach you anything.",但只要你还不是我们的人，我就不能教你任何东西。
+action,action-c4294ea4-77f6-6e7c-002d-cef2462e0210,"So, what do you want to train with?",那么，你想练什么？
+option,choice-a35de260-b1c8-e64e-5f4e-1192107add7c,"Spear weapon training (min. 5 STR, min. 3 DEX) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_spear_weapon_training_10"",""only_once_on_difficulty"": true}","长矛武器训练（需力量5、敏捷3）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_spear_weapon_training_10"",""only_once_on_difficulty"": true}"
+option,choice-4cf696f1-3650-38be-8dcf-5fe50434d90e,"Rapier weapon training (min. 8 DEX) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_rapier_weapon_training_10"",""only_once_on_difficulty"": true}","刺剑武器训练（需敏捷8）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_rapier_weapon_training_10"",""only_once_on_difficulty"": true}"
+option,choice-abdb81ad-786c-d2ec-5ea8-7bd49c603184,Maybe later.,以后再说吧。
+action,action-aaa1d7bf-f456-8d94-b1ab-28eec756e8ce,"As guards, we must know how to fight.",身为卫兵，我们必须懂得战斗。
+action,action-bb31b41f-afb8-03a3-4f2b-12a581744fa0,A spear isn't just a pointed stick. Think of it more as an extension of your arm.,长矛可不只是根带尖的棍子。把它当作你手臂的延伸。
+action,action-cb219d91-dadf-9049-c62c-49b4edf645da,"Keep your enemies at a distance. If they get too close, you're in for a bad time.",让敌人保持距离。一旦他们贴得太近，你就有苦头吃了。
+action,action-b3373b67-289a-9c86-0a57-a2ccbcfa2ed0,"Rapiers and daggers give you speed and flexibility. Most of the time, a quick dodge will get you out of tight situations.",刺剑和匕首能给你速度与灵活。大多数时候，一个快速闪避就能让你脱离险境。
+action,action-0d985c12-e6e9-e568-11e7-93d5f0d59e53,"They won't stagger your foes, but overwhelm them with relentless and precise thrusts.",它们虽打不出让敌人踉跄的重击，却能用绵密而精准的刺击压垮对手。
+action,action-c738a20c-c7e0-bcea-6424-fc10abd90a2a,"Alternatively, I can sell you a few things, too.",另外，我也可以卖你一些东西。
+action,action-9c15bdc5-2daa-c08c-ca6e-d2eb9515e683,Sure! Here's everything you'll need.,没问题！你需要的都在这儿了。
+action,action-93cd64ad-04fa-0d2a-5bad-0a852601a951,"A list?
+Let me see...","名单？
+让我看看……"
+action,action-a51923c1-e40f-b496-b981-e62894f77fba,...,……
+action,action-86d4388b-5c26-6c1b-64f0-c779b60b0ab3,"Where did you find the list?
+Cedric, a mage of the academy, will not approve of you walking around with this list of customers.","你在哪儿找到这份名单的？
+学院的法师塞德里克可不会乐意看到你拿着他的客户名单到处走。"
+action,action-4b1c8195-09ec-1b6b-23be-80dc59c1cdd4,"What?!
+Return it to the academy immediately. It must have been misplaced during one of the recent deliveries.","什么？！
+赶紧把它还给学院。肯定是最近某次送货时弄丢的。"
+option,choice-e6a38410-67b6-719d-885e-a7c115e3fae8,I found it here in the cellar.,我就是在这儿的地窖里找到的。
+action,action-e7fa64e7-868f-e32b-a75d-cf72e9f2cd82,"Here you have it back.
+I hope this incident won't affect the next wine deliveries.","这个还你。
+希望这件事不会影响接下来的葡萄酒配送。"
+action,action-8045c471-c6d9-cc5c-bbea-f383dcd8b101,"The list was stolen?
+By a royal guard?!","名单是被偷的？
+还是被皇家卫兵偷的？！"
+action,action-e6794137-fd70-4bb8-3931-4bd6caf9b933,Those are serious accusations!,这些指控可不轻！
+action,action-7f8ec632-7cdf-3e09-94ab-6ef779d791bc,"Still, it would explain why the list ended up in the barracks cellar.",不过，这倒能解释名单为何会出现在兵营的地窖里。
+action,action-673663ae-69a8-991f-e492-6b5c6090a005,...,……
+action,action-2e5d60a1-e875-b6a2-41cc-4f53db32f0c5,"Hold on!
+Marvin was responsible for Baron Frestek's last wine deliveries.","等等！
+弗雷斯泰克男爵最近几批酒就是马文负责送的。"
+action,action-8de8de3f-b86f-ad43-0389-9c307e8d1a6e,"That worthless little...
+Speak with him! You'll usually find him hanging around outside the barracks.","这个没出息的小……
+去找他谈谈！他通常就在兵营外面晃悠。"
+action,action-9f5d20c2-6bf9-4a78-5eca-644b06c3aa22,What makes you think the Royal Guard is involved?,你凭什么认为皇家卫队牵涉其中？
+action,action-5fb9d907-de4a-51ed-45c2-3d6b98542298,What?! I can't believe that!,什么？！我不敢相信！
+option,choice-00da72cf-2209-ab68-b8a9-d0e2567886af,I found it here in the cellar.,我就是在这儿的地窖里找到的。
+option,choice-1d89adcc-f3c4-4dbe-e25c-4b8ee56a1e1c,The list is probably related to the fake wine.,这份名单多半和假酒有关。
+action,action-3eb427f7-9877-8d20-0c19-0f11ab77cb46,"What?!
+What are you talking about?","什么？！
+你在说什么？"
+action,action-a0e296d1-780d-009f-0eb5-cb0bae98c726,Do you think a member of the Guard stole the list?,你认为是卫队的人偷了名单？
+option,choice-2bf300b6-abf8-e296-eb90-706f0b52c317,The mages think the forger has the list.,法师们认为名单在造假者手里。
+option,choice-b96ea753-85f8-c2cb-76f9-4cfdf22e208b,No.,不。
+action,action-985bff56-6d1f-9a61-8e1d-4b3783b2122c,"Good. Return the list now, so you don't cause yourself any trouble.",那就好。现在把名单还回去，免得给自己惹麻烦。
+action,action-27554e59-fbc6-f990-6435-556126285c4c,"Shit!
+So that makes us the prime suspects.","该死！
+这么一来我们就成了头号嫌犯。"

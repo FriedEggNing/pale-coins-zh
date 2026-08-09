@@ -1,0 +1,90 @@
+type,id,text,zh
+action,action-8d4091a0-bf17-1576-6e23-fcdae074039d,"Oh, hello!
+May I help you?","哦，你好！
+有什么可以帮你的吗？"
+option,choice-23cfde94-9390-f660-18d8-5482deff8f38,Do you trade knowledge?,你这里能交换知识吗？
+option,choice-41ad9d1a-a7eb-a008-d4b1-7fc681dcaef0,The Arcanum Sanguis has been stolen.,血之秘典被偷了。
+option,choice-a5fa60d2-f3e6-e280-9180-54561d2ba9ba,Where do the books come from?,这些书是从哪里来的？
+option,choice-f82b03cd-540e-54e7-5037-fd9eece1d6e5,What do you do?,你是做什么的？
+option,choice-eb84379e-dbda-ebfd-4a18-a47eba8db367,Can you decipher this tome I found?,你能破译我找到的这本典籍吗？
+option,choice-05f35ca7-4303-883a-c488-72b67dcdf849,Take this tome for your studies.,这本典籍你拿去研究吧。
+option,choice-97663bac-4ef6-4016-c03d-afff17f3d9d4,Have you found out anything yet?,你有什么发现了吗？
+option,choice-b072287f-3e2a-f4c1-272b-f2cb4bf0ddc0,Have you found out anything yet?,你有什么发现了吗？
+option,choice-e1fe50d1-8887-986d-ffcb-d2c8f70fbdcc,Were you able to decipher the tome?,你破译出那本典籍了吗？
+option,choice-88a05b60-cbf3-c54c-f919-cf5de22c2008,Were you able to decipher the tome?,你破译出那本典籍了吗？
+option,choice-eab581a6-5ae2-783c-fca4-f91b9bb1e5ba,Did you find out what's written in the tome?,你弄清楚典籍里写的是什么了吗？
+option,choice-3c37948f-4b47-727d-e459-c1b2e65a2b37,See you.,回头见。
+action,action-bdb0e6a3-62e1-ad68-e835-9203d245011c,These volumes are unlike any others you’ll find.,这些藏书与你在别处所见的截然不同。
+action,action-7894ff36-947c-6233-ab3c-01319b589c10,The works were collected by our brothers here at the Academy from all over the world.,这些著作是学院的同门从世界各地搜集而来的。
+action,action-8c459db8-64a6-755a-1717-d438452a638d,"Some of these works, however, originate from the pens of our own magicians.",不过，其中一些著作出自我们自己的法师笔下。
+action,action-5880cbdb-be9e-3406-7857-d122885d3d54,"Many of us specialize in a particular domain, which we study with dedication. The results of our studies are usually preserved in written form.",我们许多人都专精于某个特定的领域，潜心钻研。研究的成果通常会以文字的形式保存下来。
+action,action-eff38cc5-27c6-64c6-81bf-837280139cd0,I am the keeper of knowledge here at the Academy.,我是学院的知识守护者。
+action,action-2c1a9029-6fe1-aa06-7982-ec9c5046f1f5,My duty is to catalog the various works here and ensure their preservation.,我的职责是为馆中的各类著作编目，并确保它们妥善保存。
+action,action-6e8fdb68-ba90-b653-fdd1-85e741e3d737,"I also study old, long-destroyed writings that are scattered throughout the world and try to restore them.",我还研究散落于世界各地、久已损毁的古老文献，并设法将其修复。
+action,action-faef06de-e087-8fc0-1a41-e32d44c08c2b,"The magicians often find #:torn pages:#, which they bring me in exchange for spellbooks or other works.",法师们时常会找到#:残页:#，他们会把残页带来给我，换取法术书或其他著作。
+action,action-ac354a55-9873-30b4-39a9-03d256f3314c,I am well aware of that.,这件事我很清楚。
+action,action-9870d6c5-2fcd-e02b-30cb-d8cf7b89e37a,"Unfortunately, we do not know who stole this dangerous work or what the thief intends to do with it.",遗憾的是，我们不知道是谁偷走了这部危险的著作，也不知道窃贼打算用它做什么。
+option,choice-4b87cdb0-77e5-9c26-c118-b4960948b02f,What is the book about?,那本书讲的是什么？
+option,choice-bd422331-2b03-f0ea-607b-d0493ab54825,That's all.,就这些。
+action,action-cbf4059e-df90-21a4-3e9e-5c9091cb8b02,"If you have any information regarding the book's whereabouts, please speak to Warak.",如果你有任何关于那本书下落的消息，请告诉瓦拉克。
+action,action-5a93e81e-d209-bf7a-8224-ffa79d4eb656,Take care!,保重！
+action,action-78baf1a2-2da3-d846-9882-e2746a4f0793,The Arcanum Sanguis is about other worlds and dangerous rituals.,血之秘典讲述的是其他世界与危险的仪式。
+action,action-866fd552-dc90-61dd-6c16-06f6a9437ffe,"However, I am not allowed to tell you any more details about it.",不过，更多的细节我无权告诉你。
+action,action-b0251453-23cf-11a7-7e74-38dfd2ee1f05,"A tome?
+Let me see.","一本典籍？
+让我看看。"
+action,action-19c215ef-6072-7826-1223-e23fa8a6910e,...,……
+action,action-2ae6f7b5-d0bb-2cb7-7a2d-e646b3858ddf,"An astonishing work!
+Even though I can't say how old the tome is, it's obvious that it defies time.","一部惊人的著作！
+虽然我说不出这本典籍的年代，但它显然经受住了时间的考验。"
+action,action-3b2f4ce1-b594-eabd-9c60-b3a894241806,"The pages themselves are largely intact, as is the thread binding that holds them together. However, we should still handle the tome with care.",书页本身大体完好，装订书页的线绳也是如此。不过，我们仍应小心对待这本典籍。
+action,action-4ee8659f-485c-cb60-3b07-ba21afdcb6bc,"This writing is strange, though. I've never seen symbols like this before.",只是这上面的文字很奇怪。我从未见过这样的符号。
+action,action-778317a4-a2ed-f904-f534-dcf7f8680693,Where did you find this tome?,你是在哪里找到这本典籍的？
+option,choice-d87935f1-7019-c79e-5745-2da10eecdd65,Inside ruins near the capital.,在王都附近的遗迹里。
+action,action-05117498-743b-74a7-a792-5bebafd66ff3,"Interesting.
+This means that the ruins are far older than we first thought.","有意思。
+这说明那处遗迹远比我们最初以为的古老。"
+action,action-a12bbc48-daff-5ff5-00f0-4b1259961271,"If you don't mind, I'd like to keep this tome and study it.
+Maybe, I'll be able to decipher the text and its secrets.","如果你不介意，我想留下这本典籍加以研究。
+或许，我能破译出其中的文字和它隐藏的秘密。"
+action,action-5ed17be0-8303-4875-05cb-5cc35d82da34,"Great!
+Come back later when I have checked it more thoroughly.","太好了！
+等我仔细检查过后，你再回来吧。"
+option,choice-0d2920b5-d0cb-b9a6-b2b6-371d880c15e8,Sounds good. Keep the tome.,听起来不错。典籍就交给你了。
+option,choice-16653b74-b128-d9a9-f263-4939b5161d95,I still need the tome.,我还需要这本典籍。
+action,action-08af350d-d1d0-da93-25e7-20f7604c3e8e,"Alright.
+You'll find me here if you change your mind.","好吧。
+改变主意的话，随时来这里找我。"
+action,action-7b7a5a61-a644-9902-99b6-6ecd1c815c97,Hmm... not yet.,唔……还没有。
+action,action-f65cf387-8410-1f95-675b-3175c01ffea3,"Well, I've been able to identify similar patterns, but haven't found any concrete meaning behind them yet.",嗯，我已经辨认出一些相似的规律，但还没有找到它们背后的确切含义。
+action,action-17ea64c2-1b9d-65b0-8ee3-429533aca2a8,"It seems I need knowledge of a language somewhere between that of the tome and our own.
+A kind of linguistic link.","看来我需要一门介于典籍文字与我们语言之间的语言知识。
+一种语言上的桥梁。"
+option,choice-2113f0d3-84a0-f2cb-541c-03249b8dbe34,How about this book? (Give the mysterious book),这本书怎么样？（交出神秘之书）
+option,choice-0a0ae673-2971-d5ac-25a6-5d791fa5a12c,"If I find anything, I'll bring it to you.",如果我找到什么，就给你带来。
+action,action-281a7192-e1d9-a23a-23a8-8e66a112525b,What's this?,这是什么？
+action,action-e960db79-bcad-c301-fece-c0f3a4e86716,"Certainly!
+That would be a great help to us!","当然！
+那可帮了我们大忙！"
+action,action-06ccb98b-f9fb-64f3-0684-b9cbd063539b,...,……
+action,action-fe082e77-4b88-8015-bf93-b2e17bb04613,"That could be it!
+I need to borrow the book for a while.","也许就是它！
+这本书我得借用一段时间。"
+action,action-ad9f0e42-0117-92de-4663-96c05d3b675f,Come back later!,过些时候再来吧！
+action,action-a0c34d3e-3fd5-8b87-5b45-8d434edc814f,"Yes, the book actually served as a linguistic link and made it possible to decipher this forgotten language from the tome.",是的，那本书确实起到了语言桥梁的作用，让我们得以破译典籍中这门被遗忘的语言。
+action,action-a0447d4d-6dbc-a9ab-543a-535b02be8d31,Here is your book.,这是你的书。
+action,action-c7ab2e7b-a4b8-6aba-52bd-1f9adc513f15,"If you'd like, I can lend you my notes, which you can also use to decipher the forgotten language.
+However, I do have a favor to ask of you.","如果你愿意，我可以把我的笔记借给你，你也可以用它来破译那门被遗忘的语言。
+不过，我有件事想拜托你。"
+option,choice-316cfcd1-bd9f-508e-d39d-3764a07fcd84,What do you want?,你想要什么？
+option,choice-ccfc67fe-ef76-97d8-178a-438a21f9a75f,I'll take the notes.,我收下笔记。
+action,action-b547c63e-7951-7a3c-b674-a562e896218b,"Take my notes back to where you took the tome.
+If you find any more of these texts, I will reward you accordingly.","带上我的笔记，回到你取得典籍的地方去。
+如果你能找到更多这样的文本，我会给你相应的报酬。"
+action,action-3c8f6691-9f5b-bbed-4768-2676f265481c,Take them.,拿去吧。
+action,action-7f2dc70f-b284-744d-8650-1ebb368d3bf7,I was able to translate most of what was written in the tome.,典籍里写的内容，我大部分都翻译出来了。
+action,action-accbc480-52af-a102-71f7-46a201a0a0dc,"The text describes a city called #:Varethraen:# on a large continent, protected by several watchtowers.
+Each tower carried a bell. Presumably for communication or defense.","文中描述了一座名为#:瓦雷斯兰:#的城市，坐落在一片广袤的大陆上，由数座瞭望塔守护。
+每座塔上都悬有一口钟。想必是用于通讯或防御。"
+action,action-a1d0951e-098f-ec13-d182-cee9b5ddfc7f,"One of the towers was special. It led directly to a sanctuary in the heart of the city. The access was locked and required four keys, which were entrusted to the bell keepers.",其中一座塔与众不同。它直通城市中心的一处圣所。入口被封锁着，需要四把钥匙才能打开，而钥匙分别托付给了各位守钟人。
+action,action-26395786-2c0b-dc16-a584-37562a8a4826,"From what I've read, each tower was assigned a bell keeper. It stands to reason that this tome belonged to one of these keepers.",据我所读，每座塔都配有一位守钟人。可以推断，这本典籍正是其中一位守钟人的遗物。

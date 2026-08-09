@@ -1,0 +1,11 @@
+type,id,text,zh
+action,action-58cb461e-085c-5299-ed79-d53d34c20e74,"Stop!
+Do you really want to go this way?","站住！
+你真的要走这条路吗？"
+action,action-bcc025d5-479e-297f-099a-d64a30605858,Move on!,走吧！
+action,action-d5362514-ab12-420b-e0d9-34b07f1190b3,Following the road you will only find death.,沿这条路走下去，你只会找到死亡。
+action,action-74d264ac-007f-c8cb-c9f1-eacdaed2c900,...,……
+option,choice-8d6dde1a-5bc5-63b2-d757-379798be7b74,...,……
+action,action-989f5fda-9025-5d63-fcbb-f93706cab735,"Just kidding, haha!
+The cemetery is over there.","开个玩笑，哈哈！
+墓地就在那边。"

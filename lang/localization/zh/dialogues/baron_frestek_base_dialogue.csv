@@ -1,0 +1,112 @@
+type,id,text,zh
+action,action-f52a51c1-5aaf-0d35-4b6b-9220ff353521,"Good man, you must excuse my state of mind today.",这位朋友，还请原谅我今日的心绪不佳。
+action,action-ef57730b-466c-6b09-1483-999386dc4d3a,"Ahh. The adventurer, right?",啊，是那位冒险者，对吧？
+action,action-86d4d303-f03a-86f2-a8e9-73cff582814d,I just had a #:valuable:# conversation with our king and I am always surprised at how much incompetence can lurk beneath a crown.,我刚与我们的国王进行了一场#:有价值:#的谈话——王冠之下竟能藏着如此多的无能，每每令我惊讶。
+action,action-83ad2713-8d08-0d5a-9f5c-2022ca2d51f2,I beg your pardon. Where are my manners?,请恕我失礼。瞧我这规矩都到哪儿去了？
+action,action-9d860be8-f897-6b89-5312-0feb58206c5b,Allow me to introduce myself. I am Baron Frestek.,请容我自我介绍。我是弗雷斯泰克男爵。
+option,choice-bda07557-c902-9826-81e0-cd125a3a752a,What did you discuss with the king?,你和国王谈了什么？
+option,choice-6b64ba3d-adc8-275d-a343-e36e90f80189,Where are you from?,你从哪儿来？
+option,choice-2bbfea38-2ceb-09bc-8206-3e5e61a043eb,What are you going to do?,你打算怎么做？
+option,choice-5f6c1181-fd0c-cf38-ff39-e8cefff7b62a,Do you know anything about the bandits around here?,你了解这一带的强盗吗？
+option,choice-5ef1bc10-70fa-23fc-d24e-6afe76a72033,Are you in charge of the tavern's wine?,酒馆的葡萄酒是你负责的吗？
+option,choice-8dc7b520-a61a-5bce-c93f-34bf1188566e,Your Regis Vitae wine is a fake.,你那瓶“王命之典”葡萄酒是假货。
+option,choice-acfca663-e1f0-ef78-9328-6a0c7768954a,I took care of Marvin.,我解决了马文。
+option,choice-5f510ccc-8938-f6eb-365a-9c86c1d1e9f7,I am on my way.,我这就去。
+action,action-c6435e4b-275f-0eee-5b23-5a35b2bab396,"Oh, stop talking about the 'king'.
+There's nothing else sitting on the throne but a fool.","哦，别再提什么“国王”了。
+王座上坐着的不过是个蠢货罢了。"
+action,action-c3c10056-d144-4c67-a25d-ccb38b476fdc,"I come from Erstadt, a town south of here.",我来自埃尔施塔特，南边的一座城镇。
+action,action-be0c4a3c-4cd0-4418-b98e-80512a6780b1,My business took me to this capital a few years ago.,几年前，生意把我带到了这座王都。
+action,action-7d40f333-f24a-9e4b-b72b-fb0466855350,This was before the trade route between Erstadt and the capital of Grenmark was invaded by monsters and other abominations.,那还是在埃尔施塔特与格伦马克王都之间的商路被怪物和各种邪物侵占之前。
+action,action-4de5630d-48d5-2952-894d-9c8a65d3b5a1,This... #:king:# ... lets his soldiers die down at the border of the trade route and refuses to take the initiative.,这位……#:国王:#……任由他的士兵死在商路边境，却拒绝主动出击。
+action,action-9355f623-3d77-eb14-f3ce-17afd0290639,"It won't be long before the hordes break through.
+That would be the end of this city as well.","用不了多久，怪物大军就会突破防线。
+到那时，这座城也就完了。"
+action,action-16a6ae6e-1da7-bae8-7353-36e676308e7f,I for my part will no longer stand by and watch the situation until the king comes to his senses.,至于我，我可不会再袖手旁观，干等着国王恢复理智。
+action,action-a65f6e06-eace-952f-06a2-40d297b97b58,Very well.,很好。
+action,action-308fdce0-73aa-ba63-c824-ff64d90033d2,With some good mercenaries and strategic attacks we will weaken the enemy.,靠一批精锐佣兵和有针对性的进攻，我们就能削弱敌人。
+action,action-de80e1e8-2f40-30e2-97eb-8b037ae44dfe,"Every army has its #:leaders:#. If they are no longer there, the attacks on our soldiers will certainly decrease.",每支军队都有自己的#:首领:#。一旦他们不在了，对我方士兵的袭击必然会减少。
+action,action-6c360b5c-597c-544b-a6cd-9a1ee0109170,We must use this break to regroup and attack the enemy with everything we have.,我们必须趁这个间隙重整旗鼓，倾尽全力向敌人发起进攻。
+action,action-af18cc71-ca5f-fe77-1587-b9030b39ea67,"Unlike the king, I am sure that this will allow us to secure the route between the capital and Erstadt.",与国王不同，我确信这样就能保住王都与埃尔施塔特之间的商路。
+action,action-2ad6f630-83bb-db9e-ceb0-ba23bf0845b4,"Yes, of course, my good sir!",是的，当然，我的好先生！
+action,action-a7cea873-260a-c0cb-5936-3ddf28384423,"Frankly, there isn't much choice here.
+Although the Academy never mentions it openly, they enjoy a kind of monopoly.","坦白说，这里没什么可选的。
+虽然学院从不公开提起，但他们享有某种垄断地位。"
+action,action-b0ea5425-a3d1-1733-b415-a508adbea5bf,"More or less, we merchants are forced to buy the wine from the academy.",我们这些商人多多少少是被迫从学院买酒的。
+option,choice-e6439464-0c5d-4b92-1e0b-c7b5e3a22150,You don't sound very enthusiastic about the academy.,听起来你对学院不怎么热心。
+option,choice-58b54f2a-2f3a-a093-5862-13434e012ce3,Would you also buy wines from other farmers?,你也会从别的农户那里买酒吗？
+option,choice-5acc6453-b118-fc15-5d01-cd62344274d6,Do you buy your wine directly from the academy?,你的酒是直接从学院买的吗？
+action,action-9b668b59-62ce-2c03-782e-3e26917ea70e,"I would be very reluctant to entrust the wine selection to someone who, at best, can distinguish between a red and a white wine.",要把选酒的事交给一个顶多能分清红酒和白酒的人，我可是一百个不愿意。
+action,action-d47b9bf1-cf01-9321-2f25-d81d86bd6e19,"Well, it's a pity that there is no healthy competition here.",唉，这里没有良性竞争，实在可惜。
+action,action-870a8bbb-ea70-2172-7f7a-2b729e14b84c,"However, I must mention that the Academy's wine is fantastic. Almost perfect for my taste.",不过我必须说，学院的酒确实出色。就我的品味而言近乎完美。
+action,action-3f91e9c0-e0a9-2b39-5265-0fa9abd0db78,"Any competitor would have to reach this level of quality first.
+I understand that winemaking would only be of limited appeal to a potential competitor.","任何竞争者都得先达到这个品质水准。
+我也理解，酿酒这行对潜在的竞争者来说吸引力有限。"
+action,action-69a64335-80f8-35e3-04f1-1758eac3858e,"Without hesitation!
+It should be noted that I only include wines in my inventory that I drink myself.","毫不犹豫！
+不过要说明，只有我自己肯喝的酒，我才会纳入货单。"
+action,action-f0c5f63a-3bb5-6adb-77e8-9e0bd074d8fb,"However, apart from the academy, I don't know any other winemakers.
+So the question is irrelevant.","然而，除了学院，我不认识别的酿酒师。
+所以这个问题没有意义。"
+action,action-97e32be3-1ffd-24bf-cf3b-05f1f66ff8ec,"Well, of course!",那是当然！
+action,action-d59ce880-af49-0d21-6a60-aca49ab08bbe,I regularly organize wine deliveries from the academy.,我定期安排从学院运酒过来。
+action,action-d5875edd-baf1-36ca-12b2-be86d41579c4,"Ha ha!
+What a joke.","哈哈！
+真是个笑话。"
+action,action-c03866f5-fe9d-4481-61f9-2b6b7a1df9e2,Why should this exquisite bottle be a fake?,这瓶佳酿怎么可能是假货？
+option,choice-1f125764-1465-1bc4-eaba-fd441ac93dc1,The academy exclusively uses grapes for their wines.,学院酿酒只用葡萄。
+action,action-a0263c58-f1d7-2cd5-2895-1a9e682c8101,"How? What?
+Let me see the bottle.","怎么？什么？
+让我看看那瓶酒。"
+action,action-f05a3a5a-c2de-05f1-bf20-219ff18e8d9f,"So, there must be a mistake.
+Let me check the label.","那一定是哪里搞错了。
+让我看看酒标。"
+action,action-7f40e1ba-b5f0-a101-8ffb-0e054fd94134,"It explicitly states...
+That...
+No...","上面明明写着……
+这……
+不……"
+action,action-f2320d47-0734-d152-a5ff-0dbbaa146779,...,……
+action,action-54fbaf46-0593-91b2-79ac-0883d4f5e1f3,"A touch of honey?
+What's that?!","“一丝蜂蜜香”？
+这算什么？！"
+option,choice-09d8b571-5b9d-9671-62d3-b6c10e953f43,Did you make this bottle?,这瓶酒是你做的吗？
+option,choice-c5881de0-3dfb-063c-6886-fa68d7936b0d,Where did you get the wine from?,这酒你是从哪儿弄来的？
+action,action-c374b30a-357d-4674-4527-85fce09bbe01,"Do I look like a winemaker?
+Of course not!","我看起来像酿酒师吗？
+当然不是！"
+action,action-2a999c93-7fda-292f-a859-71a274e29963,"I purchased this bottle with one of my recent wine deliveries.
+Apparently, I already had one glass too many, which is why I missed the mistake.","这瓶酒是我随最近一批到货一起买下的。
+显然我当时已经多喝了一杯，才没发现这个错处。"
+option,choice-122b78eb-4ba8-93bb-e798-2a18cff99471,Who picked up the wine delivery?,是谁去取的酒？
+action,action-44c80585-c263-3a3e-89d6-5ec63cd1a5d0,"That was the Royal Guard, as always.
+#:Marvin:#, the quartermaster's apprentice, was collecting the last deliveries from the academy.","和往常一样，是皇家卫队。
+军需官的学徒#:马文:#负责去学院取最近几批货。"
+action,action-07f98d77-2e68-1853-4fed-3b8d15f5fe9e,"Wait a minute...
+He was also the one who organized this bottle for me.","等等……
+这瓶酒也是他给我张罗来的。"
+action,action-05fd09ea-7ef5-898c-820b-2e262ad461b0,It seems to me that Marvin has a lucrative side hustle.,依我看，马文在搞一门有利可图的副业。
+action,action-6b4c5aee-4cdf-fa0e-b924-305bc2d9db4a,"Here's that inferior swill back.
+Confront Marvin with it and bring him down!","把这瓶劣质酒水拿回去。
+拿它去找马文当面对质，扳倒他！"
+action,action-9db6b856-9604-7249-76ab-40bbb9014158,"I'll make sure, that he won't leave the capital.",我会确保他离不开王都。
+action,action-c65140e0-8236-a0c6-1df8-0db6c4045877,"Very good!
+However, I'll probably have to find another one to pick up my wine from the academy.","太好了！
+不过，看来我得另找个人去学院取酒了。"
+action,action-f8884592-6504-0fdd-cb99-796e7efa4d71,Anyway. Thanks for taking care of the rascal.,总之，多谢你收拾了那个无赖。
+action,action-6255e20a-341e-95b9-e676-8f60a19745be,That shall be your reward!,这就是给你的报酬！
+action,action-87e20ee2-7ff9-d2b1-c98f-481d509d89f7,"Hopefully this bottle isn't fake, ha ha!",但愿这瓶不是假的，哈哈！
+action,action-ed519d30-9462-ec57-d605-79f4f4973940,"Oh, this old story again!",哦，又是这桩老话！
+action,action-68938c0a-6234-6e0f-4e0c-d4c4d6468f85,All I know is that our #:king:# seems to care more about the bandits than about actual threats.,我只知道，我们的#:国王:#似乎更关心强盗，而不是真正的威胁。
+action,action-b0e82fa4-a21c-9de6-dbe8-61837288e85e,"If the bandits are so important to him, then he should find out who the actual mastermind is.
+As long as no one knows who he is, the situation won't change.","如果强盗对他真那么重要，那他就该查出幕后主使到底是谁。
+只要没人知道那人是谁，局面就不会改变。"
+action,action-2979c1ad-fba8-4baa-f530-c07bb510c3d9,But this busybody with a crown doesn't want to listen to me.,可这个戴着王冠的多事之徒根本不肯听我的。
+action,action-7ae621c3-ef13-0a88-eea0-94a3f14461cf,"Good man, I have heard of your contribution to my esteemed collection.",这位朋友，我听说了你为我珍贵的收藏所作的贡献。
+action,action-7f711ca9-59df-9a48-6b04-81ed4fe20eb5,"You have my thanks!
+Continue collecting rare items, and you shall be rewarded accordingly.","我向你致谢！
+继续收集珍稀物品吧，你会得到相应的回报。"
+action,action-80b03437-5a24-5051-5e16-2dc608ab43f4,"Is it truly possible?
+Your contribution alone has brought my collection to its completion.","这真的可能吗？
+单凭你的贡献，我的收藏竟已臻于完整。"
+action,action-73f94d0d-be70-da5e-ecd3-99cc85269114,Aveline should already have given you my Collector's Badge in honor of your service.,为表彰你的功劳，艾薇琳应该已经把我的收藏家徽章交给你了。

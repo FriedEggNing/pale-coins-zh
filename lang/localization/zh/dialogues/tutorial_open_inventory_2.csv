@@ -1,0 +1,4 @@
+type,id,text,zh
+action,action-c76b00c7-a189-8f91-434c-99d2c2ab479f,"Equip weapons, armor and artefacts in your inventory with ###input.INPUT_INVENTORY_ITEM_SELECT###.",按###input.INPUT_INVENTORY_ITEM_SELECT###装备物品栏中的武器、防具和神器。
+action,action-557ef11e-48af-b01d-3cc0-435722e093f6,"Equip weapons, armor and artefacts in your inventory with ###input.INPUT_INVENTORY_ITEM_SELECT### or ###input.MOUSE_BUTTON_LEFT###.",按###input.INPUT_INVENTORY_ITEM_SELECT###或###input.MOUSE_BUTTON_LEFT###装备物品栏中的武器、防具和神器。
+action,action-216316ea-9a7d-dffb-dc78-8734d20d5cfb,Use ###input.INPUT_INVENTORY_ITEM_DROP### to drop items that aren't equipped or needed for quests.,按###input.INPUT_INVENTORY_ITEM_DROP###可丢弃未装备且任务不需要的物品。

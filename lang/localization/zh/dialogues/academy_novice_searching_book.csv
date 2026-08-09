@@ -1,0 +1,7 @@
+type,id,text,zh
+action,action-fd10efec-ffe9-d14b-e32b-03d3df1b5693,Where is it?!,它在哪儿？！
+action,action-628a01f4-3157-e241-cd6e-7f780eac89bf,I'm gonna be in trouble!,我要有麻烦了！
+action,action-eb940fd3-b5ef-ce72-9e01-18684eedeb93,Thank you for finding the Arcanum Sanguis.,谢谢你找回了血之秘典。
+option,choice-358118ca-aded-1bc0-8140-5c3655b49f21,What are you looking for?,你在找什么？
+action,action-371fc7af-5d8e-945b-0b98-de384af02f43,The #:Arcanum Sanguis:# disappeared.,#:血之秘典:#不见了。
+action,action-9cb1601b-6812-67bb-e4d9-5ff5df84df50,"I think it was stolen, but Warak wants me to check every corner of the library.",我觉得是被人偷走了，但瓦拉克非要我把图书馆的每个角落都翻一遍。

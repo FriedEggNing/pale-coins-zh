@@ -1,0 +1,34 @@
+type,id,text,zh
+action,action-6c88bda4-5b9a-6adf-2c63-bc316fe57253,Yes?,什么事？
+action,action-40509d21-8763-83d5-c14d-09bb3de94038,"Welcome to our sacred temple, my child.",欢迎来到我们的圣殿，我的孩子。
+action,action-9b12b99e-be1b-1baa-58e4-d8dbbf5dbf57,"Unlike many others, you have proven to endure the dangers of this temple.",与许多人不同，你已经证明自己能够经受住这座神殿中的凶险。
+option,choice-53609490-d07e-407a-c50b-1d94e41d1070,Which secrets do you want to share with me?,您想与我分享什么秘密？
+option,choice-ac91b1ff-529a-ede1-1fe0-97c293d56853,Who were the others?,那些人都是谁？
+option,choice-6f5d78a2-e5c3-77fb-8e06-e6510275eaea,I am ready to be one of you.,我准备好成为你们的一员了。
+option,choice-1b04da01-1078-b64f-ed7e-93894fc53bac,See you!,回见！
+action,action-2a4152a4-dbf3-8624-62bd-4b9257bdf803,"Take care of yourself, my child.",照顾好自己，我的孩子。
+action,action-50244574-630b-f611-bef5-e8b880c5601e,"This temple holds an artifact unlike any other.
+It has been the source of our powers for centuries.","这座神殿中藏有一件举世无双的神器。
+数个世纪以来，它一直是我们力量的源泉。"
+action,action-397c0ec3-66ce-955c-de49-74a9db237fdb,To protect the artifact and drive away intruders we had to spread rumors about a fictional monster in the swamp.,为了保护神器、驱走闯入者，我们不得不散布谣言，编造出一头栖身沼泽的怪物。
+action,action-c5922789-c077-0b9f-9bbe-42e1c3cf6355,"Only a few dared to come into the swamp to look for the monster, so we trapped them in our temple for them to die.",只有寥寥数人敢进入沼泽寻找那怪物，于是我们便把他们困在神殿里，任其自生自灭。
+action,action-144dc5bc-570e-b0de-1e1c-b62bbfb1485d,"However, two members of the royal guard seemed to be especially strong individuals.",然而，皇家卫队中有两名成员似乎格外强悍。
+action,action-edf35905-fe63-d732-c67b-e5acb1736ff6,"Their will and strength allowed them to stay alive. Over time they lost their mind due to the power of our artifact, though.
+Unable to die, they are now guarding the artifact.","他们的意志与力量让他们活了下来。不过随着时间流逝，神器的力量夺走了他们的神智。
+如今他们不得死去，永远守卫着神器。"
+action,action-435fc6ed-5df0-88fc-e290-63034e8ad521,Powers which I want to share with you.,而这份力量，我愿与你分享。
+action,action-8e77ee9d-2965-d3da-c4a4-152a0b3a799b,#:Join our cult!:#,#:加入我们的教团！:#
+action,action-446ac216-4631-8125-5351-0d39065ad054,"With the Arcanum Sanguis in our hands our rise will be unstoppable.
+And you shall be part of this.","只要血之秘典在我们手中，我们的崛起便无可阻挡。
+而你，将成为其中的一员。"
+action,action-45e04b00-f5db-4360-9182-a17336609259,"You won't be able to join any other faction then, but that is not of interest.
+Soon, there won't be any other faction left.","到那时你将无法再加入其他任何势力，但那无关紧要。
+用不了多久，其他势力都将不复存在。"
+action,action-42e16d6a-1ab6-7488-c76e-00d30c2f100b,Very well!,很好！
+action,action-d94572b0-d5f8-878a-f956-6b4ab4d5b5e3,"Receive the power of our artifact.
+The power of the sacred stone Erylding.","接受我们神器的力量吧。
+圣石埃里尔丁的力量。"
+action,action-1a50d3ec-e8df-cc32-0ccb-8b30a11b27a0,"With this power you shall serve our god and bring him offerings.
+Collect the #:corrupt coins:# and bring them to my altar in the swamp.","凭借这份力量，你将侍奉我们的神明，并为祂献上祭品。
+去收集#:堕落硬币:#，将它们带到我在沼泽中的祭坛。"
+action,action-51024b25-aa6a-4e8d-db46-f65491be0448,Come to me if you want to know more about our cult.,若想深入了解我们的教团，就来找我吧。

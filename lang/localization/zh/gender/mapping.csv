@@ -1,0 +1,516 @@
+ID,Item name EN,Item name ZH,gender
+helmet_berserker_name,Berserker Helmet,Berserker Helmet,m
+helmet_magus_name,Magus's Helmet,Magus's Helmet,m
+helmet_magus_teleport_name,Creighar's Helmet,Creighar's Helmet,m
+armor_berserker_name,Berserker Armor,Berserker Armor,f
+armor_rags_name,Rags,Rags,n
+armor_outlaw_medium_name,Outlaw Armor,Outlaw Armor,f
+armor_bandit_armor_name,Bandit Armor,Bandit Armor,f
+armor_bandit_armor_reinforced_name,Reinforced Bandit Armor,Reinforced Bandit Armor,f
+armor_bandit_armor_swift_name,Swift Bandit Armor,Swift Bandit Armor,f
+armor_hunter_name,Hunter Armor,Hunter Armor,f
+armor_hunter_improved_name,Improved Hunter Armor,Improved Hunter Armor,f
+helmet_bucket_name,Bucket,Bucket,n
+armor_protected_pants_name,Protected Pants,Protected Pants,p
+armor_adventurer_name,Adventurer Clothes,Adventurer Clothes,f
+helmet_adventurer_name,Adventurer Hat,Adventurer Hat,f
+armor_mage_cloak_name,Mage Cloak,Mage Cloak,m
+helmet_mage_hat_name,Mage Hat,Mage Hat,f
+armor_chainmail_name,Chainmail,Chainmail,f
+armor_platemail_name,Platemail,Platemail,m
+armor_platemail_improved_name,Improved Platemail,Improved Platemail,m
+helmet_platemail_name,Plate Helmet,Plate Helmet,m
+helmet_platemail_improved_name,Improved Plate Helmet,Improved Plate Helmet,m
+helmet_top_hat_name,Top Hat,Top Hat,m
+helmet_druid_antlers_name,Druid Antlers,Druid Antlers,p
+armor_druid_robe_name,Druid Robe,Druid Robe,n
+armor_icefall_clothes_name,Icefall Poncho,Icefall Poncho,n
+helmet_icefall_hood_name,Icefall Hood,Icefall Hood,m
+armor_royal_knight_name,Royal Knight Armor,Royal Knight Armor,f
+helmet_royal_knight_name,Royal Knight Helmet,Royal Knight Helmet,m
+armor_royal_commander_name,Royal Commander Armor,Royal Commander Armor,f
+helmet_royal_commander_name,Royal Commander Helmet,Royal Commander Helmet,m
+armor_assassin_name,Assassin Armor,Assassin Armor,f
+armor_doublet_name,Doublet,Doublet,m
+armor_doublet_improved_name,Improved Doublet,Improved Doublet,m
+helmet_old_sailor_hat_name,Old Sailor Hat,Old Sailor Hat,f
+helmet_snake_helmet_name,Snake Helmet,Snake Helmet,m
+armor_fire_mage_name,Fire Mage Robe,Fire Mage Robe,n
+armor_ice_mage_name,Ice Mage Robe,Ice Mage Robe,n
+armor_summoner_robe_name,Summoner Robe,Summoner Robe,n
+armor_priest_robe_name,Priest Robe,Priest Robe,n
+armor_swordman_garb_name,Swordsman's Garb,Swordsman's Garb,n
+gloves_leather_wraps_name,Leather Wraps,Leather Wraps,p
+gloves_iron_gauntlets_name,Iron Gauntlets,Iron Gauntlets,p
+gloves_iron_gauntlets_improved_name,Improved Iron Gauntlets,Improved Iron Gauntlets,p
+gloves_hunter_bracers_name,Hunter Bracers,Hunter Bracers,p
+gloves_silver_bracers_name,Silver Bracers,Silver Bracers,p
+boots_leather_boots_name,Leather Boots,Leather Boots,p
+boots_iron_boots_name,Iron Boots,Iron Boots,p
+boots_iron_boots_improved_name,Improved Iron Boots,Improved Iron Boots,p
+boots_sellsword_boots_name,Sellsword Boots,Sellsword Boots,p
+gloves_carims_wraps_name,Carim's Bloody Wraps,Carim's Bloody Wraps,p
+helmet_crown_weynard_name,Weynard's Crown,Weynard's Crown,f
+armor_fallen_knight_name,Fallen Knight Armor,Fallen Knight Armor,f
+helmet_fallen_knight_name,Fallen Knight Helmet,Fallen Knight Helmet,m
+gloves_fallen_knight_gauntlets_name,Fallen Knight Gauntlets,Fallen Knight Gauntlets,p
+boots_fallen_knight_greaves_name,Fallen Knight Greaves,Fallen Knight Greaves,p
+armor_northern_dark_name,Northern Armor (dark),Northern Armor (dark),f
+helmet_northern_bear_name,Northern Helmet (Bear),Northern Helmet (Bear),m
+armor_cultist_robes_name,Cultist Robes,Cultist Robes,n
+helmet_blood_crow_name,Blood Crow Mask,Blood Crow Mask,f
+armor_blood_crow_name,Blood Crow Pelerine,Blood Crow Pelerine,f
+helmet_blood_knight_name,Blood Knight Helmet,Blood Knight Helmet,m
+armor_blood_knight_name,Blood Knight Plate,Blood Knight Plate,p
+armor_obsidian_armor_name,Obsidian Armor,Obsidian Armor,f
+helmet_mask_oni_name,Oni Mask,Oni Mask,f
+armor_barbarian_light_name,Light Barbarian Armor,Light Barbarian Armor,f
+helmet_stone_mask_name,Stone Mask,Stone Mask,f
+armor_royal_name,Royal Robe,Royal Robe,n
+helmet_royal_crown_name,Royal Crown,Royal Crown,f
+helmet_lich_mask_name,Lich Mask,Lich Mask,f
+armor_lich_mantle_name,Lich Mantle,Lich Mantle,f
+helmet_crown_wicket_name,Crown of the Wicked,Crown of the Wicked,f
+helmet_kettle_hat_name,Kettle Hat,Kettle Hat,m
+armor_knight_armor_old_name,Knight Armor (Old),Knight Armor (Old),f
+helmet_knight_armor_old_name,Knight Helmet (Old),Knight Helmet (Old),m
+gloves_mage_gloves_name,Mage Gloves,Mage Gloves,p
+helmet_orc_chief_helmet_name,Orc Chief Helmet,Orc Chief Helmet,m
+armor_warden_name,Warden Plate Armor,Warden Plate Armor,p
+helmet_warden_name,Warden Helm,Warden Helm,m
+boots_assassin_boots_name,Assassin Boots,Assassin Boots,p
+gloves_assassin_bracers_name,Assassin Bracers,Assassin Bracers,p
+boots_chilled_march_name,Chilled March,Chilled March,m
+boots_ethereal_march_name,Ethereal March,Ethereal March,m
+armor_war_mage_name,Battlemage Robe,Battlemage Robe,n
+helmet_circlet_name,Circlet,Circlet,m
+helmet_circlet_arcanist_name,Arcanist Circlet,Arcanist Circlet,m
+armor_witchhunter_name,Witchhunter Cloak,Witchhunter Cloak,m
+helmet_witchhunter_name,Witchhunter Hat,Witchhunter Hat,f
+gloves_raider_wraps_name,Raider Wraps,Raider Wraps,p
+boots_raider_leather_boots_name,Raider Leather Boots,Raider Leather Boots,p
+boots_rusty_greaves_name,Rusty Greaves,Rusty Greaves,p
+gloves_rusty_gauntlets_name,Rusty Gauntlets,Rusty Gauntlets,p
+armor_rusty_plate_name,Rusty Plate,Rusty Plate,p
+helmet_rusty_helm_name,Rusty Helm,Rusty Helm,m
+armor_platemail_refined_name,Reinforced Plate,Reinforced Plate,p
+helmet_platemail_refined_name,Reinforced Plate Helmet,Reinforced Plate Helmet,m
+gloves_reinforced_plate_armguards_name,Reinforced Plate Armguards,Reinforced Plate Armguards,p
+boots_refined_plate_greaves_name,Reinforced Plate Greaves,Reinforced Plate Greaves,p
+armor_wild_name,Savage Armor,Savage Armor,f
+armor_assassin_combat_name,Assassin Combat Armor,Assassin Combat Armor,f
+armor_runic_armor_name,Runic Armor,Runic Armor,f
+gloves_runic_armguard_name,Runic Armguard,Runic Armguard,p
+boots_runic_greaves_name,Runic Greaves,Runic Greaves,p
+artefact_goblin_necklace_name,Goblin Necklace,Goblin Necklace,n
+artefact_orc_necklace_name,Orc Necklace,Orc Necklace,n
+artefact_tome_mage_name,Mage Tome,Mage Tome,m
+artefact_tome_lesser_fire_name,Lesser Fire Tome,Lesser Fire Tome,m
+artefact_tome_lesser_ice_name,Lesser Ice Tome,Lesser Ice Tome,m
+artefact_tome_lesser_holy_name,Lesser Holy Tome,Lesser Holy Tome,m
+artefact_tome_lesser_dark_name,Lesser Dark Tome,Lesser Dark Tome,m
+artefact_bandits_band_name,Bandit Ring,Bandit Ring,n
+artefact_straight_sword_hilt_name,Straight Sword Hilt,Straight Sword Hilt,f
+artefact_summoners_skull_name,Summoner's Skull,Summoner's Skull,m
+artefact_lennards_statue_name,Lennard's Statue,Lennard's Statue,f
+artefact_spell_caster_focus_name,Spellcaster Focus,Spellcaster Focus,m
+artefact_goblin_mage_necklace_name,Goblin Mage Necklace,Goblin Mage Necklace,n
+artefact_venomous_claw_name,Venomous Claw,Venomous Claw,m
+artefact_shamans_talisman_name,Shaman Talisman,Shaman Talisman,m
+artefact_challengers_ring_name,Challenger's Ring,Challenger's Ring,n
+artefact_prayer_cross_name,Prayer's Cross,Prayer's Cross,m
+artefact_blood_ring_name,Blood Ring,Blood Ring,n
+artefact_blood_ring_vampiric_name,Blood Ring (Vampiric),Blood Ring (Vampiric),n
+artefact_lantern_name,Lantern,Lantern,m
+artefact_gold_ring_name,Gold Ring,Gold Ring,n
+artefact_ring_resistance_name,Ring of Resistance,Ring of Resistance,n
+artefact_edmons_ring_name,Edmon's Ring,Edmon's Ring,n
+artefact_summoners_crystal_skull_red_name,Red Crystal Skull,Red Crystal Skull,m
+artefact_summoners_crystal_skull_blue_name,Blue Crystal Skull,Blue Crystal Skull,m
+artefact_summoners_crystal_skull_yellow_name,Yellow Crystal Skull,Yellow Crystal Skull,m
+artefact_summoners_crystal_skull_green_name,Green Crystal Skull,Green Crystal Skull,m
+artefact_miriams_ring_name,Miriam's Ring,Miriam's Ring,n
+artefact_endless_quiver_name,Endless Quiver,Endless Quiver,m
+artefact_golden_shield_ring_name,Golden Shield Ring,Golden Shield Ring,n
+artefact_golden_sword_ring_name,Golden Sword Ring,Golden Sword Ring,n
+artefact_golden_ring_resistance_name,Golden Ring of Resistance,Golden Ring of Resistance,n
+artefact_spellbook_wisdom_name,Spellbook of Wisdom,Spellbook of Wisdom,m
+artefact_spellbook_knowledge_name,Spellbook of Knowledge,Spellbook of Knowledge,m
+artefact_spellbook_calling_name,Spellbook of Calling,Spellbook of Calling,m
+artefact_slime_necklace_name,Slime Necklace,Slime Necklace,m
+artefact_molten_obsidian_necklace_name,Molten Obsidian Necklace,Molten Obsidian Necklace,m
+artefact_obsidian_horn_necklace_name,Obsidian Horn Necklace,Obsidian Horn Necklace,m
+artefact_obsidian_shaman_talisman_name,Obsidian Shaman Talisman,Obsidian Shaman Talisman,m
+artefact_dragon_pendant_name,Dragon's Pendant,Dragon's Pendant,m
+artefact_dragon_talisman_name,Dragon's Talisman,Dragon's Talisman,m
+artefact_dragon_charm_name,Dragon's Charm,Dragon's Charm,m
+artefact_cultist_band_name,Cultist Band,Cultist Band,m
+artefact_ring_of_rites_name,Ring of Rites,Ring of Rites,n
+artefact_ring_of_forbidden_rites_name,Ring of Forbidden Rites,Ring of Forbidden Rites,n
+artefact_ring_of_eldritch_rites_name,Ring of Eldritch Rites,Ring of Eldritch Rites,n
+fist_basic_name,Fists,Fists,p
+sword_short_sword_name,Short Sword,Short Sword,m
+rapier_rapier_name,Rapier,Rapier,f
+rapier_dagger_name,Dagger,Dagger,m
+greatsword_zweihander_name,Zweihander,Zweihander,m
+spear_wooden_spear_name,Wooden Spear,Wooden Spear,n
+staff_themir_staff_name,Themir's Staff,Themir's Staff,m
+sword_old_sword_name,Old Sword,Old Sword,m
+rune_fire_apprentice_name,Fire Apprentice Rune,Fire Apprentice Rune,f
+rune_ice_apprentice_name,Ice Apprentice Rune,Ice Apprentice Rune,f
+bow_short_bow_name,Short Bow,Short Bow,m
+staff_apprentice_staff_name,Apprentice Staff,Apprentice Staff,m
+spear_old_lance_name,Old Lance,Old Lance,f
+sword_torch_name,Torch,Torch,m
+greatsword_pickaxe_name,Pickaxe,Pickaxe,f
+greatsword_club_name,Club,Club,f
+bow_strange_bow_name,Strange Bow,Strange Bow,m
+rapier_goblin_dagger_name,Goblin Dagger,Goblin Dagger,m
+rapier_goblin_dagger_jagged_name,Jagged Goblin Dagger,Jagged Goblin Dagger,m
+greatsword_nailed_club_name,Nailed Club,Nailed Club,f
+rune_crystal_heart_name,Crystal Heart,Crystal Heart,n
+sword_long_sword_name,Long Sword,Long Sword,m
+sword_long_sword_improved_name,Long Sword (improved),Long Sword (improved),m
+rapier_thieves_knife_name,Thieves Knife,Thieves Knife,m
+rune_lesser_undead_name,Summon Lesser Undead Rune,Summon Lesser Undead Rune,f
+greatsword_woodcutter_axe_name,Lumberjack Axe,Lumberjack Axe,m
+spear_spear_name,Spear,Spear,n
+greatsword_goblin_razor_name,Goblin Razor,Goblin Razor,n
+sword_rakshas_wand_name,Rak'Sha's Wand,Rak'Sha's Wand,m
+rapier_carims_bloody_dagger_name,Carim's Bloody Dagger,Carim's Bloody Dagger,m
+greatsword_stone_crusher_name,The Stone Crusher,The Stone Crusher,m
+bow_skysplitter_name,Skysplitter,Skysplitter,m
+rune_priest_name,Priest rune,Priest rune,f
+bow_long_bow_name,Long Bow,Long Bow,m
+greatsword_orcish_longblade_name,Orcish Longsword,Orcish Longsword,m
+rune_mage_name,Mage Rune,Mage Rune,f
+staff_mage_staff_name,Mage Staff,Mage Staff,m
+sword_mace_name,Mace,Mace,f
+staff_shield_staff_name,Shield Staff,Shield Staff,m
+spear_lance_name,Lance,Lance,f
+sword_katana_name,Katana,Katana,f
+greatsword_bonecrusher_name,Bonecrusher,Bonecrusher,m
+sword_grimbald_name,Grimbald,Grimbald,m
+greatsword_barbarian_axe_name,Barbarian Axe,Barbarian Axe,f
+spear_knights_lance_name,Knights Lance,Knights Lance,f
+bow_bladed_bow_name,Bladed Bow,Bladed Bow,m
+rapier_rose_dagger_name,Rose Dagger,Rose Dagger,m
+rapier_runic_dagger_name,Runic Dagger,Runic Dagger,m
+bow_lazoris_name,Lazoris,Lazoris,m
+greatsword_templar_hammer_name,Templar Hammer,Templar Hammer,m
+sword_saber_name,Saber,Saber,f
+spear_paladins_guard_name,Paladin's Guard,Paladin's Guard,n
+rune_celestial_name,Celestial Rune,Celestial Rune,f
+sword_obsidian_sword_name,Obsidian Sword,Obsidian Sword,m
+sword_obsidian_sword_improved_name,Obsidian Sword (improved),Obsidian Sword (improved),m
+rapier_obsidian_dagger_name,Obsidian Dagger,Obsidian Dagger,m
+rapier_obsidian_dagger_improved_name,Obsidian Dagger (improved),Obsidian Dagger (improved),m
+greatsword_obsidian_greatsword_name,Obsidian Greatsword,Obsidian Greatsword,m
+greatsword_obsidian_greatsword_improved_name,Obsidian Greatsword (improved),Obsidian Greatsword (improved),m
+spear_obsidian_spear_name,Obsidian Spear,Obsidian Spear,n
+spear_obsidian_spear_improved_name,Obsidian Spear (improved),Obsidian Spear (improved),n
+staff_obsidian_staff_name,Obsidian Staff,Obsidian Staff,m
+sword_venomous_tail_name,Venomous Tail,Venomous Tail,m
+rapier_frozen_nail_name,Frozen Nail,Frozen Nail,m
+greatsword_war_axe_name,War Axe,War Axe,f
+spear_trident_name,Trident,Trident,m
+sword_flail_name,Flail,Flail,m
+spear_goblin_spear_name,Goblin Spear,Goblin Spear,n
+rune_elemental_fire_name,Rune of Fire,Rune of Fire,f
+rune_elemental_ice_name,Rune of Ice,Rune of Ice,f
+shield_wooden_name,Wooden Shield,Wooden Shield,m
+shield_big_leather_shield_name,Big Leather Shield,Big Leather Shield,m
+shield_iron_shield_name,Iron Shield,Iron Shield,m
+shield_gazer_name,Staring Chill,Staring Chill,f
+greatsword_weynard_zweihander_name,Weynard's Golden Zweihander,Weynard's Golden Zweihander,m
+sword_of_mars_name,Sword of Mars,Sword of Mars,m
+staff_cultist_staff_name,Cultist Staff,Cultist Staff,m
+rune_cultist_name,Cultist Rune,Cultist Rune,f
+greatsword_trollslayer_name,Trollslayer,Trollslayer,m
+sword_trollsaber_name,Troll Saber,Troll Saber,f
+rapier_blood_fang_name,Blood Fang,Blood Fang,m
+rapier_blood_fang_vampiric_name,Blood Fang (Vampiric),Blood Fang (Vampiric),m
+sword_blood_spatha_name,Blood Spatha,Blood Spatha,f
+sword_blood_spatha_vampiric_name,Blood Spatha (Vampiric),Blood Spatha (Vampiric),f
+greatsword_blood_spadone_name,Blood Spadone,Blood Spadone,m
+greatsword_blood_spadone_vampiric_name,Blood Spadone (Vampiric),Blood Spadone (Vampiric),m
+spear_blood_bardiche_name,Blood Bardiche,Blood Bardiche,m
+spear_blood_bardiche_vampiric_name,Blood Bardiche (Vampiric),Blood Bardiche (Vampiric),m
+shield_blood_shield_name,Blood Shield,Blood Shield,m
+bow_blood_bow_name,Blood Bow,Blood Bow,m
+bow_blood_bow_vampiric_name,Blood Bow (Vampiric),Blood Bow (Vampiric),m
+rune_blood_rune_name,Blood Rune,Blood Rune,f
+rune_blood_runestone_name,Blood Runestone,Blood Runestone,m
+rune_blood_runestone_vampiric_name,Blood Runestone (Vampiric),Blood Runestone (Vampiric),m
+staff_grenkams_might_name,Grenkam's Might,Grenkam's Might,f
+rapier_ritual_dagger_name,Ritual Dagger,Ritual Dagger,m
+staff_wisps_name,Staff of Wisps,Staff of Wisps,m
+rapier_assassin_dagger_name,Assassin's knife,Assassin's knife,m
+greatsword_northern_war_axe_name,Northern War Axe,Northern War Axe,f
+bow_steel_bow_name,Steel Bow,Steel Bow,m
+bow_steel_bow_improved_name,Steel Bow (improved),Steel Bow (improved),m
+greatsword_tyrant_axe_name,Tyrant's Rage,Tyrant's Rage,f
+sword_arming_sword_name,Arming Sword,Arming Sword,m
+sword_arming_sword_improved_name,Arming Sword (improved),Arming Sword (improved),m
+shield_nord_shield_name,Nord Shield,Nord Shield,m
+sword_royal_claymore_name,Royal Claymore,Royal Claymore,m
+bow_royal_bow_name,Royal Bow,Royal Bow,m
+spear_royal_spear_name,Royal Spear,Royal Spear,n
+throwable_firebomb_name,Firebomb,Firebomb,f
+throwable_raider_bomb_name,Raider Bomb,Raider Bomb,f
+throwable_poison_bomb_name,Poison Bomb,Poison Bomb,f
+throwable_tooth_bomb_name,Tooth Bomb,Tooth Bomb,f
+fist_fighter_gloves_name,Fighter's Glove,Fighter's Glove,f
+staff_lich_name,Lich Staff,Lich Staff,m
+shield_moon_shield_name,Moon Shield,Moon Shield,m
+sword_golden_sword_name,Golden Sword,Golden Sword,m
+rune_mage_runestone_name,Mage Runestone,Mage Runestone,m
+spear_billhook_name,Billhook,Billhook,m
+greatsword_flamberge_name,Flamberge,Flamberge,m
+rapier_moonpiercer_name,Moonpiercer,Moonpiercer,m
+sword_chainsplitter_name,Chainsplitter,Chainsplitter,m
+shield_kite_shield_name,Kite Shield,Kite Shield,m
+rune_earth_lesser_name,Lesser Earth Rune,Lesser Earth Rune,f
+rapier_knights_foil_name,Knight's Foil,Knight's Foil,f
+spear_naginata_name,Naginata,Naginata,f
+greatsword_saw_blade_name,Saw Blade,Saw Blade,m
+sword_executioner_sword_name,Executioner's Sword,Executioner's Sword,m
+rapier_baselard_name,Baselard,Baselard,m
+bow_composite_bow_name,Composite Bow,Composite Bow,m
+staff_sorcerer_staff_name,Sorcerer Staff,Sorcerer Staff,m
+greatsword_muramasa_name,Muramasa,Muramasa,m
+sword_jonathan_name,Jon'Ath'An,Jon'Ath'An,m
+spear_pike_of_blight_name,Pike of Blight,Pike of Blight,f
+rapier_starlight_sabre_name,Starlight Sabre,Starlight Sabre,f
+sword_sorcerer_side_sword_name,Sorcerer Side Sword,Sorcerer Side Sword,m
+sword_snake_sword_name,Snake Sword,Snake Sword,m
+bow_savage_bow_name,Savage Bow,Savage Bow,m
+bow_nimmerfell_name,Bow of Nimmerfell,Bow of Nimmerfell,m
+,,,
+"The following shouldn't be affected, but just in case:",,,
+consumable_health_potion_small_name,Health Potion (Small),Health Potion (Small),n
+consumable_health_potion_weak_name,Health Potion (Weak),Health Potion (Weak),n
+consumable_health_potion_medium_name,Health Potion (Medium),Health Potion (Medium),n
+consumable_mana_potion_small_name,Mana Potion (Small),Mana Potion (Small),n
+consumable_mana_potion_medium_name,Mana Potion (Medium),Mana Potion (Medium),n
+consumable_mana_potion_everlasting_name,Everlasting Mana Potion,Everlasting Mana Potion,n
+consumable_hp_potion_blood_name,Potion of Blood,Potion of Blood,n
+consumable_red_grass_name,Red Grass,Red Grass,f
+consumable_beer_name,Beer,Beer,n
+consumable_booze_name,Booze,Booze,f
+consumable_booze_firewater_name,Firewater booze,Firewater booze,f
+consumable_glow_mushroom_name,Glow Mushroom,Glow Mushroom,m
+consumable_small_healing_herb_name,Small Healing Herb,Small Healing Herb,f
+consumable_apple_name,Apple,Apple,n
+consumable_berries_name,Berries,Berries,p
+consumable_egg_name,Egg,Egg,n
+consumable_honey_name,Honey,Honey,m
+consumable_chicken_leg_raw_name,Raw Chicken Thighs,Raw Chicken Thighs,p
+consumable_meat_raw_name,Raw Meat,Raw Meat,n
+consumable_meat_cooked_name,Roasted Meat,Roasted Meat,n
+consumable_stew_name,Stew,Stew,f
+consumable_darkshroom_name,Darkshroom,Darkshroom,f
+consumable_toadstool_name,Toadstool,Toadstool,f
+consumable_booze_green_devil_name,Green Devil,Green Devil,m
+consumable_nightvine_name,Nightvine,Nightvine,f
+consumable_brightleaf_name,Brightleaf,Brightleaf,m
+consumable_otus_flower_name,Otus Flower,Otus Flower,m
+consumable_twin_leaf_name,Twin Leaf,Twin Leaf,m
+consumable_grapes_name,Grapes,Grapes,m
+consumable_academy_wine_name,Academy Wine,Academy Wine,n
+consumable_frog_legs_raw_name,Frog legs,Frog legs,p
+consumable_slime_jelly_name,Slime Jelly,Slime Jelly,n
+consumable_potion_adventure_name,Potion of Adventuring,Potion of Adventuring,n
+consumable_potion_luck_name,Potion of Luck,Potion of Luck,n
+consumable_potion_berserker_name,Berserker Potion,Berserker Potion,n
+consumable_academy_wine_royal_ember_name,Royal Ember - 2nd Edition,Royal Ember - 2nd Edition,m
+consumable_academy_wine_regis_vitae_name,Regis Vitae - 1st Edition,Regis Vitae - 1st Edition,n
+consumable_carrot_name,Carrot,Carrot,f
+consumable_beef_raw_name,Raw Steak,Raw Steak,m
+consumable_potato_name,Potato,Potato,m
+consumable_celery_name,Celery,Celery,m
+consumable_cabbage_name,Cabbage,Cabbage,f
+misc_pale_coin_name,Pale Coin,Pale Coin,f
+misc_arrow_name,Arrow,Arrow,f
+misc_key_outlaw_camp_mine_name,Outlaw Mine Key,Outlaw Mine Key,m
+misc_key_outlaw_camp_mine_duplicate_name,Outlaw Mine Key,Outlaw Mine Key,m
+misc_hammer_hallgrim_name,Hallgrim's Hammer,Hallgrim's Hammer,m
+misc_material_monster_tooth_name,Monster Tooth,Monster Tooth,m
+misc_misc_goblin_necklace_name,Goblin Necklace,Goblin Necklace,n
+misc_crystal_piece_name,Crystal Piece,Crystal Piece,m
+misc_perfect_crystal_piece_name,Perfect Crystal Piece,Perfect Crystal Piece,m
+misc_ritual_key_name,Ritual Stone Key,Ritual Stone Key,m
+misc_lockpick_name,Lockpick,Lockpick,f
+misc_orc_temple_key_name,Orc Temple Key,Orc Temple Key,m
+misc_quiver_small_name,Small Quiver,Small Quiver,m
+misc_quiver_medium_name,Quiver,Quiver,m
+misc_quiver_large_name,Large Quiver,Large Quiver,m
+misc_key_orc_temple_armory_name,Armory Key - Orc Temple,Armory Key - Orc Temple,m
+misc_wares_lennard_name,Lennard's Wares,Lennard's Wares,p
+misc_capital_permit_name,Capital Permit,Capital Permit,m
+misc_strange_weapon_small_name,Lesser Strange Weapon,Lesser Strange Weapon,n
+misc_strange_weapon_medium_name,Strange Weapon,Strange Weapon,n
+misc_strange_weapon_great_name,Great Strange Weapon,Great Strange Weapon,n
+misc_letter_kolfinn_name,Kolfinn's Letter,Kolfinn's Letter,n
+misc_material_ore_iron_name,Iron Ore,Iron Ore,f
+misc_material_ore_orichalcum_name,Orichalcum Ore,Orichalcum Ore,f
+misc_material_obsidian_chunk_name,Obsidian Chunk,Obsidian Chunk,m
+misc_material_ore_gold_name,Gold Ore,Gold Ore,f
+misc_material_refined_steel_bar_name,Refined Steel Bar,Refined Steel Bar,m
+misc_material_steel_bar_verkum_name,Ver'Kum Steel Bar,Ver'Kum Steel Bar,m
+misc_gold_bar_name,Gold Bar,Gold Bar,m
+misc_material_stone_blood_name,Blood Stone,Blood Stone,m
+misc_marin_passage_permit_name,Permit to the Marin Passage,Permit to the Marin Passage,m
+misc_map_grenmark_name,Map of Grenmark,Map of Grenmark,f
+misc_map_grenmark_ancient_name,Ancient Map of Grenmark,Ancient Map of Grenmark,f
+misc_lake_tower_key_1_name,Key Piece 1,Key Piece 1,m
+misc_lake_tower_key_2_name,Key Piece 2,Key Piece 2,m
+misc_lake_tower_key_3_name,Key Piece 3,Key Piece 3,m
+misc_blueprint_weapon_random_name,Blueprint of a weapon,Blueprint of a weapon,f
+misc_blueprint_weapon_random_2_name,Blueprint of a good weapon,Blueprint of a good weapon,f
+misc_blueprint_weapon_random_3_name,Blueprint of an excellent weapon,Blueprint of an excellent weapon,f
+misc_blueprint_armor_random_name,Blueprint of an armor,Blueprint of an armor,f
+misc_blueprint_armor_random_2_name,Blueprint of a good armor,Blueprint of a good armor,f
+misc_blueprint_armor_random_3_name,Blueprint of an excellent armor,Blueprint of an excellent armor,f
+misc_blueprint_artefact_random_name,Blueprint of an artefact,Blueprint of an artefact,f
+misc_blueprint_artefact_random_2_name,Blueprint of a good artefact,Blueprint of a good artefact,f
+misc_blueprint_artefact_random_3_name,Blueprint of an excellent artefact,Blueprint of an excellent artefact,f
+misc_blueprint_artefact_gold_ring_name,Blueprint (Gold Ring),Blueprint (Gold Ring),f
+misc_blueprint_consumable_random_1_name,Blueprint of a simple Potion,Blueprint of a simple Potion,f
+misc_blueprint_consumable_random_2_name,Blueprint of a good Potion,Blueprint of a good Potion,f
+misc_blueprint_consumable_random_3_name,Blueprint of an excellent Potion,Blueprint of an excellent Potion,f
+misc_blueprint_weapon_rapier_blood_fang_vampiric_name,Blueprint (Blood Fang (Vampiric)),Blueprint (Blood Fang (Vampiric)),f
+misc_blueprint_weapon_bow_blood_bow_vampiric_name,Blueprint (Blood Bow (Vampiric)),Blueprint (Blood Bow (Vampiric)),f
+misc_blueprint_weapon_greatsword_blood_spadone_vampiric_name,Blueprint (Blood Spadone (Vampiric)),Blueprint (Blood Spadone (Vampiric)),f
+misc_blueprint_weapon_spear_blood_bardiche_vampiric_name,Blueprint (Blood Bardiche (Vampiric)),Blueprint (Blood Bardiche (Vampiric)),f
+misc_blueprint_weapon_sword_blood_spatha_vampiric_name,Blueprint (Blood Spatha (Vampiric)),Blueprint (Blood Spatha (Vampiric)),f
+misc_blueprint_artefact_blood_ring_vampiric_name,Blueprint (Blood Ring (Vampiric)),Blueprint (Blood Ring (Vampiric)),f
+misc_blueprint_artefact_ring_of_forbidden_rites_name,Blueprint (Ring of Forbidden Rites),Blueprint (Ring of Forbidden Rites),f
+misc_blueprint_artefact_ring_of_eldritch_rites_name,Blueprint (Ring of Eldritch Rites),Blueprint (Ring of Eldritch Rites),f
+misc_blueprint_cooking_meat_cooked_name,Recipe (Roasted Meat),Recipe (Roasted Meat),m
+misc_gregors_letter_1_name,Piece of a Letter,Piece of a Letter,m
+misc_mysterious_book_name,Mysterious Book,Mysterious Book,f
+misc_book_language_draconic_name,Book - Draconic,Book - Draconic,f
+misc_coin_dhul_oq_name,Coin from Dhul'oq,Coin from Dhul'oq,f
+misc_pale_essence_name,Pale Essence,Pale Essence,f
+misc_material_cloth_standard_name,Common Cloth,Common Cloth,f
+misc_blood_altar_heart_of_a_warrior_name,Heart of a Warrior,Heart of a Warrior,n
+misc_blood_altar_dry_heart_name,Dry Heart,Dry Heart,n
+misc_blood_altar_heart_of_a_warrior_poisoned_name,Heart of a Warrior (poisoned),Heart of a Warrior (poisoned),n
+misc_gem_small_yellow_name,Small yellow gem,Small yellow gem,m
+misc_gem_small_green_name,Small green gem,Small green gem,m
+misc_gem_small_red_name,Small red gem,Small red gem,m
+misc_gem_small_blue_name,Small blue gem,Small blue gem,m
+misc_gem_standard_blue_name,Blue gem,Blue gem,m
+misc_gem_standard_green_name,Green gem,Green gem,m
+misc_gem_standard_red_name,Red gem,Red gem,m
+misc_gem_standard_yellow_name,Yellow gem,Yellow gem,m
+misc_gem_standard_crimson_name,Crimson gem,Crimson gem,m
+misc_gem_standard_azure_name,Azure gem,Azure gem,m
+misc_gem_standard_golden_name,Golden gem,Golden gem,m
+misc_gem_standard_thulian_name,Thulian gem,Thulian gem,m
+misc_gem_big_green_name,Large green gem,Large green gem,m
+misc_gem_big_red_name,Large red gem,Large red gem,m
+misc_gem_big_yellow_name,Large yellow gem,Large yellow gem,m
+misc_gem_big_blue_name,Large blue gem,Large blue gem,m
+misc_gem_big_thulian_name,Large thulian gem,Large thulian gem,m
+misc_gem_big_azure_name,Large azure gem,Large azure gem,m
+misc_gem_big_golden_name,Large golden gem,Large golden gem,m
+misc_gem_big_crimson_name,Large crimson gem,Large crimson gem,m
+misc_gem_big_black_name,Large black gem,Large black gem,m
+misc_gem_big_gray_name,Large gray gem,Large gray gem,m
+misc_gem_big_white_name,Large white gem,Large white gem,m
+misc_gem_small_blood_name,Small blood gem,Small blood gem,m
+misc_gem_standard_blood_name,Blood gem,Blood gem,m
+misc_gem_big_blood_name,Large blood gem,Large blood gem,m
+misc_gem_small_chaos_name,Small chaos gem,Small chaos gem,m
+misc_gem_standard_chaos_name,Chaos gem,Chaos gem,m
+misc_gem_big_chaos_name,Large chaos gem,Large chaos gem,m
+misc_gem_small_shard_name,Small gem shard,Small gem shard,m
+misc_gem_standard_shard_name,Gem shard,Gem shard,m
+misc_gem_big_shard_name,Large gem shard,Large gem shard,m
+misc_material_swamp_secretion_name,Swamp secretion,Swamp secretion,f
+misc_material_poison_gland_name,Poison gland,Poison gland,f
+misc_letter_gunthar_name,Gunthar's Letter,Gunthar's Letter,n
+misc_key_swamp_temple_floor_2_key_name,Swamp Temple Inner Key,Swamp Temple Inner Key,m
+misc_sacred_stone_erylding_name,Erylding,Erylding,m
+misc_sacred_stone_nayryth_name,Nayryth,Nayryth,m
+misc_sacred_stone_ferumor_name,Ferumor,Ferumor,m
+misc_raider_chief_orders_name,Raid Orders,Raid Orders,m
+misc_key_raider_chief_name,Raider Chief's Key,Raider Chief's Key,m
+misc_material_skeleton_bone_name,Skeleton Bone,Skeleton Bone,f
+misc_skeleton_key_name,Skeleton Key,Skeleton Key,m
+misc_coin_corrupted_name,Corrupted Coin,Corrupted Coin,f
+misc_coin_blood_name,Blood Coin,Blood Coin,f
+misc_gem_skill_cultists_shadow_step_name,Cultist Gem (Shadow Step),Cultist Gem (Shadow Step),m
+misc_gem_skill_cultists_veonmous_poke_name,Cultist Gem (Venomous Poke),Cultist Gem (Venomous Poke),m
+misc_gem_skill_cultists_cursed_poke_name,Cultist Gem (Cursed Poke),Cultist Gem (Cursed Poke),m
+misc_gem_skill_backstep_name,Skill Gem (Backstep),Skill Gem (Backstep),m
+misc_gem_skill_dagger_throw_name,Skill Gem (Throw Dagger),Skill Gem (Throw Dagger),m
+misc_gem_skill_assassins_stab_dagger_name,Skill Gem (Assassin's Stab),Skill Gem (Assassin's Stab),m
+misc_gem_skill_whirlwind_blades_name,Skill Gem (Whirlwind Blades),Skill Gem (Whirlwind Blades),m
+misc_gem_skill_greatsword_forcewave_name,Skill Gem (Forcewave),Skill Gem (Forcewave),m
+misc_gem_skill_spear_multi_thrust_name,Skill Gem (Multithrust),Skill Gem (Multithrust),m
+misc_gem_skill_assassins_stab_spear_name,Skill Gem (Assassin's Stab),Skill Gem (Assassin's Stab),m
+misc_gem_skill_sword_eagle_slash_name,Skill Gem (Eagle Slash),Skill Gem (Eagle Slash),m
+misc_gem_skill_dodge_name,Skill Gem (Dodge),Skill Gem (Dodge),m
+misc_gem_skill_buff_enhanced_defense_name,Skill Gem (Enhanced Defense),Skill Gem (Enhanced Defense),m
+misc_gem_skill_buff_fighting_spirit_name,Skill Gem (Fighting Spirit),Skill Gem (Fighting Spirit),m
+misc_gem_skill_dagger_war_cry_name,Skill Gem (War Cry),Skill Gem (War Cry),m
+misc_gem_skill_explosive_arrow_name,Skill Gem (Explosive Arrow),Skill Gem (Explosive Arrow),m
+misc_gem_skill_kings_order_name,Skill (Weynard's Order),Skill (Weynard's Order),m
+misc_gem_skill_shockwave_bow_name,Skill Gem (Shockwave),Skill Gem (Shockwave),m
+misc_gem_skill_shockwave_greatsword_name,Skill Gem (Shockwave),Skill Gem (Shockwave),m
+misc_gem_skill_hold_action_melee_charged_arc_name,Skill Gem (Charged Arc),Skill Gem (Charged Arc),m
+misc_gem_skill_hold_action_missile_charged_arrow_name,Skill Gem (Charged Shot),Skill Gem (Charged Shot),m
+misc_gem_skill_buff_magic_armor_name,Skill Gem (Magic Defense),Skill Gem (Magic Defense),m
+misc_gem_skill_summon_rain_fire_name,Skill Gem (Fire Rain),Skill Gem (Fire Rain),m
+misc_gem_skill_missile_flame_ring_3_name,Skill Gem (Flame Ring),Skill Gem (Flame Ring),m
+misc_gem_skill_summon_miasma_fog_name,Skill Gem (Miasma),Skill Gem (Miasma),m
+misc_gem_skill_timed_effect_word_of_healing_name,Skill Gem (Word of Healing),Skill Gem (Word of Healing),m
+misc_gem_skill_summon_frozen_shards_name,Skill Gem (Frozen Shards),Skill Gem (Frozen Shards),m
+misc_gem_skill_missile_fast_arrows_name,Skill Gem (Hail of Arrows),Skill Gem (Hail of Arrows),m
+misc_gem_skill_summon_magic_turret_name,Skill Gem (Magic Turret),Skill Gem (Magic Turret),m
+misc_gem_skill_missile_ice_triad_name,Skill Gem (Ice Triad),Skill Gem (Ice Triad),m
+misc_gem_skill_missile_ice_tetrad_name,Skill Gem (Ice Tetrad),Skill Gem (Ice Tetrad),m
+misc_gem_skill_missile_fireball_great_name,Skill Gem (Great Fireball),Skill Gem (Great Fireball),m
+misc_gem_skill_gru_ra_lightning_name,Skill Gem (Gru'Ra's Lightning),Skill Gem (Gru'Ra's Lightning),m
+misc_gem_skill_missile_sazzou_life_drain_name,Skill Gem (Sazzou's Life Drain),Skill Gem (Sazzou's Life Drain),m
+misc_gem_skill_summon_margyott_bat_swarm_name,Skill Gem (Margyott's Bat Swarm),Skill Gem (Margyott's Bat Swarm),m
+misc_darius_glasses_name,Darius' Glasses,Darius' Glasses,p
+misc_material_dragon_scale_name,Dragon Scale,Dragon Scale,f
+misc_material_dragon_heart_name,Dragon Heart,Dragon Heart,n
+misc_key_barracks_name,Barracks Key,Barracks Key,m
+misc_statue_heliria_arm_left_name,Arm of a Statue (right),Arm of a Statue (right),f
+misc_statue_heliria_arm_right_name,Arm of a Statue (left),Arm of a Statue (left),f
+misc_scroll_open_sealed_doors_name,Scroll,Scroll,m
+misc_book_reset_attribute_points_name,Book of Learning,Book of Learning,f
+misc_torn_tome_page_name,Torn Page,Torn Page,f
+misc_forgotten_tome_name,Forgotten Tome,Forgotten Tome,m
+misc_forgotten_language_notes_name,Notes on the Forgotten Language,Notes on the Forgotten Language,p
+misc_attachment_grappling_hook_skill_name,Grappling Hook Attachment,Grappling Hook Attachment,m
+misc_sirynir_notes_name,Sirynir's Notes,Sirynir's Notes,f
+misc_bellkeeper_key_name,Bellkeeper Key,Bellkeeper Key,m
+misc_kings_ruby_name,Kings's Ruby,Kings's Ruby,m
+misc_material_obsidian_horn_name,Obsidian Horn,Obsidian Horn,m
+misc_raider_chief_bag_name,Raider Chief Bag,Raider Chief Bag,f
+misc_gloom_mask_fragment_name,Gloom Mask Fragment,Gloom Mask Fragment,f
+misc_pale_crystal_piece_name,Pale Crystal Piece,Pale Crystal Piece,m
+misc_cedric_customer_name,Cedric's Customer List,Cedric's Customer List,m
+misc_pan_name,Pan,Pan,f
+misc_seasoning_name,Seasoning,Seasoning,f
+misc_wheat_name,Wheat,Wheat,f
+pale_coin_slicing_time_name,Coin of Time,Coin of Time,f
+pale_coin_warrior_name,Warrior's Coin,Warrior's Coin,f
+pale_coin_mage_name,Mage's Coin,Mage's Coin,f
+pale_coin_sage_name,Sage's Coin,Sage's Coin,f
+pale_coin_summoner_name,Summoner's Coin,Summoner's Coin,f
+pale_coin_berserker_name,Berserker's Coin,Berserker's Coin,f
+pale_coin_thief_name,Thief's Coin,Thief's Coin,f
+pale_coin_tower_name,Tower's Coin,Tower's Coin,f
+pale_coin_explorer_name,Explorer's Coin,Explorer's Coin,f
+pale_coin_assassin_name,Assassin's Coin,Assassin's Coin,f
+pale_coin_snake_name,Snake's Coin,Snake's Coin,f
+pale_coin_spellsword_name,Spellsword's Coin,Spellsword's Coin,f
+pale_coin_steed_name,Steed's Coin,Steed's Coin,f
+pale_coin_collector_name,Collector's Coin,Collector's Coin,f

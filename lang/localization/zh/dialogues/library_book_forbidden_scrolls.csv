@@ -1,0 +1,17 @@
+type,id,text,zh
+action,action-022055ba-4254-1f52-9397-6f6915b3bd0d,*A book about the forbidden scrolls.,*一本关于禁忌卷轴的书。
+action,action-62319a1f-80bd-ad2b-4ae3-25abf0147fcf,"Magic scrolls are crafted by inscribing spells upon the parchment, infused with a portion of the caster's own magical essence.",魔法卷轴的制作方式，是将法术铭刻于羊皮纸上，并注入施法者自身的一部分魔法精华。
+option,choice-d86df5cd-8cbd-85f3-d498-433210870ef1,Forbidden Scrolls,禁忌卷轴
+option,choice-834610cb-25a6-ac84-eeeb-89e30da7e265,Scroll of Binding,束缚卷轴
+option,choice-2fc19b23-b837-b079-8505-90b1964a599f,Scroll of Life,生命卷轴
+option,choice-1c16ffb8-b33b-e50b-5bb1-222e04e9407c,leave,离开
+action,action-d32b563f-7980-f5fe-8c9c-b7ad844c9ff9,"This allows any individual to invoke the spell, bypassing the need for formal magical study.",如此一来，任何人都能施放卷轴上的法术，而无需接受正规的魔法研习。
+action,action-26a50797-fa25-5691-5fff-fa528a7e5fb3,"During the era of the Necromancer Wars, scrolls powered not by the scribe's energy, but the life force of victims were forged.",在死灵法师战争的年代，有人锻造出另一类卷轴——其力量并非来自书写者的能量，而是来自牺牲者的生命之力。
+action,action-12288cb0-3522-a7e7-a88f-0f03048db853,"This sacrilege was banned, for they led to widespread death and suffering.",这种亵渎之举已被明令禁止，因为它们曾带来大范围的死亡与苦难。
+action,action-05cd86b4-1cec-b7ab-9048-f1ca2d90e9ae,"The Scroll of Binding is capable of tethering the soul of its wielder to another. Once bound, their fates become irrevocably entwined.",束缚卷轴能将持有者的灵魂与另一人相系。一旦缔结，两者的命运便再也无法分离。
+action,action-10a3641e-97ba-b336-a473-38b5bc527cc5,"Only one recorded instance of its use exists. The necromancer Garthmir linked his soul to King Horun, ultimately forcing the king to obey his will.",有记载的使用案例仅有一例。死灵法师加斯米尔将自己的灵魂与霍伦国王相连，最终迫使国王听命于他。
+action,action-7ad61a31-5d99-a1b9-1ce9-ca66c8154520,"When Garthmir prepared to sacrifice the people of Lirith, the king commanded his own guard to strike him down. The blow ended Garthmir's life, severing the bond.",当加斯米尔准备献祭利里斯的民众时，国王命令自己的卫兵将其斩杀。这一击终结了加斯米尔的性命，也斩断了灵魂的联结。
+action,action-1636d46c-248d-1f03-fe0c-d272704a3d81,The Scroll of Life was forged out of desperation.,生命卷轴诞生于绝望之中。
+action,action-e07004d9-5a0d-7fa7-2c64-c1ee377784fc,"In his pursuit of immortality, the necromancer Sazzou offered the life of his beloved, using it to craft the Scroll of Life.",死灵法师萨佐为追求不朽，献出了挚爱之人的性命，以此锻造出生命卷轴。
+action,action-4392212c-dd4c-fb06-7c1d-8d8e051fb893,"This artifact enables its wielder to bind a spirit to its former vessel, mending even mortal wounds in an instant.",此神器能让持有者将灵魂重新束缚于原先的躯壳，即便是致命的创伤也能在瞬间愈合。
+action,action-d2860b7e-4330-14c1-eb3d-5f3b67cee624,"Yet if the body has decayed beyond use, resurrection becomes impossible. The soul may return, but it will linger in the mortal realm, unable to find rest.",然而，若躯体腐朽到无法使用，复活便无从谈起。灵魂或许会归来，却只能徘徊于凡世，永不得安息。

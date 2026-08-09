@@ -1,0 +1,84 @@
+type,id,text,zh
+action,action-d5534c9e-819c-9882-ad2b-a25acdbac95e,Hol'up!,等等！
+action,action-bb4c28e4-d1af-3c3d-534a-dcac79945941,You spot my specs anywhere?,你有没有在哪儿瞧见我的眼镜？
+option,choice-63f3e3a3-8a1d-03c5-590a-cf3814e00295,Here are your glasses.,这是你的眼镜。
+option,choice-2582f4dc-c38a-2e3b-a051-debf25aca26a,I'll find your glasses.,我会帮你找到眼镜的。
+action,action-211e50d2-12c1-8678-da3c-edc279a4a007,There ya are.,可算找着了。
+option,choice-861ff71e-b3d9-7362-99f9-53465927da97,Who are you?,你是谁？
+option,choice-5bf489d7-cf13-f00f-eee0-5ddc728ef8a9,May I help you with something else?,还有什么我能帮忙的吗？
+option,choice-e6a8323a-e75d-fe24-4e89-bea018c7bd4b,Do you have something to sell?,你有什么东西卖吗？
+option,choice-fb35bad9-d58e-28e3-a280-77ac2597fca4,Can you show me how to mix potions?,你能教我怎么调配药水吗？
+option,choice-f9c70ac1-15db-70bc-d0de-cbba5fb66eb1,Let's craft some potions.,我们来做点药水吧。
+option,choice-5f4b5115-67c0-d59a-de50-c1734401c8a7,I'll bring you the plants.,我会给你带植物来的。
+option,choice-b41c89f2-fa80-bbc5-aa0d-e2917abd73e3,Here are a few herbs.,这儿有几株草药。
+option,choice-33fac6ab-dbf0-73f3-341c-b4a54332aba0,Can you teach me something?,你能教我点什么吗？
+option,choice-762eb7a9-f2c6-4252-80f5-e55698d1edd9,See you!,回见！
+action,action-52915974-5b66-14e5-5193-6175ff10d103,Nice! Thanks a bunch!,太棒了！多谢多谢！
+action,action-f765135f-92cd-6fe5-0b51-d5a08fd8971a,"So, what ya need?",那么，你需要点啥？
+action,action-97bae6af-a120-3507-f63c-a69a5cb44421,I'm #:Darius:#.,我是#:达里乌斯:#。
+action,action-8f1a4ed5-e983-335e-6df8-7e62f788e9c3,Peep around and you'll straight up see I'm a herbalist.,你四下瞅瞅就明白了，我是个草药师。
+action,action-70b99590-3e8d-ff55-55a9-d70d9c412661,In other words: alchemist.,换句话说：炼金术士。
+action,action-a48e2b4b-3286-6a6f-ee59-72ce7f2968ff,For sure.,没问题。
+action,action-3df171fe-b9cd-ab7f-4d5f-7126e91bbb52,Come back later.,回头再来吧。
+action,action-f075a9b0-feb2-5141-9604-d358a1bd1dd2,"Sure.
+I'm slowly runnin' out of herbs.","当然有。
+我的草药快见底了。"
+action,action-36a0e0bb-fe8b-8efc-6fae-14555c9387e3,"I wanna go out and hunt for some myself, but my eyes ain't what they used to be.",我倒想自己出去采点，可我这双眼睛不比当年喽。
+action,action-e86fc58b-00b6-397e-2b43-b9f4311ab9c0,Can ya get me some herbs?,你能帮我弄点草药来不？
+action,action-dbb75503-797c-00a2-a23f-cf27fb06d2a2,I reckon ten plants will do me for now.,我估摸着十株植物暂时就够用了。
+option,choice-51396573-3f18-de7c-440d-b52a0b4b722c,I'll bring you the herbs.,我会给你带草药来的。
+option,choice-d0b2d00b-5c41-d1a1-feb1-2f378bc8710f,Where can I find the herbs?,在哪儿能找到草药？
+option,choice-82f843d5-4b9e-68ab-2ee2-1e28e90790c1,Which herbs do you need?,你需要哪些草药？
+option,choice-e0474764-6091-4bb6-36e8-5815a872ee1b,Maybe later.,以后再说吧。
+action,action-9450b63b-9c57-35c1-cef5-df8b33d8bfdd,Awesome! Just hit me up with some if you got any.,太好了！弄到了就随时来找我。
+action,action-57885781-a2e1-8332-c27c-99478717eec7,"For real, all over the place.
+You'll likely spot most of them in the woods.","说真的，到处都是。
+大部分你多半能在林子里瞧见。"
+action,action-cc7489ad-1450-fb38-c548-95b590c1ad3b,"It doesn't matter.
+I can mess with all sorts of herbs and plants for my studies.","无所谓。
+各种草药和植物我都能拿来做研究。"
+action,action-9b15245b-c93e-b5f5-e74f-48606cfd3fd3,"But I prefer the rare things.
+Something like Brightleaves or Nightvines would be ideal.","不过我更喜欢稀罕玩意儿。
+亮叶草或者夜藤那样的就最理想了。"
+action,action-846b4fe7-24ff-bade-543e-3e550c3286a5,That sucks. Just come back if you rethink it.,真扫兴。改主意了就再回来吧。
+action,action-2eb223fa-4ed6-bd00-2ce4-63d59482e85d,"Great!
+What you got?","好极了！
+你带了啥？"
+option,choice-190470b3-5a6e-fed0-7789-008b976db374,Small Healing Herb,小治愈草
+option,choice-5c38c647-ec42-b151-4c78-f8b292dfb422,Glow Mushroom,微光蘑菇
+option,choice-8c5b9cdd-bc7b-1cf6-7b42-857bba58e5f7,Darkshroom,暗影菇
+option,choice-5dfcb91f-7757-919c-9ad9-00715efbd111,Toadstool,毒蕈
+option,choice-d845e860-f9ef-cc12-1923-bba86216fdeb,Nightvine,夜藤
+option,choice-ecd443f7-f907-a1f7-5003-51b75626bfa3,Brightleaf,亮叶草
+option,choice-dad472f0-fa77-ea50-9785-0c718d5e0958,Otus Flower,奥图斯花
+option,choice-1ccd9266-e49a-db88-300b-fc8b0a4ff094,Twin Leaf,双生叶
+option,choice-999e9dff-b097-159c-e2a2-7f6b8e8e2d76,I'll come back later.,我以后再来。
+action,action-9273494e-a2fc-5cb9-8814-82ee92ecae71,Sure.,好嘞。
+action,action-86541631-17bd-83e8-cb95-9fe207a2930e,Thanks!,谢啦！
+action,action-ff528369-0e1c-73cf-e8bb-bb70fc25cd21,I think I'm good.,我觉得够用了。
+action,action-a34f1d3e-f6b3-0f4d-b15b-f44383876bcf,Any other herb you wanna give me?,还有别的草药要给我不？
+action,action-9b30cadc-d62f-86a5-d123-869bae12a570,"If it was my call, you'd be accepted at the academy.",要是我说了算，学院早就收你了。
+action,action-4865b670-82b8-c483-8aa8-70d0c8e857e8,I'll definitely let Warak know.,我一定跟瓦拉克说一声。
+action,action-d331dd9e-b5f0-7e7b-a7f0-b548ad49d0c0,"Nah, I don't think so.
+In the end you'll most likely poison yaself.","不，还是算了吧。
+到头来你八成会把自己毒倒。"
+action,action-09d6bea1-1b77-1381-d975-1de3b7f1346b,"Just bring me the blueprint and the materials.
+I can craft the potions for you instead.","把配方图和材料带来给我就行。
+我可以替你把药水做出来。"
+action,action-2f916390-b9b7-8c36-244f-ee56ae96c4c0,Then let's heat up the burner.,那咱们就把炉子烧起来吧。
+action,action-cc7705d2-6855-73aa-c4b7-e842698a08d0,"Look at that!
+That's a rare lil plant you got there.","瞧瞧这个！
+你手里这小家伙可是株稀罕植物。"
+action,action-57d45269-ac91-e2fe-af87-7ec49a6dc0c8,"Yeah, sure.
+I can show you how to easily find the plants in nature.","行啊，没问题。
+我可以教你怎么在野外轻松找到植物。"
+action,action-9d2724f4-a442-b8c7-b7f4-8a088b9978b9,"People think the plants won't grow back.
+But if you know better, you'll always spot somethin'.","人们总以为植物不会再长出来。
+可你要是懂行，就总能有所发现。"
+option,choice-b15bfd82-e3cc-4d0a-54f2-712cbf031392,Plant Knowledge [1 AP],植物知识 [1 技能点]
+option,choice-2792f3c9-3a9b-64ef-8248-bcd7911bd36f,That's all.,就这些。
+action,action-d4b680e8-2281-8f8a-ec48-0708281e8da2,"Well, it's actually quite simple. Plants always grow back.
+It's best to look around carefully each time to see if you can spot another plant.","嗯，其实很简单。植物总会重新长出来。
+每次最好都仔细四处看看，说不定又能发现一株。"
+action,action-c43191ac-c86f-8a95-f5e7-6ce5b02c0cd4,"It also helps to know what the plants look like, though.",当然，认得植物长什么样也很有用。
+action,action-185d200b-71dc-2c8b-4c8f-037ee958319c,Come back later.,回头再来吧。

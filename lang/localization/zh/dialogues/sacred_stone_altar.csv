@@ -1,0 +1,5 @@
+type,id,text,zh
+option,choice-1190c20b-b701-cf54-15e9-e96d98dbd28e,Place Erylding,放置埃里尔丁
+option,choice-b19b0827-128b-f126-7b74-c5ab1f75cc36,Place Nayryth,放置奈里斯
+option,choice-d7d36210-576f-9b40-c424-4a0d02814f4c,Place Ferumor,放置费鲁莫尔
+option,choice-057b82f4-efcb-4235-70b1-0df3825ef5a1,leave,离开

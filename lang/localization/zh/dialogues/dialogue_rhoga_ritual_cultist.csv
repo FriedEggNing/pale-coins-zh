@@ -1,0 +1,64 @@
+type,id,text,zh
+action,action-87147225-6db7-e479-2f23-8a7fededfa81,"Who do we have here?
+A new aspirant?","看看这是谁？
+一位新的求道者？"
+action,action-0eb60bf0-4c9d-bdd8-5ece-245292ce189c,"Ahh, you again.",啊，又是你。
+action,action-a0a15b14-6a67-b41e-b7b2-7332ec13de2c,Or is it a mere traveler?,还是说，只是个过路的旅人？
+option,choice-ef1b9da4-933a-6f50-652c-c2622d18c741,Who are you?,你是谁？
+option,choice-94617c2d-1495-b42d-db8b-870af9a66075,What are you doing here?,你在这里做什么？
+option,choice-2fced592-f4bd-f8b8-2c7e-4f2d4f80a5c7,I will help you with the gems.,我来帮你找宝石。
+option,choice-1c6eb76e-e5b9-cf62-7550-ae3a5201fc87,"Here, I have some gems to spare.",给，我这里有些多余的宝石。
+option,choice-9aa94d72-dea1-4049-47fa-dd07db88ace0,"Here, I have some gems to spare.",给，我这里有些多余的宝石。
+option,choice-6d58de39-2d5e-06a0-bc06-78a86b1d6bc6,How to I access the temple?,我要怎么进入神殿？
+option,choice-7184d790-3041-25e9-6766-a06b96b8138d,I am on my way.,我先走了。
+action,action-20d0890f-6d8f-91c0-e997-ad197dbf1250,"I don't have a name.
+Just like every other member of our sacred bond.","我没有名字。
+就像我们神圣盟约中的每一位成员一样。"
+action,action-2006a990-1db9-f675-ffdc-05c876837dcc,Only our leader was given a name by our god.,只有我们的领袖获得了神赐予的名字。
+action,action-bfc4517e-c291-17fe-1a76-97bab63a4d0f,I usually study the power of small gems and their effects on our bodies.,我平日研究小型宝石的力量，以及它们对我们身体的影响。
+action,action-9ccb0852-6ab0-59d6-11c3-8e764c1d819c,"However, my last gem broke during one of my experiments.",然而，我最后一颗宝石在一次实验中碎掉了。
+action,action-4ebd1968-e460-63d9-3e6e-9e32de50436b,...,……
+action,action-a04cc231-4924-41a8-c6b9-bb3d3a31996d,"Thinking about it...
+You could help me out a bit.","这么一想……
+你倒是可以帮我一把。"
+action,action-753a5a23-e70a-874f-4697-09aefd479212,"What do you think?
+Can you bring me some gems so I can continue my experiments?","你意下如何？
+能给我带些宝石来，让我继续我的实验吗？"
+option,choice-c400569b-bd17-05a9-cfb3-c82fbe9291d3,I will bring you a gem.,我会给你带一颗宝石来。
+option,choice-81a2ab8f-60d2-bb4b-5243-54cd61d51a54,Where can I find gems?,我在哪里能找到宝石？
+option,choice-bafec8bd-6940-9292-1398-ad76610b6292,I don't have time for that.,我没时间管这个。
+action,action-59305191-f6b3-91f6-054e-d6cec6df9a12,"Wonderful.
+Let me know as soon as you have some gems to spare.","太好了。
+你一有多余的宝石，就来告诉我。"
+action,action-149e5dc7-f690-687f-4d95-a5edaf73b181,"The creatures around here may have gems in their innards.
+Apparently they find the gems in the mud around here.","这一带的生物腹中可能藏有宝石。
+它们似乎是在附近的泥浆里找到这些宝石的。"
+action,action-69f89d58-fee1-2cb1-a0ff-508f0b8c429c,"Alternatively, you may find gems at merchants.",或者，你也可以在商人那里找到宝石。
+action,action-17ded935-a71f-7f8d-b0fe-e7baa211a291,Shame...,可惜……
+action,action-b137d1c9-3bcb-f2b6-2dd5-5ac4e0f779d9,I'll still be here in case you change your mind.,如果你改变主意，我还会在这里。
+action,action-fcd22731-a0c4-1eb5-015c-1c23e6f1d287,Let me see.,让我看看。
+option,choice-4c7e4cc6-6cb6-872e-6868-6d79da0a79a4,Here's a small green gem.,这是一颗小绿宝石。
+option,choice-58eb1535-c8f0-72ac-9fd7-bf348daa02e4,Here's a small red gem.,这是一颗小红宝石。
+option,choice-56366f80-11d7-e11b-4566-9d87161ea589,Here's a small blue gem.,这是一颗小蓝宝石。
+option,choice-fadea095-67d8-33a2-35e3-1cd003fe09fb,Here's a small yellow gem.,这是一颗小黄宝石。
+option,choice-27b83a45-01b7-bded-06a2-7182535f6fb9,Here's a small blood gem.,这是一颗小血宝石。
+option,choice-f55a4152-68db-558c-44c8-01d4c7bb6afb,I don't have any gems.,我没有宝石。
+action,action-f90a5c2d-9fc4-5c70-c9c1-ac561d806e76,Come back later.,那就以后再来吧。
+action,action-41408eb2-d9e7-9440-aa0d-6f2c9039774b,"Very well!
+With this one I may be able to do more experiments.","很好！
+有了这颗，我或许能做更多实验了。"
+action,action-f8d9d057-6f58-f4d1-956f-13b3745a6028,Be careful around here.,在这一带小心些。
+action,action-db6f9695-df4b-399d-2cf8-cd867566336f,Our spiritual leader B'Oldar does not open the temple to everyone.,我们的精神领袖博尔达尔不会向所有人敞开神殿。
+action,action-4d6b20b2-a6fe-9f66-efa7-283e4e8348d1,"Unless you are a brother of our community, you will not be allowed to enter.",除非你是我们教团的兄弟，否则不得入内。
+action,action-d7fb4398-a530-2611-e868-041abe30ade1,...,……
+action,action-f4b0ca70-c94a-2d23-7a1c-0baa284636ad,"However, there were exceptions.
+Strong fighters were allowed to enter our sacred temple under certain circumstances.","不过，也有过例外。
+在特定情况下，强大的战士曾被允许进入我们神圣的神殿。"
+action,action-7bf4bf33-3ba6-aca0-8ba6-98881c045592,"I think you too have the potential to do so.
+It would be best to speak to B'Oldar.","我认为你也有这样的潜质。
+最好去和博尔达尔谈谈。"
+action,action-e2951c73-1124-9485-c75f-54e2ec937b59,"Although you already seem quite strong, you will need to gain a little more experience in combat to be allowed to enter the temple.",虽然你看起来已经相当强大，但你还需要再积累一些战斗经验，才能获准进入神殿。
+action,action-25cada10-c774-ff43-2d4d-a42e9616d573,But you don't seem to be strong enough for that yet.,但你现在似乎还不够强大。
+action,action-a4e1d04c-8249-4fd5-5256-9217ea2a4b16,"You should consider joining us before entering the temple.
+So far, none of the fighters have come out of the temple.","在进入神殿之前，你应该考虑加入我们。
+到目前为止，还没有一个战士从神殿里出来过。"

@@ -1,0 +1,5 @@
+type,id,text,zh
+action,action-2ff01720-d0e2-a6d5-3fef-5ecbeb9c8f4f,Press ###input.INPUT_ATTACK### to fire in the direction you are moving.,按###input.INPUT_ATTACK###朝移动方向射击。
+action,action-16587ba8-28a4-ee3c-550d-6906e62b33f3,Press ###input.INPUT_ATTACK### to fire in the direction you are aiming.,按###input.INPUT_ATTACK###朝瞄准方向射击。
+action,action-ba8fda54-05df-4072-2688-fd9263e3d48c,Attack distant targets using ranged weapons or skills.,使用远程武器或技能攻击远处的目标。
+action,action-ecfdce35-70a5-492c-5268-c552d1879046,Hold ###input.INPUT_AIM_SKILL### to aim skills precisely with a gamepad.,使用手柄时，按住###input.INPUT_AIM_SKILL###可精确瞄准技能。

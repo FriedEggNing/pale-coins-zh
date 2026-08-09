@@ -1,0 +1,11 @@
+type,id,text,zh
+action,action-3b2b9570-8a94-0f85-9c36-ffa0c6058f8c,*The Berserkers of Vicluth,*《维克卢斯的狂战士》
+option,choice-ae009cda-fa7a-6c5f-66bf-aac033b6492a,Strength,力量
+option,choice-cfbc222d-5ac4-5387-c8af-1f9cc71f0c69,Quest,求索
+option,choice-d4e38c6a-af80-73ef-98a6-1ab80cad4ff7,Challenge,挑战
+option,choice-5e576aab-b815-5d6a-a0bf-d15fb4bb41bb,leave,离开
+action,action-b8556847-00b7-4453-1933-1d2326ba38f8,"Across the world, the berserkers roam - warriors bound by a single, relentless pursuit. Strength is their currency, battle their forge.",狂战士的足迹遍布世界各地——他们是被同一种执念驱使的战士。力量是他们的通货，战斗是他们的熔炉。
+action,action-1eed00a7-f185-a0c0-2657-cb3b659b1d4c,"Scattered across lands, far away from their once homes and families in Vicluth, they test themselves against the wild, against men, against the limits of their own endurance.",他们散落四方，远离维克卢斯的故土与亲族，以荒野为敌，以世人为敌，向自身耐力的极限发起考验。
+action,action-95486b2e-a698-82e9-b4a6-43c110fd0ce7,"Their ultimate goal is no simple victory. To prove their worth, they must slay a beast mighty enough to earn the respect of their elders.",他们的终极目标绝非寻常的胜利。为了证明自身的价值，他们必须斩杀一头足够强大的巨兽，以赢得长老们的敬重。
+action,action-1a6fffef-6396-75fe-e3a3-b56255c93983,"Until then, they wander, seeking challenges, honing their bodies and minds, growing stronger with every scar.",在那之前，他们四处流浪，寻求挑战，磨砺身心，每添一道伤疤便更强一分。
+action,action-a9b51590-b340-ceeb-e1eb-7660467fc26c,"Some never return, while others walk into the halls of their ancestors, bearing the mark of conquest - proof that they have found their strength in the heart of a worthy foe.",有些人一去不返；另一些人则带着征服的印记步入先祖的殿堂——那是他们在强敌心脏中觅得力量的明证。

@@ -1,0 +1,134 @@
+type,id,text,zh
+action,action-f99bccf6-3918-c719-46c6-4ba848be9897,???,？？？
+action,action-7080e0d0-bdb2-dbf7-db0c-639ac22b17c7,???,？？？
+option,choice-ab94e184-5579-6952-5f6b-1e9b2a00ba17,I don't understand...,我听不懂……
+option,choice-dfb85617-98ee-dd0e-957a-073df10470c5,(Leave),（离开）
+action,action-cd455a61-a17d-cc0c-13ea-8b887b9b260c,???,？？？
+action,action-b8fec4c8-306d-95c1-7808-9daa281a64e2,May I help you with something?,有什么我可以帮你的吗？
+action,action-0cb14446-6063-7a24-1ff9-1f5a675048be,Do you understand me?,你能听懂我说的话吗？
+action,action-1ca23690-a30a-1965-8e85-70da9a28bc9b,...,……
+action,action-2eeecd19-dca5-67f2-96b8-94fa8647d3b2,"Judging by your look, I'm interpreting that as yes.",从你的表情来看，我就当你是听懂了。
+option,choice-78d15ee1-5cf3-7a7c-066a-7c4c824a04eb,What was that book?,那本书是什么？
+option,choice-dd4af872-b932-7ac6-16d3-db15a3ec510a,Why did you attack me?,你为什么攻击我？
+option,choice-8b5ac598-67e0-b735-4868-705305580012,Who are you? Or what?,你是谁？或者说，是什么东西？
+option,choice-1c05cece-d3ca-01e7-b9aa-1f2c3918a38b,Where is the city Dhul'oq?,杜尔奥克城在哪里？
+option,choice-6af6a187-f16e-ab24-2002-b91e5d10723d,What is in the next room?,隔壁房间里是什么？
+option,choice-f5fcf7c4-4b6c-908c-5e11-136972ed262b,Tell me about the sacred stones.,跟我说说圣石吧。
+option,choice-98a83fae-32eb-ae61-8b96-a2e7e4c10b48,I found this Coin from Dhul'oq.,我找到了这枚杜尔奥克的硬币。
+option,choice-cbef809a-8582-eb13-2f4f-436a2077fc57,I would like to exchange the coins.,我想兑换硬币。
+option,choice-f844e5d5-3bbe-2193-53a4-7df8c1a11ced,What do I do with a Pale Coin?,苍白硬币该怎么用？
+option,choice-09bccdbe-03ac-2bb3-6a8a-623458ed4206,I want to destroy a Pale Coin.,我想毁掉一枚苍白硬币。
+option,choice-e248588c-e615-b532-6705-3dc04eb42147,Here are Pale Essences.,这是苍白精华。
+option,choice-4d15de91-fa24-9947-2316-c6e880e089b0,(Leave),（离开）
+action,action-6d5c715f-1407-0955-91d8-14c013ecb9b6,It was a book of magical knowledge.,那是一本记载魔法知识的书。
+action,action-bb78eb81-79a0-2d11-4a31-69a76c8e75b8,This knowledge makes it possible to learn special skills.,这种知识能让人习得特殊的技能。
+action,action-e1a5360a-4f69-0ea4-3812-09407691e948,"In this case, it enabled you to understand my language.",就你而言，它让你能听懂我的语言。
+option,choice-556d2707-fc43-5f1f-6c04-a2d7e5dc8ba3,Why did you give the book to me?,你为什么把书给我？
+option,choice-154a6f5a-45f9-3c49-c3be-332b5acd4961,Thanks...,谢谢……
+action,action-64c9bc5c-bdc8-cc88-f6c6-1eb341f3af98,How else are you supposed to understand the ancient language?,不然你要怎么听懂古老的语言呢？
+action,action-ea7f4ced-8e5f-e5da-c6da-9802f9bb11da,There is nothing to thank me for.,不必谢我。
+action,action-f1b000d6-1f57-0334-0a56-45e99fa7cf85,I am the keeper of the city Dhul'oq.,我是杜尔奥克城的守护者。
+action,action-ecca2267-d987-bd66-f1bb-134030ae6d65,"Before Dhul'oq's ascension, I was my master's servant.",在杜尔奥克升空之前，我是我主人的仆从。
+action,action-74267d30-bd9a-ad0f-e634-f73a712679ca,"But after his disappearance, I stayed here in his chambers and from then on I protected what was still to protect.",但在他失踪之后，我便留在他的居所里，从那时起守护着尚可守护之物。
+option,choice-da128bf0-1ce7-b293-bc1c-ba831f0a7661,Who was your master?,你的主人是谁？
+option,choice-d4407b92-5644-3362-132e-ae0cde3e9a57,You mentioned the Pale Ones.,你提到了苍白者。
+option,choice-cacee6c2-83c3-38b4-4d41-07527abd5bcc,I want to know something else...,我想问点别的……
+action,action-8955e82d-598d-58cb-ed1f-f5aa6679f146,My master was the high priest of Dhul'oq.,我的主人是杜尔奥克的大祭司。
+action,action-1ca4e4d8-daeb-4f3d-e950-a70ff56535fa,Yes?,什么事？
+action,action-cc28933b-3092-300f-c324-46f3f5fed62d,"The city is high above your world.
+High up in the sky...","这座城远在你们世界的上方。
+高悬于天空之中……"
+action,action-a0fa546f-c330-ea61-1b87-3b90f4d549df,"Only the tower, the center of the former Dhul'oq, remains as the connection between us and the city.",唯有这座塔——昔日杜尔奥克的中心——仍是我们与那座城之间的连接。
+action,action-77ad9556-71a4-8a16-2cf0-b273e58b083f,But the Pale Ones corrupted him... us...,但苍白者腐化了他……也腐化了我们……
+action,action-2f3fb769-a6dc-8033-eb8c-8ebc6cff584a,The Coins should not have been...,那些硬币本不该存在……
+action,action-8ca6fafe-dcc3-5b1d-f35d-2346c0de803c,never...,永远不该……
+action,action-bbd36d03-537f-b699-6254-e319891610af,NEVER!,永远不该！
+action,action-d4c84fbd-f09b-e884-3d27-907bb19fd80e,The creators of the Pale Coins...,苍白硬币的创造者……
+action,action-d0039390-ed74-1a63-a0ad-b642f946766d,"We worshiped them.
+They were supposed to break our limits and reshape our society.","我们曾崇拜他们。
+他们本该打破我们的极限，重塑我们的社会。"
+action,action-c668b337-a603-df46-0e4e-4a1235cdc14d,That was exactly what they did. And along they caused our destruction.,他们确实做到了。可与此同时，也带来了我们的毁灭。
+action,action-478be734-6672-ad6e-bd5c-8adab820a796,"After the creation of the coins, the Pale Ones left us in our misery.",硬币铸成之后，苍白者便弃我们于苦难之中。
+action,action-8004b755-7a46-ddb1-436b-0a935c35b4aa,"My task is to defend.
+I did not know your intentions, therefore I had to act.","我的职责是守卫。
+我不知你来意如何，因此不得不出手。"
+action,action-8e35efdd-6cd8-8600-44b0-6229822d104c,"However, I know when I have to admit defeat.",不过，我也知道何时该承认败北。
+action,action-92160b4b-ea44-d5d5-37b4-7e78073c44cf,"But do not assume that everyone in this tower acts the same.
+Most of us are already too corrupted to think clearly.","但不要以为这座塔里的所有存在都会像我一样行事。
+我们大多数早已腐化过深，无法清醒思考。"
+action,action-cbed900f-d72b-164a-02f5-ad06408b5714,"The portal to the sanctuary of Dhul'oq.
+It is the only way to reach the city without knowing how to fly.","那是通往杜尔奥克圣所的传送门。
+若不会飞行，那便是抵达那座城的唯一途径。"
+action,action-1bc75634-da37-ede5-4b5d-a1f7a23f8a5f,Read the ancient text of the tablet and I will tell you what I know.,读一读石板上的古老文字，我便告诉你我所知道的一切。
+action,action-e334b73b-8214-2b36-4fab-3ddc644afa3a,"The three sacred stones - Nayryth, Ferumor and Erylding - were used to activate the portal to Dhul'oq.",三块圣石——奈里斯、费鲁莫尔与埃里尔丁——曾被用来启动通往杜尔奥克的传送门。
+action,action-1bc364eb-1f9f-b1bb-197c-db128633d118,We deactivated the portal after the creation of the Pale Coins and gave the stones away.,苍白硬币铸成之后，我们关闭了传送门，并把圣石送了出去。
+option,choice-2391bfd0-4290-ba9f-f559-cc81de868920,Where are the stones now?,圣石如今在哪里？
+option,choice-935ffd00-65ce-6511-224b-7c6d424c4317,How can I activate the portal?,我要怎么启动传送门？
+option,choice-2a6e90ba-ab65-fe24-8a76-21c47ce5c429,I want to know something else...,我想问点别的……
+action,action-4058a761-58ea-3e2b-a3a9-afb9af8717c1,Yes?,什么事？
+action,action-90e988cc-e0f8-7215-05c5-d3cd7a0f956c,"The stones, as well as the lords who received them, disappeared.",那些圣石，连同接受它们的领主们，都消失无踪了。
+action,action-5b573f70-6799-94bf-0d07-8cebc2171003,I can't tell you where they are now.,我无法告诉你它们如今身在何处。
+action,action-306c4734-fe00-6be3-847b-353c4273b165,"Place the sacred stones where they once were, and the portal shall fulfill its purpose.",将圣石放回它们原来的位置，传送门自会履行它的使命。
+action,action-a5bef20a-00c2-610e-795d-e697676c825f,"Maybe, you will find such information inside this tower.",也许你能在这座塔里找到相关的线索。
+action,action-882d84a7-9ecb-6d93-1c42-cf30b242a663,A Pale Coin is able to greatly increase your power if you know how to use it.,若你懂得如何使用，一枚苍白硬币便能大大增强你的力量。
+action,action-39646e14-f3e2-cc72-c04f-4e089c7d1f8a,"Though, with the current knowledge about the coins, I advise against the use of them.",不过，以目前对硬币的了解，我劝你不要使用它们。
+option,choice-9d3e86ba-d8f2-3996-762f-e9647fc93fee,How can I use the coin?,我要怎么使用硬币？
+option,choice-57c935e3-bb33-5410-5b21-8abf272d0d00,What should I do?,那我该怎么做？
+option,choice-e099f0aa-2b0d-1e8a-ee53-9622d035f74c,That is all I wanted to know.,我想知道的就这些。
+action,action-99658b05-65f5-76ab-c81d-d40a4280142b,Too much destruction has already been caused by their sheer existence.,仅仅是它们的存在，就已造成了太多毁灭。
+action,action-be9137f5-6e80-9ad7-a0ff-0518051e9e11,Be careful.,千万小心。
+action,action-a25d4ec9-b8d3-5208-05c3-9a76d0f58ed0,"Unfortunately, I don't know the answer to that question.",很遗憾，这个问题我不知道答案。
+action,action-d4947fbc-95d1-a923-6160-be46a87c6d02,"Even if I knew, I wouldn't want to tell you.",即便知道，我也不愿告诉你。
+action,action-da94a390-d5c5-99e0-a050-b0f4509dfad4,"You should destroy the Pale Coins, before further harm is caused.",你应该毁掉苍白硬币，以免造成更多伤害。
+option,choice-bdad6526-37cf-7a98-ffa6-44d95c451d43,How can I destroy the Pale Coins?,我要怎么毁掉苍白硬币？
+option,choice-5537db14-7bf3-df5d-9223-f3f42d3b4e72,I don't think I will.,我看还是算了。
+action,action-fa695108-257e-ccd4-92ed-16f2f36267f9,"Parts of their power also flows within my veins.
+Therefore, I am able to remove their very essence and convert it into something else.","他们的部分力量也流淌在我的血脉之中。
+因此，我能剥除硬币的本源精华，将其转化为别的东西。"
+action,action-f675756f-31f1-bd45-2cd5-8a79ac1ade73,That decision is up to you.,如何抉择，由你决定。
+action,action-de8cbe73-7f67-9691-aeae-2d4cdabd76e0,"If you wish to destroy a coin, hand it over to me. I will render it useless to this world.",若你想毁掉一枚硬币，就把它交给我。我会让它于这个世界再无用处。
+action,action-96598710-59b0-086c-76ba-f0f244937ead,Are you sure?,你确定吗？
+option,choice-c3c5efd0-cace-7fbb-8276-75cc80333f2c,Yes. Destroy the coin.,是的。毁掉这枚硬币。
+option,choice-db2ccd8a-61e7-1e37-444c-be82c751a1c0,No.,不。
+action,action-7a363c15-5b16-f0cb-f40a-a1e099f73429,"Well then, it surely is not an easy decision to make.",也罢，这确实不是个容易的决定。
+action,action-116c3d9a-4086-c91c-c4dd-b63b4d6d97b6,So be it.,那便如此吧。
+action,action-b8deee86-2a25-0d0f-0421-fe933b6a9ce9,"So you found yourself a sacred stone already?
+I must admit that this surprises me.","这么说，你已经找到了一块圣石？
+我得承认，这让我颇为意外。"
+action,action-2bf4ebec-92f9-349b-f3b5-622a74b8b4a0,I remember reading a text about the sacred stone Nayryth shortly after the stone was given away.,我记得在圣石奈里斯被送走后不久，读到过一篇关于它的文字。
+action,action-b758aa3d-5cf3-7d3a-f22c-fb12a6012791,"It was one of our priests who delivered the stone to #:queen Heliria:#.
+While I don't think she is still alive, the stone may have never left her side.","是我们的一位祭司将圣石送到了#:赫莉莉亚王后:#手中。
+虽然我想她早已不在人世，但圣石也许从未离开过她的身边。"
+action,action-ae00dadb-a2aa-beac-4865-130e7bc89e2d,Surely you'll find the sacred stone where Heliria was buried.,在赫莉莉亚安葬之处，你定能找到那块圣石。
+action,action-79cbab99-2249-3071-f718-261fad562651,A while ago I came across a text about the sacred stone Ferumor.,前些时候，我读到过一篇关于圣石费鲁莫尔的文字。
+action,action-bfbcdca3-4c0a-900d-45e3-c75abaef04ff,"They figured it'd be a wise choice to hide the stone deep inside the #:volcano:#, where it's heat would not cause any harm.",他们认为把圣石藏进#:火山:#深处是个明智的选择，那里的高热不会造成任何危害。
+action,action-c6fc230e-e427-dbc2-e7dc-6b0e4e2bc75e,This information may help you in your quest to find the stones needed to access Dhul'oq.,这些信息或许能帮你找到进入杜尔奥克所需的圣石。
+action,action-f0e967d7-9a9a-8b0a-15bd-6fcf08e582be,I wonder what happened to the people of #:Rhoga:#.,不知#:罗加:#的子民后来怎么样了。
+action,action-8b9b8b13-6501-4010-e544-c515d636d3bf,The sacred stone Erylding had been given to them to keep the stone protected.,圣石埃里尔丁曾被交予他们保管守护。
+action,action-8bd7c085-3925-f056-535d-d1f329d21e9e,"However, I remember the stone emitting a frightening aura.
+Hopefully they knew how to safely seal the stone away.","不过，我记得那块圣石散发着令人恐惧的气息。
+但愿他们知道如何将它安全封存。"
+action,action-5fbece83-25bc-0dc1-69ad-920acfd18910,This shall be your reward.,这是给你的报酬。
+action,action-1e6ea4dd-d0b4-24c4-18a9-3b815538ce2f,"A coin that was forgotten, like the city.
+This coin has little value to you.","一枚被遗忘的硬币，就像那座城一样。
+它对你来说没什么价值。"
+action,action-04e26a93-1c47-a8ed-7672-61c8208511db,"However, it reminds me of times when the world was not yet shaped by the Pale Ones.",但它让我想起那段世界尚未被苍白者塑造的岁月。
+action,action-ebecd233-66cb-8882-ce24-05a4d75363d0,"Bring me more of these coins, and I shall exchange my knowledge with you in return.",给我带来更多这样的硬币，我便以我的知识作为交换。
+action,action-a6336e3e-79e2-31d7-e140-f1b86216e55f,"Very well.
+Take a look at my knowledge.","很好。
+来看看我的知识吧。"
+action,action-8773ed40-48ef-c463-d552-0ae81f0b249a,*you are given a #:mysterious book:#.,*你获得了一本#:神秘之书:#。
+action,action-472e6618-765d-3d9c-b0b6-1b2833c02bd5,"I am starting to understand the Coins themselves.
+They seem to be conduits for a greater power. The Pale Essence.","我开始理解这些硬币本身了。
+它们似乎是某种更强大力量的导体。那便是苍白精华。"
+action,action-3a161d16-e917-15f2-90ed-ebcc736e046a,"I seek deeper knowledge of the essence.
+Deliver the Pale Essences to me for my studies, and you shall be rewarded.","我想更深入地了解这种精华。
+把苍白精华交给我供我研究，你自会得到报酬。"
+action,action-ae8a0bca-762b-8612-561f-240bcf16cf36,"Good!
+How many do you have in  your possession?","很好！
+你手上有多少份？"
+option,choice-79bb24c9-f036-fc01-63f1-e022560cf7b2,1 Pale Essence.,1份苍白精华。
+option,choice-b52ba5b9-dbe9-f4d4-fef2-e027380a4db8,5 Pale Essences.,5份苍白精华。
+option,choice-28d7c1fb-9da3-4b31-e072-0824e211b128,10 Pale Essences.,10份苍白精华。
+option,choice-91063b16-7fc0-36a4-0cfe-b6b12536f2a6,I've changed my mind.,我改主意了。
+action,action-25d70951-4e74-9483-43ba-a268e267c5c3,Here is your reward.,这是你的报酬。

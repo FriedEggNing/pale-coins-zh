@@ -1,0 +1,25 @@
+type,id,text,zh
+action,action-4e309088-c509-12de-9a75-521c28bc64c4,Hey! Hey! Hey!,嘿！嘿！嘿！
+action,action-9473b837-1b15-7cc1-755f-2c2e844d5eba,"Where are you headin', huh?",你这是往哪儿走呢，嗯？
+option,choice-dc1c7671-ab80-a843-155b-bb9dcf3998e7,Who's on top of the mountain?,山顶上是些什么人？
+option,choice-8307a3ee-9284-ef09-e3c9-0ca2a43d3f67,Did you see a wizard lately?,你最近见过一个巫师吗？
+option,choice-46c52e45-67b2-71ac-9a96-7d6950b6f274,See you!,回见！
+action,action-b8318519-c71c-06f7-7354-cc300da5842f,Yeah?,怎么？
+action,action-210aaafb-1dbc-5739-cbb4-c4871a4250f6,Don't you know that there's some bad folk up on the mountain.,你不知道山上有些不好惹的家伙吗？
+action,action-0d3a39ea-95a0-3b1c-d28f-6fa7a3b046f1,Just consider this a... friendly warning.,就当这是个……友好的警告吧。
+action,action-f7163950-2ac6-b240-ef6e-6f9d37dfe755,Ain't no one as nice as I am up there.,山上可没人像我这么好说话。
+action,action-dbce17b3-08f3-8ffe-72df-1e899b6ede9c,"Well, Bandits.",呃，强盗呗。
+action,action-10deb1cd-efe4-3df7-7231-85de192dbb38,And my boss - Goran.,还有我老大——戈兰。
+option,choice-2816e231-727c-8ceb-6a55-669cf0638e67,Who is Goran?,戈兰是谁？
+option,choice-eaf30708-0f87-a222-8ed3-d612e4c9c087,I see.,明白了。
+action,action-fa198ff6-2143-4b17-098d-0ab3ec9e7f9f,You kiddin' me?,你逗我呢？
+action,action-10fb540f-c1d3-6ba7-7096-78dd49f198b2,"Goran is the bandit chief, and I'm talking THE bandit chief.",戈兰是强盗头子，而且是头子中的头子。
+action,action-0316620c-45d3-4f9d-1152-7dcbfb24eb9b,"He used to be Balder's right hand man, but they got into a fight and Goran kicked his ass.",他以前是巴尔德的左膀右臂，后来俩人干了一架，戈兰把他揍趴下了。
+action,action-9f236e0b-7010-26b2-f30b-7b55d4b02ea1,"After Balder and a few of the former bandits left the mountain, Goran took over.",巴尔德带着几个老弟兄下山之后，戈兰就接管了这里。
+action,action-e831fe89-fbcc-e3a1-cb16-8caa728e04a2,Sure.,行。
+action,action-afc19625-cdac-fc92-4b9b-95fa9edbf08e,Nope.,没有。
+action,action-679ce466-eb85-a319-1eb6-5c28344d737b,No wizard passed by lately.,最近没有巫师打这儿经过。
+action,action-9c32bc64-5df2-45c4-09d5-0220ef1603d4,See ya!,回见！
+action,action-4e05cfec-06be-949b-affe-07b1a1d219da,...,……
+action,action-711ab173-46ef-a78f-c606-5b498e3a13da,Some of Balders men asked the same question and made their way to the camp on top of the mountain.,巴尔德手下有几个人也问过同样的问题，然后就往山顶的营地去了。
+action,action-9ef825c0-68ce-ad94-6dbd-84bf388b2f41,"Haven't seen them since then, though.",不过从那以后就再没见过他们。

@@ -1,0 +1,11 @@
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+*.swp
+
+# Never commit game binaries — see NOTICE.md
+data.win
+*.exe
+*.dat

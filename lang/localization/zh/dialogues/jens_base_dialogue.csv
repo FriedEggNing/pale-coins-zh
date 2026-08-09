@@ -1,0 +1,68 @@
+type,id,text,zh
+action,action-dc0fb343-e491-3b5d-6e24-d1dd0858a0f6,"Hey there, stranger!",嘿，陌生人！
+action,action-e5633727-8898-426e-8a7b-ba90e3e6cfac,How did you end up here on this side of the river?,你是怎么跑到河这边来的？
+action,action-f4c0792b-2e03-3973-9e1a-0eb2473efb32,...,……
+action,action-d1e278f1-cf15-73e4-13c5-f7e0cd9a89e5,"Honestly, doesn't matter, haha!",说实话，无所谓啦，哈哈！
+action,action-b4cd0c87-85ad-55a0-0f4a-c31076d19792,"So, what's up?",那么，有什么事吗？
+action,action-b09f7684-28b9-d588-544a-a51055f33211,What's up?,有什么事？
+option,choice-7cfec179-fdaf-b55f-8933-13f71c4c7c4c,Who are you?,你是谁？
+option,choice-0bf4ce8e-1ada-af4f-689a-fa874b2b29d7,Did you see Themir lately?,你最近见过塞米尔吗？
+option,choice-4d1daf58-e378-6e19-090f-3e66636b8527,What happened to the bridge?,桥是怎么回事？
+option,choice-60e82008-4965-9515-9431-b3111e997bbb,Balder cut your pay.,巴尔德扣了你的工钱。
+option,choice-701accd8-5aec-8a62-93f5-6d2e4bb83f7a,When will you be finished with the repair?,你什么时候能修好桥？
+option,choice-9ab04031-a42c-262c-88fe-08eb958cf517,When will you be finished with the repair?,你什么时候能修好桥？
+option,choice-4cb97a0e-8952-ebfb-849b-58b0dbc47da9,Do you have more information about the bridge?,关于那座桥，你还知道些别的吗？
+option,choice-93703636-d187-6de3-bba7-ae8f3584c526,You're done with the bridge.,你把桥修好了。
+option,choice-c1a6d8a7-c42c-e5a0-512a-ce5d49fafbb7,Nothing.,没什么。
+action,action-009bda21-4e2c-9d62-0bc8-bc0b9d2389fd,See you!,回见！
+action,action-2b9c1bcd-c91a-41a7-267c-8346902942ab,The bridge?,桥？
+action,action-563bfdc3-ba55-629e-e153-cb136ce16eeb,It got destroyed.,它被毁了。
+option,choice-6696ca09-acaa-19fb-f4db-f49c6f869083,Do you have more information about the bridge?,关于那座桥，你还知道些别的吗？
+option,choice-a9479b4f-dd64-70e7-bac9-59db402dbd09,Alright...,好吧……
+action,action-ad756334-606f-be4e-b750-d030d613ee2a,That should be obvious.,这不明摆着嘛。
+action,action-3aa8d48e-0d08-a661-0d25-174cbee48fa0,I guess. What do you want to know?,算是吧。你想知道什么？
+option,choice-e146d15e-6121-4844-fcd9-4e11e87324b0,How was the bridge destroyed?,桥是怎么被毁的？
+option,choice-200b7a0b-a3a3-db7b-37c2-bd9147ab0aa4,You mentioned the Royal Guard?,你提到了皇家卫队？
+option,choice-529b5081-5bef-0be7-924f-3bfc2bf1ae24,That's all.,就这些。
+action,action-208082ab-ca01-8a61-ba59-901a16d3c406,I don't know.,我不知道。
+action,action-d2a9a3e2-fe04-7d96-10f5-62c7559d7967,You're welcome.,不客气。
+action,action-4450cdf3-7b17-845d-d13f-7727ce4a365a,"I was watching the bridge the other day, as Balder ordered to me to do so.",前几天我在看守那座桥，是巴尔德命令我这么干的。
+action,action-8ecbe8d4-b13c-a166-a04e-25c11b8bbd3e,"However, I fell asleep in the middle of the night.",可是到了半夜，我睡着了。
+action,action-1ee0d6a5-970a-82e7-cb26-574ff7754d69,He always feared an attack of the Royal Guard.,他一直担心皇家卫队会来袭击。
+action,action-0feac878-e6d9-cf2c-d8a9-8e86c5c14829,"All of a sudden, I heard a loud noise and half of the bridge was missing.",突然间，我听到一声巨响，桥就塌了一半。
+action,action-5413b5ae-19e1-0449-287b-a1290a3192b1,"Shortly after, Balder was about to check on me. Needless to say he was pissed.",没过多久，巴尔德就来查岗了。不用说，他气坏了。
+action,action-d99c96fc-8fc5-e5f2-2258-19db5b0f3136,"Ever since then, I've been repairing the bridge. But Balder ain't paying enough, so I am taking my time.",从那以后，我就一直在修桥。但巴尔德给的钱不够，所以我就慢慢磨。
+action,action-420c7ba6-b678-06c5-d50c-8ed2ed90e666,"Yeah, the Kings personal elite.",对，国王的亲卫精锐。
+action,action-5b987593-2259-25e0-b784-d588ca00c7b7,"They usually only operate in the city and nearby, but some of them were ordered to get rid of bandits.",他们通常只在城里和附近活动，但有一些奉命去清剿强盗。
+action,action-7a422526-3093-0782-becd-21b17b6d4591,"Surprisingly, the king considers us as such, therefore we have to be cautious.",没想到，国王把我们也算成了强盗，所以我们不得不小心行事。
+action,action-fa2688dd-acfe-ccd2-2264-a605ba54b06c,I can't tell.,说不准。
+action,action-e67315ee-a971-7e9a-1279-182a4616ffcb,"Balder ain't paying for the repair, and I am not doing overtime.",巴尔德不肯付修桥的钱，我可不加班。
+action,action-cdb92100-269e-4cba-bb69-c988e57b38c6,"If you want, you could speed up the repair in exchange for a few coins.",你要是愿意，可以出几个钱，让工程快一点。
+option,choice-6aef89f0-88bb-63a4-e3f8-2fe5d54c95ae,Here are the 150 gold.,这是150金币。
+option,choice-0ffcb5b2-1957-90dc-4b39-3a98829fd8e7,You can't be serious!,你不是认真的吧！
+option,choice-91c35349-cfc0-3f8c-9bc0-10473f1b762a,Maybe later.,以后再说。
+action,action-67502824-25b1-cb44-01f5-325381981576,150 gold as compensation for the work sounds reasonable.,150金币的工钱，听着还算合理。
+action,action-0b438703-25cb-a6bb-8d66-d4c2b4bea6e7,Hmm...,唔……
+action,action-390587c2-0f40-0b83-a5ae-91ac228fbb10,Thank you! This should speed up the repair.,谢了！这下修桥能快些了。
+action,action-da4a49e4-c72e-831a-4ebd-d8ab4739aad6,Very well.,好吧。
+action,action-53a7a1c9-ce77-52ba-175b-21d4bb13023f,How about 100 gold coins?,100枚金币怎么样？
+option,choice-707f5f21-741e-38d2-92c2-51dab66a1702,Sounds better. Here are the 100 gold coins.,这还差不多。给你100金币。
+option,choice-387897ea-44f3-668f-2375-5fdff884b3c7,Maybe later.,以后再说。
+action,action-dfe10242-4d76-53e4-b34a-d0c1aabc35ad,Thank you! This should speed up the repair.,谢了！这下修桥能快些了。
+action,action-a24afbca-c775-4144-807e-107d33aa4228,I am working on it.,我正修着呢。
+action,action-cb2b4d15-8422-5f7c-a624-f85b7bba4259,Anything else?,还有别的事吗？
+action,action-b1e39bd6-6ef5-5238-b5c0-92bc05c65fec,Sure!,没问题！
+action,action-f4618567-561e-2801-f236-4645b2503439,You had a strong argument.,你的理由很有说服力。
+action,action-7da89729-de2b-b743-c380-23cf614d6747,So you ratted me out to Balder?,这么说你去巴尔德那儿告我的状了？
+action,action-b18adc21-cfb6-920f-df04-7918ab557b66,"Looks like I'll have to find other ways to get gold, then.",那看来我只能另想办法搞金币了。
+action,action-f8cccc7d-5d1c-bf7e-5b93-0af92c9b8609,For you I'll make the special offer of 400 gold coins.,对你嘛，我开个特价：400金币。
+option,choice-a8f1dd77-cac2-95b7-6851-4c82547fd733,Fine. Take the gold. (400 gold),行吧。钱拿去。（400金币）
+option,choice-909e4179-6791-fd0c-a8e4-937c57c43340,You can't be serious!,你不是认真的吧！
+option,choice-4c92dffb-081a-f078-499d-74b1e5027c0c,Maybe later.,以后再说。
+action,action-13c163fe-8871-ceac-5581-b8b85bd3f9c0,"I am serious.
+Whine to Balder if that's too much for you.","我是认真的。
+嫌贵就去找巴尔德哭吧。"
+action,action-cff4e273-8b68-5e09-5985-7ea84596ef60,You can call me #:Jens:#.,你可以叫我#:延斯:#。
+action,action-8bc1cc59-5ceb-805f-ec7f-920d1b62db3f,Do you need something from me?,你找我有事吗？
+action,action-db5c23d5-c140-112f-96a4-e4b0cfc804a0,Nope.,没有。
+option,choice-f370986a-275c-ee09-de71-b996a4432427,...,……

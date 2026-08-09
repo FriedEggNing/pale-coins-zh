@@ -1,0 +1,26 @@
+type,id,text,zh
+action,action-867ae8d3-6a9e-fe4d-eeb8-83187faf1801,"Hey there, sweetie!",嗨，小甜心！
+action,action-68de30a6-4bef-8327-aab1-280841f8996d,What are you doing here at the frontline?,你跑到前线来做什么？
+option,choice-4c41813b-7a02-45f3-8fb9-00574dbaa21d,Who are you?,你是谁？
+option,choice-e2988268-2dc5-6fd0-b89f-cb6e614a639a,What's on your mind?,你在想什么？
+option,choice-7c513ec2-c862-62c7-4057-aefda6d905a7,You want to start a family?,你想过成家吗？
+option,choice-803bfeb6-7c60-5c19-0d65-d92ac924c605,What do you know about the bandits?,关于那些强盗你知道些什么？
+option,choice-851fd263-482d-64ec-3f1a-270d08424946,See you!,回头见！
+action,action-4aaaa18b-4d8a-654c-de7a-ce490e65aa28,"We need REAL men around here, so don't do something stupid.",这里需要的是真正的爷们儿，所以别干蠢事。
+action,action-6719a189-0dd4-fdcb-509d-7a1459cd8cc0,What is it to you?,关你什么事？
+action,action-2c6f3cdd-9112-ec5e-f67e-94ebd3c3d242,We are dying one after another around here.,在这地方，我们正一个接一个地死去。
+action,action-90029c7b-f06e-c4a6-3602-dc8c55b2a429,You may call me #:Martha:#.,你可以叫我#:玛莎:#。
+action,action-75b077c9-ebb2-bd8a-292c-4f221221c217,I am sort of the right hand of Renbrand.,我算是伦布兰德的左膀右臂。
+action,action-00f44902-276a-2911-6c92-2486e806b753,"If you ask me, it's only a matter of time until we get run over by the enemy.",要我说，我们被敌人碾平只是时间问题。
+action,action-d8f41f4a-19d7-7b9d-71e3-e314095e8f49,This place will make you forget any thoughts of starting a family.,这种地方会让你把成家的念头忘得一干二净。
+action,action-d0581a93-3484-dd72-66fc-434f05e2eaff,"I think so, yeah...
+But honestly? Not likely.","想过，是啊……
+但说实话？没什么指望。"
+action,action-774e48d2-d5f6-1d59-6375-4bb5e4795c64,"Half of the people here are dead, and the rest won't be far behind.",这里的人已经死了一半，剩下的也撑不了多久。
+action,action-8fc90ff6-e6e6-02a8-751c-30547ffe2a22,"Try not to lose your head, sweetie!",小甜心，可别把脑袋弄丢了！
+action,action-a409ffa3-cbae-685c-1fa0-23486f605da7,"Me?
+Nothing in particular.","我？
+没想什么特别的。"
+action,action-bae0b720-cfc6-61f1-1b5c-5aa3d53b9be4,"Talk to Renbrand.
+He was ordered to deal with the bandits for a short time back then.","去找伦布兰德谈谈。
+当年他曾奉命对付过那些强盗一段时间。"

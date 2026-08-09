@@ -1,0 +1,61 @@
+type,id,text,zh
+action,action-9f5627c0-e1cc-74c4-6cd1-e454106c37fa,Heeey!,嘿——！
+action,action-1ddb1d3f-217b-c795-6548-a4e441e6a44f,"Ya don't happen to know how to open that stone door, don't ya?",你该不会碰巧知道怎么打开那扇石门吧？
+option,choice-d65f1613-e5a2-24df-ef34-cca63368706a,Which door?,哪扇门？
+option,choice-7c083f48-2169-f247-f548-ca7a69a8eefe,I already opened the door.,我已经把门打开了。
+option,choice-7c0fe010-d3f9-b28d-c15d-736d044ee3fc,No.,不知道。
+action,action-daa5efa4-8154-89ac-087d-7af086db55d3,Are ya blind?,你瞎了吗？
+action,action-4fe1e0f2-25e5-acc2-9d44-d11c2e6ddc54,"That big door preventin' me from gettin' into these ruins, of course.",当然是那扇拦着我进遗迹的大门啦。
+action,action-17158b4b-86b5-fa64-0d77-5ff9a3e89c52,"Hmpf...
+I already thought so.","哼……
+我就猜到是这样。"
+action,action-30c271cf-bc00-f659-dd27-675aa46fc859,Yes?,啥事？
+option,choice-59af6967-52bb-fec4-d54c-cca540a633cb,Who are you anyways?,话说回来，你到底是谁？
+option,choice-132e3e60-038c-4b48-df0f-34a27231d84c,Why do you want to open the door?,你为什么想打开那扇门？
+option,choice-a8096f9f-3e06-cfc3-6c68-9331a172ead3,Do you need a key?,你是需要钥匙吗？
+option,choice-a6048ee9-ef8b-126d-1a3c-a8801f56ee25,I could help you with the door.,我可以帮你开那扇门。
+option,choice-4de79156-f659-e162-0527-25a1c6d3dd09,Have you found out anything about the door yet?,关于那扇门，你查到什么了吗？
+option,choice-9c4c4a7e-aa72-7f02-0bd6-1c9e01e916c3,I'm on my way.,我先走了。
+action,action-40ed2948-2487-e2fd-4c47-8643a6d7362b,You can call me Quentin.,你可以叫我昆廷。
+action,action-7b405a53-8731-03dd-3c63-77cda4a83f78,How about you?,你呢？
+action,action-a2537a67-5fd0-2065-c324-dfb129f6cd76,...,……
+action,action-c476ff5f-e818-0a07-009d-e1d919b2556f,Ahh nevermind.,啊，算了算了。
+action,action-8d75cb62-b60c-cff1-c692-facf6d968e62,"I was offered a huge bag of gold, ya know?",有人给我开出了一大袋金币的价钱，你懂吗？
+action,action-94cbc0f5-d136-3925-6dc5-a42946caa418,Would be stupid to decline that offer.,拒绝这种好事才是傻子呢。
+option,choice-efe1004c-f14d-f5b6-7d44-7026b22867fd,Who offered you the gold?,是谁出的金币？
+option,choice-b635a32b-7ecb-1cab-bbdf-3d9530b20c0c,How much gold are we talking about?,到底是多少金币？
+option,choice-27ef04c0-7f06-85a2-1cf6-d6a63fc34c0a,There's something else I want to know.,我还想知道点别的。
+action,action-b0e2cf6b-33c4-cc53-bbab-d2086f478e55,I can't tell you who it was.,我不能告诉你那是谁。
+action,action-d95d6825-a26d-d87a-da9f-f68fb03f54ad,That guy pays extra to keep his identity a secret.,那家伙额外付了钱，就为了保住身份的秘密。
+action,action-dd8f4f69-57fc-ad7c-cf57-d05c98006fad,"Now you're interested, huh?",这下你来兴趣了，嗯？
+action,action-2c4aefa1-5ecd-1dd6-c725-dc233d2a89c1,But that's a secret I'll keep.,但这个秘密我是不会说的。
+action,action-d20b6350-6b41-3b8c-0ef0-a3b41b96a6fa,Sure.,行啊。
+action,action-a710bf2f-47d1-d2ae-10ac-1289d13ce72b,"I think so.
+There's no way of openin' that damn door with casual means.","我看是需要。
+寻常办法根本打不开那扇破门。"
+action,action-3ed6b07f-2ce3-aaa8-f64b-6125d0ec3a62,Not even a skeleton key would open that thing.,就算万能钥匙也开不了那玩意儿。
+action,action-7f1d2fd5-8262-aecf-d231-fad2aed17853,I suppose that's due to some magic trickery.,我猜是有什么魔法把戏在捣鬼。
+action,action-09aa89a2-43e2-5ad3-c15d-d973fd68d361,"I could need some help, sure.",我确实需要帮手，没错。
+action,action-619f76c6-0cbf-74e1-a7bf-1afc029281cf,"As far as I'm concerned, we can share the gold later.",要我说，回头咱们可以分了那笔金币。
+action,action-e03dd4fd-8806-4d73-19dd-d8de1374b883,But as of right now we need to figure out how to get that door to open.,但眼下，咱们得先弄明白怎么把那扇门打开。
+option,choice-c1e1435d-7395-edec-bbcb-f144f24414bb,Could someone around here know something?,附近会不会有人知道些什么？
+option,choice-1012bcd2-fe7f-1816-394d-82ded9744b6c,How about the wizards?,找法师们问问怎么样？
+option,choice-d4411ad4-fa0d-024c-d417-425900c1b55e,Did your client mention anything?,你的雇主提过什么线索吗？
+option,choice-71a12bda-0da8-167d-cb0d-62ab43f251bb,What do you think?,你怎么看？
+action,action-fd7db3f3-2a73-0c83-ce91-7ffa58c6b292,There's an inn south of here.,南边有家旅店。
+action,action-ef044919-fe37-7cd2-faa5-d752eb78d03d,"It is possible, that someone there knows somethin'.",说不定那儿有人知道点什么。
+action,action-f47d95e2-6e9e-ae43-d167-f6579f15a221,They sure know something!,他们肯定知道些什么！
+action,action-bb6f2595-390f-2ebe-ff35-b93ba357ef3c,We could pay them a visit.,咱们可以去拜访拜访他们。
+action,action-8558e0ad-ffb7-a93b-394f-a108b1a24c59,Nope.,没有。
+action,action-22038527-3d9c-792a-2d9a-693597561e85,I don't even know why he wants to open the ruins anyways.,再说了，我压根不知道他为什么想打开这处遗迹。
+action,action-b588ca49-bff4-63c8-54a5-58858603a5ee,We should start with the wizards in the academy.,咱们应该先从学院的法师们查起。
+action,action-d75762cd-5da3-9c95-206c-b26adf340be5,"I am no longer allowed in the academy, so I will leave that to you.",学院已经不让我进了，所以那边就交给你了。
+action,action-eb8ad620-c6d5-bf61-cb24-ba01d92c3aa0,"While you are looking for information in the academy, I will ask around in the inn.",你去学院打探消息的时候，我就在旅店里四处问问。
+action,action-69f8e4bc-4f10-a160-da26-1789400000b0,Catch you later!,回见！
+action,action-5c5a6bd6-8dee-40ca-a98d-90cbd91aa1c1,I am working on it.,我还在想办法。
+action,action-004321c1-38f2-4260-d093-f5464ce1f3d4,Wait... What?!,等等……什么？！
+action,action-1de279d7-5002-1ba1-4623-08b4bf372665,How did you do that?,你是怎么做到的？
+option,choice-cf766c73-2669-9089-ded8-4dc634dc8ec8,By using one of Lyrak's scrolls.,用了莱拉克的一张卷轴。
+action,action-4416855b-cbea-fabb-b06d-12c553815906,I see...,原来如此……
+action,action-b176741a-fbe4-130f-781d-7c46976589f9,"Anyway, now that the door is open, I need to figure out what's inside.",总之，既然门已经开了，我得去弄清楚里面有什么。
+action,action-fb614a2f-20f4-b7d7-152c-14752cadf2a7,See ya!,回见啦！

@@ -1,0 +1,48 @@
+type,id,text,zh
+action,action-69b64769-f2db-c53b-dff0-b440dd5a356c,You there...,那边的你……
+action,action-5d7c9bc4-27f0-6d5e-8dcc-dc590b8da4f7,How do you know about Dhul'oq?,你是怎么知道杜尔奥克的？
+option,choice-07a4584d-a0e4-4d1b-e552-e24a653c754f,A being named Nuveyar told me about it.,一个名叫努维亚的存在告诉我的。
+option,choice-a07dde17-cac5-0108-fa76-0badb829f25c,I saw it on a map.,我在一张地图上看到的。
+action,action-44a8b6f2-5656-86e3-dc95-51d3eaaa764b,"A being?
+That's interesting.","一个存在？
+有意思。"
+action,action-4445f824-8c1e-1601-e324-ced635a35666,"There aren't many maps left showing Dhul'oq.
+I assumed I had found the last one.","标有杜尔奥克的地图已所剩无几。
+我本以为最后一张已经在我手里了。"
+action,action-29a1e3a7-f7ad-d835-c87c-b9f88ea66750,Why did you think you would find something about Dhul'oq here?,你为什么觉得能在这里找到关于杜尔奥克的东西？
+action,action-99ecbfc1-7eed-31f4-6d20-59079840872e,"Themir?
+He was once a mage at my court.","塞米尔？
+他曾是我宫廷里的法师。"
+option,choice-4f3db4ff-c116-e0ab-a099-bf0ae2a6eb81,"Themir, a magician, said I could find something about it here.",一位叫塞米尔的魔法师说，我能在这里找到相关的东西。
+option,choice-7659c9e0-825c-5757-547d-8f1bbfec2b13,I didn't know where else to start.,我不知道还能从哪儿查起。
+action,action-378fa626-3f4f-d991-decd-f2c83a0f5254,"And you immediately thought of my library, right?",于是你立刻就想到了我的图书馆，对吧？
+action,action-dc2f7fd9-d634-b7eb-d13b-807f06db6ab6,Some of those books around here were collected by Themir himself.,这里有些书正是塞米尔亲自收集的。
+action,action-ae018544-e305-aa65-cc0c-9385101330bf,"You must know that I'm searching for Dhul'oq myself.
+At least, I was searching for it.","你要知道，我自己也在寻找杜尔奥克。
+至少，我曾经找过。"
+action,action-a5207e6e-615e-51ab-0517-410cb2e7a080,But enough of Themir.,不过塞米尔的事就说到这儿。
+action,action-1914cfbd-e875-dd48-6226-22ff4f16241c,"Many years ago, I had a dream, or rather a vision, of Dhul'oq.
+After my research, I discovered where Dhul'oq should have been.","许多年前，我做过一个关于杜尔奥克的梦，或者说是一场幻象。
+经过一番查证，我找到了杜尔奥克本该所在的位置。"
+action,action-6d25bcde-1536-ffa3-f4f2-c13acf64810b,"When I got there, all I found were ruins and an old tower.
+As I didn't find what I was really looking for, I stopped searching for the time being.","可当我赶到那里，只见到废墟和一座古塔。
+既然没找到我真正想找的东西，我便暂且搁下了这桩寻访。"
+action,action-093aff9d-4c2f-c517-68a0-fff503f54a48,It can't be a coincidence that you too are looking for Dhul'oq.,你也在寻找杜尔奥克，这绝不会是巧合。
+action,action-b30170e9-3923-39e4-e096-09eb2dc8b4d3,I want you to go to this place and then let me know if you find anything interesting.,我要你去那个地方走一趟，若发现任何有意思的东西，就回来告诉我。
+option,choice-245ab8b4-8660-8e2b-95f6-de1271fe915f,Where is Dhul'oq located?,杜尔奥克在哪里？
+option,choice-fb245bb1-617f-fef7-b5e8-e2b95396d20e,Why should I help you?,我为什么要帮您？
+option,choice-951ec699-e288-ea1d-e0de-9d42e820a74b,I will return and tell you what I find.,我会回来向您禀报我的发现。
+option,choice-ae19f7f9-25c5-8006-8260-68638f7e7bb7,I need to think about it.,我得考虑一下。
+action,action-927a3601-e631-1e16-8647-d17f65facd65,"Cross the #:Marin Passage:# north of the capital, which leads to the Marin Cliffs.",穿过王都以北的#:马林通道:#，它通向马林悬崖。
+action,action-8383cf86-5636-fa4b-e26a-c2f75715b32a,"Then all you have to do is follow the path west through a passage, and you will end up at a #:lake:#.",然后你只需沿小路向西，穿过一条通道，便会抵达一座#:湖:#。
+action,action-13f93e3f-d984-54fc-95d6-05c436918781,The ruins of the city of Dhul'oq can be found there.,杜尔奥克城的废墟就在那里。
+action,action-828a2f48-f427-f194-c56a-ca70e898b948,"With this authorization, the gate to the Marin Passage will be opened for you.",凭这份通行令，马林通道的大门会为你开启。
+action,action-e1ad980d-ee80-29b0-dcd3-1da6f2aee25c,"Certainly, we will find an appropriate reward after your return.",当然，等你归来，我们自会给你相称的报酬。
+action,action-07d235ba-3aec-e347-0f90-162e3dfb4dc3,I expected as much from you.,我对你正有此期望。
+action,action-0d4ac209-4aa9-1ff6-37bc-f7030e85aa06,"You are now allowed to reach out to me in the throne room, provided no other audience is taking place.",今后你可以到王座厅来见我，只要当时没有其他觐见在进行。
+action,action-0016875a-dc7b-ca41-30d9-829886dc9ba9,"Remember, I'm still the king around here.
+It's better if I owe you something, rather than the other way around.","记住，这里做主的还是我这个国王。
+宁可我欠你的情，也别让你欠我的。"
+action,action-b2d372de-3c57-88d8-c8d3-c8ef405bcf97,Speak to me in the throne room if you decide to tell me about Dhul'oq.,若你决定告诉我杜尔奥克的消息，就到王座厅来见我。
+action,action-33dd7ba0-d942-8f98-a923-7505354641e0,Go now!,去吧！
+action,action-853817db-8f0c-b67f-e022-3e2ddbe1b2e1,"With this authorization, the gate to the Marin Passage will be opened for you.",凭这份通行令，马林通道的大门会为你开启。

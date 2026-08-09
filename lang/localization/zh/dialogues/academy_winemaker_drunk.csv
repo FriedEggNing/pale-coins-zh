@@ -1,0 +1,36 @@
+type,id,text,zh
+action,action-4219e7d2-58ee-3fbb-2306-358012f41d82,*hics,*嗝
+action,action-c0852f8b-9b30-6caf-775d-32e16efa1cf9,Tis an amazin' wine we bottled this year.,今年我们装瓶的这酒可真是绝了。
+action,action-4a18982d-cfe4-3f90-3343-52313c06c791,After two bottles I ssssurely can conf...,两瓶下肚，我绝绝绝对可以证……
+action,action-b1cde14c-07d2-4a77-18cf-44856f094bfc,*hics,*嗝
+action,action-261ebfff-883d-5436-8a98-f00119c445db,I can confirm that.,我可以证实这一点。
+action,action-977c949d-8e80-d842-478a-3de3e4e49dd2,"Here!
+Taste it yourself.","来！
+你自己尝尝。"
+action,action-1670e7c3-950a-c57a-6100-b02a9c95a985,*hics,*嗝
+action,action-a6a94268-2d52-f66a-be38-dcb15c5cd925,As a winemaker you sometimesss have to lend a hand.,身为酿酒师，有时候就就就得亲自搭把手。
+option,choice-900beb03-476a-8f86-b0dc-289074f4a60b,What do you know about the wine problem?,关于葡萄酒的问题，你知道些什么？
+option,choice-ae29737e-015a-7e2d-dd6a-851cae5b8bc9,See you.,回头见。
+action,action-a9ea15d3-b094-8aa7-5dca-b1433858bcf9,"I heard sssomething. Sure!
+Tis 'n easy problem to me.","我倒是听说了点事事事。当然！
+这问题对我来说简单得很。"
+action,action-c6d84742-cb3a-a245-360d-7db2ef5bb1d9,*hics,*嗝
+action,action-a5db929f-c96f-abf7-b0ec-714b35422694,"The academy wine has a very ssspecific taste.
+It's our tradition.","学院的葡萄酒有种非常独独独特的味道。
+这是我们的传统。"
+action,action-8c8723c1-62e5-ffe9-8e03-14da5f8f1391,In the librarary is a book explainin' what makes our wine the best.,图书书馆里有本书，讲的就是我们的酒为啥是最好的。
+option,choice-29991753-0074-5216-8296-be1e25e30649,"You mean ""library"".",你是想说“图书馆”吧。
+option,choice-6b61e0c1-0fd5-beac-6612-28caf2ec866d,I don't have access to the library.,我进不去图书馆。
+option,choice-dbe74e53-9d35-7c99-8c06-1a28ca315050,"Thank you, I guess.",呃……谢了。
+action,action-9e294e96-a2f3-615a-8c07-527b5855754a,"Lip.. La.. rary.
+Librarary!","图……图书……馆。
+图书书馆！"
+action,action-8a4b3176-e261-c903-6fe7-76d086d5141d,That's what I ssssaid!,我说的就就就是这个！
+action,action-cdd23678-23df-1604-0126-f2c8eaf80244,"Well... too bad.
+*hics","哎……那可真遗憾。
+*嗝"
+action,action-41e4c48a-ec97-5562-6121-6ccaa5ef57e0,"Basicallily, you need to know that we only use the best grapes for our wine.",基本本上呢，你要知道，我们酿酒只用最好的葡萄。
+action,action-73bd7c48-c952-81c8-d610-1ec19217cbf3,Don't let anyone fool you by sain' we use anything else.,别让人骗你说我们还加了别的东西。
+action,action-e7a8816b-897c-c287-cc03-e90faa90a718,"Honey or herbs?
+Nah! Not in our academy wine!","蜂蜜还是香草？
+不不！我们学院的酒里可没这些！"

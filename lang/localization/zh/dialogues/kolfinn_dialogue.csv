@@ -1,0 +1,83 @@
+type,id,text,zh
+action,action-6c454497-aecd-8623-0f56-5a5a7853370a,"What's up, lad?",有什么事，小子？
+action,action-07300031-87d5-d18e-40c2-5d7f22598e44,"Make it quick, I have a new batch of weapons to forge for the army.",有话快说，我还有一批新武器要给军队打呢。
+option,choice-bdc5cf0f-05c3-2fab-a2ab-3dad44d6c545,Who are you?,你是谁？
+option,choice-a12ad420-6959-0cb3-27ad-683a22649ba5,You are forging weapons for the army?,你在为军队打造武器？
+option,choice-88274327-c5c6-f958-80ba-68d474450b87,I am here to get a new weapon.,我是来弄件新武器的。
+option,choice-3e75af98-2044-54b0-c00a-140c76fe23a8,Do you sell your weapons?,你打的武器卖吗？
+option,choice-d7d726bd-9a27-70f8-e858-535a90e3f9b8,Do you live here alone?,你一个人住在这里吗？
+option,choice-584fbdb6-e985-8956-8ce6-b3b372a6a9a3,I'll deliver your letter.,我来帮你送信吧。
+option,choice-a34ac1c1-7e35-6606-0511-b3443bb7a530,Korg received your letter.,科尔格收到你的信了。
+option,choice-81ae44e9-b417-41c0-f9e7-8cf0cd5783e1,See you!,回头见！
+action,action-cf2467cd-9297-db75-11ce-d08d3a6c87da,"I am #:Kolfinn:#, the best smith here in the capital.",我是#:科尔芬:#，王都这里最好的铁匠。
+action,action-f2de0b1c-d284-5c4d-fc71-a2728be9a4e9,"Usually, you'll find me around my forge working for the army.",平时你都能在我的锻炉边找到我，我在为军队干活。
+action,action-9dc70532-4f17-8b69-88a5-9d6c910fe6a4,"Yes, I've been forging weapons for the army for years now.
+Ever since I opened my shop here in the capital.","是啊，我为军队打造武器已经好些年了。
+自打我在王都开了这间铺子起就一直如此。"
+action,action-a10c2f7d-c1a8-0402-138f-c031859f16c9,"It is not paying well, but the army usually protect me and my shop.",报酬不算丰厚，但军队通常会保护我和我的铺子。
+action,action-c2c4939c-f83b-e1ea-64db-396f76d7bbb4,I also sell my spare wares to the weapon traders around here for some extra income.,我还会把多余的货卖给附近的武器商人，赚点外快。
+action,action-6e62e195-7536-5afb-6f9a-fdd0c68727fe,"I myself am not allowed to.
+Only the royal guard may buy one of my crafts directly.","我自己是不许直接卖的。
+只有皇家卫队才能直接买我打造的东西。"
+action,action-6dffee9e-85ed-8d2f-cb1c-f6fce945d696,"Have a good day, lad!",祝你今天顺利，小子！
+action,action-090a3d7b-bef1-eb11-e71c-0f8967150d47,Go ask the traders around here if you're in need of a new weapon.,要是需要新武器，就去问问附近的商人吧。
+action,action-4025d4c1-2f5d-0cb0-4c9a-3a66ec18b385,"It is a pitiful display, isn't it?",挺可怜的光景，是吧？
+action,action-24a4e557-cc6b-f314-6a92-b9d654de0671,My family has unfortunately left me long ago.,不幸的是，我的家人早就离我而去了。
+action,action-191ef32b-695d-18d5-39e1-7c2ef1b44248,My wife passed away shortly after the birth of my son.,我妻子在儿子出生后不久就过世了。
+action,action-eef66240-1cde-8187-fb7f-5777a90a7371,"And my son, Korg, left the capital to be a bandit.
+He was to inherit my forge here, but he obviously had other plans.","而我儿子科尔格离开王都当了强盗。
+他本该继承我这间锻造铺，但他显然另有打算。"
+option,choice-bfe2ce74-7876-5d2f-be63-915d2472f01f,I met Korg at the bandit camp to the west.,我在西边的强盗营地见到了科尔格。
+option,choice-d5cf0efb-55b0-72a6-7bbd-597edd55e501,Where is your son now?,你儿子现在在哪儿？
+action,action-81e5b717-d306-49ed-ecc6-9e0d560bd19c,"So, my son is still alive?",这么说，我儿子还活着？
+action,action-b33dca23-6bd5-0fbf-e174-e52e74ee9d95,"I am glad to hear that.
+However, I wish he'd visit me from time to time if that's so.","听到这个我很高兴。
+不过，既然如此，真希望他能时不时回来看看我。"
+action,action-15616b97-693b-ed1f-8a89-d9db08a4fb4c,"I don't know.
+He said, he wanted to join Goran's bandits.","我不知道。
+他说过，他想加入戈兰的强盗团。"
+action,action-98423df4-4f32-d1db-f24a-b680aaf68c0b,"Not even sure if he's still alive!
+I truly hope so...","我甚至不确定他是否还活着！
+我真心希望他还活着……"
+action,action-3d1458b6-9173-ad4f-e0fa-590a05a8895c,Could you do me a favor?,你能帮我个忙吗？
+action,action-9426e75b-4144-3c64-8cf8-9a1a07ac710d,It's been a long time since we last spoke.,我们已经很久没说过话了。
+action,action-f764e467-dbb1-edd8-cbb3-2ad3caf028ec,"I've written a letter for him a while ago, but I didn't know how I would get it to him.",前阵子我给他写了封信，却不知道该怎么送到他手上。
+action,action-cbf73951-4895-38ef-7f82-6c73ca288a6f,Could you deliver the letter for me?,你能替我把信送去吗？
+option,choice-b4fa43a0-57b5-e4e4-b719-9e7cf1d187e9,"Yes, give me the letter.",好，把信给我吧。
+option,choice-65a13da4-2117-768d-6a13-2a7f048e8ed0,I don't have time for that.,我没时间做这个。
+action,action-b7af9112-0f12-e321-e9e9-aecc379fc311,"Thank you!
+You shall not regret this.","谢谢你！
+你不会后悔的。"
+action,action-0816094e-5926-0860-205c-3361e1ef272c,"Ah, no issue. Was merely a hopeful thought anyhow.",啊，没关系。反正也只是我的一点念想罢了。
+action,action-36720297-51a3-1fcb-95b0-9a3a29dc9213,"I'll be here, in case you change your mind.",我就在这儿，万一你改变主意了呢。
+action,action-26787212-8686-e4f6-dc6d-6f252d918f8d,"Here, take the letter and bring it to Korg.",来，拿上这封信，把它交给科尔格。
+action,action-885b997f-fc8a-6776-6d2c-2fba01776963,Did you give Korg my letter?,你把我的信交给科尔格了吗？
+action,action-aa98fadb-ea1c-a43f-93d8-48594db9237b,"You're a newly joined guard, then?",这么说，你是新入队的卫兵？
+action,action-211768f6-684a-40cc-dc2c-e960e6f5f387,"Here, take this spear.
+This is the standard weapon of any royal guard.","来，拿上这杆长矛。
+这是皇家卫队的制式武器。"
+action,action-6149df24-303c-f9c6-d2e4-9439931c421a,"Great!
+What did my son say?","太好了！
+我儿子怎么说？"
+option,choice-82019cce-9126-3dfa-f4eb-ad66b284f6c9,He needs to think about it. Give him some time.,他需要考虑一下。给他点时间吧。
+action,action-fbd34d17-a72c-718c-369f-f474a53f42de,"I don't know what there is to think about it, but okay.",我不知道这有什么好考虑的，不过也罢。
+action,action-4296a459-cf3e-e3b8-bdc8-3ef80f19db4e,Korg shall get his time to think.,就让科尔格慢慢考虑吧。
+action,action-b50c611d-7db0-a693-cd48-52c8ffc7c1cb,"There you are!
+Korg and I had a lot to discuss.","你来啦！
+我和科尔格聊了很多。"
+action,action-0f21d608-ee44-52de-f331-2b708784bc55,"He also showed me his new hammer. Truly impressive.
+You weren't uninvolved in that, were you?","他还给我看了他的新锤子。着实令人赞叹。
+这里头也有你的功劳，对吧？"
+action,action-d0fc8933-c1ce-2d5f-d68b-4320113bb28e,"I hadn't expected him to bring flowers for my beloved Martja.
+He also seemed to miss her.","我没想到他会为我挚爱的玛尔佳带来鲜花。
+看得出他也很想念她。"
+action,action-1a9629d0-940c-8812-9151-60c028fd19a4,"I hadn't thought he'd agree to visit me here.
+Still, I was happy to see my boy again.","我原以为他不会答应来这儿看我。
+不管怎样，能再见到我的孩子，我很高兴。"
+action,action-ef4db873-d284-f1e4-c893-9963d08b1fb7,"Anyway.
+You've been a great help to us, and I have to thank you for that!","总之。
+你帮了我们大忙，我必须好好谢谢你！"
+action,action-614b3213-2219-c2bd-9190-2984bc72d4aa,This is for you.,这是给你的。
+action,action-3f3f68e4-761b-a3c8-bb6d-3ac404a00997,"This is a rare Ver'kum steel bar.
+One of the finest materials there are.","这是一块稀有的维尔库姆钢锭。
+世上最上乘的材料之一。"

@@ -1,0 +1,25 @@
+type,id,text,zh
+action,action-313bcbcc-c27c-99d7-e0a3-0760075b41c1,We have a problem!,我们有麻烦了！
+action,action-b2dbe9d1-3db3-5ac2-70dc-6e8f8de5a08c,"I found my apprentice Gregor, but he is trapped in another realm, where I was unable to communicate with him.",我找到了我的学徒格雷戈，但他被困在另一个位面里，我没法同他交流。
+option,choice-98e5d110-73f8-2b13-9ef0-bb57957e9817,What did you do?,你做了什么？
+option,choice-411e755e-89c2-69f8-7c92-ed66f69e49cb,How's Gregor doing?,格雷戈怎么样了？
+option,choice-5224f81f-f71a-f47e-5b68-8220cfbffd28,Shadow creatures suddenly appeared.,突然出现了一些暗影生物。
+option,choice-65ca651c-21cc-c72f-7bc1-3f37ae5ebe29,What shall we do?,我们该怎么办？
+action,action-828c3a2e-1785-6b70-2e5b-4466e2d721e9,"Weren't you listening to me earlier?
+I connected my mind with the energies of the Stonehenge.","你刚才没在听我说话吗？
+我把我的心智与巨石阵的能量连接了起来。"
+action,action-416d1925-9aa8-f312-9e9d-ced177426fad,"This allowed me to follow the energies to their origin, into a completely different astral realm.",这让我得以循着能量追溯其源头，进入了一个截然不同的星界位面。
+action,action-2a7cc88a-7494-7c5f-d443-39db8ab11197,"However, I had to leave my body, leaving me vulnerable to every threat.",然而，我不得不脱离肉体，这让我在任何威胁面前都不堪一击。
+action,action-02cae189-ebc4-cc34-2b83-5a03a2bea9b6,This new realm was unknown to now and left me with a haunting feeling.,这个新位面此前无人知晓，它让我心头萦绕着一股挥之不去的不安。
+action,action-93074eac-e48e-6af0-0d7d-8dd0c4346bbb,"Well, he seemed exhausted, but alive.",嗯，他看上去精疲力竭，但还活着。
+action,action-c05e4e37-a1db-0d07-a57f-34d8b40ed5a7,"I can't tell how long he is going to make it, though.",不过，我说不准他还能撑多久。
+action,action-548041a6-951c-6173-70c3-631ef0bb6746,"Shadow creatures, you say?
+I remember seeing strange creatures while I was looking for Gregor.","你说暗影生物？
+我记得在寻找格雷戈的时候，也见过一些奇怪的生物。"
+action,action-033533b1-ee79-4b30-dbdf-76fa2a529c95,They might have appeared here by taking advantage of my link between this realm and the other.,它们可能是趁着我在两个位面之间建立联系时，钻了空子来到这里的。
+action,action-55b47418-4571-3bc4-7cd3-fdfa9a0ce273,"As of right now, I have no way of getting Gregor out of there.",眼下，我没有任何办法把格雷戈从那里救出来。
+action,action-72fde98b-6f27-17e5-0549-8093851eda32,Gregor will have to endure the situation until we find a way to transfer ourselves into the other realm.,在我们找到进入另一个位面的方法之前，格雷戈只能自己撑住了。
+action,action-a9afaa56-8af3-b374-7962-d1dc6eabb720,"You, for one, have been a great help!
+I must express my gratitude.","而你，帮了大忙！
+我必须向你表达谢意。"
+action,action-58ef8035-e36b-8c15-7b47-53419894918b,The academy needs people like you!,学院正需要你这样的人！

@@ -1,0 +1,54 @@
+type,id,text,zh
+action,action-48b50c05-9aca-5406-cb54-686c3636bc07,Hmm?,嗯？
+action,action-37bdb171-5596-08e9-6c63-a8c467332508,Are you looking for something to hunt?,你是在找猎物吗？
+action,action-a1c2bdf3-4594-17fc-39a0-dcca4f02e175,"If so, I'd have to disappoint you.",如果是，那我只能让你失望了。
+action,action-c7def870-c646-5596-4652-a15f038b8607,"Except for a few birds, there's nothing left here.",除了几只鸟，这里已经什么都不剩了。
+option,choice-56bbfd36-b08e-ffa6-c3ee-086f6bc1d58a,Who are you?,你是谁？
+option,choice-06807ca5-1326-e956-c648-f4d11447153b,What are you doing?,你在做什么？
+option,choice-bd5c6e0b-1871-da43-bea5-8526d4ca3877,Did you see Themir lately?,你最近见过塞米尔吗？
+option,choice-8840c06d-8265-d572-8b83-4131b63b70bb,What do you know about bows?,你对弓了解多少？
+option,choice-be6eecda-d473-0490-8327-2d0bcb528837,Can you teach me something?,你能教我点什么吗？
+option,choice-3a3e2618-2ddf-2658-ef5e-c5cd77589bc0,Teach me.,教教我。
+option,choice-a60b3222-a797-7256-eeb0-365fd948a316,Do you have something to sell?,你有东西卖吗？
+option,choice-03efa587-c081-365a-8763-cf48b1748167,See you!,回见！
+action,action-7d94a65d-f1cd-a543-d261-b81a6a81f9fc,"Was on a long hunt, but with no kill.",出去打了很久的猎，却一无所获。
+action,action-bbaf2aad-0ce0-04c2-eda7-a70655c6dbf9,"I am working on my bows, at the moment.",我眼下正在打理我的弓。
+action,action-6794a203-5b89-6b81-4e5e-9a65fe41c820,The old codger?,那个老家伙？
+action,action-5704add2-c1f4-320b-3200-d9a1b2fcbcd3,"No, I haven't seen him in a while.",没有，我有阵子没见到他了。
+option,choice-8d505d6d-69eb-a5f2-ff59-ab3c5937867e,He is missing.,他失踪了。
+action,action-bc161170-d893-095c-c819-75424c594d4c,Really?,真的？
+action,action-348b54dc-eb78-b62d-6087-d5ffadc66e8f,"I am being told nothing out here, it seems.",看来在这荒郊野外，什么消息都传不到我耳朵里。
+action,action-30808198-09e0-5d4e-40c1-ac971858ae9c,"Themir did not pass this way, if that is what you were wondering.",塞米尔没有从这条路经过，如果你想问的是这个。
+action,action-a20f9220-2c2a-4983-5e7c-6ccb0669f336,Enough to be an efficient hunter.,足以让我做个称职的猎手。
+action,action-8520711e-b43f-6a9c-5f29-30c45b08bf89,"On this side of the river, I'm the only bowyer.",在河的这一边，我是唯一的制弓匠。
+action,action-c315e47f-bf53-6468-ec5b-fbe1fb2d81b2,"The people in the camp lack a certain... delicacy, when it comes to this craft.",营地里的人在这门手艺上缺少某种……细腻。
+action,action-23aeeb71-07bc-ccb8-1a91-2cfa18b04cdb,"I could show you a few things, yes.",我可以教你几手，没问题。
+action,action-2aaecb3e-b1b2-96c4-52e3-37f56fe2207d,"As the woods are barren, there is nothing to do besides sharpen my craft. Sharing it with you would prove beneficial to both of us.",林子里已无猎物，除了磨练手艺，我也无事可做。把它传授给你，对你我都有好处。
+action,action-a337dd4b-4f67-763c-b157-dbe74d7a2048,But it won't be without its price. Knowledge and expertise requires sacrifice.,但这不会是白给的。知识与技艺都需要付出代价。
+action,action-6572253f-bfdb-cc83-cfa1-1ea6bed776e2,"In your case, 100 gold will be a sufficient one.",对你来说，100金币就足够了。
+option,choice-1ba1689b-c976-4070-faf1-f8d883cbccb8,You ask a lot.,你要价不低啊。
+option,choice-7925c606-27d6-287f-7d18-0bb7129b1209,"Fine, here's your gold. (100 gold)",好吧，钱给你。（100金币）
+option,choice-5319f613-4838-a139-eb66-33cd40028cdc,Maybe later.,以后再说吧。
+action,action-691c7ee6-22ee-aece-da97-1cd4fb3bc63e,"As I've said, the value of knowledge and skill outweighs material possessions.",我说过，知识与技艺的价值远胜身外之物。
+action,action-30c9cb2d-a867-a5a9-bdb1-902a7221eb9a,"Also, I'm the only one who can teach you.",再说，能教你的也只有我一个。
+action,action-fd0b1090-1f0f-a746-423b-f2ebadb82925,Thank you.,谢谢。
+action,action-70de0abb-a837-f544-8e79-ccdf9f17c83d,Talk to me if you need training.,需要训练就来找我。
+action,action-dbb92875-100d-21f6-7124-3ff5ba0b8140,"Work on your dexterity, and you'll be able to handle stronger bows.",磨练你的敏捷，你就能驾驭更强的弓。
+action,action-4365a901-14bf-7c29-ccac-fcdf6f792bd7,What do you wish to know?,你想学些什么？
+option,choice-63e24330-5ce6-adb1-a9d1-e7c0f26df6a9,"Improve bow skills (min. 4 DEX) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_bow_weapon_training_10"",""only_once_on_difficulty"": true}","提升弓术（需敏捷4）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_bow_weapon_training_10"",""only_once_on_difficulty"": true}"
+option,choice-7e085023-86de-4a75-937e-09fb2a4ba5f4,"Better aiming. (min. 4 DEX) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_missile_aiming_20"",""only_once_on_difficulty"": true}","更精准的瞄准。（需敏捷4）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_missile_aiming_20"",""only_once_on_difficulty"": true}"
+option,choice-ebfca2b7-c0a4-d794-d1c4-8a4c839eb713,Nothing.,不用了。
+action,action-62a217ec-a198-2bdb-ca17-a49718229b40,"I am #:Shrike:#, the only hunter out here.",我是#:什里克:#，这一带唯一的猎人。
+action,action-6b52c01b-254a-cb2a-f63a-08b14617e83e,Out-of-work hunter to be honest.,说实话，是个无活可干的猎人。
+action,action-aaae3ef4-8b0e-e676-2070-4fecc471cb9a,Doesn't leave you with much choice.,那你也没什么别的选择了。
+action,action-7a5cde7a-2faf-0d91-90c8-f3704ec9b0f7,I have a few bows to spare. Have a look.,我这儿有几把多余的弓。看看吧。
+action,action-2e18a224-b4a6-e383-fb11-d06b54b2cabf,"First of all, you have to stretch the bowstring of your bow to the limit.
+Hold the string near your mouth for better aiming.","首先，你要把弓弦拉到极限。
+把弦贴近嘴边，这样瞄得更准。"
+action,action-e7398e86-0da0-a5dc-66c6-544fee5ca276,Align the tip of your arrow with your target and release.,让箭尖对准目标，然后放箭。
+action,action-2dec2082-c457-319c-7def-056a329adb9d,"In case you miss your first shot, make sure to aim a bit more to the side.",如果第一箭没中，记得往旁边多偏一点再瞄。
+action,action-8219a03c-91dc-f84b-1b3c-7726630feede,Keep a cool head while aiming and take a deep breath before releasing your arrow.,瞄准时保持冷静，放箭前先深吸一口气。
+action,action-3869b90c-35c2-b738-95aa-180f76572574,"Practice that, and you'll be able to hit most targets.",勤加练习，你就能射中大多数目标。
+action,action-ecf5389d-cae6-c3dd-13e8-5f2a1964475a,"Take these arrows.
+You'll need them for your training.","拿上这些箭。
+训练时用得上。"

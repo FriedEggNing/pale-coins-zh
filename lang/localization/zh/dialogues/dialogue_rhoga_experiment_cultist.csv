@@ -1,0 +1,65 @@
+type,id,text,zh
+action,action-abd00780-2d10-daa7-12a5-2c35f23d998b,Hold still for a moment!,先别动！
+action,action-e2a15e60-6cd2-37d6-dbe3-865e0821fe59,...,……
+action,action-b3600fae-c0e3-a50e-7483-d6fc83576eef,Now we can talk.,现在我们可以谈了。
+action,action-81dde945-5e8a-5ef8-cb56-b5a99ba3db48,"Ah it's you again.
+What do you want?","啊，又是你。
+你想要什么？"
+option,choice-334783d9-430e-cddb-b7d8-96e896da59e8,Who are you?,你是谁？
+option,choice-3f19ab63-4ce2-2b4c-8812-9348b5bd6506,What are you doing?,你在做什么？
+option,choice-99ae18be-f9d9-587d-8799-f20bde3b0c6d,Here is the swamp secretion.,这是沼泽分泌物。
+option,choice-171fbb3f-8d49-adfc-ce43-f8ed59003733,Do you need something else?,你还需要别的吗？
+option,choice-7606ad1f-d6a8-3590-391f-18e9f5fbd7a0,I will bring you the heart of a warrior.,我会给你带来战士之心。
+option,choice-af712b2e-da97-90bf-0d4b-627c93dc3a1b,Regarding the heart...,关于那颗心……
+option,choice-8e91ba18-d5c4-31fb-25d5-b937388465d2,See you.,回头见。
+action,action-95041697-e5f5-333a-d096-e5bb6ac3f1ef,"No one around here has a name, except our leader.",这里的人都没有名字，除了我们的领袖。
+action,action-6eb68523-6aed-8269-ef24-50e1639a2843,"That is a confusing rule, if you ask me.",要我说，这规矩挺让人费解的。
+action,action-734f9799-d1fc-3840-6a9e-9635a33c84fe,Is there anything else you want to know?,你还想知道些什么？
+action,action-7a1870d1-5390-631b-3cc8-7adda32da6bc,"The secretion itself may contain healing substances, which we don't know yet.",这种分泌物本身可能含有我们尚不了解的治愈成分。
+action,action-4ffc8aa7-bfe1-7f71-53a1-f6e6c50e4f10,I am searching for a way to extract the poison out of the swamp secretion.,我在寻找从沼泽分泌物中提取毒素的方法。
+action,action-b9152978-fb43-93af-8791-43a712b20abf,Sure!,好！
+action,action-15fad472-4840-8afb-55fe-045e4c339ab2,You don't happen to have a phial of secretion on you?,你身上不会正好带着一小瓶分泌物吧？
+option,choice-5e5c52c9-94af-6a42-e854-6dc9df13876e,"Here, take this secretion.",给，这瓶分泌物拿去。
+option,choice-b19974da-035b-8203-d9c2-d3bce0b288d4,No.,没有。
+action,action-c6299890-04f8-9523-4c23-526a779bc619,"Well, well, well.
+Exactly what I needed.","好，好，好。
+正是我需要的。"
+action,action-9e5674b0-95ae-d907-f023-a8455c60d036,Why are we still wasting time?,那我们还在浪费什么时间？
+action,action-08da2ee6-a67f-f448-8aa9-b35aa3314b26,Get me a phial of swamp secretion.,去给我弄一瓶沼泽分泌物来。
+action,action-5d324296-68de-2456-9fe4-fce9bed751cd,...,……
+action,action-ef50b0e1-f046-1baf-1289-8195c045515c,Indeed!,没错！
+action,action-1d181a0b-704c-06b3-0346-478a1ef6ef87,A while ago we had a visitor offering the #:heart of a warrior:#.,前阵子有位访客来兜售一颗#:战士之心:#。
+action,action-92ee1339-e048-4ad5-c887-c4dbc303c346,This seemed to be a rare find among the orcs in the wasteland.,这在荒地的兽人当中似乎是件稀罕物。
+action,action-fe237b1b-363d-c96b-5387-2b6d909e3825,"For whatever reason I declined the offer.
+However, I can't stop thinking about the heart.","不知怎的，我当时拒绝了。
+可如今我满脑子都是那颗心。"
+action,action-60a2f71d-1aff-86fe-0dc5-66f81a80ef9a,Just think of the secrets that such a heart holds.,想想看，那样一颗心里藏着多少秘密。
+action,action-f1873a8a-8643-7c5d-bfed-fdf8543e32b7,Bring me one #:heart of a warrior:# for my research.,给我带一颗#:战士之心:#来供我研究。
+option,choice-a46acec1-4c6e-211c-a83d-3965f7ce93d8,Sure.,好。
+option,choice-4589d0dd-a02b-338f-7cc9-a5af82afec99,Where do I find such a heart?,我上哪儿找这样一颗心？
+option,choice-d8cc179b-32eb-2d6b-7c31-cf6e8655910b,Who was the visitor?,那位访客是谁？
+option,choice-4967a433-bee3-0325-d8ba-7d589b8c2798,I need to think about it.,我得考虑考虑。
+action,action-6f536832-f7a7-9ec6-95ef-b99077db554f,"I think his name started with a ""G"".
+Or was it a ""D""?","我记得他的名字是“G”开头的。
+还是“D”来着？"
+action,action-7174092c-4ad4-85ed-7245-525b7274c336,"Could have been an ""L"" or ""M"" as well...",也可能是“L”或者“M”……
+action,action-8ddc2214-98cf-afed-78cb-fb8ed8da3509,"Argh...
+I don't know.","呃……
+我记不清了。"
+action,action-9bcaf561-614d-0186-6219-87582a5807b6,Excellent!,太好了！
+action,action-2379bb11-8801-53ea-f3f9-e9194548fcf6,Now go and bring me the heart.,现在去吧，把那颗心带来。
+action,action-87b2ae5d-84c0-2f5b-5c68-6d797292ace2,"Unless you find the visitor to get the heart, you will need to go to the wasteland.",除非你能找到那位访客拿到心，否则你就得去荒地跑一趟。
+action,action-6900df55-063b-bd47-7f10-7920f0aa30d7,I am sure one of the orcs has the heart of a warrior.,我敢肯定，某个兽人身上就有战士之心。
+action,action-687e0cf7-49e7-41bf-6b47-82f634571c80,That's unfortunate.,那真遗憾。
+action,action-47ae7c32-93a2-93f0-7e4c-1ac6eee08748,Did you find a heart already?,你找到心了吗？
+option,choice-a6bfc004-6457-ed8b-967f-b12990f347c5,Here is the heart of a warrior.,这是战士之心。
+option,choice-216652dc-a221-09d0-b1f4-de1fa3d0e20a,Here is the heart of a warrior (poisoned).,这是战士之心（已下毒）。
+option,choice-6c1abeaf-179c-28cc-f3ea-b9bd51e5c722,Where do I find such a heart?,我上哪儿找这样一颗心？
+option,choice-e65c93bc-cdf0-62cb-0957-c545da99fbc6,I still need to find one.,我还没找到。
+action,action-2be935b8-bc34-5d38-a44f-fc622b7da45a,Then don't waste any time.,那就别浪费时间了。
+action,action-5de4d57a-852c-8e39-6cc5-9837bbf64f0e,That is the heart of a warrior?,这就是战士之心？
+action,action-aaa82fa1-e271-82a3-892e-bcb3ed454f98,Incredible!,不可思议！
+action,action-df033c14-ba59-cd7f-aac1-d3ae0c44fb12,I'll need some time for my experiments.,我需要些时间来做实验。
+action,action-7d8fbc82-ba2d-1f5c-9dcc-fade3603e3c5,"Here, take these potions for your effort!",来，这些药水就当谢礼了！
+action,action-4905fa67-e9c7-1c76-6466-f285573bf636,"Unless you find the visitor to get the heart, you will need to got to the wasteland.",除非你能找到那位访客拿到心，否则你就得去荒地跑一趟。
+action,action-0817b853-23fb-7257-cfc3-c0a038f286dc,I am sure one of the orcs has the heart of a warrior.,我敢肯定，某个兽人身上就有战士之心。

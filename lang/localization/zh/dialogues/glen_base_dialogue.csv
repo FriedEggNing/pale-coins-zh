@@ -1,0 +1,45 @@
+type,id,text,zh
+action,action-bb12254e-1cb8-c292-263e-348d65a583b4,Hello stranger!,你好，陌生人！
+action,action-78429114-bcb2-4621-61b6-34c48d341511,"You again.
+What do you need?","又是你。
+你需要什么？"
+action,action-924be84f-c102-ac23-5691-c64c095a58ef,"This is a caravan from Icefall Village, and I am their leader.",这是来自冰瀑村的商队，我是他们的领队。
+action,action-154228c5-f960-5faa-ad9c-ef3c34720480,You may call me #:Glen:#.,你可以叫我#:格伦:#。
+option,choice-6c2e88e8-2260-693a-5e7b-90fe415d1a38,Where do you come from?,你们从哪儿来？
+option,choice-46b622e1-78aa-0f92-1feb-9e55c782e537,What are you doing here?,你们在这里做什么？
+option,choice-eb4d2921-d5c7-65e9-3a56-dbad95b67c11,Why did you leave the village?,你们为什么离开村子？
+option,choice-1b2ebc87-7cd3-b464-a723-97d69045efb2,I found this letter nearby.,我在附近捡到了这封信。
+option,choice-f7c0c27b-c553-8ce8-c7a8-592cd250b070,Do you sell any wares?,你们卖货吗？
+option,choice-74f5bc34-61d2-5a2f-2af2-3bb7aaa26dab,"I heard, you were selling a permit for the capital.",听说你在卖进入王都的通行证。
+option,choice-7810eb25-60d1-8023-a243-0339a1f15313,See you!,回见！
+action,action-bc0fecc3-6e33-4056-2a6f-15dfd57cd7c3,We are a caravan of the Icefall Village as I've mentioned.,正如我说过的，我们是冰瀑村的商队。
+action,action-55579a8d-ad06-6bfe-ea93-b97ad3410d5d,"It lies way to the east, behind the Ice Passage.",村子远在东边，在寒冰通道的另一头。
+action,action-e144389d-faa8-5779-7193-7c2742b7b997,"As it is frozen at the moment, it seems like we are stranded here for now.",通道目前封冻着，看来我们暂时被困在这里了。
+action,action-2e8be60a-749e-4d73-6120-9f5ac6fe3d88,"The elders of the village talk about another passage, but this knowledge seems to not be of any use at the moment.",村里的长者提起过另一条通道，但这条消息眼下似乎派不上用场。
+action,action-f6b215f3-724f-60c4-72c8-8357c5529415,"Currently, we are waiting for the passage to thaw, so we may return home.",现在我们只能等通道解冻，好返回家乡。
+action,action-760db694-aeda-79a3-92e4-5b27e5718fe3,"It is my duty to return everyone belonging to this caravan back safely.
+They have chosen to put their faith into me, after all.","把商队的每一个人平安带回去是我的职责。
+毕竟，他们选择了信任我。"
+action,action-69b3c483-5805-ff48-fc33-78a3352b139b,The Icefall residents send out caravans in order to trade wares with the capital.,冰瀑村的居民派出商队，与王都互通贸易。
+action,action-bf11c856-7d10-d9ba-ecca-1ab773a19a14,"East of the Ice Passage, there's plenty of resources the capital is in need of.",寒冰通道以东有许多王都急需的资源。
+action,action-a46b63d9-19f0-7884-6de7-398d826bf1f6,"Some of the other people tend to join us during our travels, as they want to see other parts of the world.",也有些人会在旅途中加入我们，想看看外面的世界。
+action,action-03ca79a9-cba5-bc3f-8f69-6b8fee9b7e12,"However, I might have already failed on that front.",不过，在这一点上，我恐怕已经失职了。
+action,action-9035954c-d9cc-de2f-02b2-d02aeb235db3,"Before the bridge broke down, Lennard wanted to trade wares with the bandits.",桥塌之前，伦纳德想和强盗们做买卖。
+action,action-31842672-7788-db9a-8352-49b848eee5b6,"He did not return, and many are too afraid to make their way up to them.",他一去不回，而大家多半都不敢上去找他们。
+action,action-be7b3b91-daa5-2646-7df5-2d9dbd9e8452,Have a warm and pleasant day!,祝你有温暖愉快的一天！
+action,action-c407e20b-ee1b-59ca-46de-c969af82daa4,That's why we are here!,这正是我们来这里的原因！
+action,action-d80a6bfd-b9b6-c014-2270-2f03219de829,"Either way, you would be correct.
+There's one I could spare.","不管怎么说，你没听错。
+我确实有一张可以出手。"
+action,action-a597be9d-0ab0-9a9f-682a-3f3a69061c34,"For saving Lennard, I think you deserve it as recompense. It is the very least I could do.",你救了伦纳德，我想这就当作报答，你受之无愧。这是我起码能做的。
+action,action-f1382cda-857a-5902-463d-85692fa782d2,"However, a permit is rather expensive, you know?",不过，通行证可是相当昂贵的，你知道吗？
+action,action-8891e49b-b3c1-f58a-a16f-b72fdcbb9187,You can have this one for around... 4000 gold.,这张就……4000金币让给你吧。
+option,choice-90626732-d3af-e66c-cb64-bd8150733962,Alright. (give 4000 gold),好。（付4000金币）
+option,choice-6a5bf924-7f3d-bf26-66b3-34c2f00a5c8c,That's way too much.,这也太贵了。
+action,action-02e50d6d-64a3-f05b-6a72-60e17eeb6786,Permits do not sell quickly. You may return if you change your mind.,通行证一时半会儿也卖不出去。你要是改了主意，随时可以回来。
+action,action-c68b032a-d381-aee4-d596-f01c3745d272,"There you go. If the guards ask, you did not get this from me, alright?",给你。要是卫兵问起，这可不是从我这儿拿的，明白吗？
+action,action-fe6c5b6b-c08a-ad44-e613-6c610fe24c55,A letter?,一封信？
+action,action-e15c96dc-9a87-f490-5c62-d7c2a8dcd863,...,……
+action,action-9a4c2c3c-fc44-fa47-d6cf-a2c930e6143f,Looks like this letter was signed by a Gregor.,看来这封信的署名是一个叫格雷戈的人。
+action,action-d7c56a12-f6fa-bc49-0bf1-d64ccbd60610,"He is a scholar of the #:academy:#, if I remember correctly.",如果我没记错，他是#:学院:#的一位学者。
+action,action-1ac0f7e0-1a1c-99fd-1e0a-5205447311c5,A few days ago he bought some rations. I haven't seen him since.,几天前他买了些干粮。从那以后我就没再见过他。

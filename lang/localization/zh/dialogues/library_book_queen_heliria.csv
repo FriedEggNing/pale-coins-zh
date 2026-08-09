@@ -1,0 +1,15 @@
+type,id,text,zh
+option,choice-86f3a54a-5b9b-6db7-6b3a-27c389d5128e,Chapter 1 - The Coronation,第一章——加冕
+option,choice-788fb690-d5ec-392a-44cf-d9aa9555cf35,Chapter 2 - The Azure Stone,第二章——蔚蓝之石
+option,choice-831806a9-b3fd-a987-dd67-a899e061825d,Chapter 3 - The Royal Guard,第三章——皇家卫队
+option,choice-25033420-9297-ffd0-a950-5b405f6c90c0,leave,离开
+action,action-cb10b3a2-dfcf-74a1-53ab-a800347db10d,*A book about Queen Heliria,*一本关于赫莉莉亚王后的书
+action,action-8b976a45-15d8-c041-78b9-de4c1a26af90,"Shortly after Heliria's arrival on this island, citizens, scholars, and warriors gathered around her. Even the king could not resist her beauty, so they married.",赫莉莉亚来到这座岛屿后不久，市民、学者与战士便聚集到她的身边。就连国王也无法抗拒她的美貌，于是二人成婚。
+action,action-7a63d94b-70f9-5d0c-dcce-fef8183b1ebf,"A scholar from a distant village brought a stone to the queen, who was about to build a new city.",一位来自遥远村庄的学者向王后献上了一块石头，彼时王后正准备兴建一座新城。
+action,action-26151c3b-a55c-7ccb-d106-278a58a076d7,"After the queen's death, a crypt was built in her honor, in which she is said to rest forever on the lowest level.",王后逝世后，人们为纪念她修建了一座墓穴。据说她永眠于墓穴的最底层。
+action,action-e6802d66-60e7-b6ef-425d-ffc466a0113d,"Her bodyguards, the First of the Royal Guard, were locked up with her so that Queen Heliria would find protection even in death.",她的贴身护卫——皇家卫队的初代成员——被封入墓中与她相伴，好让赫莉莉亚王后即使在死后也能得到守护。
+action,action-ea2927ab-c017-ee86-4cc2-fd79ce2d7ec2,"Shortly after the wedding, the king died, leaving behind the queen and a son.",婚礼后不久，国王便驾崩了，只留下王后和一个儿子。
+action,action-80322ba5-fb89-7886-4a0d-64edd677dcba,"It was said that the stone shimmered azure blue in the light.
+No one can say why this stone was given to her.","据说那块石头在光下闪着蔚蓝的光泽。
+没有人说得清这块石头为何被献给她。"
+action,action-c6e6ebfb-fcbc-3b05-e542-b8c762dd2cba,All we know is that the queen guarded the stone like her own child and took it with her to #:her grave#:.,我们只知道，王后如同守护亲生孩子一般守护着那块石头，并将它带进了#:自己的坟墓#:。

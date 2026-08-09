@@ -1,0 +1,2 @@
+type,id,text,zh
+action,action-0014db6b-30b9-ddee-503b-211da8ae313b,Open your inventory with ###input.INPUT_INVENTORY###.,按###input.INPUT_INVENTORY###打开你的物品栏。

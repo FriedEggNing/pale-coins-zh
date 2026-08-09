@@ -1,0 +1,47 @@
+type,id,text,zh
+action,action-e6614e70-bcfc-6bef-5900-393218c61659,"Ahh, a newcomer!
+Welcome to the capital.","啊，新面孔！
+欢迎来到王都。"
+action,action-921c6f60-2d63-ac4f-b94e-745db9fa5cb7,May I help you with something?,有什么可以帮你的吗？
+action,action-9eb212f5-1596-c0cd-dfd9-85476319c9b5,"If you need information or are looking for something specific, I will be happy to help you.",如果你需要打听消息，或是在找什么特别的东西，我很乐意帮忙。
+action,action-bae1effe-9a15-cc71-bfe5-a400a3778596,"Otherwise, the capital is like any other city.
+People of all kinds gather here to talk about their day, shop at the market, or go about their business.","除此之外，王都和别的城市没什么两样。
+形形色色的人聚在这里聊聊家常、逛逛市场，或是忙各自的营生。"
+option,choice-e2494378-36c9-0cca-0130-e7596abf6270,What do you know about the bandits?,你对那些强盗了解多少？
+option,choice-ad070d1c-1032-214d-d32f-597ce861b62f,What do I need to know about the capital?,关于王都我需要知道些什么？
+option,choice-4cf67bdc-3444-aae9-5d09-63389926028f,Where can I buy something?,我在哪儿能买到东西？
+option,choice-1561d09a-9b6d-943d-3a8d-6759846bb3ca,What are the laws of the city.,城里有哪些法规？
+option,choice-b79c0438-ec59-894f-bfef-0bbf844397fe,Where can you get armor like yours?,在哪儿能弄到你这样的盔甲？
+option,choice-b5ae0df5-dcc8-9c7e-d442-21dfcd15e385,I want to leave the capital.,我想离开王都。
+option,choice-a042fbed-b4bb-0cf6-03d6-ad2e59830aee,See you!,回见！
+action,action-e0b73b00-9809-b024-01c9-8805716cdf7d,"Currently, the king, Weynard III, is here in the capital, taking care of the concerns of the common citizens.",眼下，国王韦纳德三世正在王都，处理平民百姓的诉求。
+action,action-956f91ba-0240-714d-053d-9d685d56cb3c,"If you have any problems, the Royal Guard is your first point of contact. You'll find most of us in the barracks, just off the market square.",如果你遇到任何麻烦，皇家卫队就是你的第一求助对象。我们大多数人都在市场广场旁边的兵营里。
+action,action-650c9c2b-3a08-f09e-aafa-6046ab68539e,"If you're interested in goods, I can recommend the marketplace.
+Just follow the street here.","如果你想买些货物，我推荐去市场。
+沿着这条街走就到了。"
+action,action-b0a36ae2-9a3f-6948-a03c-7cddf61bb876,"Basically, it's enough to know that you shouldn't steal anything or attack anyone here.",基本上，你只要记住在这里不许偷东西、不许袭击任何人就够了。
+action,action-4bfe723b-81c5-479c-a019-39e21e25cbfd,"If you have a problem with someone, please contact us, and we will take care of it as best we can.",如果你和谁起了冲突，请来找我们，我们会尽力处理。
+action,action-c917abc1-0438-ccf9-1e11-b15353bde218,"There are also areas that are only accessible to certain citizens.
+You'll find guards outside these areas who will point you in the right direction.","城里还有些区域只对特定市民开放。
+这些区域外面都有卫兵，他们会为你指路。"
+action,action-5753da45-e273-e1cc-b9d9-72ee76951d87,"You must first join the Royal Guard, to earn your right to wear this armor.",你得先加入皇家卫队，才有资格穿上这身盔甲。
+action,action-dc2e6619-957b-5a5a-9d42-dee8877da6af,"If you plan to join us, it's best to speak to Edmon, the king's advisor.
+He is in charge of the new recruits.","如果你打算加入我们，最好去找国王的顾问埃德蒙谈谈。
+新兵招募由他负责。"
+action,action-3314176d-58f3-cb22-30c8-05c8c2506ee5,"You can find Edmon in the throne room, north of here past the barracks.",埃德蒙在王座厅，从这里往北，过了兵营就是。
+action,action-09b48d47-b83e-b211-115a-f6f4b11c500c,Have a great day!,祝你今天愉快！
+action,action-73d003e8-21a5-a5cd-2c78-58f31719e484,"You mean the bandits, that are causing trouble around here?",你是说在这一带作乱的那些强盗？
+action,action-8bc7d690-a877-3b1a-819e-d60190798767,"Well, unfortunately, I don't know much about them. I can only tell you what the guards in the barracks tell me.",唉，可惜我对他们了解不多。我只能把兵营里卫兵们的说法转告你。
+option,choice-755db244-659b-4f14-259f-c29118e5e96c,What are they talking about?,他们都说了些什么？
+action,action-550ec244-dc20-def7-cd19-191885c50bcd,"Some of the guards think that the number of bandits is steadily increasing.
+But I don't know about that.","有些卫兵认为强盗的数量在不断增加。
+不过这我就说不准了。"
+action,action-00bcd8b2-bb2f-ded9-7252-3f2c016b81d5,"Just ask Hick.
+You'll find him in the barracks.","去问希克就行。
+他就在兵营里。"
+action,action-f27050c5-462e-22da-96a5-7a6c94396b67,"The gates are closed. Without a proper permit, the guards won't just let you back in.",城门是关闭的。没有正式的通行证，卫兵可不会随便放你回来。
+action,action-783be194-c3eb-c08c-3a8b-dc0e11f7fa10,Are you sure you want to leave the capital?,你确定要离开王都吗？
+option,choice-08df57a2-f943-b07d-e0a3-936e37239445,"Yes, I want to leave the capital.",是的，我要离开王都。
+option,choice-c78f2d66-b8c9-61d2-5f5c-c63dacbefffc,I've changed my mind.,我改主意了。
+action,action-3279850e-5649-87c9-e58f-38aed99a00f8,Alright!,好嘞！
+action,action-7170d8b5-89c7-67c8-31b8-776d30cfd704,Do you need anything else?,还需要别的吗？

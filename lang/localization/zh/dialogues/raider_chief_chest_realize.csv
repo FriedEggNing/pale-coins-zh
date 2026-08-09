@@ -1,0 +1,16 @@
+type,id,text,zh
+action,action-079549a9-1f51-8e93-791d-6383768cbe3d,"Wait!
+Who are you?","等等！
+你是谁？"
+action,action-7e61593b-0163-fd6c-6319-a34b800bb5c4,What are you doin' here?,你在这儿干什么？
+option,choice-78643b99-cb26-330a-e3de-b911553af5f9,Who is Lord Margyott?,马尔乔特领主是谁？
+option,choice-c3cfd281-0e13-5ece-599d-6fc103bb4d7a,Where is the Arcanum Sanguis?,血之秘典在哪里？
+action,action-4e38a78b-5851-58b8-0f92-0bd3dfc95062,He is a powerful ruler and the one who wanted me to get that book.,他是一位有权有势的统治者，也是让我去弄那本书的人。
+action,action-44b8f324-7a52-4eca-41b4-c03fce7f9d87,The book is locked inside this chest right here.,书就锁在这个箱子里。
+action,action-deeac509-57dd-7a65-092f-0f699c7ad320,But don't worry about it. You'll never be able to get it open without my key.,不过你就别惦记了。没有我的钥匙，你永远也打不开它。
+action,action-3b5eb0b0-a656-0335-f50c-ea50175df92f,"See ya, sweetie!",回见啦，小甜心！
+option,choice-d50259e6-ab22-c22d-d413-b641205da8fa,Who is Lord Margyott?,马尔乔特领主是谁？
+option,choice-e2b558cd-cc1d-bf92-7f24-06e69761fec7,Where is the Arcanum Sanguis?,血之秘典在哪里？
+action,action-0105c66d-7fff-50e2-50a8-4956baa7b9df,"At least that's what I thought! Someone actually managed to open the chest.
+I'm screwed.","至少我原来是这么想的！居然真有人把箱子打开了。
+我完蛋了。"

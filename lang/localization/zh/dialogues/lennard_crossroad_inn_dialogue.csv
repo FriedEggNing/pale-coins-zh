@@ -1,0 +1,16 @@
+type,id,text,zh
+action,action-e0f026d7-1dea-1dc5-8467-875e7c837508,"Oh, it's you again.
+Do you need something?","哦，又是你。
+你需要点什么吗？"
+option,choice-8ec8f10d-c010-d350-b081-0073edd50597,What are you doing here?,你在这里做什么？
+option,choice-9df45726-7a13-58be-b733-3d8983a7ec06,What do you sell?,你卖些什么？
+option,choice-ff7f0e0a-1d4c-d35b-8b61-eb30c94eb108,See you!,回见！
+action,action-ef32c58a-cd06-fa2a-a263-fcebe89da55d,"I was about to get a drink and a warm stew. Out of nowhere, I had an idea.",我本来只想喝一杯，再来碗热炖菜。突然间，我冒出了个主意。
+action,action-0c8905fc-2c8c-01de-109d-a016d34cf4af,Why shouldn't Rair and I work together?,我和莱尔为什么不合伙干呢？
+action,action-1555399f-2623-a1d3-0968-61e2cd4fa9df,"Long story short, I sell booze and Rair's stew now on my way through Grenmark.
+In return, Rair gets a small cut of the profits.","长话短说，现在我一边走遍格伦马克，一边卖酒和莱尔的炖菜。
+作为回报，莱尔从利润里抽一小成。"
+action,action-b4331437-c22d-acbb-81bd-5cd2a8bc50a1,"Well... Are you thirsty?
+I have some good stuff to sell.","怎么样……渴了吗？
+我这儿有些好货要卖。"
+action,action-17858ee4-b5a9-1ea2-a3be-40b4c64bde3b,Only the best for you!,只把最好的卖给你！

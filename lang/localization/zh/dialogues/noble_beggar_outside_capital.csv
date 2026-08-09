@@ -1,0 +1,19 @@
+type,id,text,zh
+action,action-157ba88a-972a-12db-78db-a40cdf3ec67a,"Hey!
+Got any coin to spare?","嘿！
+有闲钱赏几个吗？"
+action,action-e7c7ccc5-4717-490b-6e26-c81b9799cacc,I lost my permit to the capital last night at the tavern.,昨晚我在酒馆把进王都的通行证弄丢了。
+action,action-05000aa3-7567-fefe-2d23-f06dc4df3e65,"Now the guards won't let me in, and I've got nowhere to sleep tonight.",现在卫兵不让我进城，今晚我连个睡觉的地方都没有。
+option,choice-e105b74d-2855-66e1-8cca-50e0ee591112,Take these 10 gold coins.,收下这10金币吧。
+option,choice-6859521a-fa4f-6bdb-0836-3b0cf532165e,Why do you need the money?,你为什么需要钱？
+option,choice-e5138bea-4689-01d2-91cf-fd2424334851,Maybe later.,以后再说吧。
+action,action-7a577aa0-1ef3-ba2a-0bb4-7c7006158672,"Ah well.
+I'll be nearby the capital in case you feel like tossing a coin to a poor bastard like me.","唉，好吧。
+我就在王都附近，万一你哪天愿意赏我这个可怜虫几个钱呢。"
+action,action-3f2d6cde-4720-48f5-3fcb-20cac76d5721,"Well, I guess I'll have to rent a room at Rair's tavern. Not exactly a bargain.",唉，看来我只能去莱尔的酒馆租个房间了。那价钱可不便宜。
+action,action-7d9c791a-ba14-6bdd-a2d7-ed8b21116bb5,"Thanks, man!",谢了，老兄！
+action,action-9701cdd7-d7d9-1832-1dfd-a83ee122d569,That should be enough to get me into the city.,这些应该够我进城了。
+action,action-4ec7058b-44e6-12d8-9e9c-3e9de8f8033c,Catch you later!,回见！
+action,action-1a320d2d-3c15-8ab9-bbfc-2f7f171637d7,"Hey!
+Got any coin to spare?","嘿！
+有闲钱赏几个吗？"

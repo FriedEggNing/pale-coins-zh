@@ -1,0 +1,215 @@
+type,id,text,zh
+action,action-58d848d7-7418-78e3-4400-a73c01cd423f,Hello my friend.,你好，我的朋友。
+action,action-5fdb683b-aed7-04ca-b955-43a22982d0e6,"What is it, that #:Rair:# can do for you?",有什么是#:莱尔:#能为你效劳的？
+option,choice-34cce623-bd6c-bcb6-5838-d6ef52c85ce2,Where am I?,我这是在哪儿？
+option,choice-26f95e6a-9bb4-a8c9-e979-80d45d79e5a8,I need information...,我需要打听些消息……
+option,choice-3a3744f1-ee8d-04b7-e12e-45adf107f990,Who are the drunk men in the corner?,角落里那几个醉汉是什么人？
+option,choice-3025cc88-97bf-b1e9-6a9b-e0aa721a6ea3,I could take care of Thorald.,我可以帮你解决索拉尔德。
+option,choice-1402f995-21d5-bce9-10c1-4fca79a902ee,Thorald will pay the bills.,索拉尔德会付账的。
+option,choice-5769176b-9173-914f-79f1-c00d9907876a,Thorald won't show up again.,索拉尔德不会再来了。
+option,choice-2d08e2ac-bb7e-9b38-f68e-dc13d9bd76e6,Show me your wares.,让我看看你的货。
+option,choice-115ea744-afdc-57cd-3a3f-ce0b18558e7a,What do you know about the Arcanum Sanguis?,你对血之秘典了解多少？
+option,choice-ee763eac-e7ab-8cd6-beb4-c5bc7400b3b4,Let's talk about these orders.,我们谈谈这些命令吧。
+option,choice-d2ee9bc6-7fc5-7234-ac41-18e4372685c7,I know where the Arcanum Sanguis is hidden.,我知道血之秘典藏在哪里。
+option,choice-2b8cc0bb-477f-f1ff-cde4-f2d239458c74,The raiders stole it for Lord Margyott.,是掠夺者替马尔乔特领主偷走了它。
+option,choice-3226c244-3abd-ded8-31cd-a37342dfff0d,Are you interested in a book called the Arcanum Sanguis?,你对一本叫血之秘典的书感兴趣吗？
+option,choice-6182ec59-aa4e-241d-3745-2f533fbce08b,Do you have a room available?,你这儿有空房吗？
+option,choice-614465b3-d9eb-446b-41d9-00180b30150d,See you.,回见。
+action,action-3f0e150b-42bb-f508-97e4-3e8dc6d2034b,"At the Crossroad Inn.
+The best tavern around.","在十字路旅店。
+这一带最好的酒馆。"
+action,action-4f15cc7d-cd42-a36a-1053-04c55ddcf46a,Sure... What do you want to know?,当然……你想知道什么？
+option,choice-129d46f1-6e19-08d1-d96c-2ca9ed11fd0e,What do you know about the capital?,你对王都了解多少？
+option,choice-24c362a4-423d-19a3-b6f2-97b989703e11,How can I get a permit for the capital?,我怎样才能拿到进入王都的通行证？
+option,choice-6b94196c-c0a9-0c26-0a0b-733da2e69449,Tell me about the nearby areas.,跟我说说附近的地方吧。
+option,choice-e7a6eaa4-250d-efd3-8f5f-56f86d3e61ba,How do I get to the Marin cliffs?,我要怎么去马林悬崖？
+option,choice-a7aaac4a-d750-cb1b-b9e4-e5704843bb89,Where do you get your wine from?,你的酒是从哪儿进的？
+option,choice-cfcfda7a-c3c0-192e-a87b-24ff3cccf67b,Nothing at the moment.,暂时没什么事。
+action,action-3f174205-8e04-bad1-d090-6e43d48a9ce2,I only know that the guards won't let just anyone inside the capital.,我只知道卫兵不会随便放人进王都。
+action,action-130a7b2a-f86d-0515-d53f-4ab59e60e0fd,"Usually, you'll need a passport or a permit.",通常来说，你需要护照或者通行证。
+action,action-779311ed-03e7-c6b2-45b1-19c93909b24d,"There are other ways, but none of them would fit you, my friend.",也有别的路子，不过没一条适合你，我的朋友。
+action,action-df4313d3-9596-a987-9bd3-6f0c7cc0d2e2,Let me think...,让我想想……
+action,action-3b8e6536-9448-ba5d-d162-2579573bffd5,I am very forgetful lately...,我最近特别健忘……
+option,choice-5527d455-a253-3942-d666-f4249bf2bf11,Let me help (give 100 gold).,让我帮帮你（给100金币）。
+option,choice-558b50d2-d13b-7f24-1711-d0824214f34e,Forget it.,算了。
+action,action-666f86b3-9ff6-1404-8e8a-815ab548bada,"Ahh yes, I remember now.",啊，对了，我想起来了。
+action,action-ecd510e1-5dc7-6440-2d1e-5eb10a10d59d,I heard that you can buy a permit at the caravan to the west. Speaking to their leader should suffice.,我听说在西边的商队那儿能买到通行证。去找他们的头儿谈谈就行。
+action,action-88e4417e-5655-4184-1724-2a39b983294b,Sure.,当然。
+action,action-276dd14b-56e6-dbce-2320-62c9860abc8c,"East of here, there's the passage to the #text.frames=4##text.color=highlight#Icefall Village#text.default#.",往东走，是通往#text.frames=4##text.color=highlight#冰瀑村#text.default#的通道。
+action,action-c28026a3-1cc3-6eba-1644-1ca4ef03383b,"However, the passage froze over a while ago, so there's no new caravans here.",不过那条通道前阵子被冻住了，所以这里没有新商队来。
+action,action-e1487f7f-15be-cfc3-8260-c4da8427bfa8,It is also a stopover for the caravan of the Icefall Village.,这里也是冰瀑村商队的中转站。
+action,action-0fe21536-9ab1-1ffd-5d78-dbc098f7b39b,"To the north, there are the #text.frames=4##text.color=highlight#Marin Cliffs#text.default#.",往北，是#text.frames=4##text.color=highlight#马林悬崖#text.default#。
+action,action-2750888b-5f5f-097c-1daf-07bebaadd808,"This may be a problem for the village, as they rely on the traveling merchants of the caravans.",这对村子来说可能是个麻烦，他们全指望商队的行商过活。
+action,action-cffd1cf2-4e1e-8788-4fab-07e146a85f6f,"Without proper equipment, you shouldn't even think about going up there.",没有合适的装备，你想都别想上去。
+action,action-fc4f0a2b-3a25-d037-3786-d1aa4f9aa4cd,"Last but not least, the Royal Army is guarding the passage to the south.",最后，皇家军队把守着南边的通道。
+action,action-35e2c422-2e13-b366-4d9a-da6b38adfbc5,"Southeast, there's the #text.frames=4##text.color=highlight#Rhoga Swamp#text.default#, but I don't know anything about it.",东南方向是#text.frames=4##text.color=highlight#罗加沼泽#text.default#，不过那里的事我一无所知。
+action,action-d478c2c8-761d-5b27-5507-8205a1da7d5c,Who knows what lies beyond that one.,谁知道那后面藏着什么。
+action,action-ba202b19-c6fe-d621-d90e-489924840ddf,Come back later.,回头再来吧。
+action,action-3a51ba15-ee04-ccb5-5345-df2c5d6d58a8,"Come again, my friend.",下次再来，我的朋友。
+action,action-6c1225ee-90d0-3152-4aa5-14d28d0413cf,You mean the people in the red armor?,你是说那些穿红甲的人？
+action,action-4617b2bf-455f-8371-459a-2636b240bd94,They are royal knights.,他们是皇家骑士。
+action,action-b09148e8-6b02-3a8b-022e-0df1a7bd87ff,"Thorald, the leader of the small group here, was talking about quality check.",索拉尔德，就是这一小队人的头儿，之前说是来做什么质量检查。
+action,action-8ca8d7d6-90fd-452e-2b07-68b7ab99ae59,"Since then, these - ahem - noble knights have been getting drunk at my expense.",从那以后，这些——咳——高贵的骑士就一直在这儿白吃白喝地灌酒。
+action,action-87dd3d71-e19d-c879-fe05-605dcd6af4b3,"You could?
+He is a royal knight, you know?","你可以？
+他可是皇家骑士，你知道吧？"
+action,action-a70520f5-0849-7a59-d93a-b27583b1426b,I wish he would leave the Inn for good.,我真希望他能永远离开这家旅店。
+action,action-09cd5e44-59b0-a629-2131-f8a84707bd93,But I don't want to have problems with the royal guard.,但我可不想跟皇家卫队惹上麻烦。
+action,action-d9310ea9-b705-9c74-8d72-8e9fa93a7aeb,"He is still here, but at least he will pay for his beer.",他虽然还赖在这儿，但至少肯付酒钱了。
+action,action-ff9181a5-c84b-8483-9d1f-e8927a7eeacc,"Maybe, he will be an alright customer at the end, haha.",说不定到头来他还算个不错的客人呢，哈哈。
+action,action-16ac6129-f10d-04a1-1f88-900ee9c555bd,"I see.
+Now he won't cause any more troubles.","我明白了。
+这下他不会再惹麻烦了。"
+action,action-c4dc2b80-3bcc-1f93-e695-cd885205cae4,"However, thank you so much for dealing with Thorald.",不管怎样，非常感谢你帮我处理了索拉尔德。
+action,action-3d691063-b445-8373-dc25-97171739b80c,"I sure hope, the royal guard won't be a problem, though.",不过我真心希望皇家卫队那边别出什么岔子。
+action,action-9acaa38f-cc23-05a0-1fc8-e728ad657f2a,"As far as I know, the guards do exactly what they have to do.",据我所知，卫兵们只是照章办事。
+action,action-18a27035-4afa-782b-f35d-b8342c67b72d,"Unless you get a permit, signed by the king, or get strong enough, you won't be able to access the passage.",除非你拿到国王签发的通行证，或者变得足够强，否则你过不了那条通道。
+action,action-991aed39-01bb-aa03-234c-790be355c1b2,"One is as troublesome as the other, right?
+How about another option?","两条路一样麻烦，对吧？
+要不要考虑另一种办法？"
+action,action-97f87563-1187-c826-bc3a-73ed733a32d4,"Come back later, and I may sell you a... permit...",回头再来，也许我能卖你一张……通行证……
+action,action-e7f79585-63f0-ac9f-670d-68fa437bf67b,"I don't know what you're talking about, my friend.",我不知道你在说什么，我的朋友。
+option,choice-036572cc-0024-9377-4656-e957340017f9,I took care of the drunkard for you.,我帮你解决了那个醉鬼。
+option,choice-cd618646-de2c-7eef-f12e-e2ee61e80ae4,I took care of the drunkard for you.,我帮你解决了那个醉鬼。
+option,choice-af61841f-ba09-2b22-90a3-ee9eafa52d2a,How can I help jog your memory?,我要怎么帮你恢复记忆？
+option,choice-625728ba-e8b9-0ce8-46cd-97de5211ba6a,That letter says something different.,那封信上说的可不是这样。
+option,choice-579a8598-48e1-8865-51b2-83dc462882ca,We'll talk about it later.,我们回头再谈。
+action,action-5063b2d2-2ad5-b14c-370a-33d38252c851,But he is still here in the Inn.,但他人还在旅店里。
+action,action-a3489f70-ca88-6ee1-11ba-9800600a63e0,"And you kicked him out of the tavern.
+Well, I shall tell you about the book.","而且你还把他赶出了酒馆。
+好吧，我这就跟你说说那本书的事。"
+action,action-a13d514e-58f6-b374-4c28-a175bb93a22f,I don't think that this is enough to make me remember...,我觉得光这样还不足以让我想起来……
+action,action-ee68d14b-db2b-dab2-ba42-93b408801152,The truth is I was involved in the theft of that book.,实话说，那本书失窃的事，我也有份参与。
+action,action-ce7fb648-0a8b-a5d0-002d-2f1a7c70cb55,"I heard that the Arcanum Sanguis is a dangerous book.
+Therefore, information about it is not without risk.","我听说血之秘典是本危险的书。
+所以，跟它有关的消息也不是没有风险的。"
+action,action-1457a712-a578-f6ef-771f-2b1d57e6615a,I don't know what about.,我不知道要谈什么。
+action,action-b90f076b-56bf-a460-2f6d-2cdfb393737a,"You took care of the drunkard.
+But he is still here in the Inn.","你是解决了那个醉鬼。
+但他人还在旅店里。"
+action,action-4a7ccb50-e3d7-3490-1c31-dcacde6b81ea,I think 250 gold should be enough to make me remember that day.,我想，250金币应该足够让我想起那天的事了。
+option,choice-46500d0f-59d9-638e-0333-8df8ff52964b,Here are 250 gold.,这是250金币。
+option,choice-2679b733-1137-54ce-a644-0dccaee43970,That is too much.,太贵了。
+action,action-709bb740-e1fe-707c-b233-31b476e31804,"Unfortunately, I don't know what else we should talk about.",很遗憾，我不知道我们还有什么好谈的。
+action,action-187a8d32-5c23-e94b-dbf3-65186a1c1065,"Thank you!
+I think I remember what happened.","谢谢！
+我想我记起当时发生了什么。"
+action,action-e98d1ade-9b15-88ff-9a33-aa60f82d188d,You took care of the drunkard.,你解决了那个醉鬼。
+action,action-958c7325-0705-4489-0dba-ac2ff57f200c,"And you kicked him out of the tavern.
+Well, I shall tell you about the book.","而且你还把他赶出了酒馆。
+好吧，我这就跟你说说那本书的事。"
+action,action-2f8ff5f9-28c3-5ea4-d2d9-fabf2aefc5f0,I'm sure I'll need 500 gold to remember this information.,我确定得有500金币才能让我记起这件事。
+option,choice-bd2344f4-021c-4756-fb59-f506133ab03f,Here are 500 gold.,这是500金币。
+option,choice-7cda3c2f-1d7d-0000-843f-c14c9d054f99,That is too much.,太贵了。
+action,action-d8b18e21-b885-a93e-4b9d-974919ca0d57,"We had a pickup planned for the wine. While we were negotiating about the price, one of the other thieves stole the book.",我们本来安排好了去取酒。就在我们讨价还价的时候，另一个贼把书偷了出来。
+action,action-5d913c2a-3cd7-adf0-a72e-52597621e4c7,"However, the book was stolen from us while we were making our way back through the Marin Passage.",可是，在我们经马林通道返回的路上，书又被人从我们手里抢走了。
+action,action-cb809ebd-408a-0a7d-94e8-64e456b99152,Raiders attacked us and our carriage.,掠夺者袭击了我们和我们的马车。
+action,action-061376a9-fd13-0aad-47ab-72ff94c93c4b,"Not only did they steal all our wine, but also that damn book.",他们不但抢走了我们所有的酒，还抢走了那本该死的书。
+action,action-c13cf8d5-b829-ea54-012e-d84db7e525c3,My client was outraged. But we settled the problem by simply forgetting about the theft.,我的客户大发雷霆。不过最后我们就当失窃这事没发生过，把问题了结了。
+action,action-20be730d-0cc0-30a4-16db-e07968b5eff7,"That’s all I know, I promise.",我知道的就这么多，我发誓。
+option,choice-98525103-0fff-93ed-7b94-bfb92e639e3a,Why did you know where the book was?,你怎么会知道书在哪里？
+option,choice-49542d84-445d-5357-ed07-34bfa59e58f1,Who was involved in the operation?,都有谁参与了这次行动？
+option,choice-604c8b29-276a-1fcf-6a5a-5665ef2e0467,Who was your client?,你的客户是谁？
+option,choice-6426134e-1386-a50d-85a7-148efb47d79e,Where is the carriage now?,那辆马车现在在哪里？
+option,choice-97eed87a-3368-fc64-b852-c29f16f4c497,That's all. Thank you!,就这些了。谢谢你！
+action,action-1df471cc-ea08-10c3-7014-36a522d62412,We got the exact information from my client.,确切的消息是我的客户提供的。
+action,action-94b3cdf5-40c6-5ac7-1c92-7a0f50c96915,Our only job was to execute the plan within a certain time and deliver the book.,我们的任务只是在限定时间内执行计划，把书送到。
+action,action-41d3c3d3-ad46-dd6b-0109-b1b5680676aa,We were five in total.,我们一共五个人。
+action,action-dbf0180d-82bf-6b11-5e10-53c9b37bce41,There was the one guy with the carriage and the horses.,有一个人负责马车和马匹。
+action,action-526bf182-5844-cc7a-456a-f04c7f73db7e,He was not involved in the plan and was only needed for the wine.,他没有参与计划，只是运酒需要他。
+action,action-3530ce39-eb57-3857-6ed4-1bf3388ac3db,"A pal of mine helped to steal the book.
+He really makes everything disappear if he wants.","我的一个伙计帮忙偷的书。
+只要他想，什么东西都能给你变没了。"
+action,action-f4a7b27a-da85-6e06-b230-bfb561e04064,"Then, there were two other guys, which I did not know.",另外还有两个我不认识的家伙。
+action,action-fc0ad2e6-b132-6755-729c-e019d803ece6,They were sent by my client to observe the whole operation and report back to him.,他们是我的客户派来的，负责监视整个行动并向他汇报。
+action,action-398427e3-eac7-ac86-f207-3a628817a38b,That is something I can't tell.,这我可不能说。
+action,action-9352ecf6-b8ac-d406-7e39-98ae0550c9f3,No money on earth will make me give away my client's name.,给多少钱我都不会说出我客户的名字。
+action,action-5539c8be-2210-78d3-7e8e-cca643fd70d8,I am sure the carriage is still in the Marin Passage.,我敢肯定那辆马车还在马林通道里。
+action,action-48336146-420f-f309-465e-c9649e066fb8,"I haven't been in there since then, so I don't know for sure.",不过打那以后我就没再进去过，所以也说不准。
+action,action-1d0d3528-bb90-a513-f14c-c86ea70d5be7,Take a look at my wares before you leave.,走之前看看我的货吧。
+action,action-f3bf6b9f-bdb4-2577-c8e0-97aad5ffbcaa,"Your dry throat could certainly use a drink or two, right?",你干渴的喉咙肯定需要一两杯酒润润，对吧？
+action,action-bacb0968-de9b-6893-1db5-d01450b76edd,"A letter?
+Let me see.","一封信？
+让我看看。"
+action,action-374003e8-29f8-8e28-ce04-bd0ce98dd554,...,……
+action,action-0775d9f7-7fbd-fa2d-d5a8-86fe512b9de6,"What? How?
+The whole operation was a trap!","什么？怎么会？
+整个行动就是个圈套！"
+action,action-afa61d6e-cd85-d500-16f9-d716765c67e0,Here's your letter.,信还给你。
+action,action-90076b39-f2b7-14af-1259-9b73ac9567a3,Let me see.,让我看看。
+action,action-a67ccfa8-0ee7-1b0a-f803-f4c05cc5d2bf,...,……
+action,action-d91152ed-8fdc-c489-2578-073edebc9562,"I can't believe, that the whole operation to steal the book has been a trap.",真不敢相信，偷书的整个行动竟然是个圈套。
+action,action-d3a5c343-8323-a657-4776-b81db081d93b,"But who gave the order?
+It must be someone who knew about the plan!","可命令是谁下的？
+一定是知道这个计划的人！"
+action,action-c86529e4-472e-27c5-81ce-4b6a38b72fda,Come back to me when you find out more about the attack.,等你查到更多关于那次袭击的消息，再来找我。
+action,action-ca15c176-0bb7-5396-2d86-8d6da2b22b24,"Well...
+Where is it?","哦……
+书在哪儿？"
+option,choice-d62b6c1b-4907-5aa3-279b-d78363444b75,The book is locked inside a chest behind the waterfall.,书锁在瀑布后面的一个箱子里。
+action,action-3276be78-c2d7-d9dd-e4e7-5d24df7d4fbe,Lord Margyott?,马尔乔特领主？
+action,action-9f8047bb-388d-38ae-901e-9e8f3104eec7,"Haha, that was unexpected.
+He was the one who ordered me to steal the book.","哈哈，这可真没想到。
+当初就是他命令我去偷那本书的。"
+action,action-53ec3d0e-ec99-6436-eb0b-d930e6d172ed,"To me, it sounds like he planned it and was playing a trick on me.
+I won't let this go!","在我看来，这一切都是他策划的，他是在耍我。
+这事我不会善罢甘休！"
+action,action-b4c5a769-e676-e184-faf6-62b667bd50ab,"Bring me the book if you find it.
+I'd be happy to charge him double for that shit, haha!","要是你找到那本书，就拿来给我。
+那破玩意儿我很乐意找他收双倍的钱，哈哈！"
+action,action-b5f0d469-12ba-5cb0-fd89-9f5d765207a9,Let me guess. You can't open the chest by yourself?,我猜猜。你自己打不开那个箱子吧？
+option,choice-95569a78-8f9b-86c2-6f00-1703582a5092,I can open the chest.,我能打开箱子。
+option,choice-8bfbf8de-a1d9-31de-15c8-ca4183fc4407,That is right.,没错。
+action,action-ecf3edfd-4282-8c0a-4ad4-7a8b9ab476c6,"What are you waiting for, then?
+Go get the damn book!","那你还等什么？
+快去把那本该死的书拿来！"
+action,action-0566968a-d69e-0cbe-835b-0a3a37faefca,I figured as much.,我早猜到了。
+action,action-09e5664f-593a-a417-b501-fb98b84dc2e4,"If you have enough money, you can ask a friend of mine to crack the chest.",只要你钱够多，可以去找我的一个朋友撬开那个箱子。
+action,action-0662fbaf-9dd2-15e2-8802-f7eb13e7415b,#:Jesse:# has opened every chest so far.,到目前为止，还没有#:杰西:#打不开的箱子。
+action,action-55c6414b-ed07-da02-9237-194317c7710c,"In return, you'll get a fair share of the profits.",作为回报，你能分到一份可观的好处。
+action,action-f1983c0b-64ea-45e8-36d4-d8f7c3c9763a,You'll find him atop the northern mountain pass in the bandit camp.,你可以在北方山口顶上的强盗营地里找到他。
+action,action-f0daabaf-cdbf-7339-3e39-dcfa0a6a60f6,"You son of a... 
+Let me see!","你这个混……
+让我看看！"
+action,action-1db63ee7-8777-fbbb-f36a-5ebf4f8ceb4b,...,……
+action,action-ced8a797-58a2-8a8f-0a73-cd1b09779787,"That is the book!
+Haha, I knew you'd find and bring me the book.","就是这本书！
+哈哈，我就知道你能把书找回来带给我。"
+action,action-a61e3a06-eef3-5b72-2ee8-36553d283c40,Let's talk business.,我们来谈谈生意吧。
+action,action-9b3a3673-b2d3-288b-944f-3d4a4d72790f,"I'd give you 5000 gold for the book, if you're willing to sell that thing.",只要你愿意卖，这本书我出5000金币。
+option,choice-8c7dd190-54b4-faa9-7a3f-137f81afd145,5000 gold? We have a deal!,5000金币？成交！
+option,choice-dd871261-f8b2-2271-edfc-f1c34a4d7e6e,I need to think about that.,我得考虑考虑。
+action,action-70ca5bbb-12e8-d1e3-6c30-02c59e01e055,Don't take too much time.,别考虑太久。
+action,action-313bdfdd-d985-1914-04bd-1ece0b05c963,"Great!
+Now, give me that stupid book.","太好了！
+现在把那本破书给我吧。"
+action,action-852b769f-7344-9550-3a34-e6afa6bb4583,And here's your payment.,这是给你的报酬。
+action,action-afae4b1c-48e1-43ee-844a-d36d177903d0,"Pleasure doin' business with you, my friend.",跟你做生意很愉快，我的朋友。
+action,action-673ff4ce-0eb3-7f0f-e540-18ff4a4c704e,Sure thing. A paying customer is always welcome.,当然可以。付钱的客人永远欢迎。
+action,action-6313d8fa-f011-3a4a-92ab-47a5ff0a6414,You can rest in a room for the special price of 10 gold coins.,只要10金币的特价，你就能开间房好好休息。
+action,action-f961d588-389d-cb28-9771-0bbc6b2b1729,You can rest in a room for the special price of 50 gold coins.,只要50金币的特价，你就能开间房好好休息。
+action,action-403337a9-dccb-5d36-a1f3-29f70dac32d5,You can rest in a room for the price of 100 gold coins.,只要100金币，你就能开间房好好休息。
+option,choice-55aee8ab-31df-88df-d8c6-15cd7789a114,Here. Take the 10 gold coins.,给。这是10金币。
+option,choice-567f753e-86e8-a876-eb0b-58d5197a72c3,Maybe later.,以后再说吧。
+action,action-84a24a16-50d8-1814-2c9b-7413c0233b47,Is there anything else you need?,你还需要点别的什么吗？
+option,choice-e654cc7f-f929-02e4-d1ad-a03e1f8ee5ab,Here. Take the 50 gold coins.,给。这是50金币。
+option,choice-b3b4cd2b-4ad3-1ef3-4bfc-5c87a788a1df,Maybe later.,以后再说吧。
+option,choice-8d85cd18-a22a-a51d-358c-4232f3c9c04b,Here. Take the 100 gold coins.,给。这是100金币。
+option,choice-90391bfa-0ad6-b495-7b19-bde32233bf65,Maybe later.,以后再说吧。
+action,action-69317bdd-9834-fb6e-c03d-76289bf311e1,"Have a good rest, my friend.",好好休息，我的朋友。
+action,action-27d20fe6-cbdf-45c4-bbb3-d6ad8d942437,"The wine I offer comes exclusively from the academy.
+There isn't much choice, though.","我卖的酒全部来自魔法学院。
+不过选择不算多。"
+option,choice-98003553-e39f-a925-693e-3e18a5a10633,Did you sell any other wine?,你卖过别的酒吗？
+action,action-3ac359b7-0d05-7736-2b3f-7308a6484cab,"I did.
+But that was a while ago, back when there was more trade around here.","卖过。
+不过那是很久以前的事了，那时这一带的生意还多些。"
+action,action-91847fb6-6354-1b09-6d6e-2942f12a4950,"Other wines weren't as popular as the Academy's wine, so I no longer sell any other bottles.",别的酒不如学院的酒受欢迎，所以后来我就不再卖其他的了。
+option,choice-bf45bfc9-ac7f-45c2-062f-314ecc1fa0bf,Do you get your bottles directly from the academy?,你的酒是直接从学院进的吗？
+action,action-5f5f619b-8631-c941-d6c0-550f31432ea7,"What's the point of all these questions about the wine?
+Is this an interrogation, my friend?","问这么多关于酒的问题是想干什么？
+这是在审问我吗，我的朋友？"
+action,action-34ebe95b-531a-5695-fb8c-125a6df35bd0,"Yes, I do get the bottles directly from the academy.
+Every now and then we plan a trip to the academy, to stock up some bottles.","是的，我的酒确实是直接从学院进的。
+我们时不时会安排一趟去学院的行程，补些存货。"
+action,action-65f29093-9485-4f77-5b61-bd44563af83c,There's nothing else to say about the wine.,关于酒，没什么别的好说的了。

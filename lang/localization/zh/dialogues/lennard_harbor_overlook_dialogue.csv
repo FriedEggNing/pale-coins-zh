@@ -1,0 +1,13 @@
+type,id,text,zh
+action,action-f9da6e80-0811-f2e0-296f-f75dcb3ec230,"Oh, it's you again.
+Do you need something?","哦，又是你。
+你需要点什么吗？"
+action,action-a21f2f12-16fb-94a1-b5ad-fa41fdee29a9,Who knows what amazing goods might be waiting for us beyond the horizon?,谁知道地平线的那头有什么了不起的货物在等着我们呢？
+action,action-1b2ab1ad-9ed0-e390-23fe-1e10cdfd9770,"Someday, I'll set sail and bring my goods to every corner of the world.",总有一天，我会扬帆起航，把我的货物带到世界的每个角落。
+option,choice-96404296-17ff-c79b-49e3-c7c9a4b1752b,What do you sell?,你卖些什么？
+option,choice-152a8392-8044-4cc8-ef04-0adeef1dc940,See you!,回见！
+action,action-4109643a-661f-6c20-a074-d20a4903bea2,"Oh, it's you again.",哦，又是你。
+action,action-d4616e65-d88d-038d-bd13-975d13c12e03,"Anyway.
+Do you need something?","总之。
+你需要点什么吗？"
+action,action-b7805c30-6b48-ba6e-2407-297f339caee4,Only the best for you!,只把最好的卖给你！

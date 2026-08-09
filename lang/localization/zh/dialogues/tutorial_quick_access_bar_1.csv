@@ -1,0 +1,6 @@
+type,id,text,zh
+action,action-c7f683a6-57b9-2986-82b4-e8ec1ce4bd38,"Did you know, that there is a #text.frames=4##text.color=highlight#quick access bar#text.default#?",你知道有个#text.frames=4##text.color=highlight#快捷栏#text.default#吗？
+action,action-62282bf7-5b9f-dd74-3b79-5ab1d6451f57,I did not.,我不知道。
+action,action-88b6c17d-cc03-b43e-21dc-7a679735e001,"However, was told, I could assign #text.frames=4##text.color=highlight#Items#text.default# and #text.frames=4##text.color=highlight#Skills#text.default# to it by pressing the keys '1' to '8' in the skill window or inventory.",不过听人说，在技能窗口或物品栏里按下“1”到“8”键，就能把#text.frames=4##text.color=highlight#物品#text.default#和#text.frames=4##text.color=highlight#技能#text.default#指派到快捷栏上。
+action,action-7929ccf9-11b2-f85e-e545-ca3a66af3f63,Seems like you could access those Items and Skills later by pressing '1' to '8'.,之后似乎只要按下“1”到“8”，就能使用那些物品和技能了。
+action,action-e089494e-67d2-3b7c-4821-a93c9400e1ee,"If I had any of those keys, I would definitely give it a try.",我要是有那些按键，肯定会试上一试。

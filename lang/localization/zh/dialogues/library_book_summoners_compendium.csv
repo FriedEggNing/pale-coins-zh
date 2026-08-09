@@ -1,0 +1,17 @@
+type,id,text,zh
+action,action-ccbd8099-b43e-3e85-ecfd-31ebeeb63c47,*The Summoner's Compendium,*《召唤师大全》
+option,choice-2fc3851c-df6f-1ca1-e4da-e6f775a36512,Chapter 1 - Summon Basics,第一章——召唤基础
+option,choice-0210bc5b-c484-03e7-c798-fe75651ddfd3,Chapter 2 - The Power of the Summoner,第二章——召唤师之力
+option,choice-fa3ba30a-87db-e69b-2344-ec14d1147409,Chapter 3 - Regulation,第三章——管制
+option,choice-99892d2a-a65b-67c4-6270-260e8e00feef,leave,离开
+action,action-e6650c66-8a3e-4d37-fde0-c92ab755a3ea,Summoning has always been considered taboo. This can be traced back to the time of the Necromancer Wars.,召唤术历来被视为禁忌。这可以追溯到死灵法师战争的年代。
+action,action-6afceb94-8397-516e-a25d-79b3e5972d93,"However, after the wars ended and summoning magic was regulated, attitudes towards it improved.",然而，随着战争结束、召唤魔法受到管制，人们对它的态度有所改观。
+action,action-77b09fdd-e273-138d-f733-c1e57c7c8cd6,"While almost everything could be summoned, before the regulation of summoning magic, today there are special limitations to protect others, as well as the summoner, from unwanted effects.",在召唤魔法受管制之前，几乎万物皆可召唤；而如今则设有特殊限制，以保护他人乃至召唤师本人免受不良影响。
+action,action-40da8e0f-52b1-5360-b3ad-ec319e8924b5,"Most summons are limited to one at a time, of the same type.",大多数召唤物同一类型每次仅限一个。
+action,action-e190e4f3-caec-c742-f65c-51f2f95b16f3,"The exception to this rule is so-called ""lesser"" summons.
+These can be summoned multiple times at the same time.","此规则的例外是所谓的“次级”召唤物。
+它们可以同时召唤出多个。"
+action,action-3998ddb9-6990-f2b5-6c99-888a648cd597,"It should be noted that the summoning time is reduced by the number of lesser summons, as the summoner must command several individuals at the same time.",需要注意的是，召唤持续时间会随次级召唤物的数量增多而缩短，因为召唤师必须同时统御多个个体。
+action,action-e44943d6-1f35-fd79-7f1b-9da9afbca99e,"Sazzou, one of the first summoners, learned about the influence of the summoners power to the summoned individual.",最早的召唤师之一萨佐，发现了召唤师自身力量对被召唤个体的影响。
+action,action-e0e2a2e4-604f-3a90-7214-23d2066e05f3,"While the summoner's Magic extends the duration of the summoned being, the Intelligence directly affects their strength.",召唤师的魔力可以延长召唤物的存在时间，而智力则直接影响它们的强度。
+action,action-acc34690-de43-68b2-2dd1-149f58f7ada7,"Rune stones, as well as magical staves that are imbued with summoning magic, are strictly controlled and must fulfill a number of requirements before they reach the hands of magicians.",蕴含召唤魔法的符文石与魔法法杖都受到严格管控，必须满足一系列要求，方能交到魔法师手中。

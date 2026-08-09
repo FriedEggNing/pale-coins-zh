@@ -1,0 +1,26 @@
+type,id,text,zh
+action,action-66816eac-c503-9b02-697e-834fd1888812,Hello!,你好！
+action,action-60c16480-3283-662f-72dd-933e6552b6a8,"I am #:Veskar:#, a bard of the Icefall Village.",我是#:维斯卡:#，冰瀑村的吟游诗人。
+action,action-291ecdd7-543e-71e0-9711-27e9698a7bd9,May I help you with something?,有什么我能帮你的吗？
+option,choice-d92b19c1-7524-35cd-8d5d-6ca4db431964,What are you doing?,你在做什么？
+option,choice-b5a6b669-4817-629c-1f05-9b44b556095a,Do you miss your family?,你想念你的家人吗？
+option,choice-8803f2a5-4584-b7f9-da49-4ff693b5a64d,You have been in the capital lately?,你最近去过王都？
+option,choice-a7d1f4e5-64b8-8d4a-2a6e-cb6d06616028,Do you know how I can get into the cepital?,你知道我要怎么才能进入王都吗？
+option,choice-75da1a5b-ba3b-bed2-39d3-32349bb55d78,See you later!,回头见！
+action,action-e616b6bb-5c48-3b2c-58a2-98fa2d4cf6ff,"The passage to the village froze, so we can't return at the moment.",通往村子的通道冻住了，所以我们暂时回不去。
+action,action-2338f1ba-6c16-b719-4d00-82ba8f98cc75,"As long as I am stuck here, I might as well be playing on my lute!",反正被困在这里，不如就弹弹我的鲁特琴！
+action,action-a31be66c-ffcf-0137-4865-e6651135a5d8,"I learned a few new songs while I was in the capital!
+After my return to the Icefall Village, I want to play them all for my family.","我在王都的时候学了几首新曲子！
+等回到冰瀑村，我要把它们全都弹给家人听。"
+action,action-fddc721d-9d6c-10ff-04e7-b4cd5e7f5b27,"Yes, for sure.",是啊，当然去过。
+action,action-4420d465-bc19-d4af-786f-cbb7342c4913,The caravans from the Icefall Village usually have special permits to trade wares from the capital.,冰瀑村的商队通常持有特别许可，可以贩卖来自王都的货物。
+action,action-632fdfd3-e2c4-aac0-3a9e-7eb50944693a,"You don't look like one of us, though.",不过，你看起来可不像我们的人。
+action,action-0c0403c2-9b09-d7c3-8afb-340834034c3b,Usually the guards don't ask us caravaners about a permit.,卫兵通常不会向我们这些商队成员查验许可。
+action,action-ac87b455-ecc6-1272-695c-021c4211ccdd,"As long as you don't #text.frames=4##text.color=highlight#look like one of us#text.default#, you may have to get one, I am afraid.",只要你#text.frames=4##text.color=highlight#看起来不像我们的人#text.default#，恐怕就得去弄一张了。
+action,action-1cf4d3a7-eee2-8385-098d-98b5df031292,Have a wonderful day!,祝你有美好的一天！
+action,action-466e9722-d6f1-ffc8-a578-1059cbed4bc3,Of course I do.,当然想念。
+action,action-142a68e4-46dc-09f5-6b0d-382126a59708,"My son got sick before I left the village.
+I hoped to find a medicine in the capital, but they seemed to not know the illness.","我离开村子之前，我儿子病倒了。
+我本指望能在王都找到药，可他们似乎根本不认识这种病。"
+action,action-88c2a74a-970e-8580-11d0-5fffae4f5d90,"Maybe, the wizards can help me, but they are out of reach for me.",也许法师们能帮我，但我根本接触不到他们。
+action,action-358a5c3b-7b54-0081-69ec-c6665f58c71a,"There's no way I'll make it past the Marin cliffs, as I ain't a fighter.",我不会武艺，绝无可能闯过马林悬崖。

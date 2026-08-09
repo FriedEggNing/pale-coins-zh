@@ -1,0 +1,55 @@
+type,id,text,zh
+action,action-4ea72e13-d0bd-e58d-57ef-e812731b5fee,"Get lost, you bandit scum!",滚开，你这强盗败类！
+action,action-bc39c708-a31f-93cd-a762-40be891f0d09,...,……
+action,action-9ea11eb4-3199-1caf-88a8-10bbcd7a7d26,Wait...,等等……
+action,action-8c0b317b-8b78-7466-7184-43d248bd130b,"You ain't a bandit, right?",你不是强盗，对吧？
+action,action-088ba034-d8c5-c6fa-49b8-39de1c1a6d59,What's up?,什么事？
+option,choice-9cdb5f54-9ba7-a07a-70f1-3558ef44f667,Who are you?,你是谁？
+option,choice-c0a4485e-286e-6282-ee96-f133bcbb8f03,What are you doing here?,你在这里做什么？
+option,choice-c0574d06-01a8-8a90-9df6-6146f3371449,"I could help you, if you want.",需要的话，我可以帮你。
+option,choice-7544abc2-9953-66dd-32c7-b47791a38367,The bridge to the east is repaired.,东边的桥修好了。
+option,choice-663f7a7d-4353-c53a-214a-27d5552e24d6,I have your gold. (give 1500 gold),我带来了你的金币。（交出1500金币）
+option,choice-fa22e3ad-d7fd-8c87-1e6f-f82878513d34,I have your wares.,我拿回了你的货物。
+option,choice-02e4170d-945a-eb76-fd87-ad0cf4ed51a6,What do you still need?,你还需要什么？
+option,choice-c86d195a-9fc9-c07d-3a32-a234aa058a6e,I did everything you needed.,你要的事我都办妥了。
+option,choice-cb9cf12d-f801-4675-ee11-1d761e5c7dfa,See you!,回头见！
+action,action-0b2b89b7-dba6-a5cf-1e68-3076a2bfc616,"I am #:Lennard:#, a merchant of the Icefall Village.",我是#:伦纳德:#，冰瀑村的商人。
+action,action-037799d6-b0d4-00fb-b2dd-74d8523d12af,"I joined a caravan, which settled to the east of here, right after the bridge.",我加入了一支商队，他们就驻扎在东边，过了桥就是。
+action,action-2aa90a58-4942-0c36-f709-fa89fbf1c553,I thought it was a good idea to scout the environment and sell my wares around here.,我本以为在附近勘察一下环境、顺便卖点货是个好主意。
+action,action-684c0b3c-6a04-58e8-69ea-3129a08b34f5,"Turns out, these bastards up here rather steal my stuff instead of buying it.",结果呢，山上这帮混蛋不买我的东西，反倒把货全抢了。
+action,action-fc5a6039-614e-32fc-06d7-603b4e43000e,"When I wanted to return to the caravan, the bridge had broken down.",等我想回商队的时候，桥又塌了。
+action,action-900a3cb0-bcbc-c1c0-c069-3c5f62480a4a,Now I am stranded here without my wares and no way to go back to my people.,现在我被困在这里，货没了，也没法回到自己人身边。
+option,choice-a4cc5d92-66ef-baf4-100b-e6ccdde3dedc,I could help you out.,我可以帮你脱困。
+option,choice-c397fbca-ea82-e255-0561-1a1c2975c71b,Sounds terrible.,听起来真惨。
+action,action-dd12ac54-8fd3-fd4d-ebbb-c9736c5d7d44,An astute observation...,观察得真够敏锐的……
+action,action-a08ee66a-300e-78b2-ea5a-147ce3424de1,"Well, that would certainly be kind of you.",哦，那你可真是个好心人。
+action,action-f460c48c-2fb4-8e0c-0025-b54eae591019,"Listen, I need my wares back.
+Or at least the gold for all the goods they stole.","听着，我得拿回我的货。
+或者至少要拿回他们抢走的那些货物的钱。"
+action,action-623dd0b0-1adc-44b2-ddf2-8041fd5a81b8,I'd place their worth around 1500 gold.,我估摸着那批货值1500金币上下。
+action,action-6f2f56f9-abb4-bd90-8a83-7ccd9e64d9b8,"Also, the bridge to the east has to be repaired.",另外，东边的桥也得修好。
+action,action-3d9596a7-2c2b-a76a-4523-840291248dd3,"There was one guy from another camp who was supposed to get it done, but instead of repairing the bridge he thought it more important to go fishing!",本来另一个营地有个家伙负责修桥，结果他倒好，觉得钓鱼比修桥更要紧！
+action,action-e1cd2739-ebea-d046-e61d-e01252f7502a,"Please, just hurry up and get this done, so I can finally return to the caravan.",拜托，赶紧把这些事办妥吧，好让我能回到商队去。
+action,action-c3be84a2-5697-f39d-ad8d-f10aebefd8ee,"That is some good news.
+How did you get the lazy guy to repair it?","真是个好消息。
+你是怎么让那个懒鬼去修桥的？"
+action,action-3c917c1b-318b-f625-6a30-001b1efc8284,"Nevermind.
+I think, I already know the answer.","算了。
+我想我已经知道答案了。"
+action,action-7b8220d7-06c2-199f-7034-2dfc5e5074b3,"Thank you so much!
+How did you get the gold from these bandits?","太感谢你了！
+你是怎么从那帮强盗手里弄到金币的？"
+action,action-64861a31-f336-66e6-4b5b-61af48551b3b,"Actually, I don't care for the methods.",其实，我才不在乎你用的什么法子。
+action,action-46f037c2-70ff-7e08-0b50-969566717ddf,"Thank you so much!
+How did you get the wares back from these bandits?","太感谢你了！
+你是怎么从那帮强盗手里把货拿回来的？"
+action,action-4e4d21e7-1173-cfad-2e6a-929baf6864e5,Let me think...,让我想想……
+action,action-4d67f3c0-3196-fac1-365e-1d41f19d146c,"I still need my wares.
+They should be around here somewhere.","我还需要拿回我的货。
+它们应该就在这附近的什么地方。"
+action,action-83aac73f-fe05-c455-6807-bad208ed8881,"The bridge to the east has to be repaired.
+Otherwise, I would not be able to return to the caravan.","东边的桥得修好。
+不然我就没法回到商队了。"
+action,action-48d6f42e-ac61-5552-9b65-7b9e63f8ff8c,That's all.,就这些。
+action,action-40d1d69a-49ae-9099-4806-88d803319bf8,Meet me at the caravan. We can talk about your payment there.,到商队那儿找我。我们可以在那里谈谈你的报酬。
+action,action-b27ad1ba-802a-53ec-b89f-61cdcc66add4,"Thank you so much for everything, friend!",朋友，这一切真是太感谢你了！

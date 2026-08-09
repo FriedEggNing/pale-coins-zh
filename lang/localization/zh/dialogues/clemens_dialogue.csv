@@ -1,0 +1,28 @@
+type,id,text,zh
+action,action-c1b4732f-0008-f637-ccef-5f5c60cde742,"How's it goin', lad?",咋样啊，小伙子？
+action,action-bb7cf38f-4dbc-4e9f-d279-0346c0205a8c,"I'm #:Clemens:#, the best cook 'round!",俺是#:克莱门斯:#，这一带最好的厨子！
+option,choice-b58c1ab4-677e-e5ff-1395-0b562083cb09,Can you spare some food?,能分我点吃的吗？
+option,choice-ec53a447-6017-6c3a-74d2-3373df605281,Can you help me get past the guard?,你能帮我过守卫那关吗？
+option,choice-78e0bb2c-ff7b-3eec-6f7a-b6c25e4f4dae,Do you know where Lennard's goods are?,你知道伦纳德的货在哪儿吗？
+option,choice-bfa5f3a0-2d87-e656-57c9-da9169934442,See you!,回头见！
+action,action-48cf2ddd-0780-06ec-f1b6-d3ffb7ab2673,How ya doin'?,过得咋样？
+action,action-f98f7f84-d36d-b5df-783c-abac3174af31,Also the only cook 'round for that matter.,说起来，也是这一带唯一的厨子。
+action,action-e2d5e7e3-c000-e273-f312-1cb6cc9f2c83,"Here, take this stew.",来，这碗炖菜拿去。
+action,action-44ddb247-caf4-3183-a807-19fa7ee7d26a,"But next time, you gotta pay for some.",不过下回，你可得掏钱了。
+action,action-d82043fd-36b2-74e8-e34a-e47d83a9b606,"Of course I can, lad!",当然能啦，小伙子！
+action,action-a60771e6-bb1d-6a5b-4016-91d513113b78,But why would I?,可俺凭啥帮你？
+action,action-cf3150bb-858f-8c5e-6396-9297e1621f15,"Hmm... Maybe, because you got me some chicken thighs?",唔……要是你能给俺弄几个鸡大腿来，那还差不多？
+option,choice-ecf96a41-b81d-9f1c-d056-f20a0aa4c502,"Here, take this.",给，拿去吧。
+option,choice-bd48b6f6-9127-c909-f895-b7cf1acd7277,I don't have any.,我没有。
+action,action-e1356f4b-3ad0-b529-279f-cdf44562b486,I haven't had any since Balder and his boys left with the chickens.,自打巴尔德带着他的弟兄们把鸡都带走，俺就再没吃上过。
+action,action-3c551196-d139-6f5d-d25c-3b6b6063763f,"Well, if you're thinkin' of me doin' you a favour. You better find some, eh?",得了，你要想让俺帮忙，最好先去找点来，咋样？
+action,action-bb4fa3bf-4103-9134-2449-00492e24cea6,"Ohh my!
+Would ya look at that?","哎哟喂！
+瞧瞧这个！"
+action,action-849e92e4-390d-b0d4-0b6f-f5f86f55dd55,This is gonna be a fine addition to my stew.,这可是俺炖菜里的好料。
+action,action-33ced9e7-7f0d-7233-9211-9a4acbadddea,"I'll have the guard know to let you pass, lad, don't worry.",俺会跟守卫打好招呼放你过去的，小伙子，放心吧。
+action,action-93acb7a0-1a13-ee96-3c9f-ef835625d7df,"Until then, lad!",回见啦，小伙子！
+action,action-c6d13cd6-eddb-7bed-97e8-da687166e2e3,I don't know where his goods are.,俺不知道他的货在哪儿。
+action,action-d8d2373e-8b57-adbd-c63d-c918aa2702f6,"Go ask someone else.
+Maybe Jesse can help you.","去问问别人吧。
+兴许杰西能帮你。"

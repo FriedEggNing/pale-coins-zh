@@ -1,0 +1,10 @@
+type,id,text,zh
+action,action-a6aa2d60-2fe5-88ce-9066-c1f7620e40a5,"Welcome!
+Have a look at the best weapons around! That's a guarantee!","欢迎！
+来瞧瞧这一带最好的武器！绝对错不了！"
+option,choice-d8e8de01-4782-9711-cb28-2235d74f7834,Show me your weapons.,让我看看你的武器。
+option,choice-f7d61a54-2011-9f48-b806-f7139fc1105b,Where do you get your weapons from?,你的武器都是从哪儿来的？
+option,choice-d04b2104-dfb5-94ed-9439-ff4ebeb78a41,See you!,回头见！
+action,action-804763a6-ccdf-1158-3bb1-6fbcc424027a,"Kolfinn, the smith here in the capital. He provides us with only the finest of his craft.",科尔芬，王都这里的铁匠。他只把最上乘的手艺货供给我们。
+action,action-8de67ee6-c4cc-b608-354b-7c93f7a15e30,"As long as he is not busy forging swords for the royal army, of course.",当然，前提是他没忙着给皇家军队打剑。
+action,action-b3e6245c-9c9d-f89e-e93b-9fd8b655ca13,Come again later!,欢迎下次再来！

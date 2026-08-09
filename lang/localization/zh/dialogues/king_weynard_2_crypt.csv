@@ -1,0 +1,17 @@
+type,id,text,zh
+action,action-fa613d16-d262-9ce0-9f7c-5271a3ad813f,"Is this my ancestor's resting place?
+Never have I imagined this crypt to be like this.","这就是我先祖的安息之地吗？
+我从未想过这座墓穴竟是这般模样。"
+action,action-965df786-2f77-cd5b-849c-714ba1ad3f1a,"My dear Miriam. 
+You were my guiding light in the darkest hours.","我亲爱的米里亚姆。
+在最黑暗的时刻，你曾是指引我的明光。"
+action,action-546a0c67-797c-141f-e926-0e9f2338f00a,...,……
+action,action-3bc41ecb-b72a-055e-46af-a708c22e512f,"But this time, my mind is imprisoned in darkness.
+There is no longer a guiding light for me.","但这一次，我的心智被囚禁在黑暗之中。
+再没有明光指引我了。"
+option,choice-234fbed4-d5f6-5ab2-4051-b6aafa1334a7,leave...,离开……
+action,action-d88eec72-f10a-9a99-9a74-4a01cdc09a6d,"I feel my bond to this world fade away.
+Is my body finally released from this curse?","我感到自己与这个世界的联系正在消散。
+我的躯体终于从这诅咒中解脱了吗？"
+action,action-f8ca76d6-129b-7b6d-ef85-e60eb438f390,"You, who broke my curse, shall receive an ancient weapon of my family.",打破我诅咒之人啊，你将获得我家族的一件古老武器。
+action,action-b1b7129a-008a-0a5e-6d3e-cbf9e0b84874,A path will open as the #:king:# feels the #:warmth of the fire:#.,当#:国王:#感受到#:炉火的温暖:#时，一条道路将会开启。

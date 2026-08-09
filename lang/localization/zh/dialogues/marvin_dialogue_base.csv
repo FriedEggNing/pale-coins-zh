@@ -1,0 +1,51 @@
+type,id,text,zh
+action,action-da1705ae-502b-0880-2f36-5f312fe89f92,"Hey, how are you?",嘿，你好吗？
+action,action-1333b26f-ec20-0e0b-508f-e4b3c6eae092,Can I help you?,有什么能帮你的吗？
+option,choice-d1c6e9e1-e8f6-5223-ea20-28f339b448de,What are you doing here?,你在这儿做什么？
+option,choice-d0819798-e811-5ac9-67f8-149ff0b89e85,What are you doing with these boxes?,你搬这些箱子做什么？
+option,choice-d6c87597-e5f6-ae51-30ed-144c1e231e76,Are you a member of the royal guard?,你是皇家卫队的成员吗？
+option,choice-bd7ebd57-238c-5365-aa2a-a08eb9900290,You sold fake wine to Baron Frestek.,你把假酒卖给了弗雷斯泰克男爵。
+option,choice-1d42d767-e819-1fbe-b493-c60eba1b7657,What do you know about Cedric's stolen list?,关于塞德里克被偷的清单，你知道些什么？
+option,choice-cf0abfe1-ee90-38c8-7f5e-e74f2564d987,See you!,回见！
+action,action-18040e5f-a623-05ee-2c8a-88f21a44e995,I'm helping the quartermaster with these crates.,我在帮军需官搬这些货箱。
+action,action-6e811c33-1491-5a53-6b2c-d4854279937e,Sometimes I also take care of deliveries or errands for the guards or some citizens.,有时我也替卫兵或市民们送送货、跑跑腿。
+action,action-f9f00885-0079-13da-75d5-d1c6ad90dce4,Feel free to call me Marvin.,叫我马文就行。
+action,action-6ab76eb7-4149-aadb-49d7-7fce50974fe3,The guard's crates and barrels are scattered all over the city.,卫队的货箱和木桶散落在城里各处。
+action,action-2185f245-4ade-38e6-3464-3c2fee1b920a,I collect the empty boxes and carry them back into the basement of the barracks.,我负责收集空箱子，把它们搬回兵营的地下室。
+action,action-abca31d8-ad5f-e3c6-10bc-89fefde61424,"Not yet.
+I'm only helping the quartermaster so that he can put in a good word for me with the king's advisor.","还不是。
+我给军需官帮忙，只是想让他在国王的顾问面前替我美言几句。"
+action,action-d4dbf743-4408-feae-a0ff-3cf4fed83207,The advisor Edmon is the only one to accept new members into the ranks of the guards.,只有顾问埃德蒙才有权接纳新人加入卫队。
+action,action-f5a0a141-20a6-b5b2-2134-8002676fc67b,"Huh?
+I... I don't know...","啊？
+我……我不知道……"
+action,action-61b83ea9-5032-7a97-1238-e206d23a5a9a,...,……
+action,action-d988c517-4488-112f-c2c2-6ec89b88ebf7,"Oh shit, I knew it wasn't going to end well.",糟了，我就知道这事不会有好下场。
+option,choice-69f7356a-b7d0-3c5c-7b05-12bdd5a4f8c5,Where do you get the wine from?,你的酒是从哪儿弄来的？
+option,choice-884e3307-685a-06a4-b247-3e77943ecfe6,Why should I let you go?,我凭什么放你走？
+option,choice-87e16508-108e-51ee-c5f4-3f7e1da77397,I will hand you over to the Academy.,我要把你交给魔法学院。
+option,choice-badf8c19-4ac9-8ded-6dae-52989deb04ce,Get out of here and leave the capital for good!,滚吧，永远别再回王都！
+action,action-432cb1aa-b0ba-4e8b-0e09-cf6702c8c72c,"Listen!
+Let me go, and I'll promise to stop the fake wine deliveries.","听我说！
+放我走，我保证再也不送假酒了。"
+action,action-66b650e0-6040-bd2c-a0cb-f73661a09c77,I can't tell you.,我不能告诉你。
+action,action-fa98158a-499a-4f3a-e1e6-103012c38df3,"If it comes out who produces the fake wine, they'll hang me from the nearest pole.",要是让人知道假酒是谁造的，他们会就近找根杆子把我吊死。
+action,action-5ff82a93-a6a6-587d-77e6-f13c5603c465,"I've been able to put a lot of gold aside lately.
+Let me run, and you'll get some.","我最近攒下了不少金币。
+放我一马，分你一份。"
+action,action-d361ac76-1c7a-c06d-f8a5-179427af6b45,"Thanks, man!
+This gold here is yours.","多谢了，朋友！
+这些金币是你的了。"
+action,action-4d6faa15-fd91-b13e-ab56-8bdd1abaa4f2,"What? No!
+But getting upset probably won't do any good.","什么？不要！
+不过再闹下去恐怕也没什么用。"
+action,action-12ec1ad8-8a6a-db7a-faa3-cb539abf23fd,I deserve what comes next.,接下来的下场是我应得的。
+action,action-ab38ea47-3209-ecaa-3ba2-afbc3f4aa93c,See you!,回见！
+action,action-62aff443-5b00-1e7c-abe2-ff1c2eb4f741,"Uhh...
+Nothing, sir!","呃……
+没什么，先生！"
+action,action-284684d8-883a-f6c4-fb05-0fb3d98923be,"Huh?
+Yeah... I.. I was.","啊？
+是……我、我参与了。"
+option,choice-59db1833-d1c2-abcd-9ade-8bead05eae1e,You were involved in the last wine deliveries.,你参与了最近几次送酒。
+option,choice-15f24759-d383-407f-a6b9-d5e01942acc2,I found Cedric's list in the barracks cellar.,我在兵营地窖里找到了塞德里克的清单。

@@ -1,0 +1,19 @@
+type,id,text,zh
+action,action-b4613854-c985-0c61-ce74-428f667e147b,There you are!,你可算来了！
+action,action-295e4b4c-875f-8d18-f967-1f6ed3fff15d,"Here are the ruins I talked about. Magical, right?",这就是我说过的遗迹。很神奇，对吧？
+action,action-19fb4f7a-d09d-2a4e-346f-68285eaaab8f,But we're not here for sightseeing.,不过我们可不是来观光的。
+action,action-747cb01a-32c1-d421-3be0-a0f1e1112ccc,"The stone in the middle tells about certain Pale Coins, but I am not sure about their existence. These texts are ancient, therefore the coins may already be lost.",中间那块石碑上记载着某种苍白硬币，但我不确定它们是否真的存在。这些文字非常古老，硬币也许早已失落。
+action,action-8778f033-440b-9fce-0fc8-794db59f88cf,But what's even more interesting is this round thing right here.,但更有意思的，是这里的这个圆形物件。
+action,action-1de23515-a50a-f881-5d9d-ce050e9bcdc6,"It emits a very potent magical aura. It caused me to fear for the safety of the camp, so I ordered the mine to be closed.",它散发着非常强大的魔法气息。我担心营地的安全，所以才下令封锁矿井。
+action,action-5275303f-9647-7b04-60b2-2a46df34ae93,"However, I feel like this stone right here is the answer to your questions.",不过，我觉得眼前这块石头正是你那些疑问的答案。
+option,choice-e8a2e9c4-b26c-0b60-1dc6-1be5a90142e9,Do you know what this is?,你知道这是什么吗？
+option,choice-dc78b30d-fb32-bafd-2ce8-b4e359c92589,What do we do now?,我们现在该做什么？
+action,action-f13cb2ee-028b-d4c6-7a90-95128d0d38b1,Not yet.,还不知道。
+action,action-304dfa44-c451-cbe4-f363-deea8774021e,I don't even know what purpose it serves for this place.,我甚至不知道它对这个地方有什么用处。
+action,action-f5bd41d7-ce13-7f41-7775-a30a222c5b5f,"Before we destroyed the wall to the north by accident, there was no way of entering nor leaving this place.",在我们不小心毁掉北面的墙之前，这地方根本无路可进，也无路可出。
+action,action-1c25794c-d27e-3179-51d1-870598562d16,"Even though the energy the stone emits is strong, I feel as though it is inactive.",尽管这块石头散发的能量很强，我却感觉它处于休眠状态。
+action,action-3a65a0af-a4fe-ef22-517c-cbf6f9ffee97,"Based on a few of those texts, I might be able to reactivate it.",根据其中几段文字，我也许能重新激活它。
+action,action-cf135007-99be-afba-3028-2acce96fbe0e,"Don't waste any time. As soon as the stone lights up, try and grab it.",别浪费时间。石头一亮起来，就设法抓住它。
+action,action-90e63390-91b4-c425-0c83-78198717edf5,"I don't know how long I'll be able to have it active, so we don't want to miss our chance, right?",我不知道自己能让它保持激活多久，所以我们可不能错过机会，对吧？
+action,action-f7022ff1-e79f-f3a8-0938-74e8ee198376,Enough talk for now...,先说到这儿……
+action,action-c11e23e4-c4c2-dd2b-4e73-8fea6cc28d28,Let's get this done!,动手吧！

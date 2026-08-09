@@ -1,0 +1,40 @@
+type,id,text,zh
+action,action-9763805a-0058-98ce-7333-50a4bc462da7,HALT!,站住！
+action,action-7fff2d64-370f-d332-9ed2-0dad981508a7,You stand before the Capital - the current residence of our King.,你面前的是王都——我们国王当前的居所。
+action,action-370fe217-dea3-c6da-e03f-7294d9a6e207,Without a proper reason to enter I am afraid you must remain outside.,没有正当的进城理由，恐怕你只能待在城外。
+action,action-fec2c3e4-c5b6-2cd7-b077-92aba3c052c6,Is there anything else?,还有别的事吗？
+action,action-f746e469-893f-9369-0dc5-467acf60b035,"Ah, it's you again.
+What do you need?","啊，又是你。
+你需要什么？"
+option,choice-3079df5d-3f3f-3bd0-9a5e-4599b8336e3e,Let me in!,让我进去！
+option,choice-bcfc3ab0-2000-8d4c-02cf-acd2f68e5b36,Who is in the capital?,王都里都有些什么人？
+option,choice-da6931d6-7932-526c-bf68-570b094a0a5a,Why are you guarding the capital?,你们为什么守卫王都？
+option,choice-3068fcc1-6b47-a7cc-c58a-2c1c7e78410d,I need to go.,我得走了。
+action,action-7de5b5a8-0795-6457-b159-d5c53a76d0bd,"Ha! How forthright!
+And WHY should we let you inside?","哈！真是直截了当！
+那我们凭什么要让你进去？"
+action,action-f7a77431-0e94-fcd3-b336-938faf91c866,"Mostly common citizens.
+Some lived inside the capital their whole lives.","大多是普通市民。
+有些人一辈子都住在王都里。"
+action,action-b73fad34-ec80-f9bc-7030-bad645d47259,"A few of them pursue their craft, like our good ol' smith.",还有些人以手艺为生，比如我们那位老铁匠。
+action,action-aeb358d5-6168-103f-bc69-c1dab5ebefb7,"Then there are merchants from the outside, buying and selling wares.",另外还有从外地来的商人，做着买卖。
+action,action-1866dd77-fe69-4211-e923-8632038dbfe3,"I heard rumors about thieves inside the capital as well, but I wouldn't pay such gossip much mind.",我也听说过王都里有小偷的传闻，不过这种流言我不会太当回事。
+action,action-3363ced3-7c5c-3279-4794-3a99ba125586,"And last but not least, most of the royal knights are inside the capital, assisting and protecting the king as best they can.",最后同样重要的是，大多数王家骑士都驻守在王都里，尽其所能辅佐并保护国王。
+action,action-fe60cec2-0c57-38b6-9f91-6b057f4aaef6,"We got the order from Renbrand, who is stationed south of here.",我们的命令来自驻扎在此地以南的伦布兰德。
+action,action-27e30e08-0c2f-a5f2-89e1-3f58c1acf360,It is our duty to protect the citizens inside by curating who comes and goes.,把关进出的人员、保护城内的市民，是我们的职责。
+action,action-13e38004-9e60-84db-54e3-4383191fc12d,There were way too many troublemakers recently so we must remain vigilant.,最近惹事的人太多了，我们必须保持警惕。
+action,action-270ed621-3d79-ec7d-aa5b-ec109f5c6738,Stay safe out there!,在外面注意安全！
+option,choice-8c57ad25-d224-91b3-6999-2b474608ae43,I have a permit.,我有通行证。
+option,choice-33b827d0-c80b-4b74-5d05-7c52fab9c27e,I belong to the Icefall caravan.,我是冰瀑商队的人。
+option,choice-cca35960-5fc5-1681-7a0f-cc5958b1e45a,I could force my way in.,我可以硬闯进去。
+option,choice-45934743-4a71-14e4-6811-5d876e95b48f,Nevermind...,算了……
+action,action-e392e41e-98fe-731c-5e87-a5f3b751ae76,"As expected. Now try not to disturb our duties anymore, would you?",不出所料。那就别再妨碍我们执勤了，行吗？
+action,action-cb7d7eac-ffc9-0ca0-097d-38bf9f4d8cf9,Hmm... The clothes and the hood do match up.,唔……衣服和兜帽确实对得上。
+action,action-29ddad7c-c03d-0122-c32a-588c87b094b0,So be it. You may proceed.,那好吧。你可以进去了。
+action,action-eecb16d7-1781-b44f-2fc8-9274d4a91363,Enjoy your stay and good luck with your business.,祝你在城里过得愉快，生意兴隆。
+action,action-690f9483-0bce-cec0-eb1e-9be564f72f1d,"Just don't try to sell anything counterfeit, got it?",可别想卖什么假货，听明白了吗？
+action,action-c48301ab-7219-223f-e978-ad80b3f9a2fe,Huh... That really is a permit.,咦……这还真是张通行证。
+action,action-bed435c3-986b-2714-6034-2a2c9b312669,"You don't look like the sort to have one, but that is none of my business.",你看着可不像是会有这东西的人，不过那不关我的事。
+action,action-737f67e0-9c74-d9e9-ccec-9d51c2386f3c,Do enjoy your stay!,祝你在城里过得愉快！
+action,action-3e88bf60-c6f9-e725-bbfb-a11829354f59,"Even if you could, the door will stay closed.",就算你有这本事，城门也不会开。
+action,action-63d833b2-6939-7b44-cca3-ba0e0c144b65,"I am sure you don't want to end up as a criminal, right?",你总不想沦为罪犯吧？

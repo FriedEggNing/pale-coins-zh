@@ -1,0 +1,60 @@
+type,id,text,zh
+action,action-ce7d6cf7-8e29-6fbc-dd73-74f21d7dba03,HALT!,站住！
+action,action-94bd8333-24f8-ef80-80d3-7cf7a75dcc18,"You are about to enter the Marin Passage.
+This is a dangerous place for adventurers.","你即将进入马林通道。
+对冒险者来说，这地方很危险。"
+option,choice-98407fd7-33b0-6bb3-e71e-1b92743e5298,Why is the passage dangerous?,通道为什么危险？
+option,choice-885bf180-f72b-bb47-22f4-6f08c8282706,What's after the passage?,通道那头是什么？
+option,choice-801aca68-7362-84bf-8dc0-681f11a2ef72,Open the gate!,开门！
+option,choice-5239eff2-f2d9-ff67-7e77-1adc3c88c83b,Your pal is fine.,你的伙伴没事。
+option,choice-abf447dc-22bb-5d16-dc89-0e54b427736b,Has anyone passed by recently?,最近有人经过吗？
+option,choice-a3ebe25e-ee17-7845-af75-077f1a0c3759,See you!,回见！
+action,action-ba2378d3-8b1f-0256-9cd0-dde1c0165c0b,Bandits and raiders usually hijack adventurers and merchants while travelling through the passage.,盗匪和掠夺者常在通道里打劫过路的冒险者和商人。
+action,action-61757418-db06-d8f3-8106-71cbfb2f2ba2,"Therefore, the royal guard is often provided as an escort for certain merchants.",因此，皇家卫队时常为某些商人提供护送。
+action,action-84cd3fe5-de1e-21f0-7808-c7910a0756d5,After the Marin Passage are the Marin Cliffs.,马林通道过去就是马林悬崖。
+action,action-2967f6aa-0075-e449-b231-087cb70af86f,"The harbor and the wizard academy is there.
+Also, an old tower in the middle of a lake should be somewhere up there.","港口和魔法学院就在那边。
+另外，那边某处应该还有一座立在湖中央的古塔。"
+action,action-d43d1238-5ade-57f1-4f20-d6cd29526cc6,"The king ordered me to not let everyone pass without a proper permit.
+This is for your own safety.","国王命令我，没有正式通行证的人一律不得放行。
+这是为了你自己的安全。"
+action,action-6492e93f-8b54-e193-743e-11e8944fa725,Why should I open the gate for you?,我凭什么给你开门？
+option,choice-41bdafd7-095d-fbad-d23e-df50f127779b,I have a permit.,我有通行证。
+option,choice-142e4a54-37bc-b197-78ed-d11d66e1e7fd,I have a permit,我有通行证
+option,choice-b411f5b9-0eb5-2c85-3fb5-34776bff391e,I need to get past the passage to get to the city Dhul'oq.,我得穿过通道，去杜尔奥克城。
+option,choice-c0c1ec3f-0715-7709-ebe1-e138c1431302,Where do I get a permit for the passage?,通道的通行证要去哪儿领？
+option,choice-4bcd34c5-19b0-1ede-ca18-920844eaa292,I can look after myself.,我能照顾好自己。
+option,choice-a973a143-a2b8-545b-0dcc-526686287390,I'll come back later.,我回头再来。
+action,action-613e4a32-9c01-95e4-5579-3e9b027bb53b,Let me take a look.,让我看看。
+action,action-0d1f3a0e-6609-5b47-f156-bf82ee2acd76,...,……
+action,action-758955a6-c19b-41ee-da75-131062371daa,"Looks good to me.
+You may enter the passage.","看着没问题。
+你可以进入通道了。"
+action,action-e21d74b9-7dd9-de7d-3cf5-912f7ebf613a,Well... Then I'll let you pass for SURE.,"哦……那我""当然""得放你过去咯。"
+action,action-e666bde8-4cf2-ed6a-3992-8abbf40ca04c,...,……
+action,action-2cea77db-d714-ff89-c25c-7b8ef1e1a5e4,Why don't you come back later and stop wasting my time?!,你还是回头再来吧，别再浪费我的时间了！
+action,action-63a90c34-b6aa-9601-6694-cad8c3fa8037,There isn't even a city up there.,那上头根本就没有什么城。
+action,action-b44cfc71-3813-b575-dba7-7bdffeff55a6,Great!,很好！
+action,action-72eeed20-9faa-d71e-a10c-bc280f1bbf1b,But I have my orders...,但我有军令在身……
+action,action-4fc489db-4d34-9145-a0c3-33cadbd50271,"However, we could make an exception.",不过嘛，我们可以破个例。
+action,action-d0bf6f26-7593-42b0-c655-29c8447cb218,"I need to know how my pal is doing on the other side of the passage, as I haven't seen him in a while.",我想知道通道另一头我那伙伴过得怎么样，好一阵子没见到他了。
+option,choice-02f51b93-5f9b-f965-150c-2d649472dff4,I'll check on him.,我去看看他。
+option,choice-952bc540-4c94-29d5-f404-edb03baa5cbf,I don't have time for that.,我没时间管这个。
+action,action-87075cd0-98cb-0e1b-2886-0fcd0adbb42f,"Thank you!
+I'll open the gate immediately.","谢谢！
+我马上开门。"
+action,action-7cf651e7-f407-9329-81f5-1793ffe1bff4,Then the gate will stay closed.,那门就继续关着吧。
+action,action-492f5503-b872-c3e3-c830-b1b803dce6b2,Thank you for checking on him!,谢谢你去看他！
+action,action-9e97fd3e-1e1f-0082-51f3-99e8515c7e54,"Here!
+Have a few coins.","给！
+拿几个金币吧。"
+action,action-3dcc0cb6-8aaf-c91e-616a-224bd3309dd6,Some people from the capital and a few guards visited the academy and passed by.,有些王都来的人和几名卫兵去学院拜访，从这儿经过。
+action,action-fdb9b54d-f114-40d8-175f-de883095161b,"Roland, the farmer, sold some goods to the academy recently.
+I escorted him through the passage myself so that the raiders wouldn't attack him.","农夫罗兰最近卖了些货物给学院。
+我亲自护送他穿过通道，免得掠夺者袭击他。"
+action,action-7cbdf068-9ac8-2d9a-6157-81d2bef1f820,Rair also passed by with a few guys. Apparently he wanted to buy a few bottles of wine from the academy.,莱尔也带着几个人经过，据说是想去学院买几瓶葡萄酒。
+action,action-40970498-73dd-187e-7c28-9307c1b0d9d8,"On their way back, the guys ran like the devil himself was after them.
+Should have hired a guard or two, haha!","回程的时候，那帮家伙跑得就像魔鬼在身后追一样。
+早该雇上一两个卫兵嘛，哈哈！"
+action,action-e468d602-d655-1ebf-c59e-3e3bd3efa036,"Only the king, or his advisor Edmon, may hand out a permit for the passage.",只有国王或他的顾问埃德蒙才能签发通道的通行证。
+action,action-19bab2a0-203d-6049-2df7-a8a3a8a35208,"You can find both in the capital, south of here.",两人都在王都，就在这里以南。

@@ -1,0 +1,33 @@
+type,id,text,zh
+action,action-41e61755-2db2-e5fe-ed45-beb2644f25cc,"Not so fast, kid!",别急着走，小子！
+action,action-096be126-b165-b5d3-5e86-81d32ad1f8c4,You need something?,你有什么事吗？
+action,action-22b8c9d9-235d-58c8-48b8-960b0a8643b4,"Tell me, what brings you to this corner of the world?",说说吧，什么风把你吹到这犄角旮旯来了？
+action,action-dbe80948-3cbd-3929-7ccd-e7d2a65b8609,"You're not one of the royal guards, are you?",你不会是皇家卫队的人吧？
+option,choice-fc31d838-610f-7ce6-ca9b-71a0dd20ef8e,Who are you?,你是谁？
+option,choice-b5f74be3-4985-fa90-ee56-8750130911fe,I am looking for the Champion's Coin.,我在找冠军硬币。
+option,choice-95e6729d-e708-831d-c9fb-899b96c3d20b,I am passing through.,我只是路过。
+action,action-d3355a63-fef1-a89e-5f36-5643d54927e6,"It's my turn to ask questions. Got it?
+So, what brings you out here?","现在轮到我来问问题。懂吗？
+说吧，你来这儿做什么？"
+action,action-eb17eacc-7767-0c99-84bb-6b45d0e8d92c,Coin of the... what? Never heard of it.,什么冠军……硬币？从来没听说过。
+action,action-1946b6fd-3f23-332f-1264-3785e254bbc7,Could be our camp wizard has come across something like that before.,说不定我们营地里的巫师见过这类东西。
+action,action-86b25e54-0833-931c-c9ae-7dfc715e0dd9,"You should speak with Balder, our leader around here.",你该去找巴尔德谈谈，他是我们这儿的头儿。
+action,action-ae4cea6b-17bf-fdba-59f9-3a8fad998525,Hmm... a traveler?,唔……旅行者？
+action,action-fd7016e6-9e64-f9a0-939c-2582f737adb9,"As long as you behave yourself, we won't have a problem.",只要你安分守己，我们就相安无事。
+option,choice-d45b3e55-2654-ea6a-989f-a5a9e8d89844,Who are you?,你们是什么人？
+option,choice-15a2830b-322c-838b-1753-475cb47f2af2,You mentioned the royal guards.,你刚才提到了皇家卫队。
+option,choice-83e474e5-67c1-93d4-f798-7b908f323162,Do you know where Themir is?,你知道塞米尔在哪儿吗？
+option,choice-119cd4cc-ec0c-2bab-0595-deb4596867da,See you.,回见。
+action,action-c844ad67-1308-46ef-123e-be65983a2397,"People call us bandits, but we're fighting for something bigger.
+We are a group led by Balder, and we've had enough of the king's charade.","人们管我们叫强盗，但我们是在为更大的目标而战。
+我们是巴尔德领导的队伍，早就受够了国王的那套把戏。"
+action,action-33273a3b-7973-e0f2-a7c2-26c30ce27f35,"Whatever King Weynard does on that throne, he couldn't care less about the people's concerns.",不管韦纳德国王坐在王座上做些什么，百姓的死活他压根不放在心上。
+action,action-c0c32416-caad-a019-8bf4-fa320c2f1160,"One way or another, that's going to change. Trust me.",不管用什么办法，这一切都会改变的。相信我。
+action,action-11dee827-3d57-d34f-3bef-593532dfab94,"Those are the king's watchdogs.
+Lately, their only job seems to be hunting down bandits instead of looking after the well-being of the people.","那帮人是国王的看门狗。
+最近他们唯一的差事似乎就是追捕强盗，根本不管百姓的死活。"
+action,action-c5fc50fe-aadb-6f73-4c03-e2274de6e1f8,"That's why we have to be damn careful out here.
+If one of the guards catches wind that we're here, we've got a problem.","所以我们在这儿必须万分小心。
+一旦哪个卫兵嗅到我们的踪迹，麻烦就大了。"
+action,action-1dbf128c-183a-ed2e-82f0-15987dec1072,No.,不知道。
+action,action-da95ba21-dcc9-b885-5d41-b49f0e0d075d,All I could tell was that he headed west after leaving the camp. Who knows what he's doing out there.,我只知道他离开营地后往西边去了。谁知道他在外面搞什么名堂。

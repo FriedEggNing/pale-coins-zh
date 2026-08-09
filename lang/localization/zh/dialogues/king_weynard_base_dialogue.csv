@@ -1,0 +1,101 @@
+type,id,text,zh
+action,action-660e199f-7634-a814-2370-36252ea82226,Do you have an audience with me?,你是获准来觐见的吗？
+option,choice-c71ecfad-b5bb-dc11-538f-348581abab59,Do you know something about the Champion's Coin?,您知道冠军硬币的事吗？
+option,choice-7ff17007-5fd2-a1ff-2911-2128be09960c,I found the King's Ruby.,我找到了国王的红宝石。
+option,choice-5679166e-700d-8a32-d4e1-5185b7315c53,Regarding Dhul'oq...,关于杜尔奥克……
+option,choice-8a2fba7b-0910-ae88-773a-67bee57a02d3,No.,没有。
+option,choice-2c244f5e-0e33-c26a-73dd-64285bed6bbc,I am on my way.,我这就去。
+action,action-16184029-633a-1fd4-887f-478158ef5008,The Champion's Coin?,冠军硬币？
+action,action-31f96418-720d-f4b1-18eb-3cc2af4d2d1e,"Well, that doesn't mean anything to me.
+I don't assume this is a normal coin, either.","唔，我从未听说过这东西。
+想必这也不是一枚寻常的硬币。"
+action,action-b932f051-cc46-6afc-b1b7-a1b34d5be51a,"If so, I have to disappoint you.
+There are no things such as #:sacred coins:#.","若是那样，我只能让你失望了。
+世上并没有#:神圣硬币:#这种东西。"
+action,action-75ad7874-9fa9-7efe-72f4-9e3af92fb640,"Talk to my advisor, if you need anything else.",若还有别的需要，去找我的顾问谈。
+action,action-bc067d8d-06a4-20a7-4780-9078710577fe,"The King's Ruby?
+But it was entombed with my father!","国王的红宝石？
+可它是随我父王一同下葬的！"
+action,action-7355a7b0-0f5a-8378-e81e-2f02a52fb427,What do you have to tell me?,你有什么要禀报的？
+action,action-af096418-4bb1-11ec-524a-c4a94e0e9035,My advisor will take care of your requests.,你的请求，我的顾问会处理。
+action,action-e4a14f80-d721-d2ba-47c3-383877ad4784,You may go!,你可以退下了！
+action,action-4cb4b56c-72e6-b284-11a5-1e0709d0e952,"Tell me!
+How did you get your hands on this?","说！
+你是怎么拿到这东西的？"
+option,choice-43529499-93b5-ce35-bc56-6f83f838904e,*report on the fight with the skeleton,*讲述与骷髅战斗的经过
+option,choice-35b38a76-7fa0-f789-a1e8-f65e02a4801c,Then I must be mistaken.,那想必是我弄错了。
+action,action-7feb6840-09dd-bed1-04d0-6274b01af16d,"You fool!
+I am not one to be trifled with!","蠢货！
+我可不是任人戏弄的！"
+action,action-03c61b25-cd13-3433-f58a-96d771640392,"I find it hard to believe you.
+Let me see the ruby!","我很难相信你的话。
+让我看看那颗红宝石！"
+action,action-3ad068c0-3656-7836-64b4-b1929c27922b,...,……
+action,action-721d9bd2-efde-b27d-de38-39393b5a1a5b,"Indeed!
+That's my father's ruby.","没错！
+这正是我父王的红宝石。"
+action,action-fa071d2c-4d8d-95b9-6501-46183334daa6,"It seems to me that you're speaking the truth, even if I don't like it.",看来你说的是实话，尽管我并不乐意听。
+action,action-31ae8d38-8078-f939-c35a-535264e732e8,"Nevertheless!
+This ruby ​​has been in my family for generations and will continue to be.","尽管如此！
+这颗红宝石在我的家族中传承了数代，今后也将如此。"
+action,action-8e2cb342-1aef-eedd-83d8-660401a99c9e,Especially when it comes to my family!,尤其是事关我的家族！
+action,action-e9af8cd9-bc5b-ef18-47d3-1849fdad23a6,"In return, I express my gratitude to you, and you shall choose your own reward.",作为回报，我向你致谢，并许你自选一份奖赏。
+option,choice-fbc09966-b7a8-3817-c1f8-9db3b1942335,I want to join the Royal Guard!,我想加入皇家卫队！
+option,choice-09a82ca5-b38c-820e-541a-2301aeaeee13,How about some gold?,赏些金币如何？
+option,choice-7d3a3d0d-fb25-0dce-6d5a-b7aae300fd60,There's nothing I need.,我什么都不需要。
+action,action-ec4433d9-8068-1eca-638c-9b5d79b9ef6f,"So be it!
+Edmon, my trusted advisor, shall raise you to stand among the Royal Guard!","那就这样定了！
+我信任的顾问埃德蒙将擢升你为皇家卫队的一员！"
+action,action-ab0d5327-f281-b3ec-f413-4f5f51dad0b0,"Well, then my thanks will have to suffice!
+I won't forget that.","那么，就请收下我的谢意吧！
+此事我不会忘记。"
+action,action-8d6ff9cf-9804-44a3-b7f2-1c2d5b9bb3ab,"Very well.
+This shall be your reward.","很好。
+这便是你的奖赏。"
+action,action-ea8c93b7-73a4-19d6-36b3-76b7a1efb583,What is it that you have found?,你发现了什么？
+option,choice-ce37ff8e-6b3c-3bb4-dd9e-403d1786726d,I defeated the Keeper in the tower.,我击败了塔中的守护者。
+option,choice-c184b2a1-c7e0-56a3-d5bb-314c6be818ca,Dhul'oq ascended into the sky.,杜尔奥克升上了天空。
+option,choice-3b985eb1-c3fe-67de-6009-3a5b6eb10630,A sacred stone might be with Queen Heliria.,一块圣石可能在赫莉莉亚王后那里。
+option,choice-08e1a4a5-212b-5636-4ef9-c3cb83c28073,The portal to Dhul'oq is active.,通往杜尔奥克的传送门已经激活。
+option,choice-73b40611-3909-4189-f974-0067efa44e5c,There's nothing else I know.,我知道的就这些了。
+action,action-10aef063-7369-2983-2f62-770970037002,We'll speak again when you have news of Dhul'oq.,等你有了杜尔奥克的消息，我们再谈。
+action,action-887971d1-4edc-0244-8d83-60a20528f387,"The Keeper, you say?
+So the tower isn't abandoned after all.","你说守护者？
+看来那座塔并未被废弃。"
+action,action-707edead-af32-797e-10aa-7dab15e046f0,"Interesting.
+When we last approached it, the doors to the tower refused to open.","有意思。
+我们上次靠近时，塔门怎么也打不开。"
+action,action-8ac401a8-73d3-6ed9-c613-fca0a6b242ae,I wonder what could have opened them.,真不知是什么把门打开了。
+action,action-6face5e6-4ea6-4750-ad5f-077aec9f3d8c,"What is this nonsense?
+A city rising into the sky?","这是什么胡话？
+一座城升上了天空？"
+action,action-f5c35811-6f67-d6e9-cf39-d344abeb9818,"Still...
+It would explain the shattered ruins we found.","不过……
+这倒能解释我们发现的那些破碎的废墟。"
+action,action-ae6bfb8f-453a-89ad-ffce-be2a7eac6fd0,"Hard to believe, but you don't seem to be lying.",难以置信，但你看上去不像在撒谎。
+action,action-41bd06ec-cd75-b48e-0d07-1dee90feb989,Is there a way to reach the city in the sky?,有办法抵达那座天空之城吗？
+option,choice-f5b55015-064c-7ab0-7917-b7af50bc40b7,A portal can be activated with three sacred stones.,用三块圣石可以激活一座传送门。
+action,action-781e372f-5125-29b8-3aff-da97c6aadb70,"A portal?
+Unfortunately, I don't know about any sacred stones.","传送门？
+可惜，我对什么圣石一无所知。"
+action,action-e3f50d6c-2f40-99d5-4aea-8b92eceaec01,"Report back any information you find about them.
+Maybe I'll be able to help you with your search.","你若查到任何相关的线索，就来向我禀报。
+或许我能助你一臂之力。"
+action,action-e60dee73-2580-3c4d-6c2b-d4c2970e6dc6,Queen Heliria has been buried in the crypt for generations. What makes you think she had such a stone?,赫莉莉亚王后葬在墓穴中已有数代之久。你凭什么认为她有这样一块石头？
+action,action-73c99a81-ca4a-bf5c-276d-a98a7390f2dc,"Indeed, I remember!
+A scholar entrusted her with an azure stone, which she kept until her death.","确实，我想起来了！
+曾有位学者将一块蔚蓝之石托付给她，她一直保存到离世。"
+option,choice-e9a88e5c-c7e4-35ef-d13f-8750343dd0fe,There's mention of an azure stone in a book,有本书里提到了一块蔚蓝之石
+action,action-6a47eb97-a768-4973-f3c3-5669c380f155,It probably is still down in the crypt with her.,那石头多半还随她留在墓穴里。
+action,action-ef3d554f-5d9f-f4d3-8084-affefe8bd1c2,Take this key. It grants access to the crypt through the barracks.,拿上这把钥匙。凭它可以从兵营进入墓穴。
+action,action-9e0087be-ba77-9149-b336-b818beb3d4e0,Be careful down there. One of my ancestors installed traps to keep petty thieves away.,下面要多加小心。我的一位先祖设下了防范窃贼的机关。
+action,action-3fc320cd-4977-e8ac-e6f0-22fed81d1ccf,"So, you've found the sacred stones?
+Well done!","这么说，你找到了圣石？
+干得好！"
+action,action-86072db8-ebda-2cb9-8ad8-9a89de48bb46,"As a member of the royal guard, you shall receive this armor to honor your deeds.",作为皇家卫队的一员，你将获授这套护甲，以表彰你的功绩。
+action,action-5abebe75-a15f-c721-2d2e-3d41aa71211e,"Tell me, what shall be your reward?",说吧，你想要什么奖赏？
+option,choice-989fc3b6-8f31-6893-6977-e65b24bf4b95,Gold coins would be quite good.,金币就很好。
+action,action-dd01ef95-7b66-823e-4f2d-45aee2002d1f,These coins should help you ready yourself for future challenges.,这些金币应该能助你为今后的挑战做好准备。
+action,action-e290c169-527c-1534-5072-7fe21fc2a99d,"Now move aside!
+I need to plan a journey to the city Dhul'oq.","现在退下吧！
+我要筹划前往杜尔奥克城的行程。"

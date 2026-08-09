@@ -1,0 +1,49 @@
+type,id,text,zh
+action,action-33c9aef5-ccdb-582f-5be5-23905c84128c,Here you are!,你在这儿啊！
+action,action-954056e8-ae8b-52c6-f336-72871735ceb7,"Hey!
+We met before, didn't we?","嘿！
+我们之前见过，对吧？"
+action,action-fddf6db5-3900-e26c-6fe0-60ff54b4dcb8,"We had a little talk in the bandit camp, right?",我们在盗匪营地聊过几句，对吧？
+action,action-3c463d54-ba60-f6ad-28b2-25641474b961,Hey buddy!,嘿，伙计！
+action,action-6d4e91a2-a31d-78ee-e91d-95f1afd91305,What's the business doing?,生意做得怎么样啊？
+option,choice-91d533a3-bb72-e09d-e095-44144ef71617,What are you doing here?,你在这儿做什么？
+option,choice-27b31ba7-70a6-017f-95d6-04ea77456724,Can you open a chest for me?,你能帮我开个箱子吗？
+option,choice-1f7ea0ee-a9e2-6a78-a25e-8e5fe7de7c41,Do you have something to sell?,你有东西卖吗？
+option,choice-d0908468-f8d4-aded-e766-9157f6800ce3,See you!,回见！
+action,action-5377ef7c-b55b-d6e8-d3af-91c50a5559d9,"Aye, catch you later.",好嘞，回头见。
+action,action-ae528b4c-f44b-c535-e031-3233a32b528d,I don't have any wares on me right now.,我现在身上没带货。
+action,action-127fc517-e511-6617-a173-194dfb5c4f8e,Meet me in the camp if you need something.,需要什么就来营地找我。
+action,action-6651529a-e886-f2b6-45d5-78c56b7fb528,This... and that...,做点这个……干点那个……
+action,action-bdc69d06-7eb7-a7e5-033b-81b9ac2bb330,Right now I'm visiting a friend of mine.,眼下我是来探望一个朋友的。
+action,action-a5236267-6ace-a209-6f81-7e273bb1b8e6,And then...?,然后呢……？
+action,action-f5b7fbfc-73f2-05f6-1b84-5a67bd04b81a,Something will probably come up.,总会有点事找上门的。
+action,action-0e23d4d8-745f-46ea-e60f-b729d76b8400,"Sure thing. 
+Where's the chest located?","没问题。
+箱子在哪儿？"
+action,action-899d9497-3bd9-9e48-052c-23b4f2c6270f,"Hmm, that is quite the adventure.",唔，这可真是趟冒险。
+option,choice-29f6542a-1576-28a0-8b9d-b7fccdf2e186,In a cave near the Marin cliffs behind a waterfall.,在马林悬崖附近的一处洞穴里，就在瀑布后面。
+option,choice-74070e14-33e5-a658-3252-a5387143a187,Nevermind.,算了。
+option,choice-1a13cee4-940b-e25f-1880-e67c60b19b45,Here's the 500 gold.,这是500金币。
+option,choice-15723e10-a539-0a24-410e-04ec8d9d8218,That's too much.,太贵了。
+option,choice-2cae2c8f-dd9a-6fef-a474-c8ee679a2303,I'll come back later.,我回头再来。
+action,action-2b99dc1d-bd2d-eaa7-9e28-24ff03161b9f,"What?
+First you make me curious and now you're leaving?","什么？
+你先吊起我的胃口，现在又要走？"
+action,action-dedbd0d4-cd8b-111e-95e2-24a20a5f63cb,"You're a poor fellow, aren't you?
+400 gold is my final offer.","你是个穷光蛋，对吧？
+400金币，不能再少了。"
+option,choice-b19ed238-11e7-7eef-6e5a-f90f9ecd6769,Here's the 400 gold.,这是400金币。
+option,choice-02f6c724-22a6-32d9-2713-9421cefea65e,I'll come back later.,我回头再来。
+action,action-c45c9519-53ef-11a8-f585-3af1499e49a1,Thank you for the gold!,多谢你的金币！
+action,action-d682ebaa-339c-5c9d-280d-6c354d0e8f0b,"I'll be on my way.
+See you there.","我这就出发。
+到那儿见。"
+action,action-d3ee5f91-11fe-7af8-e984-d5b0cb8b6d38,How about 500 gold?,500金币怎么样？
+action,action-afb7535e-16e0-b754-3631-13cd2d5686ad,"Unfortunately, #:someone:# stole a few goods from me and ruined a good deal.",可惜啊，#:某人:#偷了我几件货，搅黄了一桩好买卖。
+action,action-0f4d1588-f86a-3e4d-fb97-30b717fe8167,"And I bet that same #:someone:# wouldn't mind paying 1000 gold for opening your chest, right?",我敢打赌，还是这位#:某人:#，肯定不介意花1000金币请人开箱子，对吧？
+option,choice-10c19f51-9ec2-600b-7b1b-9f2dc7458a99,Fine. Take your 1000 coins.,行吧。拿上你的1000金币。
+option,choice-2575f305-e30d-f48c-281e-3d1e3b2561f0,How do you know I took them?,你怎么知道是我拿的？
+option,choice-9dbc5387-a38b-ec77-08a7-536be43112fd,I'll come back later.,我回头再来。
+action,action-ad6b7fa7-4f9a-b1a8-6c5f-aeba2d99ac6d,"You just told me, buddy.
+So yeah, 1000 gold seems fair for the trouble.","你自己刚说漏嘴了，伙计。
+所以嘛，1000金币算是这趟麻烦的公道价。"

@@ -1,0 +1,3 @@
+type,id,text,zh
+action,action-9bdca9f8-dd53-f97b-3c82-b1efefb35394,"To equip an item, your attributes must meet its requirements.",要装备物品，你的属性必须满足其需求。
+action,action-6b72c019-1114-974c-b8e2-8d9df77f66d7,The attribute scaling is shown as a letter in the item's requirements and indicates how much the damage increases with higher attributes.,属性加成以字母形式显示在物品的需求中，表示属性越高时伤害提升的幅度。

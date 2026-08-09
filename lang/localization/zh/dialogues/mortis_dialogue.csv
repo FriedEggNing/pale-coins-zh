@@ -1,0 +1,47 @@
+type,id,text,zh
+action,action-5204cf6e-f1a4-71f3-59a9-db4a82064955,"Hello there, young man.",你好啊，年轻人。
+action,action-7980f8b9-b7fc-db1d-c608-57e350a09c0c,May I help you with something?,有什么我能帮你的吗？
+option,choice-13590ce3-1592-b72b-5c3c-5c374bd27b89,Who are you?,你是谁？
+option,choice-0f05ae31-6bd0-0bb8-eb1c-93822638f154,Tell me one of the stories.,给我讲个故事吧。
+option,choice-79dd67ca-3f41-1e7d-a7ae-98869fc11ac3,See you.,回见。
+action,action-7b79b1a0-ce6f-4739-577e-ac8773bbabd6,I am the one who cares for the graves here in the capital.,我是照看王都这些坟墓的人。
+action,action-a0d831ee-c14e-6416-4aae-9486345cb2c7,You may call me #:Mortis:#.,你可以叫我#:莫尔提斯:#。
+action,action-f1bbac12-23cb-6891-bd81-0d859733e621,"If you want, I could tell you a few stories about the ones buried here.",如果你愿意，我可以给你讲讲长眠于此之人的故事。
+action,action-15d3ce28-1c6b-263b-85cf-fabdfd99ee95,I will be here.,我会一直在这儿。
+action,action-4aa1295e-e555-a0ca-85fa-96a8eb8abf05,"With pleasure.
+What do you want to know?","乐意之至。
+你想知道什么？"
+option,choice-bb1d5605-878f-3514-4836-fe7a5ef22f60,Who lies in the tomb?,陵墓里葬的是谁？
+option,choice-bf5afaf4-5101-153b-add5-6620b2f40100,Who was Grimbald?,格林巴尔德是什么人？
+option,choice-d7f4898b-a836-8414-e9fb-d202ace76e09,Who was Sarina?,萨琳娜是什么人？
+option,choice-fa3cbbd0-a49c-ffaa-d81c-0850b9667bb5,That's all.,就这些。
+action,action-74c2ae48-d2ee-5282-913a-b6c43dc52376,"No other than all of our past rulers.
+Rumors say, that the first ruler of this capital lies at the lowest floor of the crypt.","正是我们历代的统治者。
+传闻说，这座王都的第一位统治者就长眠在墓穴的最底层。"
+action,action-20b14942-ae37-c9d4-c9f8-d7d21c4260d9,King Weynard II was buried here as well after his and his wife's assassination.,韦纳德二世国王和王后遇刺之后，他也被安葬在了这里。
+action,action-2ff54168-de1c-6728-b4b8-e2fc764f557e,"Queen Miriam, on the other hand, was given a grave outside the capital, near the lake.",而米里亚姆王后的坟墓则设在王都之外，就在湖边。
+option,choice-cd07719a-cdb6-64a2-df2e-704d1cddda5d,How did they die?,他们是怎么死的？
+option,choice-37ddc605-8bfc-70c6-e91e-4312347e64d7,Why was the queen buried outside the capital?,王后为什么葬在王都之外？
+option,choice-009176cc-801d-a578-cbe8-37aa4e233ecc,There's nothing else I want to know.,我没有别的想问的了。
+action,action-cde80480-1118-3dac-eb7e-384fd3f213a5,"On a faithful night, both of them were killed by an assassin.",在那个注定的夜晚，他们双双死于刺客之手。
+action,action-615da861-3ec3-1238-662b-3e1673d88c78,No one saw anything until their young son found his parents dead.,没有人察觉到任何异样，直到他们年幼的儿子发现双亲已经遇害。
+action,action-0a44a6c1-a1c6-826c-fe1b-e0f4f1b1d61c,That poor child was given the crown shortly after. He was not allowed to live his youth anymore.,那可怜的孩子不久后便戴上了王冠。他再也无法度过属于自己的少年时光。
+action,action-468b1687-6872-bd80-1246-e4f1af00cd60,"Ever since he was given the position, he rules the kingdom as King Weynard III.",自登上王位以来，他便以韦纳德三世之名统治着这个王国。
+action,action-6b72114b-bd17-efdd-2e04-dd124a2f1b8b,Queen Miriam had a special relationship with that lake.,米里亚姆王后与那片湖有着特殊的情缘。
+action,action-2876f49a-ab0c-413f-c66e-98a1553aaf83,She had many visits to it with her son.,她生前常常带着儿子去那里。
+action,action-6061ccef-81ab-95cb-9e36-d36f86deba47,That was the reason King Weynard III had her buried near it.,正因如此，韦纳德三世才将她安葬在湖边。
+action,action-557b6234-1360-0ef7-08ba-08c88aee01fe,Is there anything else you want to know?,你还想知道些什么吗？
+action,action-2d2dcc43-81d3-035f-7cd0-c58d931c5460,Come back when you wish for me to tell you a few stories.,想听我讲故事的时候，就再回来吧。
+action,action-d425144d-edf0-5fff-ae4f-2e4cfc3e77a8,Grimbald was a legendary mage hunter.,格林巴尔德是一位传奇的法师猎手。
+action,action-44bbeac3-890c-e051-0847-fb8f9a1a0b50,He was the one who defeated Rak'Sha in his tower in the wasteland.,正是他在荒地的高塔中击败了拉克沙。
+action,action-22610e31-2062-4485-1886-786be813621f,"However, the fight took all of his spirit with it, so Grimbald had to settle in the capital.",然而，那场战斗耗尽了他的心神，格林巴尔德只得在王都定居下来。
+action,action-76f72e03-7e6d-a6e9-c67b-d4372edaba54,"He left his legendary sword behind, which ended up bearing his name.
+But it remains lost since long ago.","他留下了那把传奇之剑，后来那把剑便以他的名字命名。
+但它早已下落不明。"
+action,action-040b8806-5ce2-00ba-21cd-6ebe2ef25de5,"Or... not?
+You really found his sword.","或者……并非如此？
+你竟然真的找到了他的剑。"
+action,action-4afade27-25b7-2266-be37-c41a062392ef,Not much is known about her.,关于她的事，世人所知不多。
+action,action-2d8db1f6-506c-1873-7df8-fde3f2b8d20b,"Scorion, the Magick Archer, buried her here.",是秘法射手斯科里昂把她安葬在这里的。
+action,action-0264fe80-4028-8a0e-deec-cca6fa9cfcc2,"It was a bold move, as Scorion was on Grimbalds bounty list.",这一举动相当大胆，因为斯科里昂正是格林巴尔德悬赏名单上的人物。
+action,action-fd44f6a6-bf19-3472-22ba-a7149ab35cc0,"It is unknown what happened to Scorion, as Grimbald never managed to catch him.",斯科里昂的下落无人知晓，格林巴尔德始终没能抓到他。

@@ -1,0 +1,1072 @@
+,en,de,zh
+,,,
+,,,
+,,,
+,,,
+--ARMOR,,,
+helmet_berserker_name,Berserker Helmet,Berserkerhelm,狂战士头盔
+helmet_magus_name,Magus's Helmet,Magushelm,魔导师头盔
+helmet_magus_teleport_name,Creighar's Helmet,Creighars Helm,克雷加的头盔
+armor_berserker_name,Berserker Armor,Berserkerrüstung,狂战士护甲
+armor_rags_name,Rags,Lumpen,破布衣
+armor_outlaw_medium_name,Outlaw Armor,Outlaw Rüstung,亡命徒护甲
+armor_bandit_armor_name,Bandit Armor,Banditenrüstung,强盗护甲
+armor_bandit_armor_reinforced_name,Reinforced Bandit Armor,Verstärkte Banditenrüstung,强化强盗护甲
+armor_bandit_armor_swift_name,Swift Bandit Armor,Schnelle Banditenrüstung,迅捷强盗护甲
+armor_hunter_name,Hunter Armor,Jägerrüstung,猎人护甲
+armor_hunter_improved_name,Improved Hunter Armor,Verbesserte Jägerrüstung,改良猎人护甲
+helmet_bucket_name,Bucket,Eimer,水桶
+armor_protected_pants_name,Protected Pants,Verstärkte Hose,防护长裤
+armor_adventurer_name,Adventurer Clothes,Abenteurerkleidung,冒险者服装
+helmet_adventurer_name,Adventurer Hat,Abenteurerhut,冒险者帽
+armor_mage_cloak_name,Mage Cloak,Magierumhang,法师斗篷
+helmet_mage_hat_name,Mage Hat,Magierhut,法师帽
+armor_chainmail_name,Chainmail,Kettenhemd,锁子甲
+armor_platemail_name,Platemail,Plattenrüstung,板甲
+armor_platemail_improved_name,Improved Platemail,Verbesserte Plattenrüstung,改良板甲
+helmet_platemail_name,Plate Helmet,Plattenhelm,板甲头盔
+helmet_platemail_improved_name,Improved Plate Helmet,Verbesserter Plattenhelm,改良板甲头盔
+helmet_top_hat_name,Top Hat,Zylinder,高顶礼帽
+helmet_druid_antlers_name,Druid Antlers,Druidengeweih,德鲁伊鹿角
+armor_druid_robe_name,Druid Robe,Druidenrobe,德鲁伊长袍
+armor_icefall_clothes_name,Icefall Poncho,Eisfall Poncho,冰瀑披风
+helmet_icefall_hood_name,Icefall Hood,Eisfallhaube,冰瀑兜帽
+armor_royal_knight_name,Royal Knight Armor,Königliche Ritterrüstung,皇家骑士护甲
+helmet_royal_knight_name,Royal Knight Helmet,Königlicher Ritterhelm,皇家骑士头盔
+armor_royal_commander_name,Royal Commander Armor,Königliche Eliterüstung,皇家统帅护甲
+helmet_royal_commander_name,Royal Commander Helmet,Königlicher Elitehelm,皇家统帅头盔
+armor_assassin_name,Assassin Armor,Assassinenrüstung,刺客护甲
+armor_doublet_name,Doublet,Wams,紧身上衣
+armor_doublet_improved_name,Improved Doublet,Verbesserter Wams,改良紧身上衣
+helmet_old_sailor_hat_name,Old Sailor Hat,Alter Seemannshut,旧水手帽
+helmet_snake_helmet_name,Snake Helmet,Schlangenhelm,蛇形头盔
+armor_fire_mage_name,Fire Mage Robe,Feuermagierrobe,火焰法师长袍
+armor_ice_mage_name,Ice Mage Robe,Eismagierrobe,寒冰法师长袍
+armor_summoner_robe_name,Summoner Robe,Beschwörerrobe,召唤师长袍
+armor_priest_robe_name,Priest Robe,Priesterrobe,祭司长袍
+armor_swordman_garb_name,Swordsman's Garb,Schwertkämpfertracht,剑士服
+gloves_leather_wraps_name,Leather Wraps,Lederwickel,皮革裹手
+gloves_iron_gauntlets_name,Iron Gauntlets,Eisenhandschuhe,铁护手
+gloves_iron_gauntlets_improved_name,Improved Iron Gauntlets,Verbesserte Eisenhandschuhe,改良铁护手
+gloves_hunter_bracers_name,Hunter Bracers,Jägerarmschienen,猎人护腕
+gloves_silver_bracers_name,Silver Bracers,Silberne Armschienen,白银护腕
+boots_leather_boots_name,Leather Boots,Lederstiefel,皮靴
+boots_iron_boots_name,Iron Boots,Eisenstiefel,铁靴
+boots_iron_boots_improved_name,Improved Iron Boots,Verbesserte Eisenstiefel,改良铁靴
+boots_sellsword_boots_name,Sellsword Boots,Söldnerstiefel,佣兵之靴
+gloves_carims_wraps_name,Carim's Bloody Wraps,Carims blutige Wickel,卡里姆的血腥裹手
+helmet_crown_weynard_name,Weynard's Crown,Weynards Krone,韦纳德的王冠
+helmet_crown_weynard_desc,This is the crown of the first King Weynard.,Das ist die Krone des ersten Königs Weynard.,这是初代韦纳德国王的王冠。
+armor_fallen_knight_name,Fallen Knight Armor,Rüstung eines gefallenen Ritters,陨落骑士护甲
+helmet_fallen_knight_name,Fallen Knight Helmet,Helm eines gefallenen Ritters,陨落骑士头盔
+gloves_fallen_knight_gauntlets_name,Fallen Knight Gauntlets,Armschienen eines gefallenen Ritters,陨落骑士护手
+boots_fallen_knight_greaves_name,Fallen Knight Greaves,Beinschienen eines gefallenen Ritters,陨落骑士胫甲
+armor_northern_dark_name,Northern Armor (dark),Nordrüstung (dunkel),北地护甲（暗）
+helmet_northern_bear_name,Northern Helmet (Bear),Nordhelm (Bär),北地头盔（熊）
+armor_cultist_robes_name,Cultist Robes,Kultistenrobe,邪教徒长袍
+helmet_blood_crow_name,Blood Crow Mask,Maske des Blutraben,血鸦面具
+armor_blood_crow_name,Blood Crow Pelerine,Pelerine des Blutraben,血鸦披肩
+helmet_blood_knight_name,Blood Knight Helmet,Helm des Blutritters,血骑士头盔
+armor_blood_knight_name,Blood Knight Plate,Plattenrüstung des Blutritters,血骑士板甲
+armor_obsidian_armor_name,Obsidian Armor,Obsidianrüstung,黑曜石护甲
+helmet_mask_oni_name,Oni Mask,Oni Maske,恶鬼面具
+armor_barbarian_light_name,Light Barbarian Armor,Leichte Barbarenrüstung,轻型野蛮人护甲
+helmet_stone_mask_name,Stone Mask,Steinmaske,石面具
+armor_royal_name,Royal Robe,Königliche Robe,皇家长袍
+helmet_royal_crown_name,Royal Crown,Königliche Krone,皇家王冠
+helmet_lich_mask_name,Lich Mask,Maske des Lichs,巫妖面具
+armor_lich_mantle_name,Lich Mantle,Mantel des Lichs,巫妖斗篷
+helmet_crown_wicket_name,Crown of the Wicked,Krone des Bösen,邪恶之冠
+helmet_kettle_hat_name,Kettle Hat,Kesselhelm,铁笠盔
+armor_knight_armor_old_name,Knight Armor (Old),Ritterrüstung (alt),骑士护甲（旧）
+helmet_knight_armor_old_name,Knight Helmet (Old),Ritterhelm (alt),骑士头盔（旧）
+gloves_mage_gloves_name,Mage Gloves,Magierhandschuhe,法师手套
+helmet_orc_chief_helmet_name,Orc Chief Helmet,Helm des Orkhäuptlings,兽人酋长头盔
+armor_warden_name,Warden Plate Armor,Wächter-Plattenrüstung,守卫者板甲
+helmet_warden_name,Warden Helm,Wächterhelm,守卫者头盔
+boots_assassin_boots_name,Assassin Boots,Assassinenstiefel,刺客之靴
+gloves_assassin_bracers_name,Assassin Bracers,Assassinearmschienen,刺客护腕
+boots_chilled_march_name,Chilled March,Eisiger Marsch,寒霜行军
+boots_ethereal_march_name,Ethereal March,Geistermarsch,虚灵行军
+armor_war_mage_name,Battlemage Robe,Kriegsmagierrobe,战斗法师长袍
+helmet_circlet_name,Circlet,Reif,头环
+helmet_circlet_arcanist_name,Arcanist Circlet,Arkaner Reif,秘法师头环
+armor_witchhunter_name,Witchhunter Cloak,Hexenjägermantel,猎巫人斗篷
+helmet_witchhunter_name,Witchhunter Hat,Hexenjägerhut,猎巫人帽
+gloves_raider_wraps_name,Raider Wraps,Räuberbandagen,掠夺者裹手
+boots_raider_leather_boots_name,Raider Leather Boots,Lederstiefel der Räuber,掠夺者皮靴
+boots_rusty_greaves_name,Rusty Greaves,Rostige Beinschienen,锈蚀胫甲
+gloves_rusty_gauntlets_name,Rusty Gauntlets,Rostige Armschienen,锈蚀护手
+armor_rusty_plate_name,Rusty Plate,Rostige Plattenrüstung,锈蚀板甲
+helmet_rusty_helm_name,Rusty Helm,Rostiger Helm,锈蚀头盔
+armor_platemail_refined_name,Reinforced Plate,Verstärkte Plattenrüstung,强化板甲
+helmet_platemail_refined_name,Reinforced Plate Helmet,Verstärkter Plattenhelm,强化板甲头盔
+gloves_reinforced_plate_armguards_name,Reinforced Plate Armguards,Verstärkter Armpanzer,强化板甲护臂
+boots_refined_plate_greaves_name,Reinforced Plate Greaves,Verstärkte Beinschienen,强化板甲胫甲
+armor_wild_name,Savage Armor,Wilde Rüstung,蛮荒护甲
+armor_assassin_combat_name,Assassin Combat Armor,Kampfrüstung der Assassinen,刺客战甲
+armor_runic_armor_name,Runic Armor,Runenrüstung,符文护甲
+gloves_runic_armguard_name,Runic Armguard,Runen-Armpanzer,符文护臂
+boots_runic_greaves_name,Runic Greaves,Runen-Beinschienen,符文胫甲
+gloves_celestial_grip_name,Oriviel's Celestial Grip,Oriviels Kosmischer Griff,奥里维尔的天界之握
+gloves_celestial_grip_desc,"These gloves carry Oriviel's power, cursed by his endless hunger for mana.","Diese Handschuhe tragen Oriviels Macht, verflucht durch seinen endlosen Hunger nach Mana.",这副手套承载着奥里维尔的力量，因他对魔力永无止境的渴求而受到诅咒。
+boots_swamp_boots_name,Swamp Boots,Sumpfstiefel,沼泽之靴
+boots_swamp_boots_desc,"Simple footwear of the Rhoga people, back when their forest home was slowly becoming a swamp.","Einfaches Schuhwerk der Rhoga, aus der Zeit, als ihr Wald langsam zum Sumpf wurde.",罗加人的简朴鞋履，出自他们的森林家园渐渐化为沼泽的年代。
+armor_shadow_crow_name,Shadow Crow Mantle,Schattenkrähenmantel,影鸦斗篷
+helmet_shadow_crow_name,Shadow Crow Beak,Schattenkrähenschnabel,影鸦之喙
+gloves_flamebite_gloves_name,Flamebite Gloves,Flammenbiss-Handschuhe,焰噬手套
+,,,
+,,,
+,,,
+,,,
+,,,
+--ARTEFACTS,,,
+artefact_goblin_necklace_name,Goblin Necklace,Goblinhalskette,哥布林项链
+artefact_orc_necklace_name,Orc Necklace,Orkhalskette,兽人项链
+artefact_tome_mage_name,Mage Tome,Magierbuch,法师典籍
+artefact_tome_lesser_fire_name,Lesser Fire Tome,Kleines Feuerbuch,次级火焰典籍
+artefact_tome_lesser_ice_name,Lesser Ice Tome,Kleines Eisbuch,次级寒冰典籍
+artefact_tome_lesser_holy_name,Lesser Holy Tome,Kleines Heiligbuch,次级神圣典籍
+artefact_tome_lesser_dark_name,Lesser Dark Tome,Kleines Dunkelbuch,次级黑暗典籍
+artefact_bandits_band_name,Bandit Ring,Banditenring,强盗戒指
+artefact_straight_sword_hilt_name,Straight Sword Hilt,Schwertgriff,直剑剑柄
+artefact_summoners_skull_name,Summoner's Skull,Schädel der Beschwörer,召唤师之颅
+artefact_lennards_statue_name,Lennard's Statue,Lennards Statue,伦纳德的雕像
+artefact_spell_caster_focus_name,Spellcaster Focus,Fokus eines Zauberers,施法者法器
+artefact_goblin_mage_necklace_name,Goblin Mage Necklace,Halskette des Goblinmagiers,哥布林法师项链
+artefact_venomous_claw_name,Venomous Claw,Vergiftete Klaue,剧毒之爪
+artefact_shamans_talisman_name,Shaman Talisman,Schamanentalisman,萨满法符
+artefact_challengers_ring_name,Challenger's Ring,Ring des Herausforderers,挑战者之戒
+artefact_prayer_cross_name,Prayer's Cross,Gebetskreuz,祈祷者十字架
+artefact_blood_ring_name,Blood Ring,Ring des Blutes,鲜血之戒
+artefact_blood_ring_vampiric_name,Blood Ring (Vampiric),Ring des Blutes (Vampirisch),鲜血之戒（吸血）
+artefact_lantern_name,Lantern,Laterne,提灯
+artefact_gold_ring_name,Gold Ring,Goldring,黄金戒指
+artefact_ring_resistance_name,Ring of Resistance,Ring der Resistenz,抗性之戒
+artefact_edmons_ring_name,Edmon's Ring,Edmons Ring,埃德蒙的戒指
+artefact_edmons_ring_desc,The ring of the royal advisor. Its seal is known to every merchant in Grenmark.,Der Ring des königlichen Beraters. Sein Siegel ist jedem Händler in Grenmark bekannt.,王室顾问的戒指。格伦马克的每个商人都认得它的印记。
+artefact_summoners_crystal_skull_red_name,Red Crystal Skull,Roter Kristallschädel,红水晶头骨
+artefact_summoners_crystal_skull_blue_name,Blue Crystal Skull,Blauer Kristallschädel,蓝水晶头骨
+artefact_summoners_crystal_skull_yellow_name,Yellow Crystal Skull,Gelber Kristallschädel,黄水晶头骨
+artefact_summoners_crystal_skull_green_name,Green Crystal Skull,Grüner Kristallschädel,绿水晶头骨
+artefact_miriams_ring_name,Miriam's Ring,Miriams Ring,米里亚姆的戒指
+artefact_endless_quiver_name,Endless Quiver,Endloser Köcher,无尽箭袋
+artefact_endless_quiver_desc,"A magical quiver of an ancient race, which uses the wielder's inner power to manifest arrows.","Ein magischer Köcher eines alten Volkes, der die innere Kraft des Trägers nutzt, um Pfeile zu manifestieren.",出自古老种族的魔法箭袋，能汲取持有者的内在力量显现箭矢。
+artefact_golden_shield_ring_name,Golden Shield Ring,Goldener Schildring,黄金盾戒
+artefact_golden_sword_ring_name,Golden Sword Ring,Goldener Schwertring,黄金剑戒
+artefact_golden_ring_resistance_name,Golden Ring of Resistance,Goldener Ring der Resistenz,黄金抗性之戒
+artefact_spellbook_wisdom_name,Spellbook of Wisdom,Zauberbuch der Weisheit,智慧法书
+artefact_spellbook_knowledge_name,Spellbook of Knowledge,Zauberbuch des Wissens,知识法书
+artefact_spellbook_calling_name,Spellbook of Calling,Zauberbuch des Rufens,召唤法书
+artefact_slime_necklace_name,Slime Necklace,Schleimanhänger,史莱姆项链
+artefact_molten_obsidian_necklace_name,Molten Obsidian Necklace,Geschmolzene Obsidianhalskette,熔融黑曜石项链
+artefact_obsidian_horn_necklace_name,Obsidian Horn Necklace,Halskette mit Obsidianhorn,黑曜石之角项链
+artefact_obsidian_shaman_talisman_name,Obsidian Shaman Talisman,Schamanentalisman mit Obsidianhorn,黑曜石萨满法符
+artefact_dragon_pendant_name,Dragon's Pendant,Anhänger des Drachen,巨龙坠饰
+artefact_dragon_talisman_name,Dragon's Talisman,Talisman des Drachen,巨龙法符
+artefact_dragon_charm_name,Dragon's Charm,Amulett des Drachen,巨龙咒符
+artefact_cultist_band_name,Cultist Band,Kultistenring,邪教徒指环
+artefact_ring_of_rites_name,Ring of Rites,Ring der Riten,仪式之戒
+artefact_ring_of_forbidden_rites_name,Ring of Forbidden Rites,Ring der verbotenen Riten,禁忌仪式之戒
+artefact_ring_of_eldritch_rites_name,Ring of Eldritch Rites,Ring der unheimlichen Riten,诡秘仪式之戒
+artefact_fresteks_ring_name,Baron Frestek's Ring,Baron Fresteks Ring,弗雷斯泰克男爵的戒指
+artefact_fresteks_ring_desc,A ring from Baron Frestek.,Ein Ring des Erstadter Barons.,一枚来自弗雷斯泰克男爵的戒指。
+artefact_eye_of_velmorgath_name,Eye of Velmogorath,Velmogoraths Auge,维尔莫格拉斯之眼
+artefact_eye_of_velmorgath_desc,"This ring binds the essence of Velmogorath, a dragon of the elder age.","Dieser Ring bindet die Essenz von Velmogorath, einem Drachen aus dem Zeitalter der Alten.",这枚戒指封存着维尔莫格拉斯的精华——一条上古时代的巨龙。
+artefact_spiritcaller_fragment_name,Spiritcaller Fragment,Fragment des Geisterrufers,唤灵者残片
+artefact_spiritcaller_fragment_desc,This fragment pulses with the spectral energy once wielded by the Spiritcallers.,"Das Fragment pulsiert mit der spektralen Energie, die einst den Geisterrufern diente.",这块残片搏动着唤灵者昔日驾驭的幽魂能量。
+artefact_spiritcaller_stone_name,Spiritcaller Stone,Stein des Geisterrufers,唤灵者之石
+artefact_spiritcaller_stone_desc,This stone pulses with the spectral energy once wielded by the Spiritcallers.,"Der Stein pulsiert mit der spektralen Energie, die einst den Geisterrufern diente.",这块石头搏动着唤灵者昔日驾驭的幽魂能量。
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--WEAPONS,,,
+fist_basic_name,Fists,Fäuste,拳头
+sword_short_sword_name,Short Sword,Kurzschwert,短剑
+rapier_rapier_name,Rapier,Degen,刺剑
+rapier_dagger_name,Dagger,Dolch,匕首
+greatsword_zweihander_name,Zweihander,Zweihänder,双手巨剑
+spear_wooden_spear_name,Wooden Spear,Holzspeer,木矛
+staff_themir_staff_name,Themir's Staff,Themirs Stab,塞米尔的法杖
+sword_old_sword_name,Old Sword,Altes Schwert,旧剑
+rune_fire_apprentice_name,Fire Apprentice Rune,Rune des Feuerlehrlings,火焰学徒符文
+rune_ice_apprentice_name,Ice Apprentice Rune,Rune des Eislehrlings,寒冰学徒符文
+bow_short_bow_name,Short Bow,Kurzbogen,短弓
+staff_apprentice_staff_name,Apprentice Staff,Lehrlingsstab,学徒法杖
+spear_old_lance_name,Old Lance,Alte Lanze,旧骑枪
+sword_torch_name,Torch,Fackel,火把
+greatsword_pickaxe_name,Pickaxe,Spitzhacke,十字镐
+greatsword_club_name,Club,Keule,木棒
+bow_strange_bow_name,Strange Bow,Seltsamer Bogen,奇异之弓
+rapier_goblin_dagger_name,Goblin Dagger,Goblindolch,哥布林匕首
+rapier_goblin_dagger_jagged_name,Jagged Goblin Dagger,Gezackter Goblindolch,锯齿哥布林匕首
+greatsword_nailed_club_name,Nailed Club,Nagelkeule,钉刺木棒
+rune_crystal_heart_name,Crystal Heart,Kristallherz,水晶之心
+sword_long_sword_name,Long Sword,Langschwert,长剑
+sword_long_sword_improved_name,Long Sword (improved),Langschwert (verbessert),长剑（改良）
+rapier_thieves_knife_name,Thieves Knife,Diebesmesser,盗贼小刀
+rune_lesser_undead_name,Summon Lesser Undead Rune,Rune des schwachen beschworenen Untoten,次级亡灵召唤符文
+greatsword_woodcutter_axe_name,Lumberjack Axe,Holzfälleraxt,伐木斧
+spear_spear_name,Spear,Speer,长矛
+greatsword_goblin_razor_name,Goblin Razor,Goblin Razor,哥布林剃刀
+sword_rakshas_wand_name,Rak'Sha's Wand,Rak'Shas Zauberstab,拉克沙的魔杖
+rapier_carims_bloody_dagger_name,Carim's Bloody Dagger,Carims blutiger Dolch,卡里姆的血腥匕首
+greatsword_stone_crusher_name,The Stone Crusher,Der Steinbrecher,碎石者
+bow_skysplitter_name,Skysplitter,Himmelsbrecher,裂空者
+rune_priest_name,Priest rune,Priesterrune,祭司符文
+bow_long_bow_name,Long Bow,Langbogen,长弓
+greatsword_orcish_longblade_name,Orcish Longsword,Orkisches Langschwert,兽人长剑
+rune_mage_name,Mage Rune,Magierrune,法师符文
+staff_mage_staff_name,Mage Staff,Magierstab,法师法杖
+sword_mace_name,Mace,Streitkolben,钉头锤
+staff_shield_staff_name,Shield Staff,Stab des Schildes,护盾法杖
+spear_lance_name,Lance,Lanze,骑枪
+sword_katana_name,Katana,Katana,武士刀
+greatsword_bonecrusher_name,Bonecrusher,Knochenbrecher,碎骨者
+sword_grimbald_name,Grimbald,Grimbald,格林巴尔德
+greatsword_barbarian_axe_name,Barbarian Axe,Barbarenaxt,野蛮人之斧
+spear_knights_lance_name,Knights Lance,Ritterlanze,骑士骑枪
+bow_bladed_bow_name,Bladed Bow,Klingenbogen,刃弓
+rapier_rose_dagger_name,Rose Dagger,Rosendolch,玫瑰匕首
+rapier_runic_dagger_name,Runic Dagger,Runenmesser,符文匕首
+bow_lazoris_name,Lazoris,Lazoris,拉佐里斯
+greatsword_templar_hammer_name,Templar Hammer,Templerhammer,圣殿骑士之锤
+sword_saber_name,Saber,Säbel,军刀
+spear_paladins_guard_name,Paladin's Guard,Paladins Wache,圣骑士之卫
+rune_celestial_name,Celestial Rune,Celestische Rune,天界符文
+sword_obsidian_sword_name,Obsidian Sword,Obsidianschwert,黑曜石剑
+sword_obsidian_sword_improved_name,Obsidian Sword (improved),Obsidianschwert (verbessert),黑曜石剑（改良）
+rapier_obsidian_dagger_name,Obsidian Dagger,Obsidiandolch,黑曜石匕首
+rapier_obsidian_dagger_improved_name,Obsidian Dagger (improved),Obsidiandolch (verbessert),黑曜石匕首（改良）
+greatsword_obsidian_greatsword_name,Obsidian Greatsword,Obsidiangroßschwert,黑曜石巨剑
+greatsword_obsidian_greatsword_improved_name,Obsidian Greatsword (improved),Obsidiangroßschwert (verbessert),黑曜石巨剑（改良）
+spear_obsidian_spear_name,Obsidian Spear,Obsidianspeer,黑曜石长矛
+spear_obsidian_spear_improved_name,Obsidian Spear (improved),Obsidianspeer (verbessert),黑曜石长矛（改良）
+staff_obsidian_staff_name,Obsidian Staff,Obsidianstab,黑曜石法杖
+sword_venomous_tail_name,Venomous Tail,Giftiger Schwanz,剧毒之尾
+rapier_frozen_nail_name,Frozen Nail,Gefrorener Nagel,冰封之钉
+greatsword_war_axe_name,War Axe,Kriegsaxt,战斧
+spear_trident_name,Trident,Dreizack,三叉戟
+sword_flail_name,Flail,Flegel,连枷
+spear_goblin_spear_name,Goblin Spear,Goblinspeer,哥布林长矛
+rune_elemental_fire_name,Rune of Fire,Rune des Feuers,火之符文
+rune_elemental_ice_name,Rune of Ice,Rune des Eises,冰之符文
+shield_wooden_name,Wooden Shield,Holzschild,木盾
+shield_big_leather_shield_name,Big Leather Shield,Großer Lederschild,大皮盾
+shield_iron_shield_name,Iron Shield,Eisenschild,铁盾
+shield_gazer_name,Staring Chill,Starrender Schauer,凝视之寒
+greatsword_weynard_zweihander_name,Weynard's Golden Zweihander,Weynards goldener Zweihänder,韦纳德的黄金双手巨剑
+sword_of_mars_name,Sword of Mars,Schwert des Schicksals,战神之剑
+staff_cultist_staff_name,Cultist Staff,Kultistenstab,邪教徒法杖
+rune_cultist_name,Cultist Rune,Rune der Kultisten,邪教徒符文
+greatsword_trollslayer_name,Trollslayer,Trollschlächter,巨魔屠戮者
+sword_trollsaber_name,Troll Saber,Trollsäbel,巨魔军刀
+rapier_blood_fang_name,Blood Fang,Blutzahn,血牙
+rapier_blood_fang_vampiric_name,Blood Fang (Vampiric),Blutzahn (Vampirisch),血牙（吸血）
+sword_blood_spatha_name,Blood Spatha,Blutspatha,鲜血窄剑
+sword_blood_spatha_vampiric_name,Blood Spatha (Vampiric),Blutspatha (Vampirisch),鲜血窄剑（吸血）
+greatsword_blood_spadone_name,Blood Spadone,Blutspadone,鲜血巨剑
+greatsword_blood_spadone_vampiric_name,Blood Spadone (Vampiric),Blutspadone (Vampirisch),鲜血巨剑（吸血）
+spear_blood_bardiche_name,Blood Bardiche,Blutbardiche,鲜血长柄斧
+spear_blood_bardiche_vampiric_name,Blood Bardiche (Vampiric),Blutbardiche (Vampirisch),鲜血长柄斧（吸血）
+shield_blood_shield_name,Blood Shield,Blutschild,鲜血之盾
+bow_blood_bow_name,Blood Bow,Blutbogen,鲜血之弓
+bow_blood_bow_vampiric_name,Blood Bow (Vampiric),Blutbogen (Vampirisch),鲜血之弓（吸血）
+rune_blood_rune_name,Blood Rune,Rune des Blutes,鲜血符文
+rune_blood_runestone_name,Blood Runestone,Runenstein des Blutes,鲜血符石
+rune_blood_runestone_vampiric_name,Blood Runestone (Vampiric),Runenstein des Blutes (Vampirisch),鲜血符石（吸血）
+staff_grenkams_might_name,Grenkam's Might,Grenkams Macht,格伦卡姆之力
+rapier_ritual_dagger_name,Ritual Dagger,Ritualdolch,仪式匕首
+staff_wisps_name,Staff of Wisps,Stab der Irrlichter,鬼火法杖
+rapier_assassin_dagger_name,Assassin's knife,Assassinenmesser,刺客小刀
+greatsword_northern_war_axe_name,Northern War Axe,Nördliche Schlachtaxt,北地战斧
+bow_steel_bow_name,Steel Bow,Stahlbogen,钢弓
+bow_steel_bow_improved_name,Steel Bow (improved),Stahlbogen (verbessert),钢弓（改良）
+greatsword_tyrant_axe_name,Tyrant's Rage,Tyrannenwut,暴君之怒
+sword_arming_sword_name,Arming Sword,Ritterschwert,骑士佩剑
+sword_arming_sword_improved_name,Arming Sword (improved),Ritterschwert (verbessert),骑士佩剑（改良）
+shield_nord_shield_name,Nord Shield,Nordschild,北地之盾
+sword_royal_claymore_name,Royal Claymore,Königliches Claymore,皇家阔剑
+bow_royal_bow_name,Royal Bow,Königlicher Bogen,皇家之弓
+spear_royal_spear_name,Royal Spear,Königlicher Speer,皇家长矛
+throwable_firebomb_name,Firebomb,Feuerbombe,火焰炸弹
+throwable_raider_bomb_name,Raider Bomb,Räuberbombe,掠夺者炸弹
+throwable_poison_bomb_name,Poison Bomb,Giftbombe,剧毒炸弹
+throwable_tooth_bomb_name,Tooth Bomb,Zahnbombe,尖牙炸弹
+fist_fighter_gloves_name,Fighter's Glove,Kämpferhandschuh,斗士手套
+staff_lich_name,Lich Staff,Stab des Lichs,巫妖法杖
+shield_moon_shield_name,Moon Shield,Mondschild,月之盾
+sword_golden_sword_name,Golden Sword,Goldenes Schwert,黄金之剑
+rune_mage_runestone_name,Mage Runestone,Runenstein des Magiers,法师符石
+spear_billhook_name,Billhook,Hippe,钩镰枪
+greatsword_flamberge_name,Flamberge,Flamberge,焰形剑
+rapier_moonpiercer_name,Moonpiercer,Mondstecher,穿月者
+sword_chainsplitter_name,Chainsplitter,Kettenspalter,断链者
+shield_kite_shield_name,Kite Shield,Langschild,鸢形盾
+rune_earth_lesser_name,Lesser Earth Rune,Kleine Rune der Erde,次级大地符文
+rapier_knights_foil_name,Knight's Foil,Ritterflorett,骑士花剑
+spear_naginata_name,Naginata,Naginata,薙刀
+greatsword_saw_blade_name,Saw Blade,Sägeschwert,锯刃剑
+sword_executioner_sword_name,Executioner's Sword,Richtschwert,刽子手之剑
+rapier_baselard_name,Baselard,Baselard,巴塞拉短剑
+bow_composite_bow_name,Composite Bow,Kompositbogen,复合弓
+staff_sorcerer_staff_name,Sorcerer Staff,Stab des Zauberers,术士法杖
+greatsword_muramasa_name,Muramasa,Muramasa,村正
+sword_jonathan_name,Jon'Ath'An,Jon'Ath'An,乔纳森
+spear_pike_of_blight_name,Pike of Blight,Pike der Fäulnis,枯萎之枪
+rapier_starlight_sabre_name,Starlight Sabre,Sternenlichtsäbel,星光军刀
+sword_sorcerer_side_sword_name,Sorcerer Side Sword,Seitschwert der Zauberer,术士侧剑
+sword_snake_sword_name,Snake Sword,Schlangenschwert,蛇剑
+bow_savage_bow_name,Savage Bow,Wildnisbogen,蛮荒之弓
+bow_nimmerfell_name,Bow of Nimmerfell,Bogen von Nimmerfell,尼默费尔之弓
+staff_dimensional_staff_name,Dimensional Staff of Chaos,Stab der Chaosdimension,混沌次元法杖
+staff_dimensional_staff_desc,Chaotic relic that tears rifts between infinite dimensions.,"Ein Relikt des Chaos, das Risse in endlose Dimensionen öffnet.",能在无尽次元间撕开裂隙的混沌遗物。
+greatsword_nodachi_name,Nodachi,Nodachi,野太刀
+staff_desert_lord_name,Staff of the Desert Lord,Stab des Wüstenherrschers,沙漠之主法杖
+staff_desert_lord_desc,A gift from the celestial to the nameless wanderer who left behind the ashen desert he once called home.,"Ein Geschenk des Celestials an den namenlosen Wanderer, der nur die Wüste aus Asche zurückließ, die einst seine Heimat war.",天界之灵赠予无名流浪者的礼物——他离开了那片曾被他唤作家园的灰烬沙漠。
+sword_crescent_moon_axe_name,Crescent Moon Axe,Halbmondaxt,新月斧
+greatsword_kuratha_name,Ku'Ra'Tha,Ku'Ra'Tha,库拉萨
+greatsword_kuratha_desc,A magic weapon carried by a guardian who kept order in troubled times.,"Die magische Waffe eines Wächters, der Ordnung in schweren Zeiten bewahrte.",一位在乱世中维持秩序的守护者所持的魔法武器。
+spear_cross_naginata_name,Cross Naginata,Kreuznaginata,十字薙刀
+rapier_ember_dagger_name,Ember Dagger,Glutdolch,余烬匕首
+rapier_chilled_dagger_name,Chilled Dagger,Gefrorener Dolch,寒霜匕首
+rapier_runeflame_dagger_name,Runeflame Dagger,Flammenrunen-Dolch,符焰匕首
+rapier_runefrost_dagger_name,Runefrost Dagger,Frostrunen-Dolch,符霜匕首
+fist_fist_of_the_evil_spirit_name,Fist of the Evil Spirit,Faust des bösen Geistes,恶灵之拳
+fist_fist_of_the_evil_spirit_desc,A spectral fist that punches faster than eyes can follow.,"Eine geisterhafte Faust, die zuschlägt, als würde die Zeit stillstehen.",一只幽灵之拳，出拳之快，肉眼难以捕捉。
+greatsword_rusty_greatsword_name,Rusty Greatsword,Rostiger Zweihänder,锈蚀巨剑
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--CONSUMABLES,,,
+consumable_alchemy_ingredient_desc,Often used in alchemy,Wird oft in der Alchemie verwendet,常用于炼金术
+consumable_health_potion_small_name,Health Potion (Small),Lebenstrank (klein),生命药水（小）
+consumable_health_potion_weak_name,Health Potion (Weak),Lebenstrank (schwach),生命药水（弱效）
+consumable_health_potion_medium_name,Health Potion (Medium),Lebenstrank (Standard),生命药水（中）
+consumable_mana_potion_small_name,Mana Potion (Small),Manatrank (klein),魔力药水（小）
+consumable_mana_potion_medium_name,Mana Potion (Medium),Manatrank (Standard),魔力药水（中）
+consumable_mana_potion_everlasting_name,Everlasting Mana Potion,Ewiger Manatrank,永恒魔力药水
+consumable_hp_potion_blood_name,Potion of Blood,Trank des Blutes,鲜血药水
+consumable_red_grass_name,Red Grass,Rotes Gras,红草
+consumable_beer_name,Beer,Bier,啤酒
+consumable_booze_name,Booze,Schnaps,烈酒
+consumable_booze_firewater_name,Firewater booze,Feuerwasser Schnaps,火水烈酒
+consumable_glow_mushroom_name,Glow Mushroom,Leuchtpilz,发光蘑菇
+consumable_small_healing_herb_name,Small Healing Herb,Kleine Heilpflanze,小型治疗草药
+consumable_apple_name,Apple,Apfel,苹果
+consumable_apple_desc,Juicy and fresh,Schmeckt saftig und frisch,多汁又新鲜
+consumable_berries_name,Berries,Beeren,浆果
+consumable_egg_name,Egg,Ei,鸡蛋
+consumable_honey_name,Honey,Honig,蜂蜜
+consumable_chicken_leg_raw_name,Raw Chicken Thighs,Roher Hähnchenschenkel,生鸡腿
+consumable_meat_raw_name,Raw Meat,Rohes Fleisch,生肉
+consumable_meat_cooked_name,Roasted Meat,Gebratenes Fleisch,烤肉
+consumable_stew_name,Stew,Eintopf,炖菜
+consumable_darkshroom_name,Darkshroom,Dunkelpilz,暗影菇
+consumable_toadstool_name,Toadstool,Giftpilz,毒蕈
+consumable_booze_green_devil_name,Green Devil,Grüner Teufel,绿恶魔
+consumable_nightvine_name,Nightvine,Nachtranke,夜藤
+consumable_brightleaf_name,Brightleaf,Hellblatt,亮叶草
+consumable_otus_flower_name,Otus Flower,Otusblüte,奥图斯花
+consumable_twin_leaf_name,Twin Leaf,Zwillingsblatt,双生叶
+consumable_grapes_name,Grapes,Trauben,葡萄
+consumable_academy_wine_name,Academy Wine,Wein der Akademie,学院葡萄酒
+consumable_frog_legs_raw_name,Frog legs,Froschschenkel,蛙腿
+consumable_slime_jelly_name,Slime Jelly,Schleimgelee,史莱姆凝胶
+consumable_potion_adventure_name,Potion of Adventuring,Trank des Abenteuers,冒险药水
+consumable_potion_luck_name,Potion of Luck,Trank des Glücks,幸运药水
+consumable_potion_berserker_name,Berserker Potion,Berserkertrank,狂战士药水
+consumable_academy_wine_royal_ember_name,Royal Ember - 2nd Edition,Royal Ember - Zweite Edition,皇家余烬 - 第二版
+consumable_academy_wine_royal_ember_desc,"Crafted with the finest Academy grapes, this exquisite wine embodies elegance and sophistication. Savor the rich, full-bodied flavor and the delicate aroma that make each sip a celebration.","Hergestellt aus den feinsten Trauben der Akademie, verkörpert diese exquisite Spätlese Eleganz und Raffinesse. Genieße den vollmundigen Geschmack und das zarte Aroma, das jeden Schluck zu einem Fest macht.",以学院最上等的葡萄酿制，这款佳酿尽显优雅与考究。细品其醇厚饱满的风味与幽微芬芳，每一口都是一场庆典。
+consumable_academy_wine_regis_vitae_name,Regis Vitae - 1st Edition,Regis Vitae - Erste Edition,王命之典 - 第一版
+consumable_academy_wine_regis_vitae_desc,"Crafted with the finest Academy grapes and a touch of honey, this exceptional wine offers a harmonious blend of rich flavors and delicate sweetness. Enjoy the elegance and sophistication in every sip.","Hergestellt aus den besten Trauben der Akademie und einem Hauch Honig, bietet dieser außergewöhnliche Wein eine harmonische Mischung aus reichhaltigen Aromen und zarter Süße. Genieße die Eleganz und Raffinesse in jedem Schluck.",以学院最上等的葡萄佐以少许蜂蜜酿制，这款非凡佳酿将醇厚风味与柔和甘甜融为一体。每一口都能品味到优雅与考究。
+consumable_carrot_name,Carrot,Karotte,胡萝卜
+consumable_beef_raw_name,Raw Steak,Rohes Steak,生牛排
+consumable_potato_name,Potato,Kartoffel,土豆
+consumable_celery_name,Celery,Sellerie,芹菜
+consumable_cabbage_name,Cabbage,Kohl,卷心菜
+consumable_butter_name,Butter,Butter,黄油
+consumable_butter_desc,There's no replacement for butter.,Butter ist durch nichts zu ersetzen.,黄油无可替代。
+consumable_simple_bread_name,Bread,Brot,面包
+consumable_water_name,Water,Wasser,清水
+consumable_water_desc,Stay hydrated.,Trink genug Wasser.,记得补充水分。
+consumable_stew_rair_name,Rair's Stew,Rairs Eintopf,莱尔的炖菜
+consumable_stew_mushroom_name,Mushroom Stew,Pilzeintopf,蘑菇炖菜
+consumable_meat_sandwich_name,Meat Sandwich,Belegtes Brot,肉三明治
+consumable_fried_frog_legs_name,Fried Frog Legs,Gebratene Froschschenkel,香煎蛙腿
+consumable_steak_name,Steak,Steak,牛排
+consumable_steak_desc,Medium Rare,Medium Rare,五分熟
+consumable_special_sandwich_name,Special Sandwich,Spezialbrötchen,特制三明治
+consumable_roasted_darkshroom_name,Roasted Darkshroom on Puree,Gerösteter Dunkelpilz auf Puree,烤暗影菇配薯泥
+consumable_lizard_tail_name,Lizard Tail,Echsenschwanz,蜥蜴尾
+consumable_stew_dragon_name,Dragon Stew,Dracheneintopf,巨龙炖菜
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--USAGES,,,
+recover_health,Recover #amount Health,Regeneriert #amount Leben,恢复 #amount 点生命
+recover_health_guiding_light,Slowly recovers #amount Health,Regeneriert langsam #amount Leben,缓慢恢复 #amount 点生命
+recover_mana,Recover #amount Mana,Regeneriert #amount Mana,恢复 #amount 点魔力
+recover_stamina,Recover #amount Stamina,Regeneriert #amount Ausdauer,恢复 #amount 点耐力
+drain_health,Drain #amount Health,Entzieht #amount Leben,消耗 #amount 点生命
+drain_mana,Drain #amount Mana,Entzieht #amount Mana,消耗 #amount 点魔力
+drain_stamina,Drain #amount Stamina,Entzieht #amount Ausdauer,消耗 #amount 点耐力
+buff_damage_reduction,Cast a shield to reduce damage by #amount_percent%,"Rufe ein Schild, das den erlittenen Schaden um #amount_percent% reduziert",施放护盾，将所受伤害降低 #amount_percent%
+buff_damage_increase,Increases the damage by #amount_percent% for #seconds seconds,Erhöht den Schaden um #amount_percent% für #seconds Sekunden,伤害提高 #amount_percent%，持续 #seconds 秒
+buff_xp_increase,Increases the XP by #amount_percent% for #minutes minutes,Erhöht die Erfahrung um #amount_percent% für #minutes Minuten,经验值提高 #amount_percent%，持续 #minutes 分钟
+buff_item_find_increase,Increases the Item Find by #amount_percent% for #seconds seconds,Erhöht die Chance auf bessere Gegenstände um #amount_percent% für #seconds Sekunden,物品发现率提高 #amount_percent%，持续 #seconds 秒
+buff_kings_order_damage,Increases the damage by #amount_percent% for #seconds seconds,Erhöht den Schaden um #amount_percent% für #seconds Sekunden,伤害提高 #amount_percent%，持续 #seconds 秒
+buff_kings_order_defense,Decreases the damage taken by #amount_percent% for #seconds seconds,Vermindert den erlittenen Schaden um #amount_percent% für #seconds Sekunden,所受伤害降低 #amount_percent%，持续 #seconds 秒
+transformation,Transform into #transform,Transformation in #transform,变身为 #transform
+,,,
+usage_add_modification_add_hp_max,Increases max. Health by #amount for #seconds seconds,Erhöht max. Lebenspunkte um #amount für #seconds Sekunden,生命上限提高 #amount 点，持续 #seconds 秒
+usage_add_modification_add_mana_max,Increases max. Mana by #amount for #seconds seconds,Erhöht max. Mana um #amount für #seconds Sekunden,魔力上限提高 #amount 点，持续 #seconds 秒
+usage_add_modification_decrease_damage_taken,Decreases the damage taken by #amount% for #seconds seconds,Vermindert den erlittenen Schaden um #amount% für #seconds Sekunden,所受伤害降低 #amount%，持续 #seconds 秒
+usage_add_modification_add_poison_chance_25,25% Chance to inflict #amount Poison Damage per second for #seconds seconds,"25% Chance, um #amount Giftschaden pro Sekunde zu verursachen für #seconds Sekunden",25% 几率造成每秒 #amount 点毒素伤害，持续 #seconds 秒
+,,,
+,,,
+,,,
+,,,
+,,,
+--MISC,,,
+misc_pale_coin_name,Pale Coin,Bleiche Münze,苍白硬币
+misc_pale_coin_desc,This thing emanates enormous power.,Von diesem Ding geht eine enorme und Macht aus.,这东西散发着巨大的力量。
+misc_arrow_name,Arrow,Pfeil,箭矢
+misc_key_outlaw_camp_mine_name,Outlaw Mine Key,Schlüssel zur Mine der Banditen,亡命徒矿井钥匙
+misc_key_outlaw_camp_mine_duplicate_name,Outlaw Mine Key,Schlüssel zur Mine der Banditen,亡命徒矿井钥匙
+misc_hammer_hallgrim_name,Hallgrim's Hammer,Hallgrims Hammer,哈尔格里姆之锤
+misc_material_monster_tooth_name,Monster Tooth,Monsterzahn,怪物之牙
+misc_misc_goblin_necklace_name,Goblin Necklace,Goblinhalskette,哥布林项链
+misc_crystal_piece_name,Crystal Piece,Kristallbrocken,水晶碎块
+misc_perfect_crystal_piece_name,Perfect Crystal Piece,Perfekter Kristallbrocken,完美水晶碎块
+misc_ritual_key_name,Ritual Stone Key,Ritualsteinschlüssel,仪式石钥匙
+misc_ritual_key_desc,This unusual stone grants the ability to teleport between Ritual Stones.,Dieser außergewöhnliche Stein erlaubt das Teleportieren zwischen Ritualsteinen.,这块奇特的石头能让人在仪式石之间传送。
+misc_lockpick_name,Lockpick,Dietrich,撬锁器
+misc_lockpick_desc,Requires the lockpicking skill to open locked chests.,"Benötigt die Fähigkeit, Schlösser zu öffnen, um verwenden zu könnnen.",需要撬锁技能才能打开上锁的宝箱。
+misc_orc_temple_key_name,Orc Temple Key,Schlüssel des Orktempels,兽人神殿钥匙
+misc_quiver_small_name,Small Quiver,Kleiner Köcher,小箭袋
+misc_quiver_small_desc,Contains between 8 and 12 arrows,Enthält zwischen 8 und 12 Pfeile,内含 8 至 12 支箭矢
+misc_quiver_medium_name,Quiver,Köcher,箭袋
+misc_quiver_medium_desc,Contains between 15 and 22 arrows,Enthält zwischen 15 und 22 Pfeile,内含 15 至 22 支箭矢
+misc_quiver_large_name,Large Quiver,Großer Köcher,大箭袋
+misc_quiver_large_desc,Contains between 50 and 60 arrows,Enthält zwischen 50 und 60 Pfeile,内含 50 至 60 支箭矢
+misc_key_orc_temple_armory_name,Armory Key - Orc Temple,Schlüssel zur Waffenkammer - Orktempel,武器库钥匙 - 兽人神殿
+misc_wares_lennard_name,Lennard's Wares,Lennards Waren,伦纳德的货物
+misc_capital_permit_name,Capital Permit,Hauptstadtgenehmigung,王都通行证
+misc_capital_permit_desc,A permit issued by the King's advisor.,Diese Genehmigung wurde vom Berater des Königs ausgestellt.,由国王顾问签发的通行证。
+misc_strange_weapon_small_name,Lesser Strange Weapon,Kleine seltsame Waffe,次级奇异武器
+misc_strange_weapon_medium_name,Strange Weapon,Seltsame Waffe,奇异武器
+misc_strange_weapon_great_name,Great Strange Weapon,Gute seltsame Waffe,高级奇异武器
+misc_letter_kolfinn_name,Kolfinn's Letter,Kolfinns Brief,科尔芬的信
+misc_letter_kolfinn_desc,Kolfinn wrote this letter for his son Korg,Kolfinn hat diesen Brief für seinen Sohn Korg geschrieben,科尔芬写给儿子科尔格的信
+misc_material_ore_iron_name,Iron Ore,Eisenerz,铁矿石
+misc_material_ore_iron_desc,A common smithing material used for weapons and armor.,Ein gewöhnliches Material zum Schmieden von Waffen und Rüstungen.,常见的锻造材料，用于打造武器和护甲。
+misc_material_ore_orichalcum_name,Orichalcum Ore,Orichalcumerz,山铜矿石
+misc_material_ore_orichalcum_desc,A rare material used for forging high quality equipment.,"Ein seltenes Material, welches zum Schmieden von hochwertiger Ausrüstung verwendet wird.",稀有材料，用于锻造高品质装备。
+misc_material_obsidian_chunk_name,Obsidian Chunk,Obsidianbrocken,黑曜石块
+misc_material_obsidian_chunk_desc,A rare material used for forging high quality equipment.,"Ein seltenes Material, welches zum Schmieden von hochwertiger Ausrüstung verwendet wird.",稀有材料，用于锻造高品质装备。
+misc_material_ore_gold_name,Gold Ore,Goldbrocken,金矿石
+misc_material_ore_gold_desc,A rare material used for crafting high quality equipment.,"Ein seltenes Material, welches zum Fertigen von hochwertiger Ausrüstung verwendet wird.",稀有材料，用于制作高品质装备。
+misc_material_refined_steel_bar_name,Refined Steel Bar,Veredelter Stahlbarren,精炼钢锭
+misc_material_refined_steel_bar_desc,A rare material used for forging high quality equipment.,"Ein seltenes Material, welches zum Schmieden von hochwertiger Ausrüstung verwendet wird.",稀有材料，用于锻造高品质装备。
+misc_material_steel_bar_verkum_name,Ver'Kum Steel Bar,Ver'Kum Stahlbarren,维尔库姆钢锭
+misc_material_steel_bar_verkum_desc,A rare material used for forging high quality equipment.,"Ein seltenes Material, welches zum Schmieden von hochwertiger Ausrüstung verwendet wird.",稀有材料，用于锻造高品质装备。
+misc_gold_bar_name,Gold Bar,Goldbarren,金锭
+misc_material_stone_blood_name,Blood Stone,Blutstein,血石
+misc_material_stone_blood_desc,A rare material used for forging high quality equipment.,"Ein seltenes Material, welches zum Schmieden von hochwertiger Ausrüstung verwendet wird.",稀有材料，用于锻造高品质装备。
+misc_demo_end_letter_name,End of Demo?,Ende der Demo?,试玩版结束？
+misc_demo_end_letter_desc,This was the demo of Pale Coins. What is left to do? Find better equipment and try to defeat Gru'Ra once again.,Das ist das Ende der Demo von Pale Coins. Was gibt es noch zu tun? Finde bessere Ausrüstung und versuche Gru'Ra erneut zu besiegen.,这就是 Pale Coins 试玩版的全部内容。接下来还能做什么？寻找更好的装备，再次挑战格鲁拉吧。
+misc_marin_passage_permit_name,Permit to the Marin Passage,Berechtigung zum Marin Durchgang,马林通道通行证
+misc_marin_passage_permit_desc,This permit will open the gate to the Marin Passage.,Mit dieser Berechtigung kann der Marin Durchgang passiert werden.,这份通行证能打开通往马林通道的大门。
+misc_map_grenmark_name,Map of Grenmark,Karte der Grenmark,格伦马克地图
+misc_map_grenmark_desc,A regional map of Grenmark.,Eine regionale Karte der Grenmark.,一张格伦马克的区域地图。
+misc_map_grenmark_ancient_name,Ancient Map of Grenmark,Uralte Karte der Grenmark,格伦马克古代地图
+misc_map_grenmark_ancient_desc,This seems to be an ancient map of Grenmark.,Das scheint eine uralte Karte der Grenmark zu sein.,这似乎是一张格伦马克的古代地图。
+misc_lake_tower_key_1_name,Key Piece 1,Schlüsselstück 1,钥匙残片 1
+misc_lake_tower_key_2_name,Key Piece 2,Schlüsselstück 2,钥匙残片 2
+misc_lake_tower_key_3_name,Key Piece 3,Schlüsselstück 3,钥匙残片 3
+misc_lake_tower_key_desc,Piece of a key found in the lake tower.,Schlüsselstück aus dem Turm auf dem See.,在湖畔之塔中找到的钥匙残片。
+misc_blueprint_weapon_random_name,Blueprint of a weapon,Rezept einer Waffe,武器图纸
+misc_blueprint_weapon_random_2_name,Blueprint of a good weapon,Rezept einer guten Waffe,优质武器图纸
+misc_blueprint_weapon_random_3_name,Blueprint of an excellent weapon,Rezept einer exzellenten Waffe,卓越武器图纸
+misc_blueprint_armor_random_name,Blueprint of an armor,Rezept einer Rüstung,护甲图纸
+misc_blueprint_armor_random_2_name,Blueprint of a good armor,Rezept einer guten Rüstung,优质护甲图纸
+misc_blueprint_armor_random_3_name,Blueprint of an excellent armor,Rezept einer exzellenten Rüstung,卓越护甲图纸
+misc_blueprint_artefact_random_name,Blueprint of an artefact,Rezept eines Artefakts,神器图纸
+misc_blueprint_artefact_random_2_name,Blueprint of a good artefact,Rezept eines guten Artefakts,优质神器图纸
+misc_blueprint_artefact_random_3_name,Blueprint of an excellent artefact,Rezept eines exzellenten Artefakts,卓越神器图纸
+misc_blueprint_artefact_gold_ring_name,Blueprint (Gold Ring),Rezept (Goldring),图纸（黄金戒指）
+misc_blueprint_consumable_random_1_name,Blueprint of a simple Potion,Rezept eines einfachen Tranks,简易药水图纸
+misc_blueprint_consumable_random_2_name,Blueprint of a good Potion,Rezept eines guten Tranks,优质药水图纸
+misc_blueprint_consumable_random_3_name,Blueprint of an excellent Potion,Rezept eines exzellenten Tranks,卓越药水图纸
+misc_blueprint_weapon_rapier_runic_dagger_name,Blueprint (Runic Dagger),Rezept (Runenmesser),图纸（符文匕首）
+misc_blueprint_weapon_rapier_blood_fang_vampiric_name,Blueprint (Blood Fang (Vampiric)),Rezept (Blutzahn (Vampirisch)),图纸（血牙（吸血））
+misc_blueprint_weapon_bow_blood_bow_vampiric_name,Blueprint (Blood Bow (Vampiric)),Rezept (Blutbogen (Vampirisch)),图纸（鲜血之弓（吸血））
+misc_blueprint_weapon_greatsword_blood_spadone_vampiric_name,Blueprint (Blood Spadone (Vampiric)),Rezept (Blutspadone (Vampirisch)),图纸（鲜血巨剑（吸血））
+misc_blueprint_weapon_spear_blood_bardiche_vampiric_name,Blueprint (Blood Bardiche (Vampiric)),Rezept (Blutbardiche (Vampirisch)),图纸（鲜血长柄斧（吸血））
+misc_blueprint_weapon_sword_blood_spatha_vampiric_name,Blueprint (Blood Spatha (Vampiric)),Rezept (Blutspatha (Vampirisch)),图纸（鲜血窄剑（吸血））
+misc_blueprint_artefact_blood_ring_vampiric_name,Blueprint (Blood Ring (Vampiric)),Rezept (Ring des Blutes (Vampirisch)),图纸（鲜血之戒（吸血））
+misc_blueprint_artefact_ring_of_forbidden_rites_name,Blueprint (Ring of Forbidden Rites),Rezept (Ring der verbotenen Riten),图纸（禁忌仪式之戒）
+misc_blueprint_artefact_ring_of_eldritch_rites_name,Blueprint (Ring of Eldritch Rites),Rezept (Ring der unheimlichen Riten),图纸（诡秘仪式之戒）
+misc_blueprint_cooking_meat_cooked_name,Recipe (Roasted Meat),Kochrezept (Gebratenes Fleisch),烹饪配方（烤肉）
+misc_blueprint_cooking_stew_name,Recipe (Stew),Kochrezept (Eintopf),烹饪配方（炖菜）
+misc_blueprint_cooking_stew_rair_name,Recipe (Rair's Stew),Kochrezept (Rairs Eintopf),烹饪配方（莱尔的炖菜）
+misc_blueprint_cooking_stew_mushroom_name,Recipe (Mushroom Stew),Kochrezept (Pilzeintopf),烹饪配方（蘑菇炖菜）
+misc_blueprint_cooking_simple_bread_name,Recipe (Bread),Kochrezept (Brot),烹饪配方（面包）
+misc_blueprint_cooking_meat_sandwich_name,Recipe (Meat Sandwich),Kochrezept (Belegtes Brot),烹饪配方（肉三明治）
+misc_blueprint_cooking_fried_frog_legs_name,Recipe (Fried Frog Legs),Kochrezept (Gebratene Froschschenkel),烹饪配方（香煎蛙腿）
+misc_blueprint_cooking_steak_name,Recipe (Steak),Kochrezept (Steak),烹饪配方（牛排）
+misc_blueprint_cooking_special_sandwich_name,Recipe (Special Sandwich),Kochrezept (Spezialbrötchen),烹饪配方（特制三明治）
+misc_blueprint_cooking_roasted_darkshroom_name,Recipe (Roasted Darkshroom on Puree),Kochrezept (Gerösteter Dunkelpilz auf Puree),烹饪配方（烤暗影菇配薯泥）
+misc_blueprint_cooking_stew_dragon_name,Recipe (Dragon Stew),Kochrezept (Dracheneintopf),烹饪配方（巨龙炖菜）
+misc_gregors_letter_1_name,Piece of a Letter,Stück eines Briefes,信件残片
+misc_gregors_letter_1_desc,The letter states that there is a strange aura surrounding the Stonehenge. This letter seems to be signed by Gregor.,"In diesem Brief steht, dass das Stonehenge von einer seltsamen Aura umgeben ist. Dieser Brief wurde von Gregor gezeichnet.",信中提到巨石阵周围环绕着一股奇异的气息。这封信似乎由格雷戈署名。
+misc_mysterious_book_name,Mysterious Book,Geheimnisvolles Buch,神秘之书
+misc_mysterious_book_desc,???,???,???
+misc_book_language_draconic_name,Book - Draconic,Buch - Drakonisch,书籍——龙语
+misc_book_language_draconic_desc,This seems to be a book about the draconic language,Das ist ein Buch über die drakonische Sprache,这似乎是一本关于龙语的书
+misc_coin_dhul_oq_name,Coin from Dhul'oq,Münze aus Dhul'oq,来自杜尔奥克的硬币
+misc_pale_essence_name,Pale Essence,Bleiche Essenz,苍白精华
+misc_material_cloth_standard_name,Common Cloth,Gewöhnlicher Stoff,普通布料
+misc_material_cloth_standard_desc,A common material used in armor.,Ein gewöhnlicher Stoff für Rüstungen.,制作防具的常见材料。
+misc_blood_altar_heart_of_a_warrior_name,Heart of a Warrior,Herz eines Kriegers,战士之心
+misc_blood_altar_heart_of_a_warrior_desc,Used for sacrifices on blood altars,Wird für Opfer auf Blutaltären verwendet.,用于血祭坛上的献祭
+misc_blood_altar_dry_heart_name,Dry Heart,Trockenes Herz,干枯之心
+misc_blood_altar_dry_heart_desc,Its essence sacrificed to a ritual best left forgotten.,"Ein Relikt, entleert für ein Ritual, das nie hätte vollzogen werden dürfen.",它的精华已献祭给一场本应被遗忘的仪式。
+misc_blood_altar_heart_of_a_warrior_poisoned_name,Heart of a Warrior (poisoned),Herz eines Kriegers (vergiftet),战士之心（中毒）
+misc_blood_altar_heart_of_a_warrior_poisoned_desc,Bauric poisoned this heart,Bauric hat das Herz vergiftet,鲍里克在这颗心脏上下了毒
+misc_gem_small_desc,Can be socketed into equipment,Kann in Gegenstände gesockelt werden,可镶嵌到装备中
+misc_gem_medium_desc,Can be socketed into equipment,Kann in Gegenstände gesockelt werden,可镶嵌到装备中
+misc_gem_equippable_all_desc,Can be socketed into all weapons and armor,Kann in alle Waffen und Rüstungen gesockelt werden,可镶嵌到所有武器和防具中
+misc_gem_equippable_armor_desc,Can be socketed into all armor,Kann in alle Rüstungen gesockelt werden,可镶嵌到所有防具中
+misc_gem_equippable_weapons_desc,Can be socketed into all weapons,Kann in alle Waffen gesockelt werden,可镶嵌到所有武器中
+misc_gem_equippable_weapons_rapier_desc,Can be socketed into daggers and rapiers,Kann in Dolche und Degen gesockelt werden,可镶嵌到匕首和刺剑中
+misc_gem_equippable_weapons_greatsword_desc,"Can be socketed into two-handed swords, axes and maces","Kann in zweihändige Schwerter, Äxte und Hämmer gesockelt werden",可镶嵌到双手剑、斧和锤中
+misc_gem_equippable_weapons_spear_desc,Can be socketed into spears,Kann in Speere gesockelt werden,可镶嵌到长矛中
+misc_gem_equippable_weapons_staff_desc,Can be socketed into staffs,Kann in Stäbe gesockelt werden,可镶嵌到法杖中
+misc_gem_equippable_weapons_sword_desc,"Can be socketed into one-handed swords, axes and maces","Kann in einhändige Schwerter, Äxte und Hämmer gesockelt werden",可镶嵌到单手剑、斧和锤中
+misc_gem_equippable_weapons_rune_desc,Can be socketed into runes,Kann in Runen gesockelt werden,可镶嵌到符文中
+misc_gem_equippable_weapons_rune_staff_desc,Can be socketed into runes and staffs,Kann in Runen und Stäbe gesockelt werden,可镶嵌到符文和法杖中
+misc_gem_equippable_weapons_shield_desc,Can be socketed into shields,Kann in Schilde gesockelt werden,可镶嵌到盾牌中
+misc_gem_equippable_weapons_bow_desc,Can be socketed into bows,Kann in Bögen gesockelt werden,可镶嵌到弓中
+misc_gem_small_yellow_name,Small yellow gem,Kleiner gelber Edelstein,小型黄色宝石
+misc_gem_small_green_name,Small green gem,Kleiner grüner Edelstein,小型绿色宝石
+misc_gem_small_red_name,Small red gem,Kleiner roter Edelstein,小型红色宝石
+misc_gem_small_blue_name,Small blue gem,Kleiner blauer Edelstein,小型蓝色宝石
+misc_gem_standard_blue_name,Blue gem,Blauer Edelstein,蓝色宝石
+misc_gem_standard_green_name,Green gem,Grüner Edelstein,绿色宝石
+misc_gem_standard_red_name,Red gem,Roter Edelstein,红色宝石
+misc_gem_standard_yellow_name,Yellow gem,Gelber Edelstein,黄色宝石
+misc_gem_standard_crimson_name,Crimson gem,Purpurroter Edelstein,绯红宝石
+misc_gem_standard_azure_name,Azure gem,Azurblauer Edelstein,蔚蓝宝石
+misc_gem_standard_golden_name,Golden gem,Goldener Edelstein,金色宝石
+misc_gem_standard_thulian_name,Thulian gem,Thulianer Edelstein,图利安宝石
+misc_gem_standard_hunter_name,Hunter's gem,Edelstein des Jägers,猎人宝石
+misc_gem_standard_scholar_name,Scholar's gem,Edelstein des Gelehrten,学者宝石
+misc_gem_standard_warrior_name,Warrior's gem,Edelstein des Kriegers,战士宝石
+misc_gem_big_green_name,Large green gem,Großer grüner Edelstein,大型绿色宝石
+misc_gem_big_red_name,Large red gem,Großer roter Edelstein,大型红色宝石
+misc_gem_big_yellow_name,Large yellow gem,Großer gelber Edelstein,大型黄色宝石
+misc_gem_big_blue_name,Large blue gem,Großer blauer Edelstein,大型蓝色宝石
+misc_gem_big_thulian_name,Large thulian gem,Großer thulianer Edelstein,大型图利安宝石
+misc_gem_big_azure_name,Large azure gem,Großer azurblauer Edelstein,大型蔚蓝宝石
+misc_gem_big_golden_name,Large golden gem,Großer goldener Edelstein,大型金色宝石
+misc_gem_big_crimson_name,Large crimson gem,Großer purpurroter Edelstein,大型绯红宝石
+misc_gem_big_black_name,Large black gem,Großer schwarzer Edelstein,大型黑色宝石
+misc_gem_big_gray_name,Large gray gem,Großer grauer Edelstein,大型灰色宝石
+misc_gem_big_white_name,Large white gem,Großer weißer Edelstein,大型白色宝石
+misc_gem_small_blood_name,Small blood gem,Kleiner Blutstein,小型血宝石
+misc_gem_standard_blood_name,Blood gem,Blutstein,血宝石
+misc_gem_big_blood_name,Large blood gem,Großer Blutstein,大型血宝石
+misc_gem_small_chaos_name,Small chaos gem,Kleiner Chaosstein,小型混沌宝石
+misc_gem_standard_chaos_name,Chaos gem,Chaosstein,混沌宝石
+misc_gem_big_chaos_name,Large chaos gem,Großer Chaosstein,大型混沌宝石
+misc_gem_small_shard_name,Small gem shard,Kleine Edelsteinscherbe,小型宝石碎片
+misc_gem_standard_shard_name,Gem shard,Edelsteinscherbe,宝石碎片
+misc_gem_big_shard_name,Large gem shard,Große Edelsteinscherbe,大型宝石碎片
+misc_material_swamp_secretion_name,Swamp secretion,Sumpfsekret,沼泽分泌物
+misc_material_swamp_secretion_desc,A poisonous secretion produced by swamp flies.,"Ein giftiges Sekret, erzeugt von Sumpffliegen.",沼泽飞虫分泌的有毒物质。
+misc_material_poison_gland_name,Poison gland,Giftdrüse,毒腺
+misc_material_poison_gland_desc,Produces a powerful poison used to paralyze foes.,"Erzeugt ein starkes Gift, welches Gegner paralysiert.",能分泌一种可麻痹敌人的强效毒素。
+misc_letter_gunthar_name,Gunthar's Letter,Gunthars Brief,贡塔尔的信
+misc_letter_gunthar_desc,This dilapidated letter is addressed to Balder. Signed by Gunthar.,Dieser heruntergekommene Brief ist an Balder adressiert. Gezeichnet von Gunthar.,这封破旧的信是写给巴尔德的。署名贡塔尔。
+misc_key_swamp_temple_floor_2_key_name,Swamp Temple Inner Key,Schlüssel im Sumpftempel,沼泽神殿内室钥匙
+misc_sacred_stone_erylding_name,Erylding,Erylding,埃里尔丁
+misc_sacred_stone_erylding_desc,The sacred stone of Earth,Der heilige Stein der Erde,大地之圣石
+misc_sacred_stone_nayryth_name,Nayryth,Nayryth,奈里斯
+misc_sacred_stone_nayryth_desc,The sacred stone of Water,Der heilige Stein des Wassers,水之圣石
+misc_sacred_stone_ferumor_name,Ferumor,Ferumor,费鲁莫尔
+misc_sacred_stone_ferumor_desc,The sacred stone of Fire,Der heilige Stein des Feuers,火之圣石
+misc_raider_chief_orders_name,Raid Orders,Überfallbefehle,掠袭令
+misc_raider_chief_orders_desc,A thief is going to steal the Arcanum Sanguis from the academy. Attack him on his way back in the late afternoon and get the book. We will meet in the cave behind the waterfall in the lake passage.,Ein Dieb wird das Arcanum Sanguis aus der Akademie stehlen. Greift ihn am späten Nachmittag auf seinem Rückweg an und holt euch das Buch. Wir treffen uns in der Höhle hinter dem Wasserfall im Tunnel zum See.,有个盗贼将从学院偷走血之秘典。傍晚时分趁他返程途中袭击他，夺取那本书。我们在湖底通道瀑布后的洞穴里会合。
+misc_key_raider_chief_name,Raider Chief's Key,Schlüssel des Räuberanführers,掠夺者首领的钥匙
+misc_arcanum_sanguis_name,Arcanum Sanguis,Arcanum Sanguis,血之秘典
+misc_material_skeleton_bone_name,Skeleton Bone,Knochen eines Skeletts,骷髅骨
+misc_skeleton_key_name,Skeleton Key,Skelettschlüssel,万能钥匙
+misc_skeleton_key_desc,Opens every chest,Öffnet jede Truhe,可打开所有宝箱
+misc_coin_corrupted_name,Corrupted Coin,Korrupte Münze,腐化硬币
+misc_coin_corrupted_desc,Used as an offering to the god of the cultists,Wird als Opfergabe an den Gott der Kultisten gebraucht,用作献给邪教徒之神的供品
+misc_coin_blood_name,Blood Coin,Blutmünze,鲜血硬币
+misc_gem_skill_cultists_shadow_step_name,Cultist Gem (Shadow Step),Edelstein der Kultisten (Schattenschritt),邪教徒宝石（暗影步）
+misc_gem_skill_cultists_veonmous_poke_name,Cultist Gem (Venomous Poke),Edelstein der Kultisten (Giftiger Stoß),邪教徒宝石（剧毒戳刺）
+misc_gem_skill_cultists_cursed_poke_name,Cultist Gem (Cursed Poke),Edelstein der Kultisten (Verfluchter Stoß),邪教徒宝石（诅咒戳刺）
+misc_gem_skill_backstep_name,Skill Gem (Backstep),Fähigkeitenstein (Ausweichschritt),技能宝石（后撤步）
+misc_gem_skill_dagger_throw_name,Skill Gem (Throw Dagger),Fähigkeitenstein (Dolch werfen),技能宝石（投掷匕首）
+misc_gem_skill_assassins_stab_dagger_name,Skill Gem (Assassin's Stab),Fähigkeitenstein (Stich des Assassinen),技能宝石（刺客之刺）
+misc_gem_skill_whirlwind_blades_name,Skill Gem (Whirlwind Blades),Fähigkeitenstein (Wirbelsturm der Klingen),技能宝石（刀刃旋风）
+misc_gem_skill_greatsword_forcewave_name,Skill Gem (Forcewave),Fähigkeitenstein (Kraftwelle),技能宝石（力场波）
+misc_gem_skill_spear_multi_thrust_name,Skill Gem (Multithrust),Fähigkeitenstein (Mehrfachstoß),技能宝石（多重突刺）
+misc_gem_skill_assassins_stab_spear_name,Skill Gem (Assassin's Stab),Fähigkeitenstein (Stich des Assassinen),技能宝石（刺客之刺）
+misc_gem_skill_sword_eagle_slash_name,Skill Gem (Eagle Slash),Fähigkeitenstein (Adlerhieb),技能宝石（雄鹰斩）
+misc_gem_skill_dodge_name,Skill Gem (Fast Dodge),Fähigkeitenstein (Schnelles Ausweichen),技能宝石（快速闪避）
+misc_gem_skill_buff_enhanced_defense_name,Skill Gem (Enhanced Defense),Fähigkeitenstein (Verbesserte Verteidigung),技能宝石（强化防御）
+misc_gem_skill_buff_fighting_spirit_name,Skill Gem (Fighting Spirit),Fähigkeitenstein (Kampfgeist),技能宝石（战意）
+misc_gem_skill_dagger_war_cry_name,Skill Gem (War Cry),Fähigkeitenstein (Kampfschrei),技能宝石（战吼）
+misc_gem_skill_explosive_arrow_name,Skill Gem (Explosive Arrow),Fähigkeitenstein (Explodierender Pfeil),技能宝石（爆裂箭）
+misc_gem_skill_kings_order_name,Skill Gem (Weynard's Order),Fähigkeitenstein (Weynards Befehl),技能宝石（韦纳德的敕令）
+misc_gem_skill_shockwave_bow_name,Skill Gem (Shockwave),Fähigkeitenstein (Stoßwelle),技能宝石（震荡波）
+misc_gem_skill_shockwave_greatsword_name,Skill Gem (Shockwave),Fähigkeitenstein (Stoßwelle),技能宝石（震荡波）
+misc_gem_skill_hold_action_melee_charged_arc_name,Skill Gem (Charged Arc),Fähigkeitenstein (Geladener Schlag),技能宝石（蓄力弧斩）
+misc_gem_skill_hold_action_missile_charged_arrow_name,Skill Gem (Charged Shot),Fähigkeitenstein (Geladener Schuss),技能宝石（蓄力射击）
+misc_gem_skill_buff_magic_armor_name,Skill Gem (Magic Defense),Fähigkeitenstein (Magische Abwehr),技能宝石（魔法防御）
+misc_gem_skill_summon_rain_fire_name,Skill Gem (Fire Rain),Fähigkeitenstein (Feuerregen),技能宝石（火焰之雨）
+misc_gem_skill_missile_flame_ring_3_name,Skill Gem (Flame Ring),Fähigkeitenstein (Flammenring),技能宝石（烈焰之环）
+misc_gem_skill_summon_miasma_fog_name,Skill Gem (Miasma),Fähigkeitenstein (Miasma),技能宝石（瘴气）
+misc_gem_skill_timed_effect_word_of_healing_name,Skill Gem (Word of Healing),Fähigkeitenstein (Wort der Heilung),技能宝石（治愈圣言）
+misc_gem_skill_summon_frozen_shards_name,Skill Gem (Frozen Shards),Fähigkeitenstein (Gefrorene Scherben),技能宝石（冰冻碎片）
+misc_gem_skill_missile_fast_arrows_name,Skill Gem (Hail of Arrows),Fähigkeitenstein (Pfeilhagel),技能宝石（箭雨）
+misc_gem_skill_summon_magic_turret_name,Skill Gem (Magic Turret),Fähigkeitenstein (Magisches Geschütz),技能宝石（魔法炮塔）
+misc_gem_skill_missile_ice_triad_name,Skill Gem (Ice Triad),Fähigkeitenstein (Eistriade),技能宝石（三重冰箭）
+misc_gem_skill_missile_ice_tetrad_name,Skill Gem (Ice Tetrad),Fähigkeitenstein (Eistetrade),技能宝石（四重冰箭）
+misc_gem_skill_missile_fireball_great_name,Skill Gem (Great Fireball),Fähigkeitenstein (Großer Feuerball),技能宝石（巨型火球）
+misc_gem_skill_gru_ra_lightning_name,Skill Gem (Gru'Ra's Lightning),Fähigkeitenstein (Gru'Ras Blitz),技能宝石（格鲁拉之雷）
+misc_gem_skill_missile_sazzou_life_drain_name,Skill Gem (Sazzou's Life Drain),Fähigkeitenstein (Sazzous Lebensentzug),技能宝石（萨佐的生命汲取）
+misc_gem_skill_summon_margyott_bat_swarm_name,Skill Gem (Margyott's Bat Swarm),Fähigkeitenstein (Margyotts Fledermausschwarm),技能宝石（马尔乔特的蝙蝠群）
+misc_gem_skill_summon_ignariels_totem_name,Skill Gem (Ignariel's Totem),Fähigkeitenstein (Ignariels Totem),技能宝石（伊格纳里尔的图腾）
+misc_gem_skill_sword_spirit_slash_name,Skill Gem (Spirit Slash),Fähigkeitenstein (Geisterhieb),技能宝石（灵魂斩）
+misc_gem_skill_greatsword_spirit_slash_name,Skill Gem (Spirit Slash),Fähigkeitenstein (Geisterhieb),技能宝石（灵魂斩）
+misc_gem_skill_summon_spirit_sword_name,Skill Gem (Spirit Sword),Fähigkeitenstein (Geisterschwert),技能宝石（灵魂之剑）
+misc_darius_glasses_name,Darius' Glasses,Darius Brille,达里乌斯的眼镜
+misc_material_dragon_scale_name,Dragon Scale,Drachenschuppe,龙鳞
+misc_material_dragon_heart_name,Dragon Heart,Drachenherz,龙心
+misc_material_dragon_heart_desc,The heart of a dragon. It still feels hot in my hands.,Das Herz eines Drachen. Es fühlt sich noch immer heiß an.,一颗巨龙的心脏。捧在手中仍觉滚烫。
+misc_key_barracks_name,Barracks Key,Schlüssel zur Kaserne,兵营钥匙
+misc_key_barracks_desc,The royal symbol is engraved into this old key,Das königliche Symbol ist in diesen alten Schlüssel eingraviert,这把旧钥匙上镌刻着王室纹章
+misc_statue_heliria_arm_left_name,Arm of a Statue (right),Arm einer Statue (rechts),雕像手臂（右）
+misc_statue_heliria_arm_right_name,Arm of a Statue (left),Arm einer Statue (links),雕像手臂（左）
+misc_scroll_open_sealed_doors_name,Scroll,Spruchrolle,卷轴
+misc_book_reset_attribute_points_name,Book of Learning,Buch des Lernens,学识之书
+misc_book_reset_attribute_points_desc,"Inscribed with glowing runes, this arcane tome radiates an unknown energy from its core.","Mit leuchtenden Runen beschriftet, strahlt dieser arkane Foliant eine unbekannte Energie aus seinem Kern aus.",这本秘法典籍上铭刻着发光的符文，其内核散发出一股未知的能量。
+misc_torn_tome_page_name,Torn Page,Ausgerissene Seite,撕裂的书页
+misc_torn_tome_page_desc,A fragment of forgotten lore. Trade it at the Academy to unlock ancient knowledge.,"Ein Fragment vergessener Geschichte. Tausche es an der Akademie ein, um uraltes Wissen zu erlangen.",被遗忘的学识残篇。可在学院换取古老的知识。
+misc_forgotten_tome_name,Forgotten Tome,Vergessener Foliant,遗忘之典
+misc_forgotten_tome_desc,An ancient book with fragile pages. Strange markings hint at a forgotten language.,"Ein uralter Foliant, dessen Schrift kaum noch zu entziffern ist. Die Seiten tragen Zeichen einer Sprache, die niemand mehr kennt.",一本书页脆弱的古书，上面的奇异符号暗示着一门被遗忘的语言。
+misc_forgotten_language_notes_name,Notes on the Forgotten Language,Notizen zur vergessenen Sprache,遗忘语言笔记
+misc_attachment_grappling_hook_skill_name,Grappling Hook Attachment,Enterhakenaufsatz,抓钩配件
+misc_attachment_grappling_hook_chain_skill_name,Grappling Chain Attachment,Enterkettenaufsatz,抓钩锁链配件
+misc_attachment_grappling_hook_skill_desc,Can be attached to weapons or armor,Kann an Waffen oder Rüstungen angebracht werden,可安装到武器或防具上
+misc_sirynir_notes_name,Sirynir's Notes,Sirynirs Notizen,西里尼尔的笔记
+misc_sirynir_notes_desc,These are the Royal Knight Sirynir's final words. It's an apology for his failure and a message to his former comrades.,Diese Notizen enthalten die letzten Worte des königlichen Gardisten Sirynir. Es ist eine Entschuldigung für sein Scheitern und eine letzte Botschaft an seine früheren Kameraden.,这是皇家骑士西里尼尔的遗言，既是为自己的失败致歉，也是留给昔日战友的讯息。
+misc_bellkeeper_key_name,Bellkeeper Key,Schlüssel eines Glockenhüters,守钟人钥匙
+misc_kings_ruby_name,King's Ruby,Rubin des Königs,国王的红宝石
+misc_material_obsidian_horn_name,Obsidian Horn,Obsidianhorn,黑曜石之角
+misc_raider_chief_bag_name,Raider Chief Bag,Tasche der Räuberanführerin,掠夺者首领的背包
+misc_raider_chief_bag_desc,A bag full of goodies.,Eine Tasche voller verschiedener Gegenstände.,装满了各种好东西的背包。
+misc_gloom_mask_fragment_name,Gloom Mask Fragment,Fragment der Düstermaske,幽暗面具残片
+misc_gloom_mask_fragment_desc,"A broken piece of the mask once worn by an undying knight, who gave up his humanity for eternal life.","Ein Bruchstück der Maske, getragen von einem unsterblichen Ritter, der seine Menschlichkeit dem ewigen Leben opferte.",一名不死骑士曾佩戴的面具残块，他为求永生舍弃了自己的人性。
+misc_pale_crystal_piece_name,Pale Crystal Piece,Bleicher Kristallbrocken,苍白水晶碎块
+misc_pale_crystal_piece_desc,An ancient crystal fragment containing immense amounts of Pale Energy.,"Ein uraltes Kristallfragment, erfüllt von immenser Bleicher Energie.",一块蕴含大量苍白能量的远古水晶碎片。
+misc_cedric_customer_name,Cedric's Customer List,Cedrics Abnehmerliste,塞德里克的客户名单
+misc_cedric_customer_desc,A list of customers who frequently purchase wine from the academy.,"Eine Liste von Kunden, die regelmäßig Wein von der Akademie kaufen.",一份经常从学院购买葡萄酒的客户名单。
+misc_pan_name,Pan,Pfanne,平底锅
+misc_pan_desc,A simple cooking pan. Can only be used at a lit bonfire.,Eine einfache Pfanne. Kann nur an einem entzündeten Lagerfeuer verwendet werden.,一口简单的平底锅。只能在点燃的篝火旁使用。
+misc_seasoning_name,Seasoning,Gewürze,调味料
+misc_seasoning_desc,"A blend of basic spices and herbs, used in cooking recipes.",Eine Mischung aus einfachen Gewürzen und Kräutern. Wird für Rezepte benötigt.,由基础香料和草药调配而成，烹饪配方中会用到。
+misc_wheat_name,Wheat,Weizen,小麦
+misc_rhoga_stone_tablet_piece_1_name,Stone Tablet Piece 1,Erstes Teil einer Steintafel,石板碎片1
+misc_rhoga_stone_tablet_piece_2_name,Stone Tablet Piece 2,Zweites Teil einer Steintafel,石板碎片2
+misc_rhoga_stone_tablet_piece_desc,A broken fragment of a stone tablet from the Rhoga Swamp.,Ein Bruchstück einer Steinteifel aus dem Rhoga Sumpf.,来自罗加沼泽的石板残块。
+misc_badge_of_collecting_name,Collector's Badge,Abzeichen des Sammlers,收藏家徽章
+misc_badge_of_collecting_desc,"A revered badge offered by Baron Frestek himself, given as a reward for completing his collection of rare items.","Ein ehrwürdiges Abzeichen von Baron Frestek, das als Lohn für das Abschließen seiner seltenen Sammlung gilt.",弗雷斯泰克男爵亲自授予的荣誉徽章，作为集齐其珍稀藏品的奖励。
+misc_soul_fragment_oriviel_name,Oriviel's Soul Fragment,Oriviels Seelenfragment,奥里维尔的灵魂碎片
+misc_soul_fragment_oriviel_desc,Activate the celestial power of the soul fragment to influence a portal into the chaos realm.,"Aktiviere die kosmische Kraft des Seelenfragments, um ein Portal in das Reich des Chaos zu beeinflussen.",激活灵魂碎片中的天界之力，以影响通往混沌之境的传送门。
+misc_junk_name,Junk,Müll,破烂
+misc_junk_desc,Nothing of value,Nichts Wertvolles,毫无价值的东西
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--PALE COINS,,,
+pale_coin_upgrade_name,Upgrade,Upgrade,升级
+pale_coin_slicing_time_name,Coin of Time,Münze der Zeit,时间硬币
+pale_coin_warrior_name,Warrior's Coin,Münze des Kriegers,战士硬币
+pale_coin_mage_name,Mage's Coin,Münze des Magiers,法师硬币
+pale_coin_sage_name,Sage's Coin,Münze des Weisen,贤者硬币
+pale_coin_summoner_name,Summoner's Coin,Münze des Beschwörers,召唤师硬币
+pale_coin_berserker_name,Berserker's Coin,Münze des Berserkers,狂战士硬币
+pale_coin_thief_name,Thief's Coin,Münze des Diebes,盗贼硬币
+pale_coin_tower_name,Tower's Coin,Münze des Turms,高塔硬币
+pale_coin_explorer_name,Explorer's Coin,Münze des Erkunders,探险家硬币
+pale_coin_assassin_name,Assassin's Coin,Münze des Assassinen,刺客硬币
+pale_coin_snake_name,Snake's Coin,Münze der Schlange,巨蛇硬币
+pale_coin_spellsword_name,Spellsword's Coin,Münze des Schwertmagiers,魔剑士硬币
+pale_coin_steed_name,Steed's Coin,Münze des Rosses,骏马硬币
+pale_coin_collector_name,Collector's Coin,Münze des Sammlers,收藏家硬币
+,,,
+,,,
+,,,
+,,,
+,,,
+--INTERACTIONS,,,
+interact_item_usage,Use,Verwenden,使用
+interact_item_open_map,Opens the map,Öffnet die Karte,打开地图
+interact_blueprint,Learn a new crafting recipe,Lerne eine neue Schmiedeanleitung,学习新的锻造配方
+interact_blueprint_already_known,Already learned,Bereits gelernt,已学会
+interact_learn_skill,Learn a new skill,Lerne eine neue Fähigkeit,学习新技能
+interact_socket,Socket into an item,In einen Gegenstand sockeln,镶嵌到物品中
+interact_teleport_eternal_realm,Teleport to the Eternal Realm,Teleport zur Ewigen Ebene,传送至永恒之境
+interact_open_sealed_doors,Open magically sealed doors,Öffnet magisch verschlossene Türen,开启被魔法封印的门
+interact_reset_attribute_points,Reset attribute points,Setzt die Attributpunkte zurück,重置属性点
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--PREFIXES,,,
+pre_hardened_name,Hardened,Gehärtet,硬化
+pre_burning_name,Burning,Brennend,燃烧
+pre_blessed_name,Blessed,Gesegnet,祝福
+pre_iced_name,Iced,Eisig,覆冰
+pre_dark_name,Dark,Dunkl,黑暗
+pre_light_1_name,Light,Leicht,轻盈
+pre_plated_name,Plated,Gepanzert,覆甲
+pre_swift_name,Swift,Flink,迅捷
+pre_vital_name,Vital,Vital,活力
+pre_wise_name,Wise,Weis,睿智
+pre_broken_name,Broken,Zerstört,破损
+pre_fiery_name,Fiery,Feurig,烈焰
+pre_frosted_name,Frosted,Gefroren,霜冻
+pre_blessed_armor_name,Blessed,Gesegnet,祝福
+pre_umbral_name,Umbral,Umbral,幽影
+pre_adventurer_name,Lucky,Glücklich,幸运
+pre_superior_name,Superior,Überlegen,精良
+pre_piercing_name,Piercing,Durchschlagend,穿刺
+pre_arcane_name,Arcane,Arkan,奥术
+pre_mysic_name,Mystic,Mystisch,秘法
+pre_enchanted_name,Enchanted,Verzaubert,附魔
+pre_bound_name,Bound,Gebunden,束缚
+pre_crushing_name,Crushing,Zerschmettern,粉碎
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--SUFFIXES,,,
+suf_speed_name,of Swiftness,der Geschwindigkeit,之迅捷
+suf_bleed_name,of Bleeding,der Blutung,之流血
+suf_poison_name,of Poison,des Gifts,之剧毒
+suf_resistance_name,of Resistance,der Resistenz,之抗性
+suf_life_steal_name,of Life Steal,des Lebensentzugs,之生命窃取
+suf_mana_steal_name,of Mana Steal,des Manaentzugs,之魔力窃取
+suf_reaper_name,of the Reaper,des Reapers,之收割者
+suf_lich_name,of the Lich,des Lichs,之巫妖
+suf_fire_retaliation_name,of Fire Retaliation,der Feuervergeltung,之火焰反伤
+suf_ice_retaliation_name,of Ice Retaliation,der Eisvergeltung,之冰霜反伤
+suf_health_name,of Health,des Lebens,之生命
+suf_mana_name,of Mana,des Manas,之魔力
+suf_stamina_name,of Stamina,der Ausdauer,之耐力
+suf_holy_retaliation_name,of Holy Retaliation,der Heiligen Vergeltung,之神圣反伤
+suf_dark_retaliation_name,of Dark Retaliation,der Dunklen Vergeltung,之黑暗反伤
+suf_adventurer_name,of Adventuring,des Abenteurers,之冒险
+suf_vitality_name,of Vitality,der Vitalität,之体力
+suf_endurance_name,of Endurance,der Ausdauer,之坚韧
+suf_magic_name,of Magic,der Magie,之魔法
+suf_strength_name,of Strength,der Stärke,之力量
+suf_dexterity_name,of Dexterity,der Geschicklichkeit,之敏捷
+suf_intelligence_name,of Intelligence,der Intelligenz,之智力
+suf_luck_name,of Luck,des Glücks,之幸运
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--SKILLS,,,
+skill_teleport,Teleport,Teleportieren,传送
+skill_dodge_default,Dodge,Ausweichen,闪避
+skill_dodge,Fast Dodge,Schnelles Ausweichen,快速闪避
+skill_missile_fireball,Fireball,Feuerball,火球术
+skill_melee,Attack,Angriff,攻击
+skill_melee_spear,Attack (spear),Angriff (Speer),攻击（长矛）
+skill_melee_sword,"Attack (one-handed swords, axes and maces)","Angriff (einhändige Schwerter, Äxte und Hämmer)",攻击（单手剑、斧和锤）
+skill_melee_greatsword,"Attack (two-handed swords, axes and maces)","Angriff (zweihändige Schwerter, Äxte und Hämmer)",攻击（双手剑、斧和锤）
+skill_melee_rapier,Attack (daggers and rapiers),Angriff (Dolche und Degen),攻击（匕首和刺剑）
+skill_melee_staff,Attack (staff),Angriff (Stab),攻击（法杖）
+skill_melee_fist,Attack (fist),Angriff (Fäuste),攻击（拳头）
+skill_missile,Attack,Angriff,攻击
+skill_deep_cut,Deep Cut,Tiefer Schnitt,深度切割
+skill_missile_crystal_missile,Crystal Missile,Kristallgeschoss,水晶飞弹
+skill_missile_bone_arrow,Bone Arrow,Knochenpfeil,骨箭
+skill_summon_lesser_undead,Summon Lesser Undead,Schwachen Untoten beschwören,召唤次级亡灵
+skill_missile_ice_arrow,Ice Arrow,Eispfeil,冰箭
+skill_missile_magic,Magic Missile,Magisches Geschoss,魔法飞弹
+skill_missile_ice_triad,Ice Triad,Eistriade,三重冰箭
+skill_missile_ice_tetrad,Ice Tetrad,Eistetrade,四重冰箭
+skill_missile_flame_ring,Flame Ring,Flammenring,烈焰之环
+skill_missile_flame_ring_retaliation_1,Flame Ring,Flammenring,烈焰之环
+skill_missile_flame_ring_retaliation_2,Flame Ring,Flammenring,烈焰之环
+skill_missile_ice_spikes,Ice Spikes,Eisstacheln,冰刺
+skill_missile_ice_spikes_retaliation_1,Ice Spikes,Eisstacheln,冰刺
+skill_missile_ice_spikes_retaliation_2,Ice Spikes,Eisstacheln,冰刺
+skill_missile_rakshas_lightning,Rak'Sha's Lightning,Rak'Shas Blitz,拉克沙之雷
+skill_summon_rakshas_lightning,Rak'Sha's Lightning,Rak'Shas Blitze,拉克沙之雷
+skill_buff_bleeding_cuts,Bleeding Cuts,Blutende Wunden,流血切割
+skill_summon_crushing_stones,Crushing Stones,Steineruption,粉碎之石
+skill_summon_stone_eruption,Stone Eruption,Steinausbruch,岩石爆发
+skill_missile_skysplitter_rain,Split the sky,Den Himmel spalten,裂空
+skill_timed_effect_word_of_healing,Word of Healing,Wort der Heilung,治愈圣言
+skill_summon_miasma_fog,Miasma,Miasma,瘴气
+skill_summon_magic_turret,Magic Turret,Magisches Geschütz,魔法炮塔
+skill_magic_shield,Magic Shield,Magischer Schild,魔法护盾
+skill_air_pull,Air Pull,Luftanziehung,气流牵引
+skill_summon_crush_all,Crush All,Alles brechen,粉碎一切
+skill_buff_elemental_blade,Elemental Blade,Klinge der Elemente,元素之刃
+skill_missile_marked_shot,Marked Shot,Markierter Schuss,标记射击
+skill_magic_aura,Magic Aura of Protection,Magische Schutzaura,魔法守护光环
+skill_summon_pillars_of_light,Pillars of Light,Säulen des Lichts,光之柱
+skill_summon_celestial_guardian,Summon Celestial Guardian,Celestischen Wächter beschwören,召唤天界守卫
+skill_missile_holy_spear,Holy Spear,Heiliger Speer,神圣之矛
+skill_summon_void_area,Void Area,Bereich der Leere,虚空领域
+skill_summon_cursed_touch,Cursed Touch,Verfluchter Griff,诅咒之触
+skill_summon_holy_orb,Holy Orb,Heilige Kugel,神圣宝珠
+skill_summon_holy_orb_retaliation_1,Holy Orb,Heilige Kugel,神圣宝珠
+skill_summon_holy_orb_retaliation_2,Holy Orb,Heilige Kugel,神圣宝珠
+skill_summon_celestial_orb,Celestial Orb,Celestische Kugel,天界宝珠
+skill_summon_dark_orb,Dark Orb,Dunkle Kugel,黑暗宝珠
+skill_summon_dark_orb_retaliation_1,Dark Orb,Dunkle Kugel,黑暗宝珠
+skill_summon_dark_orb_retaliation_2,Dark Orb,Dunkle Kugel,黑暗宝珠
+skill_hold_action_melee_charged_arc,Charged Arc,Geladener Schlag,蓄力弧斩
+skill_melee_greatsword_charged_arc,Charged Arc,Geladener Schlag,蓄力弧斩
+skill_melee_greatsword_forcewave,Forcewave,Kraftwelle,力场波
+skill_venomous_tail_multiwhip,Multi-Whip,Multi-Peitsche,多重鞭击
+skill_summon_frozen_nails,Frozen Nails,Gefrorene Nägel,冰冻之钉
+skill_summon_rain_fire,Rain of Fire,Feuerregen,火焰之雨
+skill_missile_fireball_great,Great Fireball,Großer Feuerball,巨型火球
+skill_backstep,Backstep,Ausweichschritt,后撤步
+skill_block_shield,Block,Blocken,格挡
+skill_missile_multishot,Multishot,Mehrfachschuss,多重射击
+skill_missile_fast_arrows,Hail of Arrows,Pfeilhagel,箭雨
+skill_shield_gazer_gaze,Gaze,Starren,凝视
+skill_weynard_golden_blink,Golden Blink,Goldenes Blinzeln,黄金闪现
+skill_greatsword_weynard_golden_slash,Golden Slash,Goldener Schnitt,黄金斩击
+skill_greatsword_dash,Dash Attack,Sprintangriff,冲刺攻击
+skill_greatsword_weynard_golden_redemption,Golden Redemption,Goldene Erlösung,黄金救赎
+skill_melee_spear_multi_thrust,Multithrust,Mehrfachstoß,多重突刺
+skill_sword_of_mars_lightning_step,Lightning Step,Blitzschneller Schritt,闪电步
+skill_sword_of_mars_lightning_slash,Lightning Slash,Blitzschlag,闪电斩
+skill_melee_spear_backstep_attack,Evasive Strike,Ausweichstoß,闪避突击
+skill_sword_foward_slash,Forward Slash,Vorwärtshieb,前冲斩
+skill_sword_eagle_slash,Eagle Slash,Adlerhieb,雄鹰斩
+skill_missile_backstep_shot,Backstep Shot,Ausweichschuss,后跳射击
+skill_cultist_staff_venomous_poke,Venomous Poke,Giftiger Stoß,剧毒戳刺
+skill_spear_venomous_poke,Venomous Poke,Giftiger Stoß,剧毒戳刺
+skill_cultist_staff_cursed_poke,Cursed Poke,Verfluchter Stoß,诅咒戳刺
+skill_spear_cursed_poke,Cursed Poke,Verfluchter Stoß,诅咒戳刺
+skill_corruption_of_the_cult,Corruption of the Cult,Korruption des Kults,邪教之腐蚀
+skill_summon_rhoga_cultist,Summon Shadow Cultist,Schattenkultist beschwören,召唤暗影邪教徒
+skill_missile_cultist,Cultist Orbs,Kultistenkugeln,邪教宝珠
+skill_shadow_step,Shadow Step,Schattenschritt,暗影步
+skill_throw_dagger,Throw Dagger,Dolch werfen,投掷匕首
+skill_summon_whirlwind_blades,Whirlwind Blades,Wirbelsturm der Klingen,刀刃旋风
+skill_buff_enhanced_defense,Enhanced Defense,Verbesserte Verteidigung,强化防御
+skill_buff_fighting_spirit,Fighting Spirit,Kampfgeist,战意
+skill_war_cry,War Cry,Kampfschrei,战吼
+skill_summon_frozen_shards,Frozen Shards,Gefrorene Scherben,冰冻碎片
+skill_cast_ice_whip,Ice Whip,Eispeitsche,寒冰之鞭
+skill_missile_ice_nova,Ice Nova,Eisnova,冰霜新星
+skill_missile_ice_nova_3,Ice Nova,Eisnova,冰霜新星
+skill_bloody_cut,Bloody Cut,Blutiger Schnitt,血腥切割
+skill_missile_blood_arrow,Blood Arrow,Blutpfeil,血箭
+skill_summon_blood_flame_pillars,Blood Flame Pillars,Säulen des Blutfeuers,血焰之柱
+skill_bloody_scythe,Bloody Scythe,Blutige Sense,血腥镰刀
+skill_blood_bow,Blood Bow,Blutiger Bogen,鲜血之弓
+skill_berserker_rage,Berserker Rage,Zorn des Berserkers,狂战士之怒
+skill_summon_holy_arrow_strike,Holy Strike,Heiliger Schlag,神圣打击
+skill_missile_explosive_arrow,Explosive Arrow,Explodierender Pfeil,爆裂箭
+skill_kings_order,Weynard's Order,Weynards Befehl,韦纳德的敕令
+skill_timed_effect_guiding_light,Guiding Light,Leitlicht,引导之光
+skill_summon_wisp_light,Summon Wisp of Light,Irrlicht des Lichts beschwören,召唤光之妖火
+skill_summon_wisp_frozen,Summon Wisp of Ice,Irrlicht des Eises beschwören,召唤冰之妖火
+skill_summon_wisp_holy,Summon Holy Wisp,Heiliges Irrlicht beschwören,召唤神圣妖火
+skill_summon_wisp_cursed,Summon Cursed Wisp,Verfluchtes Irrlicht beschwören,召唤诅咒妖火
+skill_summon_wisp_sacred,Summon Sacred Wisp,Irrlicht der Heilung beschwören,召唤圣洁妖火
+skill_hold_action_tyrant_slashes,Tyrant's Slashes,Hiebe des Tyrannen,暴君乱斩
+skill_assassins_stab_dagger,Assassin's Stab,Stich des Assassinen,刺客之刺
+skill_assassins_stab_spear,Assassin's Stab,Stich des Assassinen,刺客之刺
+skill_missile_firebomb,Throw Firebomb,Feuerbombe werfen,投掷火焰弹
+skill_hold_action_oraoraora,Hail of Blows,Schlaghagel,疾风连拳
+skill_sword_stab,Sword Stab,Schwertstich,剑刺
+skill_summon_army_of_the_undead,Summon Army of the Undead,Armee der Untoten beschwören,召唤亡灵大军
+skill_undead_explosion,Undead Sacrifice,Opfer der Untoten,亡灵献祭
+skill_melee_shockwave,Shockwave,Stoßwelle,震荡波
+skill_grappling_hook_standard,Grappling Hook,Enterhaken,抓钩
+skill_grappling_hook_chain,Grappling Chain,Enterkette,抓钩锁链
+skill_timed_effect_sanguine_pact,Sanguine Pact,Blutiger Pakt,血之契约
+skill_buff_magic_armor,Magic Defense,Magische Abwehr,魔法防御
+skill_dodge_ethereal_step,Ethereal Step,Geisterschritt,虚灵步
+skill_dodge_starlight_step,Starlight Step,Schritt im Sternenlicht,星光步
+skill_missile_stone_throw,Stone Throw,Steinwurf,投石
+skill_summon_stone,Stone Impact,Steinschlag,落石冲击
+skill_hold_action_missile_charged_arrow,Charged Shot,Geladener Schuss,蓄力射击
+skill_hold_action_missile_charged_arrow_nimmerfell,Nimmerfell Shot,Schuss von Nimmerfell,尼默费尔射击
+skill_summon_open_locks,Open Locks,Schlösser öffnen,开锁术
+skill_demon_cuts,Demon Cuts,Schnitte des Dämonen,恶魔切割
+skill_throw_jonathan,Throw Hammer,Hammer werfen,投掷战锤
+skill_summon_gru_ra_lightning,Gru'Ra's Lightning,Gru'Ras Blitz,格鲁拉之雷
+skill_missile_sazzou_life_drain,Sazzou's Life Drain,Sazzous Lebensentzug,萨佐的生命汲取
+skill_summon_margyott_bat_swarm,Margyott's Bat Swarm,Margyotts Fledermausschwarm,马尔乔特的蝙蝠群
+skill_missile_chaos,Chaos Missile,Geschoss des Chaos,混沌飞弹
+skill_summon_ignariels_totem,Ignariel's Totem,Ignariels Totem,伊格纳里尔的图腾
+skill_summon_velmogorath_spirit,Summon Velmogorath's Spirit,Velmogoraths Geist beschwören,召唤维尔莫格拉斯之魂
+skill_sword_spirit_slash,Spirit Slash,Geisterhieb,灵魂斩
+skill_greatsword_spirit_slash,Spirit Slash,Geisterhieb,灵魂斩
+skill_summon_spirit_sword,Spirit Sword,Geisterschwert,灵魂之剑
+skill_summon_spirit_arrow,Spirit Arrow,Geisterpfeil,灵魂之箭
+skill_summon_spirit_spear,Spirit Spear,Geisterspeer,灵魂之矛
+skill_summon_moon_sickles,Moon Sickles,Mondsicheln,群月之镰
+skill_summon_crescent_moon_sickle,Moon Sickle,Mondsichel,月镰
+skill_timed_effect_shadow_form,Shadow Form,Schattenform,暗影形态
+skill_shadow_crow_step,Step of the Shadow Crow,Schritt der Schattenkrähe,影鸦之步
+skill_cast_flame_spark,Flame Spark,Feuerfunke,烈焰火花
+skill_piercing_strike,Piercing Strike,Durchdringender Hieb,穿刺打击
+skill_summon_timestop,Timestop,Zeitstopp,时间停止
+,,,
+,,,
+,,,
+,,,
+--SKILL INFO TEXTS,,,
+skill_info_buff_bleeding_cuts,Drains your health for a higher chance to inflict bleed on hit.,Zieht deine Lebenspunkte ab für eine höhere Chance auf Blutung bei einem Treffer.,持续消耗生命值，换取更高的击中流血几率。
+skill_info_air_pull,Pulls enemies towards you.,Zieht Gegner an dich heran.,将敌人拉向你。
+skill_info_crush_all,Sacrifice life points and deal damage equal to 15% of the target's HP.,Opfere Lebensenergie und ziehe Gegnern in Reichweite 15% ihrer Lebensenergie ab.,牺牲生命值，造成相当于目标15%生命值的伤害。
+skill_info_missile_marked_shot,Marks enemies to receive double damage.,Markiert Gegner welche 2x Schaden erhalten.,标记敌人，使其受到双倍伤害。
+skill_info_summon_void_area,Deals damage to enemies inside the void.,Schadet Gegnern in der Leere.,对虚空领域内的敌人造成伤害。
+skill_info_summon_cursed_touch,Curses enemies to lower their resistances.,"Verflucht Gegner, um ihre Resistenzen zu schwächen.",诅咒敌人，降低其抗性。
+skill_info_summon_obs,Manifests an orb which orbits around you and deals contact damage.,"Manifestiert eine Kugel, die um dich rotiert und Kontaktschaden verursacht.",显现一颗环绕你旋转的宝珠，接触敌人时造成伤害。
+skill_info_summon_dark_orb,Manifests two orbs which orbit around you and deal contact damage.,"Manifestiert zwei Kugeln, die um dich rotiert und Kontaktschaden verursacht.",显现两颗环绕你旋转的宝珠，接触敌人时造成伤害。
+skill_info_buff_elemental_blade,Drains mana for additional elemental damage.,Verbraucht Mana und fügt elementaren Schaden hinzu.,持续消耗魔力，附加元素伤害。
+skill_info_buff_fighting_spirit,Drains mana for increased physical damage.,Verbraucht Mana für erhöhten physischen Schaden.,持续消耗魔力，提升物理伤害。
+skill_info_magic_aura,Creates a magic aura which reduces incoming damage.,"Erschafft eine magische Aura, die den erlittenen Schaden reduziert.",生成一圈魔法光环，减少所受伤害。
+skill_info_magic_shield,Creates a magic shield for 10 seconds which greatly reduces incoming damage but shatters on impact.,"Erschafft einen magischen Schild für 10 Sekunden, der den erlittenen Schaden beträchtlich reduziert, und nach einem Treffer zerbricht.",生成持续10秒的魔法护盾，大幅减少所受伤害，但受击后即碎裂。
+skill_info_missile_flame_ring,Cast a ring of fire around you.,Entfessle einen Ring aus Feuer um dich herum.,在你周围释放一圈火环。
+skill_info_ice_triad,Cast three ice arrows at once.,Schießt drei Eispfeile gleichzeitig.,同时施放三支冰箭。
+skill_info_ice_tetrad,Cast four ice arrows at once.,Schießt vier Eispfeile gleichzeitig.,同时施放四支冰箭。
+skill_info_skysplitter_rain,Cast multiple homing missiles at once.,Schießt mehrere zielsuchende Geschosse gleichzeitig.,同时施放多枚追踪飞弹。
+skill_info_crushing_stones,Cast multiple stones in the targeted area.,Entfessle mehrere Steine im Zielbereich.,在目标区域召来多块巨石。
+skill_info_stone_eruption,Cast multiple stones in a line.,Lass mehrere Steine in einer Linie aus dem Boden schießen.,使多块巨石沿直线迸发。
+skill_info_magic_turret,Manifests up to two magic turrets which shoot nearby enemies with random elemental missiles.,"Manifestiert bis zu zwei magische Geschütze, die Gegner in der Nähe mit zufälligen, elementaren Geschossen beschießen.",显现至多两座魔法炮塔，向附近敌人发射随机元素飞弹。
+skill_info_miasma_fog,Cast a fog that poisons enemies inside it.,"Zaubert einen Nebel, der Gegner bei Berührung vergiftet.",施放一片毒雾，使置身其中的敌人中毒。
+skill_info_pillars_of_light,Cast multiple holy pillars in the targeted area.,Entfessle mehrere heilige Säulen aus Licht im Zielbereich.,在目标区域降下多道神圣光柱。
+skill_info_venomous_tail_multiwhip,Three fast whiplashes.,Drei schnelle Peitschenschläge.,三次快速鞭击。
+skill_info_summon_frozen_nails,Cast multiple frozen nails from the ground.,Entfessle mehrere gefrorene Nägel aus dem Boden.,从地面唤出多根冰冻之钉。
+skill_info_rain_fire,Let fire rain upon your foes.,Lass einen Regen aus Feuer über deinen Feinden nieder.,让火焰如雨般倾泻在敌人头上。
+skill_info_backstep,A quick backstep allowing you to evade an attack.,"Ein schneller Ausweichschritt, um einem Angriff auszuweichen.",快速后撤一步，借此闪避攻击。
+skill_info_dodge,A quick dodge allowing you to evade an attack.,"Ein schneller Ausweichschritt, um einem Angriff auszuweichen.",快速闪身，借此闪避攻击。
+skill_info_missile_multishot,Shoot three arrows at once.,Schießt drei Pfeile gleichzeitig.,同时射出三支箭。
+skill_info_missile_fast_arrows,Shoot arrows in rapid succession.,Schieße Pfeile in schneller Folge ab.,快速连射箭矢。
+skill_info_missile_fast_arrows_epic,Shoot many arrows in rapid succession.,Schieße viele Pfeile in schneller Folge ab.,快速连射大量箭矢。
+skill_info_summon_whirlwind_blades,Creates a whirlwind of blades which damages nearby foes.,"Manifestiert einen Wirbelsturm aus Klingen, der Feinden in der Nähe Schaden zufügt.",生成一道刀刃旋风，对附近敌人造成伤害。
+skill_info_war_cry,Increases the damage for a 5 seconds.,Erhöht den Schaden für 5 Sekunden.,提升伤害，持续5秒。
+skill_info_summon_frozen_shards,Cast frozen shards above your enemies.,Entfessle gefrorene Scherben über deinen Feinden.,在敌人上方唤出冰冻碎片。
+skill_info_missile_ice_nova,Cast a ring of ice around you and freeze your foes.,Entfessle einen eisigen Ring um dich und erfriere deine Gegner.,在你周围释放一圈寒冰，冻结敌人。
+skill_info_blood_item_skill,Inflicts bleed upon hitting your enemy.,"Fügt Blutung zu, wenn du deinen Feind triffst.",击中敌人时施加流血效果。
+skill_info_summon_blood_flame_pillars,Cast pillars of blood flames in a row.,Entfessle Säulen aus Blutfeuer in einer Linie.,沿直线唤出一排血焰之柱。
+skill_info_berserker_rage,Increases damage and movement speed for 10 seconds.,Erhöht die Angriffskraft und die Bewegungsgeschwindigkeit für 10 Sekunden.,提升伤害与移动速度，持续10秒。
+skill_info_explosive_arrow,Loads an arrow with enormous firepower that burns everything within a radius.,"Lädt einen Pfeil mit enormer Feuerkraft, der alles im Umkreis verbrennt.",为箭矢注入巨大的火力，焚烧范围内的一切。
+skill_info_kings_order,"Calls forth the King's Order, greatly raising your fighting spirit.",Ruft den Befehl des Königs hervor und stärkt deinen Kampfgeist enorm.,唤出国王的敕令，大幅激发你的战意。
+skill_info_summon_wisp_light,Summons a wisp that illuminates the surroundings.,"Beschwört ein Irrlicht, welches die Umgebung erhellt.",召唤一团照亮四周的妖火。
+skill_info_summon_wisp_frozen,Summons a wisp that freezes nearby enemies.,"Beschwört ein Irrlicht, welches Gegner in der Nähe einfriert.",召唤一团妖火，冻结附近的敌人。
+skill_info_summon_wisp_holy,Summons a wisp that punishes nearby enemies with pillars of light.,"Beschwört ein Irrlicht, welches Gegner in der Nähe mit Säulen aus Licht bestraft.",召唤一团妖火，以光柱惩戒附近的敌人。
+skill_info_summon_wisp_cursed,Summons wisp that curses nearby enemies to reduce their magic resistances.,"Beschwört ein Irrlicht, welches Gegner in der Nähe verflucht, um ihre Magieresistenz zu verringern.",召唤一团妖火，诅咒附近的敌人，降低其魔法抗性。
+skill_info_summon_wisp_sacred,Summons wisp that heals nearby allies.,"Beschwört ein Irrlicht, welches Verbündete in der Nähe heilt.",召唤一团妖火，治疗附近的盟友。
+skill_info_assassins_stab_dagger,An attack with an increased chance of a critical hit.,Ein Angriff mit erhöhter Chance auf einen kritischen Treffer.,一次拥有更高暴击几率的攻击。
+skill_info_assassins_stab_spear,An attack with an increased chance of a critical hit.,Ein Angriff mit erhöhter Chance auf einen kritischen Treffer.,一次拥有更高暴击几率的攻击。
+skill_info_summon_army_of_the_undead,Call forth 5 Lesser Undead.,Erweckt 5 schwache Untote gleichzeitig.,召唤5个次级亡灵。
+skill_info_skill_undead_explosion,"Detonate all summoned undead, dealing area damage upon sacrifice.",Sprengt alle beschworenen Untoten und verursacht beim Flächenschaden.,引爆所有已召唤的亡灵，献祭时造成范围伤害。
+skill_info_missile_tooth_bomb,Fires teeth in all directions upon impact.,Lässt Zähne nach dem Aufprall in alle Richtungen schießen.,命中后向四面八方射出牙齿。
+skill_info_shockwave,Pushes away nearby enemies.,Stößt Gegner in der Nähe zurück.,击退附近的敌人。
+skill_info_eagle_slash,Two rapid attacks at the cost of reduced damage.,Zwei schnelle Angriffe mit verringertem Schaden.,两次快速攻击，但伤害有所降低。
+skill_info_eagle_slash_epic,Four rapid attacks at the cost of reduced damage.,View schnelle Angriffe mit verringertem Schaden.,四次快速攻击，但伤害有所降低。
+skill_info_sanguine_pact,Consumes a portion of Health to regenerate Mana over time.,"Opfert Lebenspunkte, um Mana langsam wiederherzustellen.",消耗一部分生命值，随时间恢复魔力。
+skill_info_buff_magic_armor,Drains mana for additional physical defense.,Verbraucht Mana für zusätzliche physische Verteidigung.,持续消耗魔力，附加物理防御。
+skill_info_hold_action_melee_charged_arc,Charge your attack to unleash a devastating strike.,"Halte deinen Angriff, um einen verheerenden Schlag zu entfesseln.",蓄力攻击，释放毁灭性的一击。
+skill_info_hold_action_missile_charged_shot,Charge your attack to unleash a devastating shot.,"Halte deinen Angriff, um einen verheerenden Schuss zu entfesseln.",蓄力攻击，射出毁灭性的一箭。
+skill_info_throw_dagger,Throws a single dagger.,Wirft einen Dolch.,掷出一把匕首。
+skill_info_throw_dagger_epic,Throws 3 daggers at once.,Wirft 3 Dolche gleichzeitig.,同时掷出3把匕首。
+skill_info_shield_gazer_gaze,Freezes enemies caught in your gaze,"Lässt Gegner gefrieren, die vom Blick erfasst werden.",冻结被你凝视的敌人
+skill_info_corruption_of_the_cult,Corrupts nearby enemies and curses them.,Korrumpiert Gegner in der Nähe und verflucht diese.,腐蚀附近的敌人并施加诅咒。
+skill_info_melee_spear_backstep_attack,Leap backward while striking with your spear.,"Springe nach hinten, während du mit deinem Speer zustichst.",向后跃开的同时用长矛刺击。
+skill_info_missile_backstep_shot,Leap backward while shooting an arrow.,"Springe nach hinten, während du einen Pfeil schießt.",向后跃开的同时射出一箭。
+skill_info_hold_action_tyrant_slashes,Unleash countless blows of the tyrant.,Entfessle unzählige Schläge des Tyrannen.,释放暴君的无尽连击。
+skill_info_hold_action_oraoraora,Perform several quick punches in a row.,Führe mehrere schnelle Faustschläge hintereinander aus.,连续打出多记快拳。
+skill_info_sword_of_mars_lightning_step,Step forward with lightning speed.,Ein blitzschneller Schritt vorwärts.,以闪电般的速度向前突进。
+skill_info_sword_of_mars_lightning_slash,Step forward and deliver a blow charged with lightning.,Mache einen Schritt nach vorn und entfessle einen blitzgeladenen Schlag.,向前踏出一步，挥出蕴含雷电的一击。
+skill_info_melee_greatsword_forcewave,Unleash a ranged forcewave.,Entfessle eine weitreichende Kraftwelle.,释放一道远程力场波。
+skill_info_missile_magic,Cast a small homing missile.,"Schieße ein kleines, zielsuchendes Geschoss.",施放一枚小型追踪飞弹。
+skill_info_missile_fireball,Cast a small fireball.,Schieße einen kleinen Feuerball.,施放一枚小型火球。
+skill_info_missile_fireball_great,Channel your mana to cast a charged fireball.,"Kanalisiere dein Mana, um einen mächtigen Feuerball zu entfesseln.",引导魔力，施放一枚蓄力火球。
+skill_info_weynard_golden_blink,Make a fast backward step.,Mache einen schnellen Schritt zurück.,快速向后退开一步。
+skill_info_greatsword_weynard_golden_redemption,Unleash holy energy to damage nearby foes.,"Entfessle heilige Energie, die Feinden in der Nähe Schaden zufügt.",释放神圣能量，对附近敌人造成伤害。
+skill_info_greatsword_weynard_golden_slash,Cut through foes directly ahead.,Schneide durch Gegner direkt vor dir.,斩击正前方的敌人。
+skill_info_melee_sword_stab,Quickly stab through foes directly ahead.,Stich schnell durch die Gegner vor dir.,快速刺穿正前方的敌人。
+skill_info_sword_foward_slash,Leap forward and deliver a powerful slash.,Springe nach vorn und führe einen starken Hieb aus.,向前跃起，挥出强力一斩。
+skill_info_cultist_staff_venomous_poke,Inflict poison on hit.,Fügt Vergiftung bei einem Treffer zu.,击中时施加中毒效果。
+skill_info_cultist_staff_cursed_poke,Inflict cursed on hit.,Fügt Verfluchung bei einem Treffer zu.,击中时施加诅咒效果。
+skill_info_summon_lesser_undead,Call forth a Lesser Undead.,Erweckt einen schwachen Untoten.,召唤一个次级亡灵。
+skill_info_summon_rhoga_cultist,Call forth a Shadow Cultist.,Erweckt einen Schattenkultisten.,召唤一名暗影邪教徒。
+skill_info_melee_spear_multi_thrust,Three fast stabs.,Drei schnelle Hiebe.,三次快速突刺。
+skill_info_summon_stone,Cast a falling stone.,Lass einen Stein herabstürzen.,召来一块坠落的巨石。
+skill_info_summon_rakshas_lightning,Cast Rak'Sha's lighnings in the targeted area.,Entfessle Rak'Shas Blitze im Zielbereich.,在目标区域释放拉克沙之雷。
+skill_info_summon_open_locks,Unlocks nearby chests.,Öffnet verschlossene Truhen in der Nähe.,解锁附近的宝箱。
+skill_info_demon_cuts,"Offer your blood to the cursed blade, releasing a frenzy of cuts.",Opfere dein Blut der verfluchten Klinge und entfessle einen Sturm aus Schnitten.,将鲜血献给被诅咒的利刃，释放狂乱的斩击。
+skill_info_throw_jonathan,Throw the sacred hammer and call down lightning upon impact.,Wirf den geweihten Hammer und entfessle beim Aufprall den Zorn der Blitze.,掷出神圣之锤，落地时唤下雷霆。
+skill_info_summon_gru_ra_lightning,"Through a forgotten power, Gru'Ra learned his master's techniques and was able to control lightning itself.","Durch eine alte, vergessene Kraft, erlernte Gru'Ra die Techniken seines Meisters, um Blitze zu kontrollieren.",凭借一股被遗忘的力量，格鲁拉习得了其主人的技艺，得以操控雷电本身。
+skill_info_missile_sazzou_life_drain,"Obsessed with immortality, Sazzou sacrificed countless in exchange for forbidden powers.","Von Unsterblichkeit getrieben, opferte Sazzou unzählige Unschuldige für verbotene Kräfte.",萨佐痴迷于永生，为换取禁忌之力献祭了无数生灵。
+skill_info_summon_margyott_bat_swarm,"Rejecting his duty in pursuit of love, Margyott, a former Champion, was cursed by the gods.","Margyott, ein ehemaliger Champion, verwarf seine Aufgabe im Streben nach Liebe und wurde von den Göttern verflucht.",昔日的冠军马尔乔特为追寻爱情而背弃职责，因此遭众神诅咒。
+skill_info_hold_action_missile_charged_arrow_nimmerfell,"Unleash a mighty arrow that devastates foes, granted only by the ancient bow of Nimmerfell.","Entfessle einen mächtigen Pfeil, der deine Gegner zerschmettert, gewährt allein durch den alten Bogen von Nimmerfell.",射出一支摧毁敌人的强力之箭，唯有尼默费尔古弓方能赋予此力。
+skill_info_missile_chaos,An otherworldly missile of chaos.,Ein übernatürliches Geschoss des Chaos.,一枚来自异界的混沌飞弹。
+skill_info_summon_ignariels_totem,"Summons a flaming totem, damaging nearby enemies. With three connected: grants bonus fire damage.","Beschwört ein flammendes Totem, das Gegner in der Nähe schaded. Bei drei verbundenen: gewährt zusätzlichen Feuerschaden.",召唤一座燃烧的图腾，对附近敌人造成伤害。三座相连时：赋予额外火焰伤害。
+skill_info_summon_velmogorath_spirit,Summons the spirit of the dragon Velmogorath to fight at your side. The spirit's power is tied to the summoner's strength.,"Beschwört den Geist vom Drachen Velmogorath, der an deiner Seite kämpft. Die Macht des Geists wächst mit der Stärke seines Beschwörers.",召唤巨龙维尔莫格拉斯之魂与你并肩作战。魂灵的力量取决于召唤者自身的强大。
+skill_info_spirit_slash,Channel your inner magic and unleash a swift strike at your foe.,Kanalisiere deine magische Kraft und entfessle einen schnellen Hieb.,引导体内的魔力，向敌人释放迅捷一击。
+skill_info_summon_spirit_sword,Summon a ghostly sword to strike down your enemies.,"Beschwöre ein geisterhaftes Schwert, das deine Gegner zerschneidet.",召唤一柄灵魂之剑斩杀敌人。
+skill_info_summon_spirit_arrow,Summon a ghostly bow to unleash a spirit arrow upon your enemies.,"Beschwöre ein geisterhaftes Bogen, der einen Geisterpfeil auf deine Gegner schießt.",召唤一把幽灵之弓，向敌人射出灵魂之箭。
+skill_info_summon_spirit_spear,Summon a ghostly spear to strike down your enemies.,"Beschwöre einen geisterhaften Speer, der deine Gegner in den Boden rammt.",召唤一杆灵魂之矛贯穿敌人。
+skill_info_summon_moon_sickles,Summon moon sickles that slice toward your enemies.,"Beschwöre Mondsicheln, die auf deine Feinde zufliegen.",召唤月镰，飞旋着斩向敌人。
+skill_info_piercing_strike,A heavy strike with a chance to pierce your foe's defense.,"Ein schwerer Hieb mit der Chance, die Verteidigung deines Gegners zu durchdringen.",沉重的一击，有几率穿透敌人的防御。
+skill_info_summon_timestop,A mighty skill to stop most enemies and missiles.,"Eine mächtige Fähigkeit, die die meisten Gegner und Geschosse stoppt.",强大的技能，可使大多数敌人和飞弹停滞。

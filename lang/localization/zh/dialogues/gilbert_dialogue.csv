@@ -1,0 +1,40 @@
+type,id,text,zh
+action,action-f5967552-0921-877b-de58-b7848039a6dc,How the hell did you find me?! I ain't comin' back!,你到底是怎么找到我的？！我是不会回去的！
+action,action-2c3eb482-e96b-4898-d3b9-4910a505552a,"Hol' on... You ain't a bandit, right?",等等……你不是强盗，对吧？
+option,choice-53c979d4-1002-d7dd-3628-e2e32419bd2e,Who are you?,你是谁？
+option,choice-ae6fae67-c911-cd35-9890-2c67a6db4d7d,What are you doing here?,你在这里做什么？
+option,choice-c2a0a535-684a-9363-b25f-0cb9d99140f6,How long have you been here?,你在这里待多久了？
+option,choice-5b77f072-e67c-46de-fe5c-067c14a3ceb3,What is at the end of the mountain path?,山路的尽头有什么？
+option,choice-20d63b14-ccb5-d70c-1685-4516403391a1,Aren't you afraid that the bandits will find you here?,你不怕强盗找到这儿来吗？
+option,choice-4f54da43-6346-eb53-e7da-cb2e93320cfd,In which mine did you work?,你以前在哪座矿里干活？
+option,choice-0349b26f-ce85-0e64-5aee-29eb072765b8,Do you have some ore to sell?,你有矿石要卖吗？
+option,choice-99fd2bf5-b79e-1ccd-3b7d-295112eddeca,See you!,回头见！
+action,action-b6757d9f-907a-8934-e22c-b6ec2ed63432,Those bastards got me working in the mine!,那帮混蛋逼我在矿里干活！
+action,action-44d812c3-804b-1b96-1db8-885da3fab625,Just don't tell anyone that you saw me.,千万别告诉任何人你见过我。
+action,action-997f5ede-3e05-9623-9372-ebb0f7c0bd75,"But I didn't care to do that my whole life, you know?",但我可不想一辈子都干那个，你懂吗？
+action,action-505377b2-ba2a-94b8-24bf-ed1325e541d0,"As soon as they looked away, I took my chance and ran.",他们一不留神，我就抓住机会跑了。
+action,action-181e3c15-32eb-2673-6629-2089555d768b,"Eventually, I found this cave.",最后，我找到了这个洞穴。
+action,action-60b75d3a-f4ca-ce64-e43d-9a8e8669053d,What do I know?,我哪儿知道？
+action,action-02d1bd5e-382a-cbc9-2b03-7144f0b6ff57,"Could be a while already, I guess.",估计已经有一阵子了吧。
+action,action-ce38a900-d0cb-b4e9-3180-6dbf63fde5d8,You again? What do you want?,又是你？你想干什么？
+action,action-0fbf71c7-b59e-a3c9-af9a-65b8d19a93d3,"Pretty cozy place, don't you think?",这地方挺舒坦的，你说是不是？
+action,action-fe252ccc-b086-de70-a737-6aa11c78f885,Lose track of time in here after a while.,在这里待久了，时间都数不清了。
+action,action-02f24499-dca2-6ef4-98ed-6580a3e8a16b,Don't you know?,你不知道吗？
+action,action-ef0e7459-eb26-c699-8550-188d9d060ae6,Goran and his bandits are up there.,戈兰和他的强盗就在上面。
+action,action-519c57a3-c73d-23e4-fed2-1ea75f1df60f,"One of those bandits?
+Hah, I don't think so.","怕那帮强盗？
+哈，我看不至于。"
+action,action-aae1963e-863d-cd0c-25d2-4024c7fb41f5,"I can hear those blundering fools from miles away, haha!",那帮笨手笨脚的蠢货，隔着几里地我都能听见，哈哈！
+action,action-b4442b5a-a814-e5d4-4cb5-8285d82539f9,"Even if one of them finds me, I still have some ore lying around to bribe them.",就算真有人找到我，我手头还存着些矿石，可以拿去买通他们。
+action,action-5c261036-0019-7c4f-72ce-36f7789a6aab,"Sure!
+I had a good yield lately.","当然有！
+我最近收成不错。"
+action,action-d53dbc88-a072-95d6-4584-ecdb73472d42,Me?,我？
+action,action-45f8bfd2-f766-a5f7-12b8-798d40f6bf90,"I am #:Albert:#!
+I once was a digger, but now I am just an old man.","我是#:阿尔伯特:#！
+我曾经是个挖矿的，如今只是个老头子了。"
+action,action-e6639b2e-d984-e96b-2393-24dcb14595f5,The mine south of here. Heard it was closed off a while ago.,南边那座矿。听说前阵子已经封了。
+action,action-35c9667a-5068-d485-048b-07318b0f7a42,Not that I care about it.,反正我也不关心。
+action,action-86c747e7-cc06-992a-834b-c0aabbed8869,"Honestly, it was a weird place anyway.
+Sometimes in the mine, I heard noises behind the walls in the room where we stored our supplies.","说实话，那地方本来就透着古怪。
+有时候在矿里，我能听见存放补给的屋子的墙后面有动静。"

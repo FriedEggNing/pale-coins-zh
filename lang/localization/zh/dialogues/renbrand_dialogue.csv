@@ -1,0 +1,85 @@
+type,id,text,zh
+action,action-9629303e-5b5f-0445-5ffb-365690a0162e,Hold!,站住！
+action,action-be953449-466d-6876-53f5-13b405fa92fd,"You're at the frontline, so you better watch your step.",这里是前线，你最好小心行事。
+option,choice-67f58d6d-ed62-624e-4b28-03d58986abc9,Who are you?,你是谁？
+option,choice-bc767773-0c3f-33a2-5319-6c7a660a9e3a,What is south of here?,这里的南边是什么地方？
+option,choice-d84eb2a0-3666-3cae-2bce-260dde0a6dff,What are you fighting for?,你们在为什么而战？
+option,choice-33ba9f3d-3e24-bbe7-fee2-dc0494ef521b,Regarding the healing potions...,关于生命药水的事……
+option,choice-61769213-050a-84f6-543f-7e007dbee4cd,Can you help me get to the capital?,你能帮我进入王都吗？
+option,choice-16e42fa4-e3aa-eac8-92c2-ffd663d1789e,I saw a huge shadow recently.,我最近看到了一个巨大的影子。
+option,choice-968d77e2-de27-3864-9a3e-c1aa3d07593b,What do you know about the bandits nearby the capital?,关于王都附近的强盗，你知道些什么？
+option,choice-67843eb8-2acb-7af8-7b3b-1827de698892,You are mentioned in these notes. (Sirynir's Notes),这些笔记里提到了你。（西里尼尔的笔记）
+option,choice-f6aeecd9-5bf5-f247-7223-9c24f6931245,See you!,回见！
+action,action-1ac149fd-1506-7c6c-f5d8-7d4460f887da,Name's #:Renbrand:# - a commander serving under the king's orders.,我叫#:伦布兰德:#——奉国王之命行事的指挥官。
+action,action-a740f86e-8d4e-6f5d-7e0a-36e5e0b60444,"However, orcs and other creatures invaded the route and took up positions there.",然而，兽人和其他怪物侵占了那条路线，还在那里布下了阵地。
+action,action-90a7aadc-e6be-a029-983f-3802011a65d8,"So far, we've been able to prevent their attempts to occupy the north.
+Albeit with some losses.","到目前为止，我们还能挡住它们北进的企图。
+尽管付出了一些伤亡。"
+action,action-ca44a2ef-90b3-739f-d14a-a2a820f64872,"To be honest, I don't know how long we will be able to fight off the hordes.",说实话，我不知道我们还能抵挡这些大军多久。
+action,action-4e0756ab-e9c8-dfd0-6817-3ca741049fe7,"But as long as my bones are moving, I have to fight!
+It is my duty!","但只要我这把骨头还能动，我就必须战斗！
+这是我的职责！"
+action,action-47fb6519-1b25-f9f8-9182-248023db77b6,"I am a Commander of the Royal Army.
+It is my duty to fight for the king!","我是皇家军队的指挥官。
+为国王而战是我的职责！"
+action,action-5ce3ad53-7ccf-0803-8bdb-29e50db6ad8b,"My family lives in the capital, so I have to stay strong to protect them.",我的家人住在王都，为了保护他们，我必须坚守下去。
+action,action-fb0de3ec-f79f-07dd-91e4-81437191bd01,"Thank you!
+This will save more lives than you know!","谢谢你！
+这能救下的性命比你想象的还多！"
+action,action-dffaa957-1a6c-e31d-fa52-3c16941325ca,Fight until the end!,战斗到底！
+action,action-3d5b1429-1050-7cc7-4bf3-11b97a107ffe,You?,你？
+action,action-0cd4d50d-fd18-b892-fee6-722d09ac6bf9,"I think, you are a good man.
+You don't seem like someone who would cause trouble in the capital.","我觉得你是个好人。
+你看起来不像会在王都惹事的人。"
+action,action-ba862610-fec6-ea54-6f1e-5a652e19319b,"Here, take this.
+The guards should let you pass.","来，拿着这个。
+卫兵们应该会放你进去。"
+action,action-4944400d-6f45-08b7-a3ec-2eb51873894b,"I am sorry, but I cannot risk such a thing. You are still a mere stranger.",抱歉，我不能冒这个险。你毕竟还只是个陌生人。
+action,action-1b5cfe4a-61c7-fcf5-ed76-de577ea80ffe,So you saw the dragon yourself?,这么说你亲眼见到那条龙了？
+action,action-ec8bb37e-0ded-e330-af2a-3fea1f6ab257,"We think that he hides south of here, near the volcano.",我们认为它藏在这里的南边，火山附近。
+action,action-2a20a622-a828-1f7b-b8b4-fdf279d146f7,"We are already busy fighting here at the frontline, so we can't divide our forces to handle the dragon as well.",我们在前线的战斗已经自顾不暇，实在抽不出兵力再去对付那条龙。
+action,action-762e2d6d-210c-5766-5f5b-1ba87bf1a5c4,We're running out of #text.frames=4##text.color=highlight#healing potions#text.default# at a rapid rate.,我们的#text.frames=4##text.color=highlight#生命药水#text.default#正在急速耗尽。
+action,action-75bcbeef-6741-39ae-2266-6f803b2d0c00,Yes?,什么事？
+option,choice-faf72604-722d-e313-f09e-8457cb1a2c0d,Here are 10 Health Potions (Weak).,这是10瓶生命药水（弱效）。
+option,choice-4eef0e27-4472-42e4-d1bd-512c96a20309,Here are 5 Health Potions (Small).,这是5瓶生命药水（小型）。
+option,choice-21c38dff-f7ac-f50b-b591-0ea3c8ffcf6d,Here are 2 Health Potions (Medium).,这是2瓶生命药水（中型）。
+option,choice-bb5b8325-7591-1bc2-c6bb-e70cefd60a86,Nevermind...,没什么……
+action,action-aef8f78c-c636-201e-8b46-85f155798c29,Don't waste my time!,别浪费我的时间！
+action,action-18eea8fb-706e-daf2-5506-5a1b131697db,There used to be a trade route to #:Erstadt:#.,这里以前有一条通往#:埃尔施塔特:#的商路。
+action,action-21c19176-217a-e27b-f44c-372f29bfacaa,"About the bandits?
+Nothing in particular, if I am being honest.","强盗的事？
+老实说，没什么特别的。"
+action,action-444f4b6e-246d-2e0c-e0fc-0b67c27195e8,"Also, bandits are not my biggest problem, as they don't occupy the trade route to Erstadt right now.",再说，强盗也不是我最头疼的问题，毕竟眼下占据通往埃尔施塔特商路的不是他们。
+action,action-fd2dc1ac-fca4-0707-808d-74941ed81e21,"However, I can't think of a reason why the bandits are more important to the king, than the trade route.",不过，我实在想不通，在国王眼里，强盗怎么会比商路还重要。
+option,choice-3d0f250b-db38-4a21-8722-31b9dcad6155,Have you ever had to deal with the bandits?,你和那些强盗打过交道吗？
+action,action-82b11534-2a5c-03a2-c592-090180304743,"It was a few months ago, before I was sent here to guard the border to the south.",那是几个月前的事了，当时我还没被派来驻守南方边境。
+action,action-b556472a-f03b-8b78-2eb3-c1e24b54434c,"The usual group had to take a break, so at that time it was my duty to protect the area from bandits.",平时负责的那队人需要休整，所以那阵子防备强盗的差事就落到了我头上。
+option,choice-43380a2d-9c2e-7a27-67d7-07536ac47cb5,Did the order come directly from the king?,命令是国王直接下达的吗？
+action,action-26743338-d88c-9b7b-97eb-bea4297e1d5f,"Yes, of course!",是的，当然！
+action,action-f38b8763-70ce-3a50-99b7-36dd0f8d3275,Although I found it strange that this task was given to a high-ranking member of the Royal Guard.,不过我也觉得奇怪，这种任务竟然交给了皇家卫队的高级成员。
+action,action-18fe17ca-e0c1-8092-d2a2-2375c235fb2a,"We also had to confiscate all valuables, including notes and scrolls, and hand them over to the quartermaster.",我们还得没收所有值钱的东西，包括笔记和卷轴，并统一上交给军需官。
+action,action-bfe87adf-4908-bac1-c80e-5e549d4404d9,"But enough of that.
+I need to get back to my task.","不过就聊到这儿吧。
+我得回去继续执行任务了。"
+action,action-f87fed39-f830-c1dc-b377-425bef9c4ade,"What do you mean?
+Let me see.","你这是什么意思？
+让我看看。"
+action,action-21b2552f-69b4-fe90-3813-7b74162957f0,...,……
+action,action-ecdceb90-b65d-442a-c9ac-fec5b6ba0b5c,"That is... Sirynir!
+Where did you find these notes?","这是……西里尼尔！
+你在哪儿找到这些笔记的？"
+option,choice-d378611d-6367-ce17-236e-a9e5c7037750,You knew Sirynir?,你认识西里尼尔？
+option,choice-9f4edf2c-4dd6-f012-2682-69af83f0366d,I found the notes in the ruins.,我在遗迹里找到了这些笔记。
+action,action-82334c02-2a24-7d36-4db4-f38ad0a0d6de,Commander Sirynir was my superior a few years ago.,西里尼尔指挥官几年前是我的上级。
+action,action-77ffa752-9ec8-bb42-e265-4d92f71c5428,"He taught me everything I needed to know as a Royal Guard.
+Without him, I wouldn't be here today.","身为皇家卫队的一员该懂的一切，都是他教给我的。
+没有他，就没有今天的我。"
+action,action-b6c4065a-be4b-a3f6-776c-066db7db09c7,"Unfortunately, Sirynir disappeared along with other guards during an expedition to the ruins near the capital.",不幸的是，在一次前往王都附近遗迹的远征中，西里尼尔和其他几名卫兵一起失踪了。
+action,action-edd37abc-956b-e1f8-4f2b-3a9b910375e7,"So it's true. He died there.
+I feared as much.","这么说是真的。他死在了那里。
+我早就担心会是这样。"
+action,action-1f89d884-e9db-c01a-625a-decfb9f2375b,Please leave me his notes... his last words.,请把他的笔记留给我……那是他最后的遗言。
+action,action-0dec6f3c-dc21-fae4-22f2-355b1157c0be,Take this instead.,拿这个作交换吧。
+action,action-2e8ea568-1b8e-53b1-b0c2-af6b348db6e4,"I found this #:thing:# during the expedition to the ruins. When I went to check on Sirynir for a moment, I found it near a destroyed bell.",这个#:东西:#是我在那次遗迹远征中找到的。当时我去查看西里尼尔的情况，在一口毁坏的钟旁边发现了它。
+action,action-f08ad2e5-c843-ecda-00ea-eab549a04733,"I kept it as a memento of my former commander. However, I no longer have any use for it.",我一直把它留作纪念我的老指挥官。不过，如今它对我已经没什么用处了。
+action,action-f87449bf-d65d-e55c-627e-eba9d8e94944,Thank you!,谢谢你！

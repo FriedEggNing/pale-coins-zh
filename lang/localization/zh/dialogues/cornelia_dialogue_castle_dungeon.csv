@@ -1,0 +1,58 @@
+type,id,text,zh
+action,action-915bcd39-7db9-5dfd-521c-0ab2743f0980,"Oh hey!
+I didn't expect any visitors.","哦，嘿！
+我可没想到会有客人来。"
+action,action-2b89b4cb-8b8b-0a4f-c257-ed6c27122178,Do you need something?,你有什么事吗？
+option,choice-9cde0306-5d9a-b4bc-0480-10d0fafe72f6,Who are you?,你是谁？
+option,choice-f47ce856-9177-5c2d-7acd-94a4a6ee73fa,Who is imprisoned in the dungeon?,地牢里关的都是些什么人？
+option,choice-9e6a4718-c615-f632-2cd5-b485d2263f50,Am I allowed to look inside the cells?,我可以看看牢房里面吗？
+option,choice-c407f5b0-c79e-16a4-582c-4dcee2b1628c,I know you! You were in the cave near the waterfall.,我认得你！你之前在瀑布附近的洞穴里。
+option,choice-61e7cc53-8249-f4aa-de3f-a8066653dd92,I need to go.,我得走了。
+action,action-1ec15ad5-707e-4d53-74ce-f0d25f22f7df,"I am #:Cornelia:#, the overseer of the castle dungeon.",我是#:科妮莉亚:#，城堡地牢的看守长。
+action,action-fc73273d-04bc-04cd-edba-52816d4b037c,"It's not exactly inviting down here, but at least I have some peace and quiet.",下面这地方算不上宜人，但至少我落得清静。
+option,choice-e0a7fc9c-1a76-e245-1257-aea56191b0d4,Were there any escape attempts?,有人试图越狱过吗？
+option,choice-ffc10434-b07f-9126-fee5-cc6f8eb88a6f,That's all I wanted to know.,我想知道的就这些。
+action,action-abaa4565-00fb-a6ee-002c-e939d31c15b7,All kinds of rabble and criminals.,各种地痞流氓和罪犯。
+action,action-b979e8ff-3998-fda4-2046-7636c9d6fd8e,"Some are imprisoned here for theft, and there are also a few murderers among the prisoners.",有些人是因为偷窃被关进来的，囚犯里还有几个杀人犯。
+action,action-70ee447d-1bb3-b28b-f600-a444c8b3b4e0,"Here and there, prisoners simply disappear.",时不时地，就会有囚犯凭空消失。
+action,action-719f5293-94bd-096d-b25c-da0a051cbbac,"However, we do not yet know how they can escape from their cells.",不过，我们还不清楚他们是怎么从牢房里逃出去的。
+action,action-d01c1fb0-451e-2821-42a8-9d665bc584cc,You need something else?,你还有别的事吗？
+action,action-3b3d7343-cc7d-1265-5ea5-d211486cf019,"As far as I'm concerned, you can look at the empty cells.",要我说，空牢房你随便看。
+action,action-9c9bc0c3-16e7-a76a-abc5-9a9bf1ade559,But don't even think about hiding anything in the cells or taking anything with you!,但你可别想在牢房里藏东西，或者顺手带走什么！
+action,action-128db033-799c-d3a6-e77b-f8c8753968cd,Finally some peace again.,总算又清静了。
+action,action-c23d12dd-58b2-98be-6257-64f0df184b46,"Oh shit!
+I didn't expect you to recognize me...","哦，糟了！
+没想到你居然认出我了……"
+action,action-06741e9d-f6ff-1358-dcb6-7dffc0ff7875,"Listen. All this stealing is just a little side hustle.
+Really nothing worth talking about.","听着，偷东西只是我的一点小副业。
+真的不值一提。"
+action,action-a6f46fb8-3f7e-91a2-7c04-0bf447283e3c,Why don't we forget about it?,咱们就当没这回事，怎么样？
+option,choice-bb6daf84-f5e1-3a5e-7ced-bb542b7ae103,Why should I forget about it?,我凭什么当没这回事？
+option,choice-45fe294c-321a-651b-3574-97106aea9a4d,"No, I will report this.",不行，我要上报这件事。
+action,action-ddbc31e4-2b9c-3639-9a22-fed8336fd6f9,I'm sure I have something that will interest you.,我肯定有能让你感兴趣的东西。
+action,action-53094516-0972-08b5-fb1d-f3548d24b514,"You'll have to catch me first, sweetie!",那你得先抓得住我，小可爱！
+action,action-d8042fae-6e89-4dc2-27ea-f116a1b0036b,"If you don't rat me out, you can have the #:key to the chest behind the waterfall:# from me.",只要你不告发我，我就把#:瀑布后面宝箱的钥匙:#给你。
+action,action-fc258c98-d9a6-295e-83b9-dfa06e486abe,You might also be interested in a little #:secret about this dungeon:# here.,你可能还会对一个#:关于这座地牢的小秘密:#感兴趣。
+option,choice-da9f56c9-9a74-9644-6c2a-f62653e4797a,The chest is already open. I don't need the key.,那箱子已经开了。我不需要钥匙。
+option,choice-ec554845-7622-d646-6f62-33801315ef25,"Ok, we have a deal.",行，成交。
+option,choice-ef87f194-9b9a-4049-7c56-7aac157b1b05,"No, I will report this.",不行，我要上报这件事。
+action,action-87e9b0cb-e6c4-6138-16d9-8cd8ae890098,"What?!
+How did you open the chest?","什么？！
+你是怎么打开那箱子的？"
+action,action-858ac5fe-7895-2b9f-1e9f-bc0208a7b03d,"Oh, it doesn't matter.
+Then you'll just get some gold from me.","哦，算了，无所谓。
+那我就给你一些金币好了。"
+action,action-4dad3f61-9aa8-f5a2-4f6a-3148146949b5,"Hehe, I knew it!",嘿嘿，我就知道！
+action,action-d8c66a27-41c9-796f-3ff5-f7ea70be895f,"Here, take these 1000 gold coins.",给，拿上这1000金币。
+action,action-2ba0b119-3530-0283-e273-cb0cb89e738a,This is the key to the chest.,这是那个宝箱的钥匙。
+action,action-58de59c2-0b7f-01f9-5b8e-49bd3b8f4fd8,And now listen to me carefully.,现在，仔细听我说。
+action,action-4e331d91-4e9a-fc26-1f8f-fd246cbaee42,"The recent escapes here were no accident.
+There are some good thieves down here who are better off outside.","最近这里的几起越狱可不是偶然。
+这下面关着几个手艺不错的小偷，与其蹲牢里，不如放出去。"
+action,action-a2272d81-ffd4-a970-d07a-5976dfbd3353,There's a special cell in the western cellblock for prisoners who want to join my gang.,西边牢区有一间特殊的牢房，专门留给想加入我团伙的囚犯。
+action,action-a175f943-596e-8aba-5606-c9efc266940b,"A secret #:switch on a candlestick:# briefly opens a #:wall in the cell:#.
+There, a path leads into the crypt, from which you can get outside.","一个隐秘的#:烛台上的开关:#能让#:牢房里的一面墙:#短暂开启。
+那里有条路通向墓穴，从墓穴就能到外面去。"
+action,action-062039ec-d515-78f3-f304-54f36a0d2629,"But don't venture too far into the crypt.
+Something's not right down there.","但别在墓穴里走得太深。
+下面有些不对劲。"

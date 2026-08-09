@@ -1,0 +1,13 @@
+type,id,text,zh
+action,action-7d498eaf-8bf0-8f4b-6377-db91bbebe675,We will be traveling back to the capital soon.,我们很快就要返回王都了。
+action,action-b7010fa5-1712-f581-ec26-1a09d0883233,"Are you ready, or would you still like to take a look around?",你准备好了吗？还是想再四处看看？
+option,choice-215df2c6-7fc8-5f61-388c-f2484b286c15,I want to go back to the capital.,我想回王都。
+option,choice-2b88ae23-674d-0f18-626d-93c07fda665c,I still need a moment.,我还需要一点时间。
+action,action-4240c741-152e-5f51-6d8c-bc733259bb5f,"Don't take too long.
+Otherwise we'll go through the passage without you.","别耽搁太久。
+不然我们就撇下你先过通道了。"
+action,action-47043819-7095-d2d6-2385-df7ed50a5de6,Good.,很好。
+action,action-632a1d77-0c85-801b-6d99-2457da4a6594,"EVERYONE LISTEN!
+We're now returning to the capital.","所有人听好！
+我们现在返回王都。"
+action,action-f6d8a0ba-6cdd-f84b-88b7-a35e48e685d5,Stay close to the guards and don't stray too far from the group.,紧跟卫兵，不要远离队伍。

@@ -1,0 +1,4 @@
+type,id,text,zh
+action,action-8a60702a-1308-fd08-d599-df3b08586098,Press ###input.INPUT_ATTACK### to attack.,按 ###input.INPUT_ATTACK### 进行攻击。
+action,action-ab5012df-1836-c886-0ffe-ba9edd8da8a1,Press ###input.INPUT_SKILL_SECONDARY### or ###input.INPUT_SKILL_TERTIARY### to access skills tied to your current equipment.,按 ###input.INPUT_SKILL_SECONDARY### 或 ###input.INPUT_SKILL_TERTIARY### 使用与当前装备关联的技能。
+action,action-86fa5107-601c-a780-ba86-9789870f716a,"Skills are primarily provided by your equipped weapon, armor and artefact.",技能主要来自你装备的武器、护甲和神器。

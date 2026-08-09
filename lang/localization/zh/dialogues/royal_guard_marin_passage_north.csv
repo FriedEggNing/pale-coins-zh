@@ -1,0 +1,40 @@
+type,id,text,zh
+action,action-a2d20dae-3cff-9e98-6109-c952bfdf15a7,"Hey you!
+I never thought someone like you could make it through the passage alone.","嘿，你！
+真没想到你这样的人能独自穿过那条通道。"
+action,action-743a460d-fe1b-52be-9dde-44b942703f88,You have my respect.,我服你了。
+option,choice-dce59361-e50e-91fa-7c3f-b06c235b099d,Where am I?,这是哪儿？
+option,choice-8f08e070-bd60-1445-c55f-86de485c9052,How do I get to the south?,我要怎么去南边？
+option,choice-6a48b12b-22ad-f639-80ed-32998b755327,Bring me to the south.,带我去南边吧。
+option,choice-5da831d1-c9c1-6ae9-f39c-3557317dceb9,Where do the raiders come from?,那些掠夺者是从哪儿来的？
+option,choice-8e81d5d8-a87f-972a-4b49-93c81fc90a6e,Your pal asked me to check on you.,你的伙计托我来看看你。
+option,choice-ca638704-e075-ab1f-753c-ff908f68e1cc,Has anyone passed by recently?,最近有人经过这里吗？
+option,choice-f69920d1-cf0b-bd42-1e2f-e2ceb444b488,See you!,回头见！
+action,action-385758bc-4bbd-4c91-9fb2-954fa9293f37,May I help you?,有什么可以帮你的吗？
+action,action-b4913171-99fd-466d-1c55-e2810cada9ac,Here are the Marin Cliffs.,这里是马林悬崖。
+action,action-d8063756-a866-e9c1-a3c1-342afea3453c,"A few years ago, this place was crowded.
+But as the shipping traffic decreased, fewer and fewer people came by.","几年前，这地方还热闹得很。
+可随着航运越来越少，来的人也越来越少了。"
+action,action-ba676572-621f-eef6-221d-f245d9938c6e,"Every now and then a trading ship docks at the harbor, but that's about it.",偶尔会有商船停靠港口，但也就仅此而已了。
+action,action-422970e9-abd5-20d7-929a-f2708399442d,I don't know!,我不知道！
+action,action-3c6a6a32-b0f5-3da0-671d-0768d2fc0d93,"The king had us clean the passage a few times already, but the raiders keep coming back.",国王已经让我们清剿过那条通道好几次了，可掠夺者总是卷土重来。
+action,action-b0ca3c91-253c-a23d-2a5c-c94008348b40,There has to be another entrance somewhere.,肯定还有别的入口藏在什么地方。
+action,action-843a484e-7983-7083-1292-5215e2bc915e,Sure thing!,没问题！
+action,action-fe3d46ad-69d7-c270-3656-2cd02c03436e,"Ha, of course he did.
+He cares too much about others.","哈，他当然会这么做。
+他就是太爱操心别人了。"
+action,action-4465f7b4-d175-950d-3b14-a7b7277a0882,You can tell him that I am doing just fine.,你可以告诉他，我好得很。
+action,action-d4df522f-65a3-b6d3-6da0-c14a74db5a68,Just the usual people.,都是些常来常往的人。
+action,action-798836f6-c82e-fa76-b2eb-4c5ae73b81ff,"A few visitors from the capital, Roland and Rair with a few guys.",几个从王都来的访客，还有罗兰和莱尔，带着几个人。
+action,action-1590dd04-1bc9-52a2-f17f-516fc619837c,"Except for Rair, everyone had someone to accompany them to protect them from the raiders in the passage.",除了莱尔，其他人都有人随行护送，以防通道里的掠夺者。
+action,action-e5a32cf0-fc91-d505-6ae3-865c27c12ab4,"Well, if my buddy at the southern entrance of the passage doesn't open the gate, you'll be stuck here.",这个嘛，要是通道南口我那哥们儿不开门，你就困在这儿了。
+action,action-0eed52dd-788e-4342-fc61-a7afa823b2ac,"However, for 50 gold coins, I can take you to the southern entrance.
+Just let me know.","不过，只要50金币，我就能带你去南边的入口。
+想去就跟我说一声。"
+action,action-fb0ca42d-3be8-4d88-858e-f08d58533497,Sure. Do you have the 50 gold coins on you?,行啊。50金币你带在身上了吗？
+option,choice-961fe760-7551-ae2f-45b0-28d5e1b71367,Here are 50 gold coins.,这是50金币。
+option,choice-287e25fb-bc2c-f7af-239d-a7b8f4bc0513,I need to think about it.,我得考虑一下。
+action,action-eccecfe3-ba1e-5cf6-8bd5-d0a976b4570d,Sure thing!,没问题！
+action,action-f2d60bc7-3f1b-92dd-9e1a-7fc708ddf0bf,"Great!
+Now, let's go.","太好了！
+那咱们走吧。"

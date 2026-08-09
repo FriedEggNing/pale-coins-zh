@@ -1,0 +1,58 @@
+type,id,text,zh
+action,action-66e406d9-1484-14d1-63dd-a045a5098929,Hey... Just a second!,嘿……等一下！
+action,action-560a8361-926b-ebd4-c9a2-fbcdb752e1ad,Did you just come out of this... #:THING:#?,你刚才是从这个……#:玩意儿:#里出来的吗？
+option,choice-43b89d02-0253-1edc-c168-386b4ac7cb57,Yes.,是的。
+option,choice-47508d5f-e761-e60f-b169-a05a3b51f0ee,No.,不是。
+option,choice-409c4518-9cf6-685c-ff2f-ea3b40af3253,I don't know...,我不知道……
+action,action-f247ba49-b054-7188-021c-2f2ca4195b87,"That's interesting.
+I gotta discuss that with our magician.","有意思。
+我得跟我们的魔法师说说这事。"
+action,action-28201d4b-3a87-7f54-7678-78c09f99a2d3,We both thought that thing to be nothin' more than an eyesore.,我们俩原本还以为那玩意儿就是个碍眼的摆设。
+action,action-cae8c792-d744-6bc8-0a2d-bba7c900affd,"You ain't foolin' me, honey.",你可骗不了我，亲爱的。
+action,action-67b28971-0e83-888c-c950-746dd308fd93,"If you want to keep it a secret, that'd be fine for me.",你要是想保密，我也无所谓。
+action,action-7ac806a7-00e7-6828-e701-ac067816eb58,I'm busy doin' more important things than talkin' to you anyway!,反正我还有比跟你聊天更要紧的事要忙！
+action,action-55b32231-4914-5d7a-c91c-2c4761b55728,Hit your head or somethin'?,摔到脑袋了还是怎么的？
+action,action-68811f9b-ef48-8b90-96e9-39562d88074e,"Don't worry honey, you'll remember sooner or later.",别担心，亲爱的，你早晚会想起来的。
+action,action-c922c951-91dd-047d-9416-940e876c186f,By the way...,对了……
+action,action-46f01247-b773-29d5-31be-63fd1af02246,"I haven't seen you before.
+Are you new here?","我以前没见过你。
+你是新来的吧？"
+option,choice-2c3af784-252d-650e-0471-ef14fc85a951,"Yeah, I am new here.",对，我是新来的。
+option,choice-43a54085-6940-7e55-d731-6e5ab5c14b54,No.,不是。
+action,action-2b63d8dd-4994-669b-fb53-597201122cd9,"Well then, let me tell you a few things.",那好，让我给你讲几件事。
+action,action-685ed62e-1efb-1a13-0035-8c6ef2f2639f,"You are in the #text.frames=4##text.color=highlight#Old Forest#text.default#, which is west of the capital.",你现在在#text.frames=4##text.color=highlight#古老森林#text.default#，就在王都的西边。
+action,action-166dfee9-432b-50ca-136b-2ff91ca26f77,"South of here, there's a small camp. 
+#text.frames=4##text.color=highlight#Balder#text.default# is the chief of those guys.","南边有一个小营地。
+#text.frames=4##text.color=highlight#巴尔德#text.default#是那帮家伙的头儿。"
+action,action-8c7735bc-d286-96da-2fcc-dc5c622e3a9d,"To the north there's another camp, but it is full of bandits and idiots.",北边还有一个营地，不过那里全是强盗和蠢货。
+action,action-22bb684b-2bf9-621e-b7ea-a82d5630ccee,"East of here a small river is separating us and the capital.
+There used to be a #text.frames=4##text.color=highlight#bridge#text.default#, but it broke down a while ago.","东边有条小河，把我们和王都隔开了。
+那里原本有座#text.frames=4##text.color=highlight#桥#text.default#，但前段时间塌了。"
+action,action-bc652eb0-3647-1058-97d1-e3524343cd97,"Well, then I'm sure you're up to speed, honey.",那我想你都门儿清了，亲爱的。
+action,action-40ab9c22-6c9e-d645-a899-1046ded4d156,Is there anything else you want to know?,你还想知道点什么吗？
+action,action-4a9166c7-de32-2590-1854-762083b054d7,"However, if you have any questions let me know.",不过，有什么问题尽管问我。
+option,choice-838027af-8e2e-496c-93b7-77f8df813244,Who are you?,你是谁？
+option,choice-6a709fe7-dbee-330b-9b64-65c38144a3bc,Is there something to watch out for?,有什么需要小心的吗？
+option,choice-219b9863-5927-dc2a-9f13-17556760e806,Where can I get better equipment?,哪里能弄到更好的装备？
+option,choice-89b14980-47dd-d2dc-b380-4f7b6c6782dc,Do you know about the Champion's Coin?,你知道冠军硬币吗？
+option,choice-2f2d76f4-d8ae-8ea2-5ffa-3c0f9d2abf67,"That's all, thank you!",就这些，谢谢！
+action,action-a1c43d4d-231d-41d8-4d91-6a32d369d7e0,I am #:Leila:#.,我是#:蕾拉:#。
+action,action-0fd14c8c-ec2b-10fc-29ed-c4b036fe043e,I usually care for the guys in the camp.,我平时负责照顾营地里的伙计们。
+action,action-b3d6ad2e-e34e-9cc7-25e1-59adf5fbdafe,There're goblins all around here in the forest.,这片森林里到处都是哥布林。
+action,action-7d1bc915-961f-124e-8f21-140bae9328de,"But that ain't half as bad as the wasteland.
+Orc settled there.","但比起荒地，这都不算什么。
+兽人在那儿安了家。"
+action,action-86f22c64-fc07-763b-98f5-99c8d2296aa4,"If I were you, I'd avoid the wasteland altogether.",我要是你，就压根不去荒地。
+action,action-ad37ebce-2570-06a6-c881-89a6420c31e4,We have a rather strong smith in the camp. He might sell you a thing or two.,我们营地里有个挺壮实的铁匠。他也许能卖你点东西。
+action,action-9b9fa728-dee0-b099-5759-d70566996b8e,"But he ain't here at the moment.
+Probably lying drunk under a tree.","不过他这会儿不在。
+八成又喝醉了，躺在哪棵树底下。"
+action,action-ab6403cd-ecc5-b61f-890e-4695ed7bcec1,"Also, there're several caves nearby.
+Sometimes, you can find chests with some leftover equipment in there.","另外，附近有好几个洞穴。
+有时候能在里面找到装着别人剩下装备的箱子。"
+action,action-af0512f8-461b-f1ee-7679-aacf1a326b1b,"Sorry honey, never heard of that.",抱歉，亲爱的，没听说过。
+action,action-0180bdc1-c66c-a945-3ee1-44d6b2c8f654,Try asking Balder or our magician in the camp.,去问问巴尔德，或者营地里的魔法师吧。
+action,action-72c8379d-5ef6-30de-5129-d4daeb8e20ad,Sure thing!,没问题！
+action,action-3d428d8f-c07b-2c71-7072-c22ce408ddde,Make sure to stay alive for a while.,可得多活些日子啊。
+action,action-955b0270-c902-f3a3-f907-4638eb1d024f,We could use a few more men in the camp.,营地里正缺人手呢。
+action,action-70fd39fd-193d-a64b-459e-387cb5908c20,Do you need something else?,你还需要什么吗？

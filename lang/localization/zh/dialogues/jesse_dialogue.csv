@@ -1,0 +1,150 @@
+type,id,text,zh
+action,action-14d6eff0-7947-e50f-d5ef-1f2e7b3f8739,"Not so fast, lad!",别急着走，小子！
+action,action-9f4e179b-d242-9fb7-cdc3-ca1b725d1bdd,You seem like a... smart fella to me. Am I right?,依我看，你像是个……聪明人。我说得对吧？
+option,choice-34a6868d-6f28-790f-b5e2-ced8841b0ce0,Who wants do know?,谁想知道这个？
+option,choice-84ec34af-0e1c-b04b-e5dd-0b181b92e9fb,What do you want?,你想干什么？
+option,choice-5040ff92-9ce1-61e4-cd31-353e6b28243d,You're right!,你说得对！
+option,choice-9999e5d7-0edd-eaf2-3335-c551369cd479,I don't have time for such nonsense.,我没时间听这种废话。
+action,action-c79cdf61-ecc3-e079-af47-11c72247a0f5,"Straight to the point, eh?",直奔主题，是吧？
+action,action-7b3b762f-afbb-d27e-590c-557267b575a7,"You see... there are people with more good luck, and then there are people with more bad luck.",你瞧……这世上有些人运气好一些，有些人运气差一些。
+action,action-53c32101-90d4-570a-25bb-00dcec63ac48,"In the past, I was one of the people with bad luck.",过去，我就是那种运气差的人。
+action,action-ba468612-c02c-9945-6ed8-108932454d7e,"Well then, no need to be so crass, yeah?",好了好了，用不着这么冲吧？
+action,action-09860d4f-7a18-04c4-a35f-27dac8b4d63a,"I knew it! Got an eye for such things, y'see!",我就知道！我看人的眼光可准了！
+action,action-8ba83897-dc44-b57b-ac55-6ad385d70f03,"So... I decided to uh... work around my bad luck, yeah?",所以……我决定，呃……自己想办法绕开这倒霉运，懂吧？
+action,action-aff3e5df-1e62-f036-0e34-eb16b2d79eae,"No need to rely on things fallin' into your life if you can just... make them fall into your life, you know?",要是能让好东西自己“掉”进你的生活里，又何必干等着天上掉馅饼呢，你说是吧？
+option,choice-d578876a-7adc-94d9-3904-af93a3d52eeb,You're a thief?,你是个小偷？
+option,choice-98c068d5-a5bd-df84-407e-ad860450a65f,I don't understand.,我没听懂。
+option,choice-0b225b7f-71d0-e90c-f973-b4e8e5373803,You're crazy.,你疯了。
+action,action-3cfad9bb-f201-ab3e-76c9-17058f0fbc5f,Thief's a bit of a... strong word.,“小偷”这个词……有点重了。
+action,action-44048162-a239-dcb5-8c47-68f83f568d44,"You're absolutely right, though.",不过你说得一点没错。
+action,action-64fca59d-95c6-5170-4f7a-c7903b8bb99a,"Ah, I gotta be more precise, then.",啊，那我得说得更明白点。
+action,action-44170c8a-5a74-5cd0-e9d7-ab56973a2899,"You really need to work on your manners, lad. That was just rude.",你真该学学礼貌，小子。这话太无礼了。
+action,action-089152e5-1e2f-4a0a-6a2d-8601d7ebf668,"If someone has a little too much of something, I make sure it gets shared.",要是有人某样东西多得用不完，我就负责让它被分享出去。
+action,action-56294dd3-ef3f-0208-dd26-e0a428e9b258,"Mostly shared with me, that is.",主要是分享给我，就是了。
+action,action-d00ccfb6-961e-d6c1-129b-2075e78c897a,And here's where you come into play.,而这就轮到你登场了。
+action,action-ececc5ce-2e33-fd55-f32b-7d55c162bfa3,"I could show you a few of my thieving skills. I am especially good at picking locks.
+For a small price, obviously.","我可以教你几手偷窃的本事。我尤其擅长开锁。
+当然了，得收点小钱。"
+action,action-24662970-4aea-7df2-3148-b014240fdf76,"Sounds promising, yeah?
+You get somethin', I get somethin'.","听着不错吧？
+你有好处，我也有好处。"
+action,action-4efca71e-7e64-0b84-5b72-7099a6e60521,Here you are!,你来啦！
+option,choice-5c7350a3-c407-1279-2b39-7ed524dfea6f,What do you want for your skills?,你的本事要收多少钱？
+option,choice-b5e53f84-1fae-49de-a37c-03115e211b9f,Why do the people accept a thief?,为什么大家能容得下一个小偷？
+option,choice-b5e6af47-1225-2d94-4e16-82d1b1272c04,Can you teach me something?,你能教我点什么吗？
+option,choice-027306ba-053b-ca94-d159-18dab97e2dd5,Teach me!,教我吧！
+option,choice-28cfdfe5-f15c-8cb3-099d-8bc2518e1dc0,Can you help me get past the guard?,你能帮我过守卫那关吗？
+option,choice-c4652c9b-d377-e659-fc0d-23033cceeff3,Do you know where Lennard's wares are?,你知道伦纳德的货在哪儿吗？
+option,choice-501ad629-833f-e225-11b6-39b19d0a06bb,Where did you hide Lennard's wares?,你把伦纳德的货藏哪儿了？
+option,choice-781626e8-4de2-14fc-5b0c-3dc4b5830721,Sell me Lennard's wares.,把伦纳德的货卖给我吧。
+option,choice-64d975af-f0c4-1f97-b833-aced84c9de44,Do you have something to sell?,你有什么东西要卖吗？
+option,choice-b0ce5b79-5b94-cd07-1ba7-4eecc85d6159,Can you open a chest for me?,你能帮我开个箱子吗？
+option,choice-05d6b109-51fd-b01e-c5aa-29120f5b700a,See you!,回头见！
+action,action-98614aa4-9c3a-d2f4-3a14-0442e60920af,"Aye, catch you later.",好嘞，回头见。
+action,action-7dfe65aa-6920-5a54-df23-e53ec3e286e8,Of course!,当然！
+action,action-68c3fbb7-c449-e0d7-318f-13a1522a75ab,For you... only 100 gold.,看在你的面子上……只收100金币。
+option,choice-d3d703c0-8a07-536c-1624-808617ff3819,Here are your 100 gold.,这是你的100金币。
+option,choice-cb9ce797-b04f-2012-5fea-b09819593794,Maybe later.,以后再说吧。
+action,action-624bf8f2-0de4-51c3-dc9e-f18bbd4170c6,Don't let this opportunity go to waste!,可别错过这个好机会！
+action,action-43ab94bb-a899-2b89-7518-4f0fca5be54b,There ya go! No way that you'll regret this!,这就对了！你绝对不会后悔的！
+action,action-7697cfc8-dd78-0e7f-c702-1a957eb4e02f,Let me know when you want to train some more.,想再练练的时候就跟我说。
+action,action-01e5d091-deec-8740-a15b-3bad6bc0c37d,What do you want to know?,你想知道些什么？
+option,choice-24fba0e0-8772-979f-9fde-5e44fd0d7dab,"Show me how to pick locks. (min. 3 DEX) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_lockpicking"",""only_once_on_difficulty"": true}","教我怎么开锁。（需敏捷3）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_lockpicking"",""only_once_on_difficulty"": true}"
+option,choice-2846fcf2-7c34-dda3-6731-a3a98781b7f6,Nothing.,没什么。
+action,action-b7fdc602-5baf-4fc6-7c1d-cc1c7ac4d6e6,The trick is to have the right equipment and the right skill.,诀窍在于要有合适的工具和到位的手艺。
+action,action-01c34296-d0ac-278a-9266-93d4d59b7c3c,"Move forwards and backwards with the lockpick, until you hear a click sound.",用撬锁器前后拨动，直到听见“咔哒”一声。
+action,action-3a73d4bd-6a6f-e165-3b64-f81bb37a6a5d,"After you got that, and with enough dexterity, you can safely open the chest.",掌握了这个，再加上足够的敏捷，你就能稳稳当当地打开箱子了。
+action,action-e38fe1b0-f4f2-e105-98fb-3b6ef1dfaf5c,"Well, the answer is pretty simple. I am the only thief around.",呵，答案很简单。这一带就我一个小偷。
+action,action-5e727a77-38d1-b1ea-b992-c5df04c3e909,"If something goes missing, guess who's going to be the suspect number one.",要是丢了什么东西，你猜头号嫌疑人会是谁。
+action,action-c7271971-026d-39ca-a932-d65d3f254efa,Would be pretty stupid to steal from my own people.,偷自己人的东西，那可就太蠢了。
+action,action-44f39962-671b-1b63-1943-9d1ea2e98748,"Though, it's two thieves now in the camp. Heh.",不过，现在营地里可有两个小偷了。嘿。
+action,action-807022e4-696c-989e-e1f9-0309d0b5c933,"We thieves better stick together, eh?
+I'll take care of the guard.","我们小偷就该抱团，对吧？
+守卫那边我来搞定。"
+action,action-8e6a973a-c5d7-aa69-3499-7ecac1e8e484,"That will cost you a bit, though.",不过，这得花你点钱。
+action,action-443f1eb2-a613-030a-b464-67ac9c198dcd,100 gold and I'll tell the guard to let you through.,100金币，我就去跟守卫打招呼放你过去。
+action,action-eeeee2dc-f8cc-f070-fd51-81eb2148725d,"Sounds fair, right?",挺公道的，对吧？
+option,choice-899c1eb8-98ac-3eae-f20b-823f913414dd,Are you for real?,你是认真的吗？
+option,choice-2d1b0ccb-90ce-4dcf-a256-bc02753ee1b8,Here're your 100 gold.,这是你的100金币。
+option,choice-218fd840-15e2-05c5-9174-d3afa7c21d4e,I'll have to think about it.,我得考虑考虑。
+action,action-a722ee8b-32f7-bdf2-a85b-921365008eca,Alright. Just don't think too long.,行。可别考虑太久。
+action,action-af6fac30-c4b9-60d6-faa7-5525f8a3a9d1,Sure I am!,当然是认真的！
+action,action-e162d363-976b-4447-c376-bce4d51175fb,"That's a price between buddies, yeah?",这可是兄弟价，懂吧？
+action,action-db8c699c-4b71-7f39-393d-ae6b26fb0b8b,"Pleasure doin' business, heh.",合作愉快，嘿。
+action,action-b7c9587f-57c9-48d4-5f2c-62cb41470f20,"Only the best for you, lad!",都是给你留的好货，小子！
+action,action-78d86546-d985-0a25-9587-4addeaf5a3ec,"Not only do I know where they are, I also know who has them.",我不但知道货在哪儿，还知道货在谁手上。
+action,action-63cc5c9a-b295-99a0-fa76-491964a463ba,Me!,在我手上！
+action,action-b23d076f-42bb-3edd-5486-2c8a2e5628a3,And no... I ain't giving them away.,不过嘛……我可不会白白交出来。
+action,action-542788ba-3965-2e54-3950-28c5df16d591,At least not for free.,至少不能免费。
+action,action-0e70a5a0-82f6-8ee8-5df5-1f1e02e5f06e,How much do you offer?,你出多少？
+option,choice-87a52621-bd05-cec0-ae44-d7e901350d00,No more than 100 gold.,最多100金币。
+option,choice-7f5ac17c-4afc-075a-c7cc-f54e34ff9898,His wares are only worth 500 gold.,他的货最多值500金币。
+option,choice-83bc2a9d-3a0a-adec-62e9-8b5979186244,1000 gold are reasonable.,1000金币算合理了。
+option,choice-fda24ade-acac-e7e1-8fec-1ca64a885c5c,"Lennard said, his wares are worth 1500 gold.",伦纳德说，他的货值1500金币。
+option,choice-3d250d0f-8afe-91cc-739f-0a97869583ef,You can have 2000 gold.,给你2000金币。
+option,choice-1590ae49-b5ed-e683-1275-88905e458d37,I need to think about that.,我得考虑一下。
+action,action-4dc64e5f-c0e4-274c-ed50-f3959edf3c03,Are you kidding me?,你在逗我吗？
+action,action-66ed9b5d-d804-7f5a-455e-963e22945df4,"As a #:businessman:#, I know you're trying to rip me off.
+Either you give me a good price or you forget about it.","作为一个#:生意人:#，我看得出你想坑我。
+要么给个像样的价，要么就别谈了。"
+action,action-0bd64f27-252a-c049-5bd9-5c3278bc7fbd,Hmm... I think his wares are worth more.,唔……我觉得他的货可不止这个价。
+action,action-4848ac46-1eeb-cf42-39a4-0252bf5b496d,"Alright.
+To compensate for the effort of ""retrieving"" his wares, I think 1700 gold are fair enough.","好吧。
+考虑到我“取回”他这些货费的功夫，我觉得1700金币算公道了。"
+action,action-e9fdec56-3823-0bcd-53eb-f313e2bfea68,"Well...
+I'll gladly take the 2000 gold.","这个嘛……
+2000金币我就却之不恭了。"
+action,action-11d9f0b9-fcd2-4b42-4343-cc4c529ab8d7,Almost...,就差一点……
+option,choice-89c6cab9-7df8-69b6-07f8-3d9f1a42331d,"Alright, take the 1700 gold.",好吧，1700金币拿去。
+option,choice-a3f4e8ac-b1cc-25cc-c9bb-3bddd2e2edaa,1500... Take it or leave it.,1500……要就要，不要拉倒。
+option,choice-234403ee-cacb-1dda-9ae6-556f9553cfa3,I don't know...,我说不好……
+action,action-9926a55b-0c8c-4336-1517-b56f7698c529,"I see, you understand the art of trade, young fella.",看得出来，你懂做买卖的门道，年轻人。
+action,action-b2da0008-7a07-fd94-3441-1a96c4a9eacc,Take your time.,慢慢考虑。
+option,choice-0516e38d-07d2-7d60-ba24-861fac389fc2,"Lennard told me, that his wares are worth nothing.",伦纳德跟我说，他的货一文不值。
+option,choice-4458e40f-2433-bf53-372b-6703efbc92b6,I would not know if you damaged or sold any of his wares.,我可没法知道你有没有弄坏或卖掉他的货。
+option,choice-9b63bb18-bda9-5331-b894-a0c6b80cd10d,How about 1000 gold?,1000金币怎么样？
+action,action-64c39327-bc71-25dc-ec3c-7389f4b0f60a,"Trust me, all is fine, and I did not damage any of his wares.",相信我，货都好好的，我一件都没弄坏。
+option,choice-0525eae3-faf9-904d-bce1-c6bd380a2443,"Still, 500 gold is enough, given the risk.",就算这样，考虑到风险，500金币也够了。
+option,choice-21548084-b3af-3266-ae7f-e836b0169960,"Ok, take the 1000 gold.",行，1000金币拿去。
+action,action-f7a3bb72-655d-7384-f2ff-b27868eb19d9,"How about 1000 gold.
+That should be a good price.","1000金币怎么样？
+这个价应该不错了。"
+action,action-1f1822e8-13e2-4406-a5d4-2ed963d2cbc3,"You know what?
+I think I should keep the wares.","你猜怎么着？
+我觉得这些货还是留在我这儿好了。"
+option,choice-04780aca-84fe-6de8-d7cd-59c3cdfc0687,"Sorry, here's the 1000 gold.",抱歉抱歉，这是1000金币。
+option,choice-72a955cb-75e2-1739-e7e7-b077cafd4c42,"Fine, let's forget about that.",行吧，那就当没这回事。
+action,action-0534037e-a336-7a24-b03e-f35657e44c73,Ahh come on!,哎，别这样嘛！
+action,action-3c67a6b0-ce59-fec9-11c4-ab519c1714b8,Give me your damn 500 gold and you can have the wares.,把你那该死的500金币拿来，货就归你。
+action,action-1de3237c-f843-4d6b-b500-d1c7ce5d58ba,"Here, take them.
+They were only consuming space anyway.","给，拿去吧。
+反正它们也只是占地方。"
+action,action-0785aa92-9caa-b849-8282-e096d5eecea4,"Better late than never, right?",迟来总比不来强，对吧？
+option,choice-30bbb349-77e3-73c7-7eef-cfe104e556b8,1200?,1200？
+option,choice-047a06e7-4d61-9dee-5258-7bbec1719a92,I need to think about that...,我得考虑一下……
+action,action-e89d190d-fbae-4e54-a767-bd8c0a3c43ae,"Give my regards to Lennard, hehe!",替我向伦纳德问好，嘿嘿！
+action,action-f420da03-82d9-504a-52fc-ed1393108323,You can call me #:Jesse:#.,你可以叫我#:杰西:#。
+action,action-38588ddc-9e98-f944-fd4e-c8395dee03ba,"It would not be good for the business, if I tell you that, right?",要是告诉你这个，那对生意可不好，对吧？
+action,action-469d35f9-7c2f-0317-a6ed-6959cca40fd8,The goods are stored somewhere save outside the camp.,货存放在营地外一个安全的地方。
+option,choice-a3148eaf-78a3-4794-2d08-62d2c8b21b54,Alright.,好吧。
+option,choice-a7235468-53a4-21a6-ae6a-9ff0ec02d685,"Tell me where the goods are, or I'll beat it out of you!",快说货在哪儿，不然我就打到你说为止！
+action,action-d0592991-af05-abdc-4685-261365f21700,"You could, but I wouldn't tell you the location, though.",你可以试试，不过我照样不会说出地点。
+action,action-46d2e756-c8af-b8b0-e19f-01235080cd41,"Not now.
+Meet me later at the Crossroad Inn.","现在不行。
+稍后到十字路旅店来找我。"
+action,action-72bf036e-477e-845b-e594-8787d791c5da,"Basically, yes, but you cut me off earlier in the conversation.
+And now I feel... offended, if you know what I mean.","基本上是的，不过你刚才打断了我说话。
+现在我觉得……很受冒犯，你懂我的意思吧。"
+action,action-c095fb41-768a-eac8-d9d1-81ce2eb086bf,I think 50 gold pieces should lift my spirits again.,我看，50枚金币应该能让我心情重新好起来。
+option,choice-fa4040de-eb19-bfd7-566d-70a7df74a9da,Alright. Here's 50 gold.,好吧。这是50金币。
+option,choice-49e124f9-a358-4a27-54f9-d4cc70afbf24,Nevermind.,算了。
+action,action-2acc4898-3099-6718-e52c-aefef127b116,Whatever you say.,随你便。
+action,action-dd1ae3d3-ee86-a26c-ffed-c876c9dba3de,"Thank you!
+I'm feeling much better now, hehe.","多谢！
+我现在感觉好多了，嘿嘿。"
+action,action-a89ece3c-9a7b-a333-695f-622a96b90bc2,And now to your initial question.,现在回到你最初的问题。
+action,action-bfc5ba6d-21f8-3651-5801-41e717a4fc0c,"So he doesn't want them back, then?",这么说，他不想要回这些货了？
+action,action-c0595fa5-679d-0d44-39bd-751052c0cab5,"Hold on a second.
+Someone's been messing with my chest.","等一下。
+有人动过我的箱子。"
+action,action-48fa05a6-30f7-88f4-7600-bbe5b9811ceb,And I've got a feeling that you know who it was.,而且我有种感觉，你知道是谁干的。

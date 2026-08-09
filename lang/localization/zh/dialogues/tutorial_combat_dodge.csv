@@ -1,0 +1,5 @@
+type,id,text,zh
+action,action-69dfcc5f-7bee-8103-7ffc-215d19e7ddc6,Dodging grants a brief moment where incoming attacks cannot harm you.,闪避可获得短暂的无敌时间，期间来袭的攻击无法伤害你。
+action,action-dd2a982e-e959-0688-da1f-96829e0128de,"Use ###input.INPUT_SKILL_SECONDARY### or ###input.INPUT_SKILL_TERTIARY### to activate whichever dodge skill you have assigned.
+Some items provide improved dodge or backstep skills.","按###input.INPUT_SKILL_SECONDARY###或###input.INPUT_SKILL_TERTIARY###可发动你已装备的闪避技能。
+部分物品可提供强化的闪避或后跳技能。"

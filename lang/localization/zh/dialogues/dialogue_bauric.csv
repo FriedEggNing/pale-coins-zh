@@ -1,0 +1,80 @@
+type,id,text,zh
+action,action-2013b089-21f3-7b7a-2fb8-5f98c0ff4dff,You again. What's up?,又是你。有啥事？
+action,action-47175360-f018-e5fa-4edc-d359e7e57e4d,"Yo, you better not go any farther.",喂，你最好别再往前走了。
+action,action-4722f74c-7ca9-5193-7dae-cf1b0ecc9799,Tis the path into the Rhoga swamp.,这可是通往罗加沼泽的路。
+action,action-7aa0af48-3eeb-68f1-1fe9-10b9ef50674a,"A brutal beast is lurkin' 'round.
+Go back to wherever ya came from.","有头凶残的野兽在附近游荡。
+你从哪儿来就回哪儿去吧。"
+option,choice-38df578f-c45f-cfa1-13bb-30acad9cc1a2,Who are you?,你是谁？
+option,choice-01cfb564-277f-06a6-8fcd-dc3c36dbe53d,Why don't you leave the swamp?,你为什么不离开沼泽？
+option,choice-772c6162-7b78-f02b-e01e-2cf1f26d1a0b,Which beast are you talking about?,你说的是什么野兽？
+option,choice-66a20c50-3264-e809-1837-c7e57c6ea342,What do you eat around here?,你在这儿都吃些什么？
+option,choice-b631b33f-3ff6-406b-d73a-e263c88fd062,Do you still need something to eat?,你还需要吃的吗？
+option,choice-fb6f8853-ed4a-0978-9e81-99a7414d5328,What can you teach me?,你能教我什么？
+option,choice-6ad40c2a-b6fe-9f3c-a33a-9b81636f22fc,What do you know about the people in the swamp?,关于沼泽里的那些人，你知道些什么？
+option,choice-b6e98cfc-2e95-a498-9d49-18cdd375aaf9,Do you know how to access the temple?,你知道怎么进入神殿吗？
+option,choice-a4c2b1db-9817-4fa2-c535-346c12b5187f,Do you know where to get the heart of a warrior?,你知道去哪儿弄一颗战士之心吗？
+option,choice-5a31bb0b-c7d4-f50f-9c72-0ed9d29e3cdf,Let's poison this heart.,我们来给这颗心下毒吧。
+option,choice-a3524370-ac98-5286-e551-680555acc4ba,See you!,回见！
+action,action-fd1ab87f-139d-15fe-af5c-99e0c8b8ecbe,I am #:Bauric:#.,我是#:鲍里克:#。
+action,action-0eaf40d7-3b1e-d48f-46d8-149eab69e37a,I am a hunter in this godforsaken swamp for years now.,我在这片被神遗弃的沼泽里当了好些年猎人了。
+action,action-281445e9-2222-329d-71f7-c0ec35217d25,I have my reasons.,我有我的理由。
+action,action-adbfaee7-e946-b47f-fa59-aa8fa513d3aa,A creature straight from the underworld.,一只直接从冥界爬出来的怪物。
+action,action-2572ea32-a802-0fe6-dfe1-2e01d24d9cd1,"If I were you, I would just turn around and never come back.",我要是你，就立刻转身走人，再也别回来。
+action,action-4f43e553-d495-e78a-95e9-7401fb9094b6,"Living as an outlaw near the swamp is not a lucrative job, you know. And Rair in the inn won't serve anyone without coins.",在沼泽边上当个法外之徒可赚不了几个钱，你懂的。旅店的莱尔又不肯招待没钱的人。
+action,action-22a3cb07-dffc-6e8b-d6e7-462f3a781b44,"To be quite honest, there's only a handful of things to eat around here.",老实说，这一带能吃的东西没几样。
+action,action-d4432bbb-3c8d-5be3-5493-de4befb75d97,Talking about things to eat...,说到吃的……
+action,action-8ee48577-46bf-ec11-30d7-51c42ec31fca,"I was poisoned a while ago during a hunt and had to rest for a few days. So, I haven't had something between my teeth for quite a while.",前阵子打猎时我中了毒，不得不歇了几天。所以我已经好久没吃过一口东西了。
+action,action-5daf6387-5fc5-719b-d6f8-5d82726cc3cf,You don't happen to have a stew or some meat?,你身上不会正好有炖菜或者肉吧？
+option,choice-0bc53659-d2a3-5906-f243-882f031da1ee,"Here, take this roasted meat.",给，这块烤肉拿去。
+option,choice-1e59e0dd-8d61-e79a-9eb6-e075e3543de7,"Here, take this Steak.",给，这块牛排拿去。
+option,choice-3626a821-5d33-b2ec-0354-dd8491717492,"Here, take these Fried Frog Legs.",给，这份炸蛙腿拿去。
+option,choice-7a077593-3f8a-a1b8-96b4-9f6a4768e843,"Here, take this stew.",给，这份炖菜拿去。
+option,choice-80f73320-e725-3d34-a2ba-5a52a72ae580,"Here, take this Meat Sandwich.",给，这个肉三明治拿去。
+option,choice-b6e14408-8a12-2460-c96c-d6223a484f62,"Here, take this bread.",给，这块面包拿去。
+option,choice-36b4c58e-cded-90ad-0f40-62038bbf58d2,"Here, take Rair's Stew.",给，这份莱尔炖菜拿去。
+option,choice-de68760d-a85d-b8f4-e178-042d01924cf2,"Here, take this Special Sandwich.",给，这个特制三明治拿去。
+option,choice-9922b06a-991f-f816-7fe4-2a4b565e6247,I don't have something to share.,我没什么能分给你的。
+action,action-e55ddb0f-bdb8-1b10-853e-7ba5d8d9f2ad,Don't worry. I won't starve just yet.,别担心，我一时半会儿还饿不死。
+action,action-ffa9ef17-a70e-4aa5-2994-95755374d430,"Thank you, man!
+You just saved my life.","谢了，伙计！
+你救了我一命。"
+action,action-603aab72-6612-b5b7-1d6c-15564833a65b,I'll be eating that later today.,我今天晚些时候就吃。
+action,action-fe0f8ca0-a8e7-1cfc-d7f3-1b42306fbd58,"I won't be able to pay you, to be honest.",老实说，我没钱付给你。
+action,action-48680cdc-3dfc-a764-1071-a3f1bef36c13,"But if you want, I can show you a few things.",不过你要是愿意，我可以教你几手。
+action,action-ecdbcf21-f1dc-d3ce-296f-f864b940447d,Sure man!,没问题，伙计！
+action,action-07af6e18-8f53-3ac4-7e79-437d4c72af42,"I was out here for quite a while, so I had to find a way to handle the venomous creatures.",我在这儿待了很久，所以不得不想办法对付那些有毒的家伙。
+action,action-3986c39c-c5cf-d07d-a694-65d5540a0280,You better stay away from them.,你最好离他们远点。
+action,action-037baecf-1b05-8842-d8bc-e41b344fb66f,Those people perform unholy rituals and other reprehensible things.,那些人搞不洁的仪式，还干些别的见不得人的勾当。
+action,action-93c26d07-da03-1bc8-12a2-1637588f3b41,Only the cult leader nearby knows how to break and apply the seal to the door.,只有附近的邪教头目知道怎么解开和施加门上的封印。
+action,action-d6070d45-2828-b372-d816-dea11d152796,"The mages of the academy might as well know how to break it, but they don't come here into the swamp.",学院的法师们也许也知道怎么解开，但他们不会来这片沼泽。
+action,action-307bc5a7-d6f5-1bbb-d84b-76690a342f07,"A what?
+Heart of a warrior?","一颗什么？
+战士之心？"
+action,action-8083c72e-52ea-a0d4-1d82-83ba15cd24d1,"What is that?
+And what do you need it for?","那是什么玩意儿？
+你要它干什么？"
+option,choice-ec7b7f2b-d3b5-cf53-481f-88ed71942a11,The cult needs a heart for their research.,邪教需要一颗心来做研究。
+option,choice-0505af21-b14a-98f8-c279-e0c2e615f392,Forget it.,当我没说。
+action,action-d25c92a5-0266-db33-1aba-9be78b7e221d,It's probably better this way.,这样也许更好。
+action,action-1c841403-812a-824d-6253-93a542d2f036,"The cult?
+You better not help them, got it?","邪教？
+你最好别帮他们，听懂了吗？"
+action,action-7d68361c-1b30-8056-aff5-07d3303b3bb4,...,……
+action,action-ad22809c-b72a-5000-2fdb-a143f5a0f156,But I've got an idea.,不过我有个主意。
+action,action-7f963500-21cc-fdc3-f6b4-a28d19ad71aa,"How about you deliver them a heart, but we poison that to make it useless?",不如这样：你照样给他们送一颗心去，但我们先给它下毒，让它变成废物？
+action,action-89e014ad-ccad-ddbc-593f-e105248856f8,This way you can still get your reward and we prevent possible problems.,这样你照样能拿到报酬，我们也能防患于未然。
+action,action-5d9a74e2-acbf-e5fd-96d3-62a4cea12547,Just come to me if you want to poison the heart of a warrior.,想给战士之心下毒的话，来找我就行。
+action,action-57ce0dac-1685-ef1b-256e-13203cc9d3e1,"Good, this will only take a second.",好，马上就好。
+action,action-8817d4be-8400-02e6-0e88-49d07d8e3adc,...,……
+action,action-00ddf7c7-d01e-f758-a455-fbf818e90590,"Alright, this should do the trick.",行了，这样应该就成了。
+option,choice-2d9e318f-00f4-2409-309e-300bf32e9721,"Poison resistance (min. 8 VIT) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_resistance_poison_30"",""only_once_on_difficulty"": true}","毒素抗性（需体力8）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_resistance_poison_30"",""only_once_on_difficulty"": true}"
+option,choice-5d285909-40c1-208e-5442-8e6abf27112e,Craft Poison Bombs [150 Gold],制作毒素炸弹 [150 金币]
+option,choice-6e33ab41-a4c2-8ca7-447e-c8a86723e034,That's all.,没别的事了。
+action,action-1e44c88c-0957-0408-fb98-785dd33711ba,See ya.,回见。
+action,action-b9f50a71-2680-a3a4-7c4a-68dedac2be62,The trick is your breathing. Poison spreads faster if you exert yourself too much.,诀窍在于呼吸。你越是使劲，毒素扩散得越快。
+action,action-1a8d5f0a-3124-f662-3036-4c43e9fbf6a0,Keep your breathing under control and you will suffer less damage.,控制好呼吸，你受的伤害就会更少。
+action,action-8210e6e1-29c3-c850-9a42-80b266635e22,"As far as I know, the temple door was sealed by an old magical ritual.",据我所知，神殿的门是被一种古老的魔法仪式封住的。
+action,action-4ab7b014-0e71-32e5-9064-c8568ed52e74,"Unless you get a spell on how to break the seal, you'll have to deal with the cult leader.",除非你搞到能破解封印的法术，否则你就得去跟那个邪教头目打交道。
+action,action-7f4d4b76-5e90-f99a-72a4-6a27a2b95660,"Turns out, you can mix frogmen poison glands with firebombs.",原来蛙人的毒腺可以和火焰炸弹混在一起用。
+action,action-10f0cf09-670f-2f3e-cdc8-1bf291854076,"The blast weakens because of the poison fluid, but it releases a toxic cloud on impact.",毒液会让爆炸的威力变弱，但炸弹落地时会释放出一团毒云。

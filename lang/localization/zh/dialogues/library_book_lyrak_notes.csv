@@ -1,0 +1,47 @@
+type,id,text,zh
+action,action-2906aa9d-eda3-2249-5f6c-da4152e44f2d,*Lyrak's Notes of the Stone Door Expedition,*莱拉克的石门远征笔记
+option,choice-5b0b4fd6-15f8-8a92-eddd-e8606718ad1b,Day 1,第1天
+option,choice-5bd9c648-2ecd-7c30-4e36-ac9fd99e61cf,Day 2,第2天
+option,choice-23646472-8987-2e77-4ae1-73ede750a1cb,Day 3,第3天
+option,choice-8ced4635-a183-906a-65bd-a89a838657e0,Day 4,第4天
+option,choice-05bf312a-3e8d-fd92-8db0-663e5f671812,Day 5,第5天
+option,choice-c46c2f09-403a-0b27-faf3-cb61dfb6eddb,Day 10,第10天
+option,choice-d96e5bbe-086c-cfd1-73d7-f08ee68e31c9,leave,离开
+action,action-e0e77e74-eaef-9067-442a-69f9721dbe21,"We all gathered in the halls of the King.
+Sirynir, Renbrand, a bunch of lower ranking royal guards and me.","我们全员在国王的殿堂集合。
+西里尼尔、伦布兰德、一群低阶皇家卫兵，还有我。"
+action,action-6cecc792-abd5-a677-1c7d-0e755ef39045,"Sirynir, the highest-ranking guard of this group, leads the expedition to the Stone Door northeast of the capital walls.",西里尼尔是队伍中军衔最高的卫兵，由他率领这次远征，前往王都城墙东北方的石门。
+action,action-78ec9164-f1e9-dc92-40e8-ad0636f7b7da,"My role is simple - I am the only one with the knowledge to open the doors.
+What will we find inside those mysterious ruins?","我的职责很简单——只有我掌握着开启石门的知识。
+那神秘的遗迹里会有什么等着我们？"
+action,action-a52f5d29-aa96-95da-2429-2e716f0beafd,"Gregor, my useless apprentice, once again provided us with too few rations.
+While he was on his way to the capital, I took a closer look at the Stone Door.","格雷戈，我那没用的学徒，又一次把口粮备少了。
+趁他赶往王都的工夫，我仔细查看了石门。"
+action,action-d1a2c182-d74b-fa15-4ba5-dab765426346,"Conventional magic seemed useless.
+Only astral magic, which is my specialty, caused the gate to glow briefly.","寻常魔法似乎毫无作用。
+唯有我所专精的星界魔法，能让石门短暂地发出微光。"
+action,action-a82e9353-f587-69d7-db05-d6b4c2553139,Our plan did not remain secret - thieves attacked our group.,我们的计划终究走漏了风声——盗贼袭击了队伍。
+action,action-5cc83bc3-6511-c0f0-b89a-6de9376fa89a,"How stupid can anyone be, I thought to myself.
+Sirynir and Renbrand are high-ranking guards of the king. The thieves didn't stand a chance.","我心想，怎么会有人蠢到这个地步。
+西里尼尔和伦布兰德都是国王麾下的高阶卫兵，那些盗贼毫无胜算。"
+action,action-f9607b66-f85c-3b58-49de-e48a593f0fb0,But why did the thieves attack when they knew full well that they could not win?,可盗贼明知赢不了，为什么还要动手？
+action,action-ca12057b-0fe5-79ab-3aca-6f20ca4f7dac,"After all the excitement, I continued to study the door.",折腾过后，我继续研究石门。
+action,action-e304d03f-8156-273d-d1bc-b373ad51e70f,"I succeeded!
+Using astral powers, I was able to open the Stone Door.","我成功了！
+借助星界之力，我打开了石门。"
+action,action-cca3e6a8-deb3-e9fb-c42a-6d4153d6a174,"Sirynir and some of the guards entered the ruins behind the door, while Renbrand, Gregor, and a few other guards waited outside.",西里尼尔带着部分卫兵进入了门后的遗迹，伦布兰德、格雷戈和其余几名卫兵在外面等候。
+action,action-e2f7c035-5e3c-2417-18e7-5ce0a6fef45d,"Sirynir and his group have been in the ruins for a while now.
+They'd better hurry, as night is approaching.","西里尼尔一行进遗迹已经有一阵子了。
+他们最好快点，夜幕将至。"
+action,action-1d0cc829-817e-1e7a-f147-d2130f05a50c,No sign of Sirynir and the others.,西里尼尔他们毫无音讯。
+action,action-351f2c6b-d02f-0782-0918-8e07134bdfd4,"Renbrand wanted to follow them into the ruins, but luckily I was able to dissuade him.",伦布兰德想跟进遗迹去找他们，所幸我劝住了他。
+action,action-d808ebdf-357e-0423-31c6-76e7e550d6a5,"The guards in the ruins should be able to survive on their rations for another day or two.
+I suggested waiting out here for a few days.","遗迹里的卫兵靠随身口粮应该还能撑上一两天。
+我建议在外面再等几日。"
+action,action-391fc8f5-b579-0c2f-586e-23463372ad89,"The expedition failed.
+Sirynir and several guards disappeared inside the ruins without a trace.","远征失败了。
+西里尼尔和数名卫兵在遗迹中消失得无影无踪。"
+action,action-577ded4c-c361-8c4c-fb7b-80c88d683617,"The king ordered to return before more men died.
+As the others dismantled the camp, I closed the gate to avoid further misfortune.","国王下令撤回，以免死更多的人。
+其他人拆除营地时，我关闭了石门，以免再生不幸。"
+action,action-0f12138c-fdca-51ca-9eeb-7c6b7b7bb6f4,Renbrand is struggling with this.,伦布兰德对此始终难以释怀。

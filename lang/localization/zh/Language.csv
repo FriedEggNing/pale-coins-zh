@@ -1,0 +1,1395 @@
+key,en,de,zh
+--INVENTORY + CHARACTER WINDOW,,,
+ui_inventory_weapons,Weapons,Waffen,武器
+ui_inventory_armor,Armor,Rüstungen,防具
+ui_inventory_artefacts,Artefacts,Artefakte,神器
+ui_inventory_consumables,Consumables,Verbrauchsgegenstände,消耗品
+ui_inventory_misc,Miscellaneous,Sonstiges,杂项
+ui_inventory_cooking,Cooking recipes,Kochrezepte,烹饪配方
+ui_inventory_quest,Quest Items,Auftragsgegenstände,任务物品
+ui_inventory_gold,Gold,Gold,金币
+ui_inventory_affixes,Affixes,Affixes,词缀
+ui_inventory_consumables_misc,Consumables/Miscellaneous,Verbrauchsgegenstände/Sonstiges,消耗品/杂项
+ui_enchantments,Enchantments,Verzauberungen,附魔
+ui_weapon_type_1h,One-Handed,Einhandwaffe,单手
+ui_weapon_type_2h,Two-Handed,Zweihandwaffe,双手
+ui_weapon_type_shield_info,"Requires a one-handed sword, axe or mace to equip","Kann nur zusammen mit einhändigen Schwertern, Äxten oder Hämmern ausgerüstet werden",需搭配单手剑、斧或锤才能装备
+ui_armor_type_head,Helmet,Helm,头盔
+ui_armor_type_body,Armor,Rüstung,护甲
+ui_armor_type_gloves,Gloves,Handschuhe,手套
+ui_armor_type_boots,Boots,Stiefel,靴子
+ui_armor_type_amulet,Amulet,Amulett,护符
+ui_armor_type_ring,Ring,Ring,戒指
+ui_weapon_type_sword,One-handed: Sword / Axe / Mace,Einhändig: Schwert / Axt / Hammer,单手：剑 / 斧 / 锤
+ui_weapon_type_greatsword,Two-handed: Sword / Axe / Mace,Zweihändig: Schwert / Axt / Hammer,双手：剑 / 斧 / 锤
+ui_weapon_type_rapier,Dagger / Rapier,Dolch / Degen,匕首 / 刺剑
+ui_weapon_type_bow,Bow,Bogen,弓
+ui_weapon_type_staff,Staff,Stab,法杖
+ui_weapon_type_spear,Spear,Speer,长矛
+ui_weapon_type_rune,Rune,Rune,符文
+ui_weapon_type_shield,Shield,Schild,盾牌
+ui_weapon_type_fist,Fist,Fäuste,拳头
+ui_weapon_type_throwable,Throwable,Wurfgegenstand,投掷物
+ui_damage,Damage,Schaden,伤害
+ui_damage_primary_attack,Attack,Angriff,攻击
+ui_damage_physical,Physical Damage,Physischer Schaden,物理伤害
+ui_damage_fire,Fire Damage,Feuerschaden,火焰伤害
+ui_damage_ice,Ice Damage,Eisschaden,冰霜伤害
+ui_damage_holy,Holy Damage,Heiligschaden,神圣伤害
+ui_damage_dark,Dark Damage,Dunkelschaden,黑暗伤害
+ui_damage_physical_short,Physical,Physischer,物理
+ui_damage_fire_short,Fire,Feuer,火焰
+ui_damage_ice_short,Ice,Eis,冰霜
+ui_damage_holy_short,Holy,Heilig,神圣
+ui_damage_dark_short,Dark,Dunkel,黑暗
+ui_damage_immnue,Immune,Immun,免疫
+ui_damage_counter,Counter,Konter,反击
+ui_defense,Defense,Verteidigung,防御
+ui_defense_physical,Physical Defense,Physische Verteidigung,物理防御
+ui_defense_fire,Fire Resistance,Feuerresistenz,火焰抗性
+ui_defense_ice,Ice Resistance,Eisresistenz,冰霜抗性
+ui_defense_holy,Holy Resistance,Heiligresistenz,神圣抗性
+ui_defense_dark,Dark Resistance,Dunkelresistenz,黑暗抗性
+ui_defense_elemental,Elemental Resistance,Elementarresistenz,元素抗性
+ui_item_equipped,equipped,ausgerüstet,已装备
+ui_default_skill,Attack,Angriff,攻击
+ui_secondary_skill,Skill,Fähigkeit,技能
+ui_tertiary_skill,Secondary Skill,Zweite Fähigkeit,副技能
+ui_item_requirements,Requirements,Anforderungen,需求
+ui_item_crafting_requirements,Required crafting materials,Benötigte Schmiedematerialien,所需锻造材料
+ui_item_crafting_cost,Cost,Kosten,费用
+ui_item_unlock_requirements,Unlock Requirements,Voraussetzungen,解锁条件
+ui_item_requirements_VIT,Vitality,Vitalität,体力
+ui_item_requirements_END,Endurance,Ausdauer,耐力
+ui_item_requirements_MAG,Magic,Magie,魔力
+ui_item_requirements_STR,Strength,Stärke,力量
+ui_item_requirements_DEX,Dexterity,Geschick,敏捷
+ui_item_requirements_INT,Intelligence,Intelligenz,智力
+ui_item_requirements_LCK,Luck,Glück,幸运
+ui_item_requirements_none,none,keine,无
+ui_item_requirements_VIT_info,Vitality increases maximum health,Vitalität erhöht die maximalen Lebenspunkte,体力提高生命上限
+ui_item_requirements_END_info,Endurance increases maximum stamina,Ausdauer erhöht die maximale Ausdauer,耐力提高精力上限
+ui_item_requirements_MAG_info,Magic increases maximum mana,Magie erhöht das maximale Mana,魔力提高魔力值上限
+ui_item_requirements_STR_info,Strength increases the damage for weapons with Strength scaling,"Stärke erhöht den Schaden von Waffen, die mit Stärke skalieren",力量提高受力量加成影响的武器伤害
+ui_item_requirements_DEX_info,Dexterity increases the damage for weapons with Dexterity scaling,"Geschick erhöht den Schaden von Waffen, die mit Geschick skalieren",敏捷提高受敏捷加成影响的武器伤害
+ui_item_requirements_INT_info,Intelligence increases the damage for weapons with Intelligence scaling,"Intelligenz erhöht den Schaden von Waffen, die mit Intelligenz skalieren",智力提高受智力加成影响的武器伤害
+ui_item_requirements_LCK_info,Luck increases the chance to find items and the critical hit chance,Glück erhöht die Chance Gegenstände zu finden und die kritische Trefferchance,幸运提高物品发现几率和暴击几率
+ui_item_skills,Skills,Fähigkeiten,技能
+ui_item_scaling_overwrite,Skill Damage Scaling,Skalierung Fähigkeitenschaden,技能伤害加成
+ui_item_modifications,Modifications,Modifikationen,改造属性
+ui_item_modifications_pale_coins,Modifications,Modifikationen,改造属性
+ui_item_pale_coin_unlocked,(Active),(Aktiv),（激活）
+ui_item_modifications_random,+[#min - #max] random modifications,+[#min - #max] zufällige Modifikationen,+[#min - #max] 条随机改造属性
+ui_item_sockets_random,+[#min - #max] sockets,+[#min - #max] Sockel,+[#min - #max] 个镶孔
+ui_item_sockets,Sockets,Sockel,镶孔
+ui_item_socket_empty,empty,leer,空
+ui_itemmodifications_armor_head,Helmets:,Helme:,头盔：
+ui_itemmodifications_armor_body,Armor:,Rüstung:,护甲：
+ui_itemmodifications_weapons,Weapons:,Waffen:,武器：
+ui_itemskills_all,Skill:,Fähigkeit:,技能：
+ui_player_status_hp,Health,Lebenspunkte,生命
+ui_player_status_stamina,Stamina,Ausdauer,精力
+ui_player_status_mana,Mana,Mana,魔力值
+ui_player_level,Level,Stufe,等级
+ui_player_level_max,Level (max),Stufe (max),等级（最大）
+ui_player_assign_attribute_points,Assign Attribute Points,Attributpunkte zuweisen,分配属性点
+ui_player_attribute_points,Attribute Points,Attributpunkte,属性点
+ui_player_level_up,Level up,Stufenaufstieg,升级
+ui_player_level_up_tutorial,Use the player window to allocate attribute points.,Verteile deine Attributspunkte im Spielermenü.,在角色窗口中分配属性点。
+ui_player_skills,Available Skills,Verfügbare Fähigkeiten,可用技能
+ui_player_skills_none,none,keine,无
+ui_player_other_skills,Other Skills,Weitere Fähigkeiten,其他技能
+ui_player_level_up_confirm,Apply,Anwenden,确认
+ui_player_level_up_reset,Reset,Zurücksetzen,重置
+ui_player_status_damage_default_attack,Damage (Default Attack),Schaden (Standardangriff),伤害（普通攻击）
+ui_player_status_defense,Defenses,Verteidigung,防御
+ui_teleport_distance,Distance,Reichweite,距离
+ui_missile,Missile,Geschoss,投射物
+ui_missile_damage,Damage,Schaden,伤害
+ui_skill_buff_keep_alive_requirements,Resources per second,Kosten pro Sekunde,每秒消耗资源
+ui_skill_buff_bonus,Bonus (while active),Bonus (wenn aktiv),加成（激活时）
+ui_resource_hp,Health,Lebenspunkte,生命
+ui_resource_stamina,Stamina,Ausdauer,精力
+ui_resource_mana,Mana,Mana,魔力值
+ui_resource_cost,Cost:,Kosten:,消耗：
+ui_resource_hp_cost,Health,Leben,生命
+ui_resource_mana_cost,Mana,Mana,魔力值
+ui_resource_stamina_cost,Stamina,Ausdauer,精力
+ui_resource_to_keep,Active Cost:,Aktive Kosten:,持续消耗：
+ui_resource_to_keep_resource,#amount #resource/sec,#amount #resource/Sek.,#amount #resource/秒
+ui_xp_gained,XP,Erfahrung,经验值
+ui_weapon_types_name_fist,fists,Fäuste,拳头
+ui_weapon_types_name_sword,"one-handed swords, axes and maces","einhändige Schwerter, Äxte und Hämmer",单手剑、斧和锤
+ui_weapon_types_name_greatsword,"two-handed swords, axes and maces","zweihändige Schwerter, Äxte und Hämmer",双手剑、斧和锤
+ui_weapon_types_name_rapier,daggers and rapiers,Dolche und Degen,匕首和刺剑
+ui_weapon_types_name_bow,bows,Bögen,弓
+ui_weapon_types_name_staff,staffs,Stäbe,法杖
+ui_weapon_types_name_spear,spears,Speere,长矛
+ui_weapon_types_name_rune,runes,Runen,符文
+ui_weapon_types_name_shield,shields,Schilde,盾牌
+ui_weapon_types_name_throwable,throwables,Wurfgegenstände,投掷物
+ui_stat_name_speed,Movement Speed Bonus,Geschwindigkeitsbonus,移动速度加成
+ui_stat_name_player_level,Level,Stufe,等级
+ui_stat_name_number_of_summons,Summon,beschworener Kreatur,召唤物
+ui_stat_name_VIT,Vitality,Vitalität,体力
+ui_stat_name_END,Endurance,Ausdauer,耐力
+ui_stat_name_MAG,Magic,Magie,魔力
+ui_stat_name_STR,Strength,Stärke,力量
+ui_stat_name_DEX,Dexterity,Geschick,敏捷
+ui_stat_name_INT,Intelligence,Intelligenz,智力
+ui_stat_name_LCK,Luck,Glück,幸运
+ui_item_pale_coin_previous_node_not_active,another Pale Skill needs to be active,eine andere Bleiche Fähigkeit muss aktiv sein,需要另一个苍白技能处于激活状态
+ui_item_crafting_item_level_too_high,The item exceeds the crafter's skills,Der Gegenstand übersteigt die Fähigkeiten des Handwerkers,该物品超出了工匠的技艺水平
+ui_amount_selection_selling,How many items do you want to sell?,Wie viele möchtest du verkaufen?,你想出售多少个？
+ui_amount_selection_buying,How many items do you want to buy?,Wie viele möchtest du kaufen?,你想购买多少个？
+ui_amount_selection_stash,How many items do you want to stash?,Wie viele möchtest du verstauen?,你想存入多少个？
+ui_amount_selection_take_out,How many items do you want to take out?,Wie viele möchtest du herausnehmen?,你想取出多少个？
+,,,
+,,,
+ui_summon_status_hp,Health,Lebenspunkte,生命
+ui_summon_status_time,Duration,Dauer,持续时间
+ui_summon_status_time_seconds,sec,Sek.,秒
+ui_summon_status_defenses,Defenses,Verteidigung,防御
+ui_summon_damage,Damage,Schaden,伤害
+,,,
+ui_summon_lesser_undead_melee,Fighter,Kämpfer,战士
+ui_summon_lesser_undead_bow,Ranger,Bogenschütze,射手
+ui_summon_margyott_bat_swarm_damage,Damage to nearby enemies,Schaden in der Nähe,对周围敌人的伤害
+ui_summon_rhoga_cultist_melee,Melee,Nahkampf,近战
+ui_summon_rhoga_cultist_missile,Cultist Orbs,Kultistenkugeln,教徒法球
+,,,
+ui_pale_coins_tree_scroll_mouse_zoom,###input.MOUSE_SCROLL_DOWN### zoom,###input.MOUSE_SCROLL_DOWN### zoomen,###input.MOUSE_SCROLL_DOWN### 缩放
+,,,
+ui_inventory_drop_item,###input.INPUT_INVENTORY_ITEM_DROP### drop item,###input.INPUT_INVENTORY_ITEM_DROP### fallen lassen,###input.INPUT_INVENTORY_ITEM_DROP### 丢弃物品
+ui_inventory_junk_item,###input.INPUT_INVENTORY_ITEM_JUNK### mark as junk,###input.INPUT_INVENTORY_ITEM_JUNK### als Schrott markieren,###input.INPUT_INVENTORY_ITEM_JUNK### 标记为垃圾
+ui_inventory_lock_item,###input.INPUT_INVENTORY_ITEM_LOCK### lock item,###input.INPUT_INVENTORY_ITEM_LOCK### sperren,###input.INPUT_INVENTORY_ITEM_LOCK### 锁定物品
+ui_inventory_switch_category,###input.INPUT_INVENTORY_CATEGORY_NEXT### / ###input.INPUT_INVENTORY_CATEGORY_PREV### switch tab,###input.INPUT_INVENTORY_CATEGORY_NEXT### / ###input.INPUT_INVENTORY_CATEGORY_PREV### Tab wechseln,###input.INPUT_INVENTORY_CATEGORY_NEXT### / ###input.INPUT_INVENTORY_CATEGORY_PREV### 切换标签
+ui_inventory_scroll_mouse,###input.INPUT_ALTERNATIVE###+###input.MOUSE_SCROLL_DOWN### scroll item information,###input.INPUT_ALTERNATIVE###+###input.MOUSE_SCROLL_DOWN### in Beschreibung scrollen,###input.INPUT_ALTERNATIVE###+###input.MOUSE_SCROLL_DOWN### 滚动物品信息
+ui_inventory_scroll_gamepad,###input.GAMEPAD_AXIS_RIGHT### scroll item information,###input.GAMEPAD_AXIS_RIGHT### in Beschreibung scrollen,###input.GAMEPAD_AXIS_RIGHT### 滚动物品信息
+ui_inventory_hotbar_keyboard,1 - 8 assign quick access slot,1 - 8 Schnellzugriff zuweisen,1 - 8 分配快捷栏
+ui_inventory_hotbar_gamepad,###input.INPUT_QUICK_ACCESS_FAVORITE### assign quick access slot,###input.INPUT_QUICK_ACCESS_FAVORITE### Schnellzugriff zuweisen,###input.INPUT_QUICK_ACCESS_FAVORITE### 分配快捷栏
+ui_inventory_sort_filter_gamepad,###input.INPUT_SKILL_TERTIARY### sort / filter,###input.INPUT_SKILL_TERTIARY### sortieren / filtern,###input.INPUT_SKILL_TERTIARY### 排序 / 筛选
+ui_inventory_show_equipped_item,###input.INPUT_TOGGLE_EQUIPPED_ITEM### show equipped,###input.INPUT_TOGGLE_EQUIPPED_ITEM### Ausgerüsteter Gegenstand,###input.INPUT_TOGGLE_EQUIPPED_ITEM### 显示已装备物品
+,,,
+ui_inventory_sell_junked_items,Hold ###input.INPUT_INVENTORY_ITEM_JUNK### to sell junk,"Halte ###input.INPUT_INVENTORY_ITEM_JUNK###, um Schrott zu verkaufen",按住 ###input.INPUT_INVENTORY_ITEM_JUNK### 出售垃圾
+,,,
+ui_inventory_show_hide_junked_items,###input.INPUT_INVENTORY_ITEM_JUNK### show/hide junk items,###input.INPUT_INVENTORY_ITEM_JUNK### Müll aus-/einblenden,###input.INPUT_INVENTORY_ITEM_JUNK### 显示/隐藏垃圾物品
+ui_inventory_show_hide_locked_items,###input.INPUT_INVENTORY_ITEM_LOCK### show/hide locked items,###input.INPUT_INVENTORY_ITEM_LOCK### gesperrte Gegenstände aus-/einblenden,###input.INPUT_INVENTORY_ITEM_LOCK### 显示/隐藏锁定物品
+,,,
+ui_inventory_sort_newest,Sort by: Newest,Sortieren nach: Neueste,排序：最新
+ui_inventory_sort_damage,Sort by: Damage,Sortieren nach: Schaden,排序：伤害
+ui_inventory_sort_type,Sort by: Type,Sortieren nach: Typ,排序：类型
+ui_inventory_sort_defense_physical,Sort by: Physical Defense,Sortieren nach: Physische Verteidigung,排序：物理防御
+ui_inventory_sort_defense_fire,Sort by: Fire Resistance,Sortieren nach: Feuerresistenz,排序：火焰抗性
+ui_inventory_sort_defense_ice,Sort by: Ice Resistance,Sortieren nach: Eisresistenz,排序：冰霜抗性
+ui_inventory_sort_defense_holy,Sort by: Holy Resistance,Sortieren nach: Heiligresistenz,排序：神圣抗性
+ui_inventory_sort_defense_dark,Sort by: Dark Resistance,Sortieren nach: Dunkelresistenz,排序：黑暗抗性
+,,,
+ui_inventory_show_blueprints,Filter: Blueprints,Filter: Anleitungen,筛选：图纸
+ui_inventory_show_gems,Filter: Gems,Filter: Edelsteine,筛选：宝石
+ui_inventory_show_gems_skill,Filter: Skill Gems,Filter: Edelsteine (Fähigkeiten),筛选：技能宝石
+ui_inventory_show_quest,Filter: Quest Items,Filter: Schlüsselgegenstände,筛选：任务物品
+,,,
+,,,
+ui_loot_filter_rarity,Item Rarity,Qualität,物品稀有度
+ui_loot_filter_rarity_common,Common,Normal,普通
+ui_loot_filter_rarity_magic,Magic,Magisch,魔法
+ui_loot_filter_rarity_rare,Rare,Selten,稀有
+ui_loot_filter_rarity_unique,Unique,Einzigartig,独特
+ui_loot_filter_rarity_epic,Epic,Episch,史诗
+ui_loot_filter_rarity_legendary,Legendary,Legendär,传说
+ui_loot_filter_rarity_mythic,Mythic,Mythisch,神话
+,,,
+ui_loot_filter_type,Item Type,Typ,物品类型
+,,,
+ui_loot_filter_consumables,Consumables,Verbrauchsgegenstände,消耗品
+ui_loot_filter_misc,Miscellaneous,Sonstiges,杂项
+ui_loot_filter_consumables_potions,Potions,Tränke,药水
+ui_loot_filter_consumables_food,Food and Drinks,Speisen und Getränke,食物和饮品
+ui_loot_filter_consumables_plants,Plants,Pflanzen,植物
+,,,
+,,,
+ui_loot_filter_misc_blueprints,Blueprints,Anleitungen,图纸
+ui_loot_filter_misc_crafting,Materials,Material,材料
+ui_loot_filter_misc_gems,Gems,Edelsteine,宝石
+ui_loot_filter_misc_gems_skill,Skill Gems,Fähigkeitensteine,技能宝石
+ui_loot_filter_misc_others,Other,Anderes,其他
+,,,
+,,,
+ui_loot_filter_affix_damage,Attack Bonus,Angriffsbonus,攻击加成
+ui_affix_damage_physical,Physical,Physisch,物理
+ui_affix_damage_fire,Fire,Feuerschaden,火焰
+ui_affix_damage_ice,Ice,Eisschaden,冰霜
+ui_affix_damage_holy,Holy,Heiligschaden,神圣
+ui_affix_damage_dark,Dark,Dunkelschaden,黑暗
+ui_affix_damage_physical_percent,Physical (%),Physisch (%),物理 (%)
+ui_affix_damage_fire_percent,Fire (%),Feuerschaden (%),火焰 (%)
+ui_affix_damage_ice_percent,Ice (%),Eisschaden (%),冰霜 (%)
+ui_affix_damage_holy_percent,Holy (%),Heiligschaden (%),神圣 (%)
+ui_affix_damage_dark_percent,Dark (%),Dunkelschaden (%),黑暗 (%)
+ui_affix_damage_critical,Critical Damage,Kritischer Schaden,暴击伤害
+ui_affix_damage_critical_chance,Critical Hit Chance,Chance kritischer Treffer,暴击几率
+ui_affix_damage_weapon_type,based on Weapon Type,je Waffentyp,基于武器类型
+ui_affix_damage_lower_target_defense,lower Target Defense,Verteidigung senken,降低目标防御
+ui_affix_damage_reduce_hp_on_hit,Reduce Target Health,Leben vom Ziel senken,削减目标生命
+ui_affix_damage_life_steal_chance,Recover Health on hit,Lebenspunkte bei Treffer,命中回复生命
+ui_affix_damage_mana_steal_chance,Recover Mana on hit,Mana bei Treffer,命中回复魔力值
+ui_affix_damage_hp_after_kill_chance,Recover Health on kill,Lebenspunkte bei Kill,击杀回复生命
+ui_affix_damage_mana_after_kill_chance,Recover Mana on kill,Mana bei Kill,击杀回复魔力值
+ui_affix_damage_based_on_stat,other Damage,erweiterter Schaden,其他伤害
+,,,
+,,,
+ui_loot_filter_affix_status_chance,Status Effects,Statuseffekte,状态效果
+ui_affix_status_chance_poison,Poison,Gift,中毒
+ui_affix_status_chance_bleed,Bleed,Blutung,流血
+ui_affix_status_chance_freeze,Freeze,Gefrierung,冰冻
+ui_affix_status_chance_burn,Burn,Verbrennung,灼烧
+ui_affix_status_chance_cursed,Cursed,Verflucht,诅咒
+ui_affix_status_chance_piercing,Piercing Damage,Durchschlagschaden,穿刺伤害
+ui_affix_status_chance_hp_on_status,Health on status inflict,Leben bei Auslösen von Status,施加状态时回复生命
+ui_affix_status_chance_mana_on_status,Mana on status inflict,Mana bei Auslösen von Status,施加状态时回复魔力值
+ui_affix_status_chance_damage_buff_on_status,Effect on status inflict,Effekt bei Auslösen von Status,施加状态时触发效果
+,,,
+ui_loot_filter_affix_defense,Defense Bonus,Verteidigungsbonus,防御加成
+ui_affix_defense_physical,Physical,Physisch,物理
+ui_affix_defense_fire,Fire Resistance,Feuerresistenz,火焰抗性
+ui_affix_defense_ice,Ice Resistance,Eisresistenz,冰霜抗性
+ui_affix_defense_holy,Holy Resistance,Heiligresistenz,神圣抗性
+ui_affix_defense_dark,Dark Resistance,Dunkelresistenz,黑暗抗性
+ui_affix_defense_decrease_damage,Decrease Damage Taken,Reduzierter erlittener Schaden,降低所受伤害
+,,,
+ui_loot_filter_affix_speed,Speed,Geschwindigkeit,速度
+ui_affix_speed_movement,Movement Speed,Bewegungsgeschwindigkeit,移动速度
+ui_affix_speed_attack,Attack Speed,Angriffsgeschwindigkeit,攻击速度
+ui_affix_speed_cast,Cast Speed,Zaubergeschwindigkeit,施法速度
+,,,
+,,,
+ui_affix_status_bonus,Bonus,Bonus,加成
+ui_affix_status_bonus_hp,Health,Leben,生命
+ui_affix_status_bonus_mana,Mana,Mana,魔力值
+ui_affix_status_bonus_stamina,Stamina,Ausdauer,精力
+ui_affix_status_bonus_vit,Vitality,Vitalität,体力
+ui_affix_status_bonus_end,Endurance,Ausdauer (Status),耐力
+ui_affix_status_bonus_mag,Magic,Magie,魔力
+ui_affix_status_bonus_str,Strength,Stärke,力量
+ui_affix_status_bonus_dex,Dexterity,Geschick,敏捷
+ui_affix_status_bonus_int,Intelligence,Intelligenz,智力
+ui_affix_status_bonus_lck,Luck,Glück,幸运
+ui_affix_status_bonus_xp,XP,Erfahrung,经验值
+ui_affix_status_bonus_item_find,Item Find,Bessere Gegenstände,物品发现
+ui_affix_status_bonus_magic_find,Magic Find,Magische Gegenstände,魔法发现
+ui_affix_status_bonus_less_item_cost,Reduced Item Cost,Reduzierte Goldkosten,降低物品费用
+ui_affix_status_bonus_hp_regeneration,Health Regeneration,Lebensregeneration,生命回复
+ui_affix_status_bonus_mana_regeneration,Mana Regeneration,Manaregeneration,魔力值回复
+ui_affix_status_bonus_stamina_regeneration,Stamina Regeneration,Ausdauerregeneration,精力回复
+ui_affix_less_stamina_cost,Reduced Stamina Cost,weniger Ausdauerverbrauch,降低精力消耗
+,,,
+ui_affix_skill_chance,Skill Cast Chance,Chance auf Fähigkeit,技能触发几率
+ui_affix_skill_chance_on_taking_damage,on Taking Damage,bei erlittenem Schaden,受到伤害时
+ui_affix_skill_chance_on_dealing_damage,on Dealing Damage,bei zugefügtem Schaden,造成伤害时
+ui_affix_skill_chance_on_perfect_block,on Perfect Block,bei perfektem Block,完美格挡时
+,,,
+ui_affix_summons,Summons,Beschwörungen,召唤物
+ui_affix_summons_duration,Duration,Dauer,持续时间
+ui_affix_summons_damage,Damage,Schaden,伤害
+ui_affix_summons_hp,Health,Leben,生命
+,,,
+ui_affix_perfect_block,Perfect Block,Perfekter Block,完美格挡
+ui_affix_perfect_block_hp,regenerate Health,Leben regenerieren,回复生命
+ui_affix_perfect_block_mana,regenerate Mana,Mana regenerieren,回复魔力值
+ui_affix_perfect_block_stamina,regenerate Stamina,Ausdauer regenerieren,回复精力
+ui_affix_perfect_block_damage_buff,trigger Effect,Effekt auslösen,触发效果
+,,,
+ui_affix_special,Special Bonus,Special Bonus,特殊加成
+ui_affix_special_special_bonus,all,alle,全部
+,,,
+ui_loot_filter_special_filter,,,
+ui_loot_filter_special_filter_affix,Enable Affix-Filter,Affix-Filter,启用词缀筛选
+ui_loot_filter_special_filter_show_items_without_affix,Show items without affixes,Gegenstände ohne Affix anzeigen,显示无词缀物品
+ui_loot_filter_special_filter_show_items_with_sockets,Show items with sockets,Gegenstände mit Sockeln anzeigen,显示带镶孔物品
+,,,
+,,,
+ui_player_window_assign_skill_primary,###input.INPUT_SKILL_SECONDARY### equip skill,###input.INPUT_SKILL_SECONDARY### Skill ausrüsten,###input.INPUT_SKILL_SECONDARY### 装备技能
+ui_player_window_assign_skill_primary_mouse,###input.MOUSE_BUTTON_LEFT### equip skill,###input.MOUSE_BUTTON_LEFT### Skill ausrüsten,###input.MOUSE_BUTTON_LEFT### 装备技能
+ui_player_window_assign_skill_secondary,###input.INPUT_SKILL_TERTIARY### equip secondary skill,###input.INPUT_SKILL_TERTIARY### zweiten Skill ausrüsten,###input.INPUT_SKILL_TERTIARY### 装备副技能
+ui_player_window_skill_enable_disable,###input.INPUT_ACTION### enable / disable skill,###input.INPUT_ACTION### Skill aus-/einblenden,###input.INPUT_ACTION### 启用 / 禁用技能
+,,,
+ui_enchantment_no_enchant_possible,No enchantment possible,Keine Verzauberung möglich,无法附魔
+ui_enchantment_create_gem,Craft gem,Edelstein herstellen,制作宝石
+ui_enchantment_create_blueprint,Craft blueprint,Anleitung herstellen,制作图纸
+ui_enchantment_create_artefact,Craft artefact,Artefakt herstellen,制作神器
+ui_enchantment_remove_socket_gems,Empty all sockets,Alle Sockel leeren,清空所有镶孔
+ui_enchantment_reroll_item,Reroll item,Neu würfeln,重铸物品
+ui_enchantment_create_gem_random,Craft random gem,Zufälligen Edelstein herstellen,制作随机宝石
+ui_enchantment_create_gem_small_shard,Destroys the item and converts it into a gem shard with one affix.,Zerstört den Gegenstand und wandelt ihn in eine Edelsteinscherbe mit einem Affix um.,摧毁该物品，将其转化为带有一条词缀的宝石碎片。
+ui_enchantment_create_gem_standard_shard,Destroys the item and converts it into a gem shard with two affixes.,Zerstört den Gegenstand und wandelt ihn in eine Edelsteinscherbe mit zwei Affixes um.,摧毁该物品，将其转化为带有两条词缀的宝石碎片。
+ui_enchantment_create_gem_big_shard,Destroys the item and converts it into a gem shard with three affixes.,Zerstört den Gegenstand und wandelt ihn in eine Edelsteinscherbe mit drei Affixes um.,摧毁该物品，将其转化为带有三条词缀的宝石碎片。
+ui_enchantment_add_sockets_up_to_max,Add one socket. (max: #1),Fügt einen Sockel hinzu. (max: #1),添加一个镶孔。（上限：#1）
+ui_enchantment_add_affix,Add prefix or suffix,Prefix oder Suffix hinzufügen,添加前缀或后缀
+ui_enchantment_retrieve_socket_gems,Destroy item and retrieve its socketed gems,Zerstört Gegenstand und erhalte Edelsteine zurück,摧毁物品并取回镶嵌的宝石
+,,,
+ui_notification_max_amount_sockets,Maximum number of sockets on item,Maximale Sockelanzahl,物品镶孔数已达上限
+ui_notification_socket_not_possible,Item cannot be socketed,Gegenstand kann nicht gesockelt werden,该物品无法镶孔
+ui_notification_prefix_suffix_already_assigned,New Prefix or Suffix not possible,Kein weiterer Prefix oder Suffix möglich,无法再添加前缀或后缀
+ui_notification_prefix_suffix_not_possible,Item cannot roll with a Prefix or Suffix,Gegenstand kann keinen Prefix oder Suffix haben,该物品无法拥有前缀或后缀
+ui_notification_prefix_not_feasible,No feasible Prefix available,Kein passender Prefix möglich,没有可用的前缀
+ui_notification_suffix_not_feasible,No feasible Suffix available,Kein passender Suffix möglich,没有可用的后缀
+ui_notification_retrieve_gem_not_feasible,No feasible gem to retrieve,Kein passender Edelstein verfügbar,没有可取回的宝石
+ui_notification_no_shard_mods,No affixes to retrieve,Keine passenden Affixes verfügbar,没有可取回的词缀
+,,,
+,,,
+ui_enchantment_category_enchant_gem,Gems,Edelsteine,宝石
+ui_enchantment_category_enchant_weapon,Weapons,Waffen,武器
+ui_enchantment_category_enchant_armor,Armor,Rüstungen,防具
+ui_enchantment_category_enchant_artefact,Artefacts,Artefakte,神器
+,,,
+ui_enchantment_name_craft_random_skill_gem_1,Craft random skill gem,zufälligen Edelstein (Fähigkeit) herstellen,制作随机技能宝石
+ui_enchantment_recipe_craft_random_skill_gem_1,any skill gem + any skill gem + any skill gem,Edelstein (Fähigkeit) + Edelstein (Fähigkeit) + Edelstein (Fähigkeit),任意技能宝石 + 任意技能宝石 + 任意技能宝石
+ui_enchantment_name_remove_socket_gems_1,Empty all sockets,Alle Sockel leeren,清空所有镶孔
+ui_enchantment_recipe_remove_socket_gems_1,any weapon + small blood gem + small blood gem,Waffe + kleiner Blutstein + kleiner Blutstein,任意武器 + 小型血宝石 + 小型血宝石
+ui_enchantment_name_remove_socket_gems_2,Empty all sockets,Alle Sockel leeren,清空所有镶孔
+ui_enchantment_recipe_remove_socket_gems_2,any armor + small blood gem + small blood gem,Rüstung + kleiner Blutstein + kleiner Blutstein,任意防具 + 小型血宝石 + 小型血宝石
+ui_enchantment_name_add_sockets_1,Add socket,Sockel hinzufügen,添加镶孔
+ui_enchantment_recipe_add_sockets_1,any weapon + standard blood gem + any large gem,Waffe + Standard Blutstein + großer Edelstein,任意武器 + 标准血宝石 + 任意大型宝石
+ui_enchantment_name_add_sockets_2,Add socket,Sockel hinzufügen,添加镶孔
+ui_enchantment_recipe_add_sockets_2,any armor + standard blood gem + any large gem,Rüstung + Standard Blutstein + großer Edelstein,任意防具 + 标准血宝石 + 任意大型宝石
+ui_enchantment_name_reroll_weapon_1,Reroll item,Neu würfeln,重铸物品
+ui_enchantment_recipe_reroll_weapon_1,any weapon + any standard gem + any standard gem,Waffe + Standard Edelstein + Standard Edelstein,任意武器 + 任意标准宝石 + 任意标准宝石
+ui_enchantment_name_reroll_armor_1,Reroll item,Neu würfeln,重铸物品
+ui_enchantment_recipe_reroll_armor_1,any armor + any standard gem + any standard gem,Rüstung + Standard Edelstein + Standard Edelstein,任意防具 + 任意标准宝石 + 任意标准宝石
+ui_enchantment_name_reroll_artefact_1,Reroll item,Neu würfeln,重铸物品
+ui_enchantment_recipe_reroll_artefact_1,any artefact + any standard gem + any standard gem,Artefakt + Standard Edelstein + Standard Edelstein,任意神器 + 任意标准宝石 + 任意标准宝石
+ui_enchantment_name_craft_blueprint_weapon_1,Craft blueprint,Anleitung herstellen,制作图纸
+ui_enchantment_recipe_craft_blueprint_weapon_1,any weapon + any blueprint + any small gem,Waffe + Rezept + kleiner Edelstein,任意武器 + 任意图纸 + 任意小型宝石
+ui_enchantment_name_craft_blueprint_armor_1,Craft blueprint,Anleitung herstellen,制作图纸
+ui_enchantment_recipe_craft_blueprint_armor_1,any armor + any blueprint + any small gem,Rüstung + Rezept + kleiner Edelstein,任意防具 + 任意图纸 + 任意小型宝石
+ui_enchantment_name_craft_blueprint_artefact_1,Craft blueprint,Anleitung herstellen,制作图纸
+ui_enchantment_recipe_craft_blueprint_artefact_1,any artefact + any blueprint + any small gem,Artefakt + Rezept + kleiner Edelstein,任意神器 + 任意图纸 + 任意小型宝石
+ui_enchantment_name_create_gem_shard_weapon_1,Craft gem shard,Edelsteinscherbe herstellen,制作宝石碎片
+ui_enchantment_recipe_create_gem_shard_weapon_1,any weapon + Pale Crystal Piece + small chaos gem / chaos gem / large chaos gem,Waffe + Bleicher Kristallbrocken + kleiner Chaosstein / Chaosstein / großer Chaosstein,任意武器 + 苍白水晶碎块 + 小型混沌宝石 / 混沌宝石 / 大型混沌宝石
+ui_enchantment_name_create_gem_shard_armor_1,Craft gem shard,Edelsteinscherbe herstellen,制作宝石碎片
+ui_enchantment_recipe_create_gem_shard_armor_1,any armor + Pale Crystal Piece + small chaos gem / chaos gem / large chaos gem,Rüstung + Bleicher Kristallbrocken + kleiner Chaosstein / Chaosstein / großer Chaosstein,任意防具 + 苍白水晶碎块 + 小型混沌宝石 / 混沌宝石 / 大型混沌宝石
+ui_enchantment_name_create_gem_shard_artefact_1,Craft gem shard,Edelsteinscherbe herstellen,制作宝石碎片
+ui_enchantment_recipe_create_gem_shard_artefact_1,any artefact + Pale Crystal Piece + small chaos gem / chaos gem / large chaos gem,Artefakt + Bleicher Kristallbrocken + kleiner Chaosstein / Chaosstein / großer Chaosstein,任意神器 + 苍白水晶碎块 + 小型混沌宝石 / 混沌宝石 / 大型混沌宝石
+ui_enchantment_name_create_gem_standard,Craft standard gem,Standard Edelstein herstellen,制作标准宝石
+ui_enchantment_recipe_create_gem_standard,small gem + small gem + small gem,kleiner Edelstein + kleiner Edelstein + kleiner Edelstein,小型宝石 + 小型宝石 + 小型宝石
+ui_enchantment_name_create_gem_big,Craft large gem,großen Edelstein herstellen,制作大型宝石
+ui_enchantment_recipe_create_gem_big,standard gem + standard gem + standard gem,Standard Edelstein + Standard Edelstein + Standard Edelstein,标准宝石 + 标准宝石 + 标准宝石
+ui_enchantment_name_create_gem_azure_1,Azure gem,Azurblauer Edelstein,蔚蓝宝石
+ui_enchantment_recipe_create_gem_azure_1,small blue gem + small blue gem + small green gem,kleiner blauer Edelstein + kleiner blauer Edelstein + kleiner grüner Edelstein,小型蓝宝石 + 小型蓝宝石 + 小型绿宝石
+ui_enchantment_name_create_gem_crimson_1,Crimson gem,Purpurroter Edelstein,绯红宝石
+ui_enchantment_recipe_create_gem_crimson_1,small red gem + small red gem + small green gem,kleiner roter Edelstein + kleiner roter Edelstein + kleiner grüner Edelstein,小型红宝石 + 小型红宝石 + 小型绿宝石
+ui_enchantment_name_create_gem_golden_1,Golden gem,Goldener Edelstein,黄金宝石
+ui_enchantment_recipe_create_gem_golden_1,small yellow gem + small yellow gem + small red gem,kleiner gelber Edelstein + kleiner gelber Edelstein + kleiner roter Edelstein,小型黄宝石 + 小型黄宝石 + 小型红宝石
+ui_enchantment_name_create_gem_thulian_1,Thulian gem,Thulianer Edelstein,图利安宝石
+ui_enchantment_recipe_create_gem_thulian_1,small yellow gem + small yellow gem + small blue gem,kleiner gelber Edelstein + kleiner gelber Edelstein + kleiner blauer Edelstein,小型黄宝石 + 小型黄宝石 + 小型蓝宝石
+ui_enchantment_name_create_gem_big_black_1,Large black gem,großer schwarzer Edelstein,大型黑宝石
+ui_enchantment_recipe_create_gem_big_black_1,standard blue gem + standard red gem + standard green gem,Standard blauer Edelstein + Standard roter Edelstein + Standard grüner Edelstein,标准蓝宝石 + 标准红宝石 + 标准绿宝石
+ui_enchantment_name_create_gem_big_gray_1,Large gray gem,großer grauer Edelstein,大型灰宝石
+ui_enchantment_recipe_create_gem_big_gray_1,standard crimson gem + standard thulian gem + standard golden gem,Standard purpurroter Edelstein + Standard thulianer Edelstein + Standard goldender Edelstein,标准绯红宝石 + 标准图利安宝石 + 标准黄金宝石
+ui_enchantment_name_create_gem_standard_hunter,Hunter's gem,Edelstein des Jägers,猎人宝石
+ui_enchantment_recipe_create_gem_standard_hunter,small yellow gem + small yellow gem + small chaos gem,kleiner gelber Edelstein + kleiner gelber Edelstein + kleiner Chaosstein,小型黄宝石 + 小型黄宝石 + 小型混沌宝石
+ui_enchantment_name_create_gem_standard_scholar,Scholar's gem,Edelstein des Gelehrten,学者宝石
+ui_enchantment_recipe_create_gem_standard_scholar,small blue gem + small blue gem + small chaos gem,kleiner blauer Edelstein + kleiner blauer Edelstein + kleiner Chaosstein,小型蓝宝石 + 小型蓝宝石 + 小型混沌宝石
+ui_enchantment_name_create_gem_standard_warrior,Warrior's gem,Edelstein des Kriegers,战士宝石
+ui_enchantment_recipe_create_gem_standard_warrior,small red gem + small red gem + small chaos gem,kleiner roter Edelstein + kleiner roter Edelstein + kleiner Chaosstein,小型红宝石 + 小型红宝石 + 小型混沌宝石
+ui_enchantment_name_reroll_gem_1,Reroll small gem,Neuen kleinen Edelstein würfeln,重铸小型宝石
+ui_enchantment_recipe_reroll_gem_1,any small gem + any small gem + Pale Crystal Piece,kleiner Edelstein + kleiner Edelstein + Bleicher Kristallbrocken,任意小型宝石 + 任意小型宝石 + 苍白水晶碎块
+ui_enchantment_name_reroll_gem_2,Reroll standard gem,Neuen Standard Edelstein würfeln,重铸标准宝石
+ui_enchantment_recipe_reroll_gem_2,any standard gem + any standard gem + Pale Crystal Piece,Standard Edelstein + Standard Edelstein + Bleicher Kristallbrocken,任意标准宝石 + 任意标准宝石 + 苍白水晶碎块
+ui_enchantment_name_reroll_gem_3,Reroll large gem,Neuen großen Edelstein würfeln,重铸大型宝石
+ui_enchantment_recipe_reroll_gem_3,any large gem + any large gem + Pale Crystal Piece,großer Edelstein + großer Edelstein + Bleicher Kristallbrocken,任意大型宝石 + 任意大型宝石 + 苍白水晶碎块
+ui_enchantment_name_add_affix_weapon_1,Add Prefix or Suffix,Prefix oder Suffix hinzufügen,添加前缀或后缀
+ui_enchantment_recipe_add_affix_weapon_1,any weapon + small blood gem + any large gem,Waffe + kleiner Blutstein + großer Edelstein,任意武器 + 小型血宝石 + 任意大型宝石
+ui_enchantment_name_add_affix_armor_1,Add Prefix or Suffix,Prefix oder Suffix hinzufügen,添加前缀或后缀
+ui_enchantment_recipe_add_affix_armor_1,any armor + small blood gem + any large gem,Rüstung + kleiner Blutstein + großer Edelstein,任意防具 + 小型血宝石 + 任意大型宝石
+ui_enchantment_name_add_affix_artefact_1,Add Prefix or Suffix,Prefix oder Suffix hinzufügen,添加前缀或后缀
+ui_enchantment_recipe_add_affix_artefact_1,any artefact + small blood gem + any large gem,Artefakt + kleiner Blutstein + großer Edelstein,任意神器 + 小型血宝石 + 任意大型宝石
+ui_enchantment_name_retrieve_socket_gems_1,Retrieve gems,Edelsteine zurückerhalten,取回宝石
+ui_enchantment_recipe_retrieve_socket_gems_1,any weapon + small chaos gem + small chaos gem,Waffe + kleiner Chaosstein + kleiner Chaosstein,任意武器 + 小型混沌宝石 + 小型混沌宝石
+ui_enchantment_name_retrieve_socket_gems_2,Retrieve gems,Edelsteine zurückerhalten,取回宝石
+ui_enchantment_recipe_retrieve_socket_gems_2,any armor + small chaos gem + small chaos gem,Rüstung + kleiner Chaosstein + kleiner Chaosstein,任意防具 + 小型混沌宝石 + 小型混沌宝石
+,,,
+,,,
+,,,
+ui_inventory_setting_junk_items_header,Junk Items,Gegenstände müllen,垃圾物品
+ui_inventory_setting_junk_normal_items,Junk Normal Items,Normale müllen,将普通物品标记为垃圾
+ui_inventory_setting_junk_magic_items,Junk Magic Items,Magische müllen,将魔法物品标记为垃圾
+ui_inventory_setting_junk_rare_items,Junk Rare Items,Seltene müllen,将稀有物品标记为垃圾
+ui_inventory_setting_junk_epic_items,Junk Epic Items,Epische müllen,将史诗物品标记为垃圾
+ui_inventory_setting_junk_unique_items,Junk Unique Items,Einzigartige müllen,将独特物品标记为垃圾
+ui_inventory_setting_junk_items_notification,#amount items junked,#amount Gegenstände als Müll markiert,已将 #amount 件物品标记为垃圾
+ui_inventory_setting_junk_items_notification_single,#amount item junked,#amount Gegenstand als Müll markiert,已将 #amount 件物品标记为垃圾
+ui_inventory_setting_junk_items_sold_notification_single,#amount item sold,#amount Gegenstand verkauft,已出售 #amount 件物品
+ui_inventory_setting_junk_items_sold_notification,#amount items sold,#amount Gegenstände verkauft,已出售 #amount 件物品
+,,,
+ui_inventory_setting_loot_filter_header,Loot Filter,Beute,拾取过滤器
+ui_inventory_setting_loot_filter_open,Show Loot Filter,Öffne Beutefilter,显示拾取过滤器
+,,,
+,,,
+ui_inventory_setting_show_hide_items,Show / Hide Item,Gegenstände anzeigen / ausblenden,显示 / 隐藏物品
+ui_inventory_setting_show_junked_items,Show Junked Items,Müll einblenden,显示垃圾物品
+ui_inventory_setting_hide_junked_items,Hide Junked Items,Müll ausblenden,隐藏垃圾物品
+ui_inventory_setting_show_locked_items,Show Locked Items,Gesperrte einblenden,显示锁定物品
+ui_inventory_setting_hide_locked_items,Hide Locked Items,Gesperrte ausblenden,隐藏锁定物品
+,,,
+,,,
+ui_inventory_too_many_items_warning,Consider selling or dropping your items.,Verkaufe oder lasse bei Gelegenheit Gegenstände fallen.,考虑出售或丢弃一些物品。
+,,,
+,,,
+,,,
+--MODIFICATIONS,,,
+damage.physical.absolulte,+#amount Physical Damage,+#amount physischer Schaden,+#amount 物理伤害
+damage.fire.absolulte,+#amount Fire Damage,+#amount Feuerschaden,+#amount 火焰伤害
+damage.ice.absolulte,+#amount Ice Damage,+#amount Eisschaden,+#amount 冰霜伤害
+damage.holy.absolulte,+#amount Holy Damage,+#amount Heiligschaden,+#amount 神圣伤害
+damage.dark.absolulte,+#amount Dark Damage,+#amount Dunkelschaden,+#amount 黑暗伤害
+,,,
+damage.physical.percent,+#amount_percent% Physical Damage,+#amount_percent% physischer Schaden,+#amount_percent% 物理伤害
+damage.fire.percent,+#amount_percent% Fire Damage,+#amount_percent% Feuerschaden,+#amount_percent% 火焰伤害
+damage.ice.percent,+#amount_percent% Ice Damage,+#amount_percent% Eisschaden,+#amount_percent% 冰霜伤害
+damage.holy.percent,+#amount_percent% Holy Damage,+#amount_percent% Heiligschaden,+#amount_percent% 神圣伤害
+damage.dark.percent,+#amount_percent% Dark Damage,+#amount_percent% Dunkelschaden,+#amount_percent% 黑暗伤害
+damage.elemental.percent,+#amount_percent% Elemental Damage,+#amount_percent% Elementarschaden,+#amount_percent% 元素伤害
+damage.all.percent,+#amount_percent% All Damage,+#amount_percent% jeder Schaden,+#amount_percent% 全部伤害
+,,,
+damage.based_on_stat,+#damage_conversion_ratio% Damage per #stat (max. +#max_damage_added%),+#damage_conversion_ratio% Schaden je #stat (max. +#max_damage_added%),每点 #stat +#damage_conversion_ratio% 伤害（上限 +#max_damage_added%）
+status.bonus.based_on_stat,+#bonus_conversion_ratio #bonus per #stat (=#bonus_value),+#bonus_conversion_ratio #bonus je #stat (=#bonus_value),每点 #stat +#bonus_conversion_ratio #bonus（=#bonus_value）
+,,,
+speed.relative,+#amount_percent% Movement Speed Bonus,+#amount_percent% Geschwindigkeitsbonus,+#amount_percent% 移动速度加成
+speed.relative.decrease,-#amount_percent% Movement Speed Bonus,-#amount_percent% Geschwindigkeitsbonus,-#amount_percent% 移动速度加成
+attack_speed.relative,+#amount_percent% Attack Speed Bonus,+#amount_percent% Angriffsgeschwindigkeit,+#amount_percent% 攻击速度加成
+cast_speed.relative,+#amount_percent% Casting Speed Bonus,+#amount_percent% Zaubergeschwindigkeit,+#amount_percent% 施法速度加成
+item_find.bonus,+#amount_percent% Item Find Bonus,+#amount_percent% Chance auf bessere Gegenstände,+#amount_percent% 物品发现加成
+magic_find.bonus,+#amount_percent% Magic Find Bonus,+#amount_percent% Chance auf magische Gegenstände,+#amount_percent% 魔法发现加成
+experience_gain.bonus,+#amount_percent% gained Experience,+#amount_percent% zusätzliche Erfahrung,+#amount_percent% 获得经验值
+lesser_item_cost.bonus,-#amount_percent% Gold Cost when Buying Items,-#amount_percent% Goldkosten beim Kaufen von Gegenständen,购买物品时 -#amount_percent% 金币费用
+damage_taken.decrease,-#amount_percent% Damage Taken,-#amount_percent% erlittener Schaden,-#amount_percent% 所受伤害
+damage_taken.increase,+#amount_percent% Damage Taken,+#amount_percent% erlittener Schaden,+#amount_percent% 所受伤害
+,,,
+,,,
+chance.damage.physical,#1% Chance to inflict additional #2 Physical Damage,"1% Chance, um zusätzlichen #2 physischen Schaden zu verursachen",#1% 几率造成额外 #2 物理伤害
+chance.damage.fire,#1% Chance to inflict additional #2 Fire Damage,"#1% Chance, um zusätzlichen #2 Feuerchaden zu verursachen",#1% 几率造成额外 #2 火焰伤害
+chance.damage.ice,#1% Chance to inflict additional #2 Ice Damage,"#1% Chance, um zusätzlichen #2 Eisschaden zu verursachen",#1% 几率造成额外 #2 冰霜伤害
+chance.damage.holy,#1% Chance to inflict additional #2 Holy Damage,"#1% Chance, um zusätzlichen #2 Heiligschaden zu verursachen",#1% 几率造成额外 #2 神圣伤害
+chance.damage.dark,#1% Chance to inflict additional #2 Dark Damage,"#1% Chance, um zusätzlichen #2 Dunkelschaden zu verursachen",#1% 几率造成额外 #2 黑暗伤害
+,,,
+chance.bleed,#1% Chance to inflict #2 Bleed Damage per second,"#1% Chance, um #2 Blutungsschaden pro Sekunde zu verursachen",#1% 几率造成每秒 #2 流血伤害
+chance.poison,#1% Chance to inflict #2 Poison Damage per second,"#1% Chance, um #2 Giftschaden pro Sekunde zu verursachen",#1% 几率造成每秒 #2 中毒伤害
+chance.burning,#1% Chance to inflict #2 Fire Damage per second,"#1% Chance, um #2 Feuerschaden pro Sekunde zu verursachen",#1% 几率造成每秒 #2 火焰伤害
+chance.piercing,#1% Chance to inflict Piercing Damage,#1% Chance auf Durchschlagschaden,#1% 几率造成穿刺伤害
+chance.freeze,#1% Chance to inflict Freeze,"#1% Chance, um Gefrierung zu verursachen",#1% 几率造成冰冻
+chance.cursed,#1% Chance to inflict Cursed,"#1% Chance, um Verflucht zu verursachen",#1% 几率施加诅咒
+chance.lifesteal,#1% Chance to recover #2 Health on hit,#1% Chance auf #2 Lebenspunkte je Treffer,#1% 几率在命中时回复 #2 生命
+chance.manasteal,#1% Chance to recover #2 Mana on hit,#1% Chance auf #2 Mana je Treffer,#1% 几率在命中时回复 #2 魔力值
+chance.hp_after_kill,#1% Chance to recover #2 Health on kill,#1% Chance auf #2 Lebenspunkte je Kill,#1% 几率在击杀时回复 #2 生命
+chance.mana_after_kill,#1% Chance to recover #2 Mana on kill,#1% Chance auf #2 Mana je Kill,#1% 几率在击杀时回复 #2 魔力值
+chance.hp_after_status_inflict,#1% Chance to recover #2 Health on inflicting #3,"#1% Chance auf #2 Lebenspunkte, wenn #3 ausgelöst wird",施加 #3 时有 #1% 几率回复 #2 生命
+chance.mana_after_status_inflict,#1% Chance to recover #2 Mana on inflicting #3,"#1% Chance auf #2 Mana, wenn #3 ausgelöst wird",施加 #3 时有 #1% 几率回复 #2 魔力值
+chance.damage_buff_after_status_inflict,#1% Chance for additional #2 for #3 seconds on inflicting #4,"#1% Chance auf zusätzlichen #2 für #3 Sekunden, wenn #4 ausgelöst wird",施加 #4 时有 #1% 几率获得额外 #2，持续 #3 秒
+chance.perfect_block.add_damage_buff,#1% Chance for additional #2 for #3 seconds after a Perfect Block,#1% Chance auf zusätzlichen #2 für #3 Sekunden nach einem perfekten Block,完美格挡后有 #1% 几率获得额外 #2，持续 #3 秒
+,,,
+chance.lower.defense.all,#1% Chance to lower Target's Defenses by #2%,#1% Chance um die Verteidigungen des Ziels um #2% zu senken,#1% 几率使目标全部防御降低 #2%
+chance.lower.defense.physical,#1% Chance to lower Target's Physical Defense by #2%,"#1% Chance, um die physische Verteidigung des Ziels um #2% zu senken",#1% 几率使目标物理防御降低 #2%
+chance.lower.defense.fire,#1% Chance to lower Target's Fire Defense by #2%,"#1% Chance, um die Feuerresistenz des Ziels um #2% zu senken",#1% 几率使目标火焰抗性降低 #2%
+chance.lower.defense.ice,#1% Chance to lower Target's Ice Defense by #2%,"#1% Chance, um die Eisresistenz des Ziels um #2% zu senken",#1% 几率使目标冰霜抗性降低 #2%
+chance.lower.defense.holy,#1% Chance to lower Target's Holy Defense by #2%,"#1% Chance, um die Heiligresistenz des Ziels um #2% zu senken",#1% 几率使目标神圣抗性降低 #2%
+chance.lower.defense.dark,#1% Chance to lower Target's Dark Defense by #2%,"#1% Chance, um die Dunkelresistenz des Ziels um #2% zu senken",#1% 几率使目标黑暗抗性降低 #2%
+,,,
+chance.reduce_target_hp_on_hit,#1% Chance to reduce the Target's Health by #2%,"#1% Chance, um das Leben vom Ziel um #2% zu senken",#1% 几率使目标生命减少 #2%
+,,,
+chance.on_take_damage.skill,#1% Chance to cast #2 on taking Damage,#1% Chance bei erlittenem Schaden #2 zu wirken,受到伤害时有 #1% 几率施放 #2
+chance.on_deal_damage.skill,#1% Chance to cast #2 on dealing Damage,#1% Chance bei zugefügtem Schaden #2 zu wirken,造成伤害时有 #1% 几率施放 #2
+chance.on_perfect_block.skill,#1% Chance to cast #2 on Perfect Block,#1% Chance nach einem perfekten Block #2 zu wirken,完美格挡时有 #1% 几率施放 #2
+chance.on_deal_damage_with_skill.skill,#1% Chance to cast #2 on dealing Damage with #3,#1% Chance zugefügtem Schaden mit #3 die Fähigkeit #2 zu wirken,用 #3 造成伤害时有 #1% 几率施放 #2
+chance.on_deal_damage_with_damage_type.skill,#1% Chance to cast #2 on dealing Damage with #3,#1% Chance zugefügtem Schadenstyp #3 die Fähigkeit #2 zu wirken,用 #3 造成伤害时有 #1% 几率施放 #2
+,,,
+,,,
+damage_format,#number #damage_type,#number #damage_type,#number #damage_type
+,,,
+,,,
+--MISC MODS,,,
+passive.light,Illuminate dark areas,Leuchtet dunkle Bereiche aus,照亮黑暗区域
+passive.parry,Reflect missiles,Reflektiert Geschosse,反弹投射物
+passive.mine_ore,Mines Ore,Baut Erz ab,可挖掘矿石
+skill.cost.reduce.stamina,-#amount Stamina cost,-#amount Ausdauerverbrauch,-#amount 精力消耗
+passive.environment.cold.immunity,Immune to environmental cold damage,Immun gegen Umgebungskälte,免疫环境寒冷伤害
+passive.environment.heat.immunity,Immune to environmental heat damage,Immun gegen Hitze,免疫环境炎热伤害
+passive.environment.swamp_movement.immunity,Immune to swamp water slow effects,Immun gegen Verlangsamung durch Sumpfwasser,免疫沼泽水域的减速效果
+passive.pale_coin.slice_time,Allows to interact with past and future events,Ermöglicht das Interagieren mit vergangenen und zukünftigen Ereignissen,可与过去和未来的事件互动
+passive.pale_coin.no_move_speed_penalty,Armor no longer decreases the movement speed,Rüstungen verringern die Bewegungsgeschwindigkeit nicht mehr,护甲不再降低移动速度
+passive.endless_arrows,Endless Arrows,Endlose Pfeile,无尽箭矢
+passive.artefacts.add_slot,Equip one more artefact,Rüste ein weiteres Artefakt aus,可额外装备一件神器
+passive.socket.magic_skill_gems,Allows to socket magic skill gems,Erlaubt das Sockeln von magischen Fähigkeitensteinen,可镶嵌魔法技能宝石
+,,,
+--BONUS,,,
+chance.critical,+#amount_percent% Critical Hit Chance,+#amount_percent% Chance auf kritischen Treffer,+#amount_percent% 暴击几率
+critical.damage_multiplier,+#amount_percent% Critical Damage,+#amount_percent% kritischer Schaden,+#amount_percent% 暴击伤害
+bonus.chance.bleed,+#amount% Bleed Damage Chance,+#amount% Chance auf Blutungsschaden,+#amount% 流血伤害几率
+bonus.damage.elemental,+#amount Elemental Damage,+#amount Elementarschaden,+#amount 元素伤害
+bonus.damage.physical,+#amount Physical Damage,+#amount physischer Schaden,+#amount 物理伤害
+bonus.damage.taken.decrease,-#amount% Damage Taken,-#amount% erlittener Schaden,-#amount% 所受伤害
+,,,
+status.bonus.hp,+#amount Health,+#amount Lebenspunkte,+#amount 生命
+status.bonus.stamina,+#amount Stamina,+#amount Ausdauer,+#amount 精力
+status.bonus.mana,+#amount Mana,+#amount Mana,+#amount 魔力值
+,,,
+status.bonus.VIT,+#amount Vitality,+#amount Vitalität,+#amount 体力
+status.bonus.END,+#amount Endurance,+#amount Ausdauer,+#amount 耐力
+status.bonus.MAG,+#amount Magic,+#amount Magie,+#amount 魔力
+status.bonus.STR,+#amount Strength,+#amount Stärke,+#amount 力量
+status.bonus.DEX,+#amount Dexterity,+#amount Geschick,+#amount 敏捷
+status.bonus.INT,+#amount Intelligence,+#amount Intelligenz,+#amount 智力
+status.bonus.LCK,+#amount Luck,+#amount Glück,+#amount 幸运
+,,,
+status.bonus.regeneration.hp,+#amount Health/s,+#amount Lebenspunkte/s,+#amount 生命/秒
+status.bonus.regeneration.stamina,+#amount Stamina/s,+#amount Ausdauer/s,+#amount 精力/秒
+status.bonus.regeneration.mana,+#amount Mana/s,+#amount Mana/s,+#amount 魔力值/秒
+,,,
+status.duration.poison,+#amount seconds to poison duration,+#amount Sekunden auf Vergiftung,中毒持续时间 +#amount 秒
+status.duration.bleed,+#amount seconds to bleed duration,+#amount Sekunden auf Blutung,流血持续时间 +#amount 秒
+status.duration.burn,+#amount seconds to burning duration,+#amount Sekunden auf Verbrennung,灼烧持续时间 +#amount 秒
+status.duration.freeze,+#amount seconds to freeze duration,+#amount Sekunden auf Gefrierung,冰冻持续时间 +#amount 秒
+status.duration.cursed,+#amount seconds to curse duration,+#amount Sekunden auf Verflucht,诅咒持续时间 +#amount 秒
+,,,
+damage.weapon_type.add_percent,#1% damage with #2,#1% Schaden mit #2,使用 #2 时 #1% 伤害
+,,,
+,,,
+defense.physical.percent,+#amount_percent% Physical Defense,+#amount_percent% Physische Verteidigung,+#amount_percent% 物理防御
+defense.physical.absolulte,+#amount Physical Defense,+#amount Physische Verteidigung,+#amount 物理防御
+defense.fire.absolulte,+#amount_percent% Fire Resistance,+#amount_percent% Feuerresistenz,+#amount_percent% 火焰抗性
+defense.ice.absolulte,+#amount_percent% Ice Resistance,+#amount_percent% Eisresistenz,+#amount_percent% 冰霜抗性
+defense.holy.absolulte,+#amount_percent% Holy Resistance,+#amount_percent% Heiligresistenz,+#amount_percent% 神圣抗性
+defense.dark.absolulte,+#amount_percent% Dark Resistance,+#amount_percent% Dunkelresistenz,+#amount_percent% 黑暗抗性
+defense.elemental.absolulte,+#amount_percent% Elemental Resistance,+#amount_percent% Elementarresistenz,+#amount_percent% 元素抗性
+defense.max.fire.absolulte,+#amount_percent% Fire Resistance (max),+#amount_percent% Feuerresistenz (max),+#amount_percent% 火焰抗性（上限）
+defense.max.ice.absolulte,+#amount_percent% Ice Resistance (max),+#amount_percent% Eisresistenz (max),+#amount_percent% 冰霜抗性（上限）
+defense.max.holy.absolulte,+#amount_percent% Holy Resistance (max),+#amount_percent% Heiligresistenz (max),+#amount_percent% 神圣抗性（上限）
+defense.max.dark.absolulte,+#amount_percent% Dark Resistance (max),+#amount_percent% Dunkelresistenz (max),+#amount_percent% 黑暗抗性（上限）
+,,,
+perfect_block.add_hp,+#amount Health after a Perfect Block,+#amount Lebenspunkte nach einem perfekten Block,完美格挡后 +#amount 生命
+perfect_block.add_mana,+#amount Mana after a Perfect Block,+#amount Mana nach einem perfekten Block,完美格挡后 +#amount 魔力值
+perfect_block.add_stamina,+#amount Stamina after a Perfect Block,+#amount Ausdauer nach einem perfekten Block,完美格挡后 +#amount 精力
+,,,
+,,,
+--BLOCKING,,,
+ui_information_block,Block #1% of Damage,Blocke #1% Schaden,格挡 #1% 伤害
+ui_information_block_damage_absolute,Reduced Damage when Blocking:,Reduzierter Schaden bei Block:,格挡时减免伤害：
+,,,
+,,,
+,,,
+,,,
+--STATUS,,,
+effect_bleed,bleed,Blutung,流血
+effect_poison,poison,Vergiftung,中毒
+effect_burn,burning,Verbrennung,灼烧
+effect_cursed,cursed,Verflucht,诅咒
+effect_freeze,freeze,Gefrieren,冰冻
+,,,
+,,,
+,,,
+,,,
+,,,
+--SUMMONS,,,
+summon.damage_percent,+#amount_percent% damage of summoned creatures,+#amount_percent% Schaden beschworener Kreaturen,召唤生物伤害 +#amount_percent%
+summon.time.add,+#amount seconds to summon duration,+#amount Sekunden Beschwörungsdauer,召唤持续时间 +#amount 秒
+summon.hp.add,+#amount Health of summoned creatures,+#amount Lebenspunkte beschworener Kreaturen,召唤生物生命 +#amount
+summon.defense.physical.add,+#amount physical defense of summoned creatures,+#amount physische Verteidigung beschworener Kreaturen,召唤生物物理防御 +#amount
+summon.defense.elemental.add,+#amount_percent% elemental resistance of summoned creatures,+#amount_percent% Elementarresistenz beschworener Kreaturen,召唤生物元素抗性 +#amount_percent%
+summon.damage.physical.absolulte,+#amount Physical Damage to summoned creatures,+#amount physischer Schaden von beschworenen Kreaturen,召唤生物 +#amount 物理伤害
+summon.damage.fire.absolulte,+#amount Fire Damage to summoned creatures,+#amount Feuerschaden von beschworenen Kreaturen,召唤生物 +#amount 火焰伤害
+summon.damage.ice.absolulte,+#amount Ice Damage to summoned creatures,+#amount Eisschaden von beschworenen Kreaturen,召唤生物 +#amount 冰霜伤害
+summon.damage.holy.absolulte,+#amount Holy Damage to summoned creatures,+#amount Heiligschaden von beschworenen Kreaturen,召唤生物 +#amount 神圣伤害
+summon.damage.dark.absolulte,+#amount Dark Damage to summoned creatures,+#amount Dunkelschaden von beschworenen Kreaturen,召唤生物 +#amount 黑暗伤害
+,,,
+,,,
+,,,
+,,,
+,,,
+--INTERACTIONS,,,
+ui_interaction_talk,Talk,Reden,交谈
+ui_interaction_read,Read,Lesen,阅读
+ui_interaction_examine,Examine,Untersuchen,查看
+ui_interaction_press_e,Press E,Drücke E,按 E
+ui_interaction_inspect,Inspect,Untersuchen,检查
+ui_interaction_pick_up,Pick up,Aufheben,拾取
+ui_interaction_open,Open,Öffnen,打开
+ui_interaction_open_use_skeleton_key,Use Skeleton Key,Skelettschlüssel verwenden,使用万能钥匙
+ui_interaction_open_use_lockpick,Use Lockpick,Dietrich verwenden,使用撬锁器
+ui_interaction_use,Use,Benutzen,使用
+ui_interaction_use_scroll,Use Scroll,Schriftrolle benutzen,使用卷轴
+ui_interaction_cook,Cook,Kochen,烹饪
+ui_interaction_place_staff,Use Dimensional Staff of Chaos,Stab der Chaosdimension verwenden,使用混沌次元法杖
+ui_interaction_open_portal,Open Portal,Portal öffnen,开启传送门
+ui_open_door_lockpick,Use lockpick,Dietrich benutzen,使用撬锁器
+ui_interaction_locked,Locked,Verschlossen,已上锁
+ui_interaction_locked_required_dex,DEX required to pick this lock,Geschick zum Knacken nötig,需要敏捷才能撬开此锁
+ui_interaction_locked_requires_lockpick,Lockpick required,Dietrich benötigt,需要撬锁器
+ui_interaction_search,Search,Durchsuchen,搜索
+ui_interaction_pick_berries,Pick Berries,Beeren sammeln,采摘浆果
+ui_interaction_gather_honey,Gather Honey,Honig sammeln,采集蜂蜜
+ui_interaction_activate_eternal_chest,Activate for #amount Gold,für #amount Gold aktivieren,花费 #amount 金币激活
+ui_interaction_eternal_chest_not_allowed,Not available in #game_mode,Nicht für #game_mode verfügbar,在 #game_mode 中不可用
+ui_interaction_change_appearance,Change Appearance,Aussehen ändern,更改外观
+ui_teleport_tutorial,Start tutorial,Tutorial starten,开始教程
+ui_teleport_tutorial_change,Change tutorial,Tutorial wechseln,更换教程
+ui_teleport_tutorial_end,End tutorial,Tutorial beenden,结束教程
+ui_teleport_tutorial_combat,Combat Tutorial,Kampf-Tutorial,战斗教程
+ui_teleport_tutorial_menu_inventory,Item Tutorial,Gegenstands-Tutorial,物品教程
+ui_open_door,Open,Öffnen,打开
+ui_map_exit,Exit,Verlassen,离开
+ui_map_enter,Enter,Betreten,进入
+ui_map_enter_jump,Jump down,Herunterspringen,跳下
+ui_map_up,Up,Nach oben,向上
+ui_map_down,Down,Nach unten,向下
+ui_map_exit_tutorial,Go to Tutorial,Tutorial betreten,前往教程
+ui_map_exit_tutorial_skip,Skip Tutorial,Tutorial überspringen,跳过教程
+ui_map_exit_teleport,Teleport,Teleportieren,传送
+ui_teleporter_activated,#name teleport activated,#name Teleporter aktiviert,#name 传送点已激活
+ui_interaction_use_key_pieces,Use key pieces,Schlüsselstücke benutzen,使用钥匙碎片
+ui_teleport_to_region_eternal_realm,Teleport to Eternal Realm,Zur Ewigen Ebene teleportieren,传送至永恒之境
+ui_teleport_not_possible,Teleport not possible,Teleport nicht möglich,无法传送
+ui_interaction_champions_coin_goddess,Deliver to the Goddess,der Göttin überbringen,交予女神
+ui_interaction_champions_coin_claim,Claim,Beanspruchen,领取
+ui_interaction_use_rope,Lower the rope,Seil herunterlassen,放下绳索
+ui_attribute_reset_confirm,Reset Attribute Points,Attributpunkte zurücksetzen,重置属性点
+,,,
+,,,
+--MAIN MENU,,,
+ui_menu_continue_last_save,Continue Game,Spiel fortsetzen,继续游戏
+ui_menu_new_game,New Game,Neues Spiel,新游戏
+ui_menu_load_game,Load Game,Spiel laden,读取存档
+ui_menu_game_modes,Game Modes,Spielmodus,游戏模式
+ui_menu_start_game_mode,Start Game Mode,Spielmodus starten,开始游戏模式
+ui_menu_exit,Exit,Verlassen,退出
+ui_save_state,Save State,Spielstand,存档
+ui_save_state_old_information,"This save file was created using an older version of the game. While you may continue playing, some quests might not behave as intended. For the best experience, starting a new game is recommended.","Der Spielstand stammt aus einer früheren Version. Du kannst weiterspielen, aber manche Quests könnten sich nicht wie vorgesehen verhalten. Für das beste Spielerlebnis wird empfohlen, ein neues Spiel zu starten.",该存档由旧版本游戏创建。你可以继续游玩，但部分任务可能无法正常进行。为获得最佳体验，建议开始新游戏。
+ui_save_state_empty,empty,leer,空
+ui_menu_credits,Credits,Credits,制作人员
+ui_menu_credits_a_game_by,a game by,ein Spiel von,游戏制作
+ui_menu_credits_dialogue_design,dialogue design by,Dialoge von,对话设计
+ui_menu_credits_music,music by,Musik von,音乐
+ui_menu_credits_game_testing,game testing by,Spieletester,游戏测试
+ui_menu_credits_marketing,marketing by,Marketing,市场推广
+ui_menu_credits_localization,localization by,Übersetzung,本地化
+ui_menu_back,Back,Zurück,返回
+ui_menu_cancel,Cancel,Abbrechen,取消
+ui_menu_options,Game Options,Optionen,游戏设置
+ui_options_menu_graphics,Graphics,Grafik,图像
+ui_options_menu_audio,Audio,Audio,音频
+ui_options_menu_gameplay,Gameplay,Spiel,游戏性
+ui_options_menu_key_bindings,Key Bindings,Tastenbelegung,按键设置
+ui_options_menu_controller_layout,Gamepad Layout,Gamepad Layout,手柄布局
+ui_options_menu_return_to_main_menu,Back to Main Menu,Zurück,返回主菜单
+ui_options_menu_return,Back,Zurück,返回
+ui_options_menu_save,Save Settings,Einstellungen speichern,保存设置
+ui_options_menu_restore_defaults,Restore Default Settings,Standard wiederherstellen,恢复默认设置
+ui_options_menu_close,Close,Schließen,关闭
+ui_main_menu_save_corrutped_file_found,corrupted save file,beschädigte Speicherdatei,存档已损坏
+ui_main_menu_save_corrutped_info,The game wasn't closed properly and one of your save files appears to be corrupted. Loading it may cause crashes. Remove the corrupted file?,Eine Speicherdatei wurde durch ein unerwartetes Beenden beschädigt. Beim Laden kann es zu Abstürzen kommen. Soll die beschädigte Datei gelöscht werden?,游戏未正常关闭，你的一个存档似乎已损坏。读取该存档可能导致游戏崩溃。是否移除损坏的存档？
+ui_main_menu_save_corrutped_delete,Delete Corrupted File,Beschädigte Datei entfernen,删除损坏的存档
+ui_main_menu_save_corrutped_rename,Rename Corrupted File,Beschädigte Datei umbenennen,重命名损坏的存档
+ui_save_state_override,Hold ###input.INPUT_ACTION### to overwrite,Halte ###input.INPUT_ACTION### zum Überschreiben,按住 ###input.INPUT_ACTION### 覆盖
+ui_save_state_override_mouse,Hold ###input.MOUSE_BUTTON_LEFT### to overwrite,Halte ###input.MOUSE_BUTTON_LEFT### zum Überschreiben,按住 ###input.MOUSE_BUTTON_LEFT### 覆盖
+ui_main_menu_input_back,###input.INPUT_BACK### return,###input.INPUT_BACK### zurück,###input.INPUT_BACK### 返回
+ui_new_game_plus_selection,Select Difficulty,Schwierigkeitsgrad wählen,选择难度
+ui_new_game_plus_standard,Standard,Standard,标准
+ui_new_game_plus_count,New Game +,Neues Spiel +,新游戏 +
+ui_new_game_plus_difficulty_enemy_levels,Enemy Level Range:,Stufenbereich der Gegner:,敌人等级范围：
+ui_new_game_plus_difficulty_player_defense_reduction,Malus Physical Defense:,Malus auf Physische Verteidigung:,物理防御减益：
+ui_new_game_plus_difficulty_player_resistance_reduction,Malus Elemental Resistance:,Malus auf Resistenzen:,元素抗性减益：
+ui_new_game_plus_difficulty_faction_bonus_received,Faction Bonus Received:,Fraktionsbonus erhalten,获得的阵营加成：
+ui_new_game_plus_difficulty_faction_bonus_received_info,Joining a faction no longer provides bonus attributes on this difficulty.,Fraktionsbeitritt verleiht auf diesem Schwierigkeitsgrad keine zusätzlichen Attribute mehr.,在此难度下，加入阵营不再提供额外属性。
+ui_main_menu_join_discord,Join the Discord server,Discord Server beitreten,加入 Discord 服务器
+ui_main_menu_join_discord_confirm,Open in Browser,in Browser öffnen,在浏览器中打开
+,,,
+ui_options_generic_true,On,An,开
+ui_options_generic_false,Off,Aus,关
+,,,
+ui_options_change_setting_not_ingame,This setting can only be changed from the main menu.,Diese Einstellung kann nur über das Hauptmenü geändert werden.,此设置只能在主菜单中更改。
+,,,
+,,,
+ui_options_menu_graphics_display_mode,Display Mode,Anzeige,显示模式
+ui_options_menu_graphics_display_mode_fullscreen,Fullscreen,Vollbild,全屏
+ui_options_menu_graphics_display_mode_windowed,Windowed,Fenster,窗口化
+ui_options_menu_graphics_display_mode_windowed_borderless,Borderless Window,Rahmenloses Fenster,无边框窗口
+ui_options_menu_graphics_display_mode_borderless_fullscreen,Borderless Fullscreen,Rahmenloses Vollbild,无边框全屏
+,,,
+ui_options_menu_graphics_resolution,Resolution,Auflösung,分辨率
+ui_options_menu_graphics_resolution_desc,The Resolution is only effective in Windowed Mode.,Die Auflösung ist nur im Fenstermodus wirksam.,分辨率仅在窗口模式下生效。
+,,,
+ui_options_menu_graphics_text_scaling,Text Scaling,Textskalierung,文字缩放
+ui_options_menu_graphics_text_scaling_small,Small,Klein,小
+ui_options_menu_graphics_text_scaling_default,Default,Standard,默认
+ui_options_menu_graphics_text_scaling_big,Large,Groß,大
+,,,
+ui_options_menu_graphics_enable_layer_effects,Post Processing FX,Post Processing FX,后期处理特效
+ui_options_menu_graphics_enable_layer_effects_desc,Adds extra visual effects. Note: may affect performance.,Erweiterte Grafikeffekte. Wichtig: Kann die Performance beeinflussen.,添加额外的视觉效果。注意：可能影响性能。
+ui_options_menu_graphics_enable_layer_effects_enabled,All,Alle,全部
+ui_options_menu_graphics_enable_layer_effects_disabled,Disabled,Aus,关闭
+ui_options_menu_graphics_enable_layer_effects_standard,Standard,Standard,标准
+,,,
+ui_options_menu_graphics_cursor_style,Show Cursor,Mauszeiger anzeigen,显示光标
+ui_options_menu_graphics_cursor_style_none,Never,nicht anzeigen,从不
+ui_options_menu_graphics_cursor_style_default,Automatic,Automatisch,自动
+ui_options_menu_graphics_cursor_style_always,Always,immer anzeigen,始终
+,,,
+ui_options_menu_audio_volume_master,Volume Master,Gesamtlautstärke,主音量
+ui_options_menu_audio_volume_music,Volume Music,Lautstärke Musik,音乐音量
+ui_options_menu_audio_volume_sfx,Volume Sound Effects,Lautstärke Sounds,音效音量
+ui_options_menu_audio_play_dialogue_sounds,Dialogue SFX,Dialog SFX,对话音效
+ui_options_menu_audio_play_dialogue_sounds_true,On,An,开
+ui_options_menu_audio_play_dialogue_sounds_false,Off,Aus,关
+,,,
+ui_options_menu_gameplay_language,Language,Sprache,语言
+ui_options_menu_gameplay_language_de,Deutsch,Deutsch,Deutsch
+ui_options_menu_gameplay_language_en,English,English,English
+ui_options_menu_gameplay_language_ru,Русский,Русский,Русский
+ui_options_menu_gameplay_language_zh,中文,中文,中文
+ui_options_menu_gameplay_show_damage_values,Show Damage Values,Zeige Schadenswerte,显示伤害数值
+ui_options_menu_gameplay_show_damage_values_true,Show,Anzeigen,显示
+ui_options_menu_gameplay_show_damage_values_false,Hide,Verbergen,隐藏
+ui_options_menu_gameplay_show_damage_values_desc,Show the Amount of Damage Dealt.,Zeige den verursachten Schaden an.,显示造成的伤害数值。
+ui_options_menu_gameplay_show_compare_values,Show Compare Values,Zeige Vergleichswerte,显示对比数值
+ui_options_menu_gameplay_show_compare_values_true,Show,Anzeigen,显示
+ui_options_menu_gameplay_show_compare_values_false,Hide,Verbergen,隐藏
+ui_options_menu_gameplay_show_compare_values_desc,View Equipment Differences in the Inventory.,Zeige Unterschiede der Gegenstände im Inventar.,在物品栏中查看装备差异。
+ui_options_menu_gameplay_use_cloud_saves,Use Cloud Saves,Cloud Speicherstände,使用云存档
+ui_options_menu_gameplay_use_cloud_saves_false,Disabled,Nicht verwenden,关闭
+ui_options_menu_gameplay_use_cloud_saves_true,Enabled,Verwenden,开启
+ui_options_menu_gameplay_input_method,Preferred Input Mode,Eingabemodus,首选输入方式
+ui_options_menu_gameplay_input_controller_vibration_strength,Vibration Strength,Vibration Stärke,震动强度
+ui_options_menu_gameplay_input_method_auto,Automatic,Automatisch,自动
+ui_options_menu_gameplay_input_method_keyboard,Mouse and Keyboard,Maus und Tastatur,键盘鼠标
+ui_options_menu_gameplay_input_method_gamepad,Gamepad,Controller,手柄
+ui_options_menu_gameplay_dodge_direction,Dodge Direction,Ausweichrichtung,闪避方向
+ui_options_menu_gameplay_dodge_direction_mouse,Towards Mouse,zur Mausposition,朝向鼠标
+ui_options_menu_gameplay_dodge_direction_movement_dir,Movement Direction,Bewegungsrichtung,移动方向
+ui_options_menu_gameplay_dodge_direction_desc,Decides the direction of your dodge,Bestimmt die Richtung beim Ausweichen,决定你闪避的方向
+ui_options_menu_gameplay_hud_style,HUD,HUD,HUD
+ui_options_menu_gameplay_hud_style_desc,"HUD visibility: always, nearby enemies or only the status.","HUD Sichtbarkeit: Immer, in der Nähe von Gegnern oder nur den Status.",HUD 显示方式：始终显示、敌人接近时显示或仅显示状态。
+ui_options_menu_gameplay_hud_style_standard,Standard,Standard,标准
+ui_options_menu_gameplay_hud_style_auto,Automatic,Automatisch,自动
+ui_options_menu_gameplay_hud_style_hide_quick_access,Minimal,Minimal,极简
+ui_options_menu_gameplay_hud_style_standard_desc,The HUD and quick access bar are always shown.,Das HUD und die Schnellzugriffsleiste werden immer angezeigt.,始终显示 HUD 和快捷栏。
+ui_options_menu_gameplay_hud_style_auto_desc,The HUD appears when your status drops or enemies approach.,"Das HUD wird bei Gegnern in der Nähe angezeigt, oder wenn dein Status nicht voll ist.",当你的状态未满或敌人接近时显示 HUD。
+ui_options_menu_gameplay_hud_style_hide_quick_access_desc,Only your status is shown.,Nur die Statusanzeige ist sichtbar.,仅显示状态栏。
+ui_options_menu_gameplay_screen_shake_enabled,Screen Shake,Screen Shake,屏幕震动
+ui_options_menu_gameplay_screen_shake_enabled_enabled,Enabled,An,开启
+ui_options_menu_gameplay_screen_shake_enabled_disabled,Disabled,Aus,关闭
+ui_options_menu_gameplay_highlight_new_items,New Item Highlight,Neues Item hervorheben,新物品高亮
+ui_options_menu_gameplay_highlight_new_items_off,Disabled,Aus,关闭
+ui_options_menu_gameplay_highlight_new_items_until_hover,Until Selected,bis Ausgewählt,直到选中
+ui_options_menu_gameplay_highlight_new_items_until_inventory_close,Until Inventory Close,bis Schließen vom Inventar,直到关闭物品栏
+ui_options_menu_gameplay_highlight_new_items_desc,Newly acquired items are highlighted in the inventory.,Neu erhaltene Gegenstände werden im Inventar hervorgehoben.,在物品栏中高亮显示新获得的物品。
+ui_options_menu_gameplay_item_cluster_handling,Show Item Cluster,Item-Cluster anzeigen,显示物品群集
+ui_options_menu_gameplay_item_cluster_handling_off,Disabled,Aus,关闭
+ui_options_menu_gameplay_item_cluster_handling_not_in_combat,Not in Combat,Außerhalb vom Kampf,非战斗时
+ui_options_menu_gameplay_item_cluster_handling_always,Always,Immer,始终
+ui_options_menu_gameplay_item_cluster_handling_desc,All nearby items are shown while holding the assigned key,"Zeigt alle Gegenstände in der Nähe, solange die zugewiesene Taste gehalten wird.",按住指定按键时显示附近的所有物品
+ui_options_menu_gameplay_auto_scroll_enabled,Auto-Scroll Item Info,Auto-Scroll Items,自动滚动物品信息
+ui_options_menu_gameplay_auto_scroll_enabled_off,Disabled,Aus,关闭
+ui_options_menu_gameplay_auto_scroll_enabled_on,Enabled,An,开启
+ui_options_menu_gameplay_dev_mode,Developer Mode,Entwicklermodus,开发者模式
+ui_options_menu_gameplay_dev_mode_desc,Developer Mode prevents creating screenshots with F12,Der Entwicklermodus verhindert das Erstellen von Screenshots mit F12,开发者模式将阻止使用 F12 截图
+ui_options_menu_gameplay_dev_mode_disabled,Disabled,Aus,关闭
+ui_options_menu_gameplay_dev_mode_enabled,Enabled,An,开启
+,,,
+ui_world_generation_create,A new world is created...,Eine neue Welt entsteht...,正在创造一个新世界……
+ui_world_generation_load,Load game...,Spiel laden...,读取游戏……
+,,,
+ui_game_crash,Unexpected error:,Unerwarteter Fehler:,意外错误：
+,,,
+,,,
+ui_game_mode_standard,Standard,Standard,标准
+ui_game_mode_new_game_plus,New Game +,Neues Spiel +,新游戏+
+ui_game_mode_bingo,Bingo,Bingo,宾果
+ui_game_mode_bingo_desc_short,"Form a horizontal, vertical, or diagonal line to achieve a bingo by completing different goals.","Forme eine horizontale, vertikale oder diagonale Linie, um ein Bingo zu bekommen, indem du verschiedene Ziele erledigst.",通过完成不同的目标，连成横向、纵向或对角线，达成宾果。
+ui_game_mode_bingo_setting_seed,Seed,Seed,种子
+ui_game_mode_bingo_setting_seed_desc,Set a custom seed to replay the same Bingo board or challenge a friend to a race.,"Lege einen benutzerdefinierten Seed fest, um dasselbe Bingo-Board erneut zu spielen oder einen Freund herauszufordern.",设置自定义种子，以重玩同一宾果板或与朋友竞速比拼。
+ui_game_mode_bingo_setting_seed_random,Random,Zufällig,随机
+ui_game_mode_bingo_setting_seed_fix,Custom,Eigene,自定义
+ui_game_mode_bingo_setting_seed_value,Custom Seed,Eigene Seed,自定义种子
+ui_game_mode_bingo_setting_grid_size,Grid Size,Größe,棋盘大小
+ui_game_mode_bingo_setting_grid_size_3,3x3,3x3,3x3
+ui_game_mode_bingo_setting_grid_size_4,4x4,344,4x4
+ui_game_mode_bingo_setting_grid_size_5,5x5,5x5,5x5
+ui_game_mode_bingo_setting_color,Square Color,Rechteckfarbe,方格颜色
+ui_game_mode_bingo_setting_color_blue,Blue,Blau,蓝色
+ui_game_mode_bingo_setting_color_violet,Violet,Violett,紫色
+ui_game_mode_bingo_setting_color_red,Red,Rot,红色
+ui_game_mode_bingo_setting_color_yellow,Yellow,Gelb,黄色
+ui_game_mode_bingo_setting_color_green,Green,Grün,绿色
+ui_game_mode_bingo_setting_color_turquoise,Turquoise,Türkis,青色
+ui_game_mode_bingo_start_options,Starting Options,Startoptionen,初始选项
+ui_game_mode_bingo_setting_random_equipment,Random Equipment,zufällige Ausrüstung,随机装备
+ui_game_mode_bingo_setting_start_with_armor,Start with Armor,mit Rüstung starten,初始携带护甲
+ui_game_mode_bingo_setting_random_stats,Random Attributes,zufällige Attribute,随机属性
+ui_game_mode_bingo_setting_start_with_ritual_stone_key,Start with Teleport,Starte mit Teleport,初始解锁传送
+ui_game_mode_bingo_setting_skip_intro_tutorial,Skip Tutorial,Tutorial überspringen,跳过教程
+,,,
+,,,
+,,,
+ui_game_mode_bingo_info_open_board,###input.INPUT_GAME_MODE_SPECIAL### show Bingo Board,###input.INPUT_GAME_MODE_SPECIAL### Bingobrett anzeigen,###input.INPUT_GAME_MODE_SPECIAL### 显示宾果板
+ui_game_mode_bingo_info_check,###input.INPUT_ACTION### mark,###input.INPUT_ACTION### markieren,###input.INPUT_ACTION### 标记
+ui_game_mode_bingo_info_check_mouse,###input.MOUSE_BUTTON_LEFT### mark,###input.MOUSE_BUTTON_LEFT### markieren,###input.MOUSE_BUTTON_LEFT### 标记
+ui_game_mode_bingo_info_favorite,###input.INPUT_INVENTORY_ITEM_DROP### favor,###input.INPUT_INVENTORY_ITEM_DROP### favorisieren,###input.INPUT_INVENTORY_ITEM_DROP### 收藏
+ui_game_mode_bingo_info_counter,###input.INPUT_INVENTORY_CATEGORY_NEXT### add counter,###input.INPUT_INVENTORY_CATEGORY_NEXT### Zähler hinzufügen,###input.INPUT_INVENTORY_CATEGORY_NEXT### 增加计数
+ui_game_mode_bingo_info_counter_mouse,###input.MOUSE_SCROLL_UP### add counter,###input.MOUSE_SCROLL_UP### Zähler hinzufügen,###input.MOUSE_SCROLL_UP### 增加计数
+ui_game_mode_bingo_info_goal_description_mouse,###input.INPUT_SKILL_QUICK_BAR### show description,###input.INPUT_SKILL_QUICK_BAR### zeige Beschreibung,###input.INPUT_SKILL_QUICK_BAR### 显示说明
+ui_game_mode_bingo_info_goal_description,###input.INPUT_QUICK_ACCESS_RADIAL_LEFT### show description,###input.INPUT_QUICK_ACCESS_RADIAL_LEFT### zeige Beschreibung,###input.INPUT_QUICK_ACCESS_RADIAL_LEFT### 显示说明
+,,,
+,,,
+,,,
+ui_game_mode_bingo_goal_acquire_3_keys,Acquire 3 different keys,Finde 3 verschiedene Schlüssel,获得3把不同的钥匙
+ui_game_mode_bingo_goal_acquire_3_keys_desc,Acquire 3 different items with 'key' in the name.,Finde 3 verschiedene Gegenstände mit dem Wort 'Schlüssel' im Namen.,"获得3件名称中带有""钥匙""的不同物品。"
+ui_game_mode_bingo_goal_acquire_1000_gold,Have 1000 gold at once,Halte 1000 Gold auf einmal,同时持有1000金币
+ui_game_mode_bingo_goal_acquire_1000_gold_desc,Have 1000 gold or more at once in your inventory.,Halte 1000 Gold oder mehr auf einmal im Inventar.,在物品栏中一次性持有1000金币或更多。
+ui_game_mode_bingo_goal_activate_3_teleports,Activate 3 ritual stones,Aktiviere 3 Ritualsteine,激活3块仪式石
+ui_game_mode_bingo_goal_activate_3_teleports_desc,Completed by activating three ritual stones. Hint: You need the Ritual Stone Key to activate them.,"Abgeschlossen durch Aktivierung von drei Ritualsteinen. Hinweis: Du benötigst den Ritualsteinschlüssel, um sie zu aktivieren.",激活三块仪式石即可完成。提示：需要仪式石钥匙才能激活它们。
+ui_game_mode_bingo_goal_defeat_drunk_thorald,Defeat Thorald,Besiege Thorald,击败索拉尔德
+ui_game_mode_bingo_goal_defeat_drunk_thorald_desc,Defeat Thorald in the Crossroad Inn.,Besiege Thorald in der Taverne an der Kreuzung,在十字路旅店击败索拉尔德。
+ui_game_mode_bingo_goal_buy_blueprint_from_lennard,Buy a Blueprint from Lennard,Kaufe eine Anleitung von Lennard,向伦纳德购买一张图纸
+ui_game_mode_bingo_goal_buy_blueprint_from_lennard_desc,Speak to Lennard in the capital after saving him to unlock his blueprints.,"Sprich mit Lennard in der Hauptstadt, nachdem er gerettet wurde, um seine Anleitungen freizuschalten.",救出伦纳德后，在王都与他交谈以解锁他的图纸。
+ui_game_mode_bingo_goal_buy_strange_weapon,Buy a Strange Weapon,Kaufe eine Seltsame Waffe,购买一把奇异武器
+ui_game_mode_bingo_goal_buy_strange_weapon_desc,Lennard sells Strange Weapons after returning to the Icefall Caravan.,"Lennard verkauft seltsame Waffen, nachdem er zur Eisfallkarawane zurückgekehrt ist.",伦纳德返回冰瀑商队后会出售奇异武器。
+ui_game_mode_bingo_goal_reach_level_9,Reach Level 9,Erreiche Level 9,达到9级
+ui_game_mode_bingo_goal_repair_the_bridge,Repair the bridge,Repariere die Brücke,修复大桥
+ui_game_mode_bingo_goal_repair_the_bridge_desc,Make Jens repair the broken bridge completely.,Lass Jens die zerstörte Brücke komplett reparieren,让延斯将断桥完全修好。
+ui_game_mode_bingo_goal_acquire_20_ores,Acquire 20 ores,Finde 20 Erze,获得20块矿石
+ui_game_mode_bingo_goal_reach_10_VIT,Reach 10 Vitality,Erreiche 10 Vitalität,体力达到10
+ui_game_mode_bingo_goal_reach_10_END,Reach 10 Endurance,Erreiche 10 Ausdauer,耐力达到10
+ui_game_mode_bingo_goal_reach_10_MAG,Reach 10 Magic,Erreiche 10 Magie,魔力达到10
+ui_game_mode_bingo_goal_defeat_boss_fists_only,Defeat a boss with fists only,Besiege einen Boss nur mit Fäusten,仅用拳头击败一名首领
+ui_game_mode_bingo_goal_defeat_boss_throwables_only,Defeat a boss with throwables only,Besiege einen Boss nur mit Wurfgegenständen,仅用投掷物击败一名首领
+ui_game_mode_bingo_goal_defeat_boss_bow_only,Defeat a boss with bows only,Besiege einen Boss nur mit Bögen,仅用弓击败一名首领
+ui_game_mode_bingo_goal_defeat_boss_goblin_mage,Defeat the Goblin Mage,Besiege den Goblin Magier,击败哥布林法师
+ui_game_mode_bingo_goal_defeat_boss_gru_ra,Defeat Gru'Ra,Besiege Gru'Ra,击败格鲁拉
+ui_game_mode_bingo_goal_defeat_crystal_bulwark,Defeat the Crystal Bulwark,Besiege die Kristallfestung,击败水晶壁垒
+ui_game_mode_bingo_goal_defeat_keeper_of_dhul_oq,Defeat the Keeper of Dhul'oq,Besiege den Hüter von Dhul'oq,击败杜尔奥克守护者
+ui_game_mode_bingo_goal_defeat_orc_chief,Defeat the Orcish Chieftain,Besiege den Orkischen Häuptling,击败兽人酋长
+ui_game_mode_bingo_goal_defeat_troll_duo,Defeat the Troll Duo,Besiege das Trollduo,击败巨魔双雄
+ui_game_mode_bingo_goal_defeat_savage_leader,Defeat the Tribal Chieftain,Besiege den Häuptling der Wilden,击败部族酋长
+ui_game_mode_bingo_goal_inflict_two_status_effects,Inflict 2 different Status Effects,Füge 2 verschiedene Statuseffekte zu,施加2种不同的状态效果
+ui_game_mode_bingo_goal_inflict_two_status_effects_desc,"Inflict 2 different status effects (Poison, Bleed, Burning, Freeze, Cursed)","Füge 2 verschiedene Statuseffekte zu (Vergiftung, Blutung, Verbrennung, Gefrieren, Verflucht)",施加2种不同的状态效果（中毒、流血、燃烧、冰冻、诅咒）
+ui_game_mode_bingo_goal_eat_15_apples,Eat 15 Apples,Iss 15 Äpfel,吃下15个苹果
+ui_game_mode_bingo_goal_return_hallgrim_hammer,Return Hallgrim's Hammer,Bringe Hallgrim's Hammer zurück,归还哈尔格里姆的锤子
+ui_game_mode_bingo_goal_return_hallgrim_hammer_desc,Return Hallgrim's Hammer to either Hallgrim or Korg,Bringe Hallgrim's Hammer entweder Hallgrim oder Korg zurück,将哈尔格里姆的锤子归还给哈尔格里姆或科尔格
+ui_game_mode_bingo_goal_talk_to_mika_in_the_bandit_camp,Talk to Mika in the Bandit Camp,Sprich mit Mika im Banditenlager,在强盗营地与米卡交谈
+ui_game_mode_bingo_goal_talk_to_mika_in_the_bandit_camp_desc,"After Mika has been rescued from the orcs, he can be found in the bandit camp at the mountain pass.","Nachdem Mika vor den Orks gerettet wurde, kann man ihn im Banditenlager am Gebirgspass finden.",米卡从兽人手中获救后，可以在山口的强盗营地找到他。
+ui_game_mode_bingo_goal_survive_3_mosquito_explosions,Survive 3 Mosquito explosions,Überlebe 3 Explosionen von Moskitos,在3次蚊虫爆炸中存活
+ui_game_mode_bingo_goal_survive_3_mosquito_explosions_desc,Get hit by 3 explosions of the wasteland mosquitoes without dying once.,"Lass dich von 3 Explosionen der Moskitos im Ödland treffen, ohne einmal zu sterben.",被荒地蚊虫的爆炸击中3次且一次都不死亡。
+ui_game_mode_bingo_goal_gather_3_blood_coins,Collect 3 Blood Coins,Sammle 3 Blutmünzen,收集3枚鲜血硬币
+ui_game_mode_bingo_goal_gather_3_blood_coins_desc,"Collect 3 Blood Coins in the Blood Dungeon, which can be accessed through the wasteland.","Sammle 3 Blutmünzen im Blut Dungeon, der über das Ödland betreten werden kann.",在鲜血地牢中收集3枚鲜血硬币，该地牢可从荒地进入。
+ui_game_mode_bingo_goal_gather_3_corrupted_coins,Collect 3 Corrupted Coins,Sammle 3 Korrupte Münzen,收集3枚堕落硬币
+ui_game_mode_bingo_goal_gather_3_corrupted_coins_desc,"Collect 3 Corrupted Coins, which are dropped from enemies once you joined the Cultists.","Sammle 3 Korrupte Münzen, die von Feinden erbeutet werden können, sobald du dich den Kultisten angeschlossen hast.",收集3枚堕落硬币，加入邪教徒后敌人便会掉落它们。
+ui_game_mode_bingo_goal_craft_armor_weapon_artefact,"Craft a weapon, an armor and an artefact","Fertige eine Waffe, eine Rüstung und ein Artefakt",制作一件武器、一件护甲和一件神器
+ui_game_mode_bingo_goal_pay_200_gold_fine_balder,Pay 200 gold fine to Balder,Zahle 200 Gold Strafe an Balder,向巴尔德支付200金币罚金
+ui_game_mode_bingo_goal_pay_200_gold_fine_balder_desc,I am sorry for making you kill chicken in the bandit camp. Sometimes bingo goals require morally questionable chicken-related tasks. This is one of those times.,"Es tut mir leid, dass du nun Hühner im Banditenlager töten musst. Manchmal erfordern Bingo-Ziele moralisch fragwürdige Aufgaben im Zusammenhang mit Hühnern.",很抱歉让你在强盗营地杀鸡。有时宾果目标就是需要完成一些道德上有争议的杀鸡任务。这次就是如此。
+ui_game_mode_bingo_goal_defeat_the_pig_guard,Defeat the Pig Guard,Besiege die Wache bei den Schweinen,击败守猪卫兵
+ui_game_mode_bingo_goal_defeat_the_pig_guard_desc,"I am sorry for making you kill pigs in the bandit camp. Look, it was either them or the bingo goal.","Es tut mir leid, dass du wegen Bingo Schweine im Banditenlager töten musst. Es waren entweder sie oder das Bingo-Ziel.",很抱歉让你在强盗营地杀猪。你看，不是它们，就是宾果目标。
+ui_game_mode_bingo_goal_add_two_sockets_to_item,Add two gems to a single item,Füge zwei Edelsteine einem Gegenstand hinzu,为同一件物品镶入两颗宝石
+ui_game_mode_bingo_goal_counter_5_missiles,Counter 5 missiles,Kontere 5 Geschosse,反击5枚投射物
+ui_game_mode_bingo_goal_counter_5_missiles_desc,Hit missiles 5 times with a weapon which is able to counter attacks.,"Triff Geschosse 5 Mal mit einer Waffe, die Angriffe kontern kann.",用能够反击攻击的武器击中投射物5次。
+ui_game_mode_bingo_goal_defeat_boss_after_5_perfect_blocks,Defeat a boss after 5 perfect blocks,Besiege einen Boss nach 5 perfekten Blocks,完成5次完美格挡后击败一名首领
+ui_game_mode_bingo_goal_defeat_boss_after_5_perfect_blocks_desc,Perform 5 well-timed shield blocks before an attack lands. Then take down the boss.,"Führe 5 gut getimte Blocks mit einem Schild aus, bevor ein Angriff landet. Besiege danach den Boss.",在攻击命中前完成5次时机精准的盾牌格挡，然后击败首领。
+ui_game_mode_bingo_goal_defeat_boss_hitless,Defeat a boss hitless,"Besiege einen Boss, ohne getroffen zu werden",无伤击败一名首领
+ui_game_mode_bingo_goal_deliver_gunthars_letter,Deliver Gunthar's letter,Überbringe Gunthars Brief,送达贡塔尔的信
+ui_game_mode_bingo_goal_deliver_gunthars_letter_desc,Gunthar's letter can be found in the temple in the swamp.,Gunthars Brief kann im Tempel im Sumpf gefunden werden.,贡塔尔的信可以在沼泽的神殿中找到。
+ui_game_mode_bingo_goal_deliver_kolfinns_letter,Deliver Kolfinn's letter,Überbringe Kolfinns Brief,送达科尔芬的信
+ui_game_mode_bingo_goal_deliver_kolfinns_letter_desc,Kolfinn the smith is found in the capital.,Der Schmied Kolfinn befindet sich in der Hauptstadt.,铁匠科尔芬就在王都。
+ui_game_mode_bingo_goal_get_grenkams_might,Find Grenkam's Might,Finde Grenkams Macht,找到格伦卡姆之力
+ui_game_mode_bingo_goal_get_grenkams_might_desc,Grenkam's Might is hidden in the crypt below the capital. Hint: A path will open as the king feels the warmth of the fire.,"Grenkams Macht ist in der Krypta unter der Hauptstadt versteckt. Hinweis: Ein Weg öffnet sich, wenn der König die Wärme des Feuers spürt.",格伦卡姆之力藏在王都地下的墓穴中。提示：当国王感受到火焰的温暖时，道路便会开启。
+ui_game_mode_bingo_goal_get_arcanum_sanguis,Find the Arcanum Sanguis,Finde das Arcanum Sanguis,找到血之秘典
+ui_game_mode_bingo_goal_get_arcanum_sanguis_desc,"Find the book. Hint: Start the quest by learning that the book is missing from the academy, or by progressing through the cultist questline.","Finde das Buch. Hinweis: Beginne die Quest, indem du erfährst, dass das Buch in der Akademie fehlt, oder durch die Questreihe der Kultisten.",找到这本书。提示：得知这本书从学院失踪即可开始任务，也可通过推进邪教徒任务线开始。
+ui_game_mode_bingo_goal_identify_pale_coin,Identify a Pale Coin,Identifiziere eine Bleiche Münze,鉴定一枚苍白硬币
+ui_game_mode_bingo_goal_identify_pale_coin_desc,"After finding a Pale Coin, you can identify them at Nuveyar in the Eternal Realm.","Nachdem du eine Bleiche Münze gefunden hast, kannst du diese bei Nuveyar in der Ewigen Ebene identifizieren.",找到苍白硬币后，可以在永恒之境的努维亚处进行鉴定。
+ui_game_mode_bingo_goal_pet_two_cats,Pet two cats,Streichle zwei Katzen,抚摸两只猫
+ui_game_mode_bingo_goal_troll_stomp,Get stomped by a troll,Werde von einem Troll zertrampelt,被巨魔踩踏
+ui_game_mode_bingo_goal_troll_stomp_desc,Get stomped by a troll and survive the attack. Hint: You do not need to finish the boss fight.,Werde von einem Troll zertrampelt und überlebe den Angriff. Hinweis: Du musst den Boss dabei nicht besiegen.,被巨魔踩踏并在这次攻击中存活。提示：无需打完这场首领战。
+ui_game_mode_bingo_goal_academy_trip,Join Travis' academy trip,Begleite Travis Reise zur Akademie,参加特拉维斯的学院之行
+ui_game_mode_bingo_goal_academy_trip_desc,Speak with Travis or the Marin Passage guard to trigger the academy trip dialogue at the king's advisor.,"Sprich mit Travis oder der Wache zur Marin Passage, um den Akademie-Dialog beim Berater des Königs auszulösen.",与特拉维斯或马林通道的守卫交谈，以在国王顾问处触发学院之行的对话。
+ui_game_mode_bingo_goal_give_darius_5_different_plants,Give Darius 5 different herbs,Gib Darius 5 verschiedene Pflanzen,给达里乌斯5种不同的草药
+ui_game_mode_bingo_goal_give_darius_5_different_plants_desc,Darius is found in the academy of the mages.,Darius befindet sich in der Akademie der Magier.,达里乌斯就在魔法学院。
+ui_game_mode_bingo_goal_defeat_royal_aegis,Defeat the Corrupted Royal Aegis,Besiege die verderbte königliche Ägis,击败堕落的皇家神盾
+ui_game_mode_bingo_goal_defeat_dragon,Defeat the Red Dragon,Besiege den Roten Drachen,击败红龙
+ui_game_mode_bingo_goal_lyrak_pissed,Make Lyrak no longer talk to you,"Bring Lyrak dazu, nicht mehr mit dir zu reden",让莱拉克不再理你
+ui_game_mode_bingo_goal_lyrak_pissed_desc,The academy mage Lyrak is full of himself. Don't hold back and tell him exactly what you think.,"Lyrak, ein Magier der Akademie, hält viel von sich selbst. Sag ihm ohne Zurückhaltung, was du wirklich denkst.",学院法师莱拉克自视甚高。别客气，把你的真实想法统统告诉他。
+ui_game_mode_bingo_goal_confront_fake_wine_dealer,Confront the fake wine dealer,Stelle den Weinfälscher zur Rede,揭穿假酒贩子
+ui_game_mode_bingo_goal_confront_fake_wine_dealer_desc,Find out who sells the fake academy wine and confront the dealer. Hint: Start the quest by talking to Cedric in the academy.,"Finde heraus, wer den gefälschten Wein der Akademie verkauft, und stelle den Händler zur Rede. Hinweis: Sprich mit Cedric in der Akademie, um die Quest zu beginnen.",查出是谁在售卖假冒的学院葡萄酒，并当面揭穿他。提示：与学院的塞德里克交谈以开始任务。
+ui_game_mode_bingo_goal_get_miriams_ring,Get Miriam's Ring,Erhalte Miriams Ring,获得米里亚姆的戒指
+ui_game_mode_bingo_goal_get_miriams_ring_desc,Miriam is found at the lake near the capital. Hint: You'll need the Coin of Time identified to talk to her.,"Miriam befindet sich am See in der Nähe der Hauptstadt. Hinweis: Du benötigst die Münze der Zeit, um mit ihr sprechen zu können.",米里亚姆就在王都附近的湖边。提示：需要先鉴定时间硬币才能与她交谈。
+ui_game_mode_bingo_goal_collect_all_sacred_stones,Collect all sacred stones,Sammle alle heiligen Steine,收集所有圣石
+ui_game_mode_bingo_goal_talk_to_lennard_at_caravan,Talk to Lennard at the Icefall Caravan,Sprich mit Lennard bei der Eisfallkarawane,在冰瀑商队与伦纳德交谈
+ui_game_mode_bingo_goal_talk_to_lennard_at_caravan_desc,Lennard returns to the Icefall Caravan once the bridge is repaired and the issue with his goods is resolved.,"Lennard kehrt zur Eisfallkarawane zurück, sobald die Brücke repariert und das Problem mit seinen Waren gelöst ist.",大桥修复且货物问题解决后，伦纳德会返回冰瀑商队。
+ui_game_mode_bingo_goal_return_the_old_sailor_hat,Return the Old Sailor Hat,Gib den Alten Seemannshut zurück,归还旧水手帽
+ui_game_mode_bingo_goal_return_the_old_sailor_hat_desc,The Old Sailor is found at the Marin Cliffs.,Der alte Seemann befindet sich bei den Marin Klippen.,老水手就在马林悬崖。
+ui_game_mode_bingo_get_poisoned_heart_of_warror,Get a poisoned Heart of a Warrior,Erhalte vergiftetes Herz eines Kriegers,获得中毒的战士之心
+ui_game_mode_bingo_get_poisoned_heart_of_warror_desc,Orcs drop the Heart of a Warrior. Hint: It can be poisoned by Bauric during a cultist-related quest.,Das Herz eines Kriegers kann von Orks erbeutet werden. Hinweis: Es kann von Bauric während einer Quest der Kultisten vergiftet werden.,兽人会掉落战士之心。提示：在一个邪教徒相关任务中，鲍里克可以为它下毒。
+ui_game_mode_bingo_find_two_different_maps,Find 2 different maps,Finde 2 verschiedene Karten,找到2张不同的地图
+ui_game_mode_bingo_find_two_different_maps_desc,Find 2 items that open a map when used. Hint: A dusty library within a dungeon hides one.,"Finde 2 Gegenstände, die bei Verwendung eine Karte öffnen. Hinweis: Eine davon ist in einer staubigen Bibliothek in einem Dungeon versteckt.",找到2件使用后会打开地图的物品。提示：某个地下城中尘封的图书馆里藏着一件。
+ui_game_mode_bingo_learn_two_languages,Learn 2 languages,Lerne 2 Sprachen,学会2门语言
+ui_game_mode_bingo_unlock_varethraen_teleport,Activate the teleporter in Varethraen,Aktiviere den Teleporter in Varethraen,激活瓦雷斯兰的传送装置
+ui_game_mode_bingo_unlock_varethraen_teleport_desc,Hint: Access the city with 4 Bellkeeper Keys.,Hinweis: Betritt die Stadt mit 4 Schlüssel der Glockenhüter.,提示：用4把守钟人钥匙进入该城市。
+ui_game_mode_bingo_collect_25_items,Submit 25 items to Frestek's collection,Füge Fresteks Sammlung 25 Gegenstände hinzu,向弗雷斯泰克的收藏提交25件物品
+ui_game_mode_bingo_collect_25_items_desc,Store 25 items of your choice in Baron Frestek's collection in the capital.,Füge Fresteks Sammlung in der Hauptstadt 25 Gegenstände hinzu.,在王都的弗雷斯泰克男爵收藏中存放25件任意物品。
+ui_game_mode_bingo_cook_5_meals,Cook 5 different meals,Koche 5 verschiedene Gerichte,烹饪5种不同的菜肴
+ui_game_mode_craft_large_gem,Craft any large gem at the enchanter,Stelle einen großen Edelstein her,在附魔师处制作任意大型宝石
+ui_game_mode_craft_large_gem_desc,Combine three regular gems at the enchanter in the academy.,Kombiniere drei Standard-Edelsteine ​​beim Verzauberer in der Akademie.,在学院的附魔师处合成三颗普通宝石。
+ui_game_mode_chest_fill_completely,Fill one local chest completely,Befülle eine lokale Truhe komplett,完全装满一个本地箱子
+ui_game_mode_chest_fill_completely_desc,Store 100 items in the outlaw camp or academy chest.,Lagere 100 Gegenstände in der Truhe im Banditenlager oder in der Akademie.,在强盗营地或学院的箱子中存放100件物品。
+ui_game_mode_bingo_find_two_swampp_stone_tables,Find both pieces of the stone tablet,Finde die beiden Teile der Steintafel,找到石板的两块碎片
+ui_game_mode_bingo_find_two_swampp_stone_tables_desc,The pieces of the stone tablet are located in the ruins in the swamp.,Die beiden Bruchstücke sind in den Ruinen im Sumpf zu finden.,石板的碎片位于沼泽的遗迹中。
+ui_game_mode_bingo_find_junk,Find Junk,Finde Müll,找到废品
+ui_game_mode_bingo_find_junk_desc,Hint: Hidden inside the Marin Cliffs ruins.,Hinweis: Versteck in den Ruinen bei den Marin Klippen.,提示：藏在马林悬崖的遗迹中。
+,,,
+,,,
+,,,
+,,,
+ui_game_mode_endless_tower,Endless Tower,Endloser Turm,无尽之塔
+ui_game_mode_endless_tower_desc_short,Battle through relentless waves of enemies that grow fiercer with every stage. Defeat them all to unlock the next level.,"Stelle dich einer endlosen Reihe von Gegnern, die mit jeder Ebene stärker werden. Nur wenn du alle Feinde besiegst, öffnet sich der Weg zur nächsten Herausforderung.",迎战一波接一波、随层数愈发凶猛的敌人。击败所有敌人以解锁下一层。
+ui_game_mode_endless_tower_difficulty,Difficulty,Schwierigkeitsgrad,难度
+ui_game_mode_endless_tower_difficulty_easy,Easy,Leicht,简单
+ui_game_mode_endless_tower_difficulty_standard,Standard,Standard,标准
+ui_game_mode_endless_tower_difficulty_hard,Hard,Schwer,困难
+ui_game_mode_endless_tower_start_options,Starting Options,Startoptionen,初始选项
+ui_game_mode_endless_tower_next_level,Next Level,nächstes Level,下一层
+ui_game_mode_endless_tower_level,Tower Level,Turmlevel,塔层
+,,,
+,,,
+ui_game_mode_speedrun,Speedrun,Speedrun,竞速
+ui_game_mode_speedrun_desc_short,Beat the game as fast as possible.,Beende das Spiel so schnell wie möglich.,以最快速度通关游戏。
+ui_game_mode_speedrun_settings,Settings,Voreinstellungen,设置
+ui_game_mode_speedrun_starting_name,Name Input,Spielername,名称输入
+ui_game_mode_speedrun_starting_name_desc,Toggle random player name generation.,"Wähle, ob ein zufälliger Name für den Spieler generiert werden soll.",切换是否随机生成玩家名称。
+ui_game_mode_speedrun_starting_name_standard,Standard,Standard,标准
+ui_game_mode_speedrun_starting_name_random,Random,Zufall,随机
+,,,
+,,,
+ui_game_mode_hardcore,Hardcore Mode,Hardcore Modus,硬核模式
+ui_game_mode_hardcore_desc_short,Permadeath mode: finish the game without dying.,"Permadeath-Modus: Beende das Spiel, ohne zu sterben.",永久死亡模式：在不死亡的情况下通关游戏。
+,,,
+,,,
+ui_game_mode_cursed,Cursed Mode,Verfluchter Modus,诅咒模式
+ui_game_mode_cursed_desc_short,Choose from various curses for your next challenge.,Wähle aus verschiedenen Flüchen für deine nächste Herausforderung.,为你的下一次挑战选择各种诅咒。
+ui_game_mode_cursed_curses,Curses,Flüche,诅咒
+ui_game_mode_cursed_curses_curse_level_1,Level 1,Level 1,1级
+ui_game_mode_cursed_curses_curse_level_1_desc,You no longer gain experience or attribute points.,Du bekommst keine Erfahrung oder Attributpunkte.,你不再获得经验值或属性点。
+ui_game_mode_cursed_curses_curse_challenger,Challenger,Herausforderer,挑战者
+ui_game_mode_cursed_curses_curse_challenger_desc,+50% experience gain and +50% damage taken.,+50% Erfahrung und +50% erlittener Schaden.,经验获取+50%，受到伤害+50%。
+ui_game_mode_cursed_curses_curse_one_hit_death,One Hit KO,KO bei Treffer,一击即倒
+ui_game_mode_cursed_curses_curse_one_hit_death_desc,Just don't get hit!,Werde einfach nicht getroffen!,千万别被打中！
+ui_game_mode_cursed_curses_curse_rusty_steel,Rusty Steel,Rostiger Stahl,锈蚀之钢
+ui_game_mode_cursed_curses_curse_rusty_steel_desc,Physical Defense maximum is 3,Maximale physische Verteidigung von 3,物理防御上限为3
+ui_game_mode_cursed_curses_curse_equipment_swap,Equipment Swap,Zufällige Ausrüstung,装备互换
+,,,
+,,,
+,,,
+,,,
+,,,
+ui_game_mode_not_possible,Oops! Couldn't load the selected game mode.,Der Spielmodus konnte leider nicht geladen werden.,糟糕！无法加载所选的游戏模式。
+ui_game_mode_settings_input_back,###input.INPUT_BACK### return to Main Menu,###input.INPUT_BACK### zurück zum Hauptmenü,###input.INPUT_BACK### 返回主菜单
+,,,
+,,,
+ui_credits_hold_to_skip,Hold any key to skip,beliebige Taste halten zum Überbringen,按住任意键跳过
+ui_credits_hold_to_skip_gp,Hold ###input.INPUT_ACTION### or ###input.INPUT_BACK### to skip,###input.INPUT_ACTION### oder ###input.INPUT_BACK### halten zum Überbringen,按住 ###input.INPUT_ACTION### 或 ###input.INPUT_BACK### 跳过
+,,,
+,,,
+--LOADING SCREEN TIPPS,,,
+ui_load_game_tipp_1,The game is saved automatically.,Dein Spielstand wird automatisch gespeichert.,游戏会自动保存。
+ui_load_game_tipp_2,"If enemies prove too difficult, consider returning later.","Komme später wieder, falls Gegner in einem Gebiet zu schwer sind.",如果敌人太强，不妨稍后再来。
+ui_load_game_tipp_3,Use the player window to allocate attribute points after leveling up.,Verteile deine Attributspunkte im Spielermenü nach einem Stufenaufstieg.,升级后可在角色窗口分配属性点。
+ui_load_game_tipp_4,"If you block with the shield just before the enemy hits you, you won't lose any stamina.","Wenn du mit einem Schild blockst, kurz bevor der Gegner dich trifft, verlierst du keine Ausdauer.",在敌人攻击命中前一刻用盾牌格挡，就不会损失精力。
+ui_load_game_tipp_5,Potions recover your Health or Mana faster than other consumables.,Tränke füllen deine Lebenspunkte oder dein Mana schneller auf als andere Gegenstände.,药水恢复生命或魔力的速度比其他消耗品更快。
+ui_load_game_tipp_6,Resting at a camp will make the defeated monsters re-emerge.,"Wenn du dich in einem Lager ausruhst, tauchen die besiegten Monster wieder auf.",在营地休息会让已被击败的怪物重新出现。
+ui_load_game_tipp_7,"Work hard, study well, and eat and sleep plenty!","Arbeite hart, lerne fleißig und iss und schlafe ausreichend.",努力工作，勤奋学习，吃好睡好！
+ui_load_game_tipp_8,Remind yourself daily of things you are grateful for.,"Erinnere dich täglich an Dinge, für die du dankbar bist.",每天提醒自己那些值得感恩的事。
+ui_load_game_tipp_9,Get regular exercise.,Treibe regelmäßig Sport.,保持规律锻炼。
+ui_load_game_tipp_10,Resting in an inn fully restores your Health and Mana.,"Ruhe dich in einem Inn aus, um deine Lebenspunkte und Mana aufzufüllen.",在旅店休息可完全恢复生命和魔力。
+ui_load_game_tipp_11,Water your plants.,Gieße deine Pflanzen.,记得给植物浇水。
+ui_load_game_tipp_12,Piercing damage ignores the target's physical defense.,Durchschlagschaden ignoriert die physische Verteidigung des Gegners.,穿刺伤害无视目标的物理防御。
+,,,
+,,,
+,,,
+--TUTORIAL TEXTS,,,
+ui_tutorial_text_1,Use ###input.MOVEMENT### to move around,Mit ###input.MOVEMENT### bewegen,使用 ###input.MOVEMENT### 移动
+ui_tutorial_text_2,Press ###input.INPUT_ACTION### to interact,Drücke ###input.INPUT_ACTION### um mit Objekten zu interagieren,按 ###input.INPUT_ACTION### 进行交互
+,,,
+,,,
+,,,
+--CHARACTER CREATION,,,
+ui_label_character_creator,Your Champion,Dein Champion,你的勇士
+ui_label_character_name,Enter Name,Name eingeben,输入名称
+ui_label_character_skin_color,Skin Color,Hautfarbe,肤色
+ui_label_character_hair_color,Hair Color,Haarfarbe,发色
+ui_label_character_hair_style,Hair Style,Haarstyle,发型
+ui_label_character_class,Class,Klasse,职业
+ui_class_none,Nomad,Nomade,流浪者
+ui_class_guard,Guard,Wache,卫兵
+ui_class_mercenary,Mercenary,Söldner,佣兵
+ui_class_hunter,Hunter,Jäger,猎人
+ui_class_circle_mage,Circle Mage,Zirkelmagier,秘环法师
+ui_class_mage_hunter,Mage Hunter,Zauberjäger,法师猎手
+ui_label_character_inventory,Equipment,Ausrüstung,装备
+ui_label_character_stats,Attributes,Attribute,属性
+ui_start_game,Start Game,Spiel beginnen,开始游戏
+ui_choose_class,Choose your Class,Klasse wählen,选择你的职业
+ui_label_character_class_description,Description,Beschreibung,描述
+ui_class_description_class_none,"Though lacking mastery in combat, the Nomad often stumbles upon rare treasures others never find. #For experienced players who want to begin with a strong dose of luck.","Obwohl dem Nomaden das Können im Kampf fehlt, stolpert der Nomade oft über seltene Schätze, die anderen verborgen bleiben. #Für erfahrene Spieler, die mit einer ordentlichen Portion Glück starten wollen.",流浪者虽不精通战斗，却常能偶然发现他人无缘得见的稀有宝物。#适合想以充足运气开局的老练玩家。
+ui_class_description_class_guard,"Built to endure, the Guard starts with extra health and excels at taking hits others can't. #Ideal for new players who prefer survivability and melee-focused gameplay.","Die Wache startet mit zusätzlicher Gesundheit und steckt mehr Treffer weg als andere. #Perfekt für Spieler, die auf Robustheit und Nahkampf setzen.",卫兵天生耐打，初始拥有额外生命，能承受他人无法承受的打击。#适合偏好生存能力与近战玩法的新手玩家。
+ui_class_description_class_mercenary,The mercenary is a versatile fighter with knowledge in all close-ranged weapons. #Perfect for players who want flexibility.,"Der Söldner ist ein vielseitiger Kämpfer mit Erfahrung in allen Nahkampfwaffen. #Für Spieler geeignet, die gerne verschiedene Waffen probieren.",佣兵是精通所有近战武器的多面手。#适合追求灵活多变的玩家。
+ui_class_description_class_hunter,"Armed with bow and arrows, the hunter takes down enemies while keeping a safe distance. #A class for advanced players who prefer ranged combat.","Mit Pfeil und Bogen ausgerüstet erledigt der Jäger seine Feinde mit viel Geschick und bleibt dabei auf Abstand. #Eine Klasse für Fortgeschrittene, die auf Distanz kämpfen.",猎人以弓箭武装自己，在安全距离外击杀敌人。#适合偏好远程战斗的进阶玩家。
+ui_class_description_class_circle_mage,"Trained in the magical arts, the Mage defeats enemies with a plethora of spells. #A high-risk class for experienced players that relies heavily on mana.","In den magischen Künsten ausgebildet, bezwingt der Magier seine Gegner mit einer Vielzahl an Zaubern. #Eine risikoreiche Klasse für erfahrene Spieler, die auf Mana angewiesen ist.",法师受过魔法技艺的训练，能以繁多的法术击败敌人。#高风险职业，高度依赖魔力，适合经验丰富的玩家。
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--KEY BINDINGS,,,
+ui_options_menu_key_binding_key_binding_move_up,Move Up,Aufwärts Laufen,向上移动
+ui_options_menu_key_binding_key_binding_move_down,Move Down,Abwärts Laufen,向下移动
+ui_options_menu_key_binding_key_binding_move_left,Move Left,Links Laufen,向左移动
+ui_options_menu_key_binding_key_binding_move_right,Move Right,Rechts Laufen,向右移动
+ui_options_menu_key_binding_key_binding_sprint,Sprint,Sprinten,冲刺
+ui_options_menu_key_binding_key_binding_menu_up,Menu Up,Menü Aufwärts,菜单向上
+ui_options_menu_key_binding_key_binding_menu_down,Menu Down,Menü Abwärts,菜单向下
+ui_options_menu_key_binding_key_binding_menu_left,Menu Left,Menü Link,菜单向左
+ui_options_menu_key_binding_key_binding_menu_right,Menu Right,Menü Rechts,菜单向右
+ui_options_menu_key_binding_key_binding_menu_item_drop,Drop Item,Gegenstand abwerfen,丢弃物品
+ui_options_menu_key_binding_key_binding_menu_item_junk,Junk Item,Schrott markieren,标记为废品
+ui_options_menu_key_binding_key_binding_menu_item_lock,Lock Item,Sperren,锁定物品
+ui_options_menu_key_binding_key_binding_menu_toggle_loot_filter,Toggle Loot Filter,Beutefilter an-/ausschalten,切换拾取过滤
+ui_options_menu_key_binding_key_binding_menu_show_nearby_loot,Show nearby loot,nahe Gegenstände einblenden,显示附近物品
+ui_options_menu_key_binding_key_binding_menu_toggle_equipped_item,Show equipped item,Ausgerüstete Gegenstände anzeigen,显示已装备物品
+ui_options_menu_key_binding_key_binding_category_prev,Category/Skill previous,Kategorie/Skill zurück,上一个类别/技能
+ui_options_menu_key_binding_key_binding_category_next,Category/Skill next,Kategorie/Skill vorwärts,下一个类别/技能
+ui_options_menu_key_binding_key_binding_action,Action,Aktion,交互
+ui_options_menu_key_binding_key_binding_attack,Attack,Angriff,攻击
+ui_options_menu_key_binding_key_binding_skill_secondary,Use Skill,Fähigkeit verwenden,使用技能
+ui_options_menu_key_binding_key_binding_skill_tertiary,Use Secondary Skill,Zweite Fähigkeit verwenden,使用副技能
+ui_options_menu_key_binding_key_binding_skill_quick_selection,Skill Quick Selection,Fähigkeit Schnellauswahl,技能快捷选择
+ui_options_menu_key_binding_key_binding_exit,Exit,Zurück,返回
+ui_options_menu_key_binding_key_binding_menu_inventory,Open Inventory,Inventar öffnen,打开物品栏
+ui_options_menu_key_binding_key_binding_menu_inventory_alt,Open Inventory,Inventar öffnen,打开物品栏
+ui_options_menu_key_binding_key_binding_menu_options,Options Menu,Optionsmenü,选项菜单
+ui_options_menu_key_binding_key_binding_menu_player_window,Player Window,Spielermenü,角色窗口
+ui_options_menu_key_binding_key_binding_menu_player_skills,Player Window (Skills),Spielermenü (Fähigkeiten),角色窗口（技能）
+ui_options_menu_key_binding_key_binding_menu_map,Open Map,Karte öffnen,打开地图
+ui_options_menu_key_binding_key_binding_menu_journal,Open Journal,Tagebuch öffnen,打开日志
+ui_options_menu_key_binding_key_binding_alternative,Alternative Scrolling,Alternatives Scrollen,替代滚动
+ui_option_menu_key_binding_wait_for_input,wait for input,warten auf Eingabe,等待输入
+ui_option_menu_key_binding_wrong_ipnut,Input not allowed,Eingabe nicht erlaubt,无效输入
+ui_option_menu_key_binding_wrong_ipnut_for_key,Input for #1 not allowed,Eingabe für #1 nicht erlaubt,#1 的输入无效
+,,,
+,,,
+,,,
+--CONTROLLER Layout,,,
+ui_options_menu_controller_layout,Gamepad Layout,Gamepad Layout,手柄布局
+ui_options_menu_controller_layout_type_1,Type 1,Typ 1,类型1
+ui_options_menu_controller_layout_type_2,Type 2,Typ 2,类型2
+ui_options_menu_controller_layout_type_3,Type 3,Typ 3,类型3
+ui_options_menu_controller_layout_type_4,Type 4,Typ 4,类型4
+,,,
+,,,
+,,,
+--INPUTS,,,
+input_mb_left,Left Mouse Button,Linke Maustaste,鼠标左键
+input_mb_right,Right Mouse Button,Rechte Maustaste,鼠标右键
+input_mb_middle,Middle Mouse Button,Mittlere Maustaste,鼠标中键
+input_mb_side1,Mouse Button Side 1,Maustaste seitlich 1,鼠标侧键1
+input_mb_side2,Mouse Button Side 2,Maustaste seitlich 2,鼠标侧键2
+input_vk_tab,Tab,Tab,Tab
+input_vk_shift,Shift,Shift,Shift
+input_vk_control,Ctrl,Strg,Ctrl
+input_vk_enter,Enter,Enter,Enter
+input_vk_escape,Escape,Escape,Escape
+input_vk_alt,Alt,Alt,Alt
+input_vk_up,Up,Pfeiltaste Aufwärts,Up
+input_vk_down,Down,Pfeiltaste Abwärts,Down
+input_vk_left,Left,Pfeiltaste Links,Left
+input_vk_right,Right,Pfeiltaste Rechts,Right
+input_vk_space,Space,Leertaste,Space
+input_vk_backspace,Backspace,Rücktaste,Backspace
+input_vk_home,Home,Home,Home
+input_vk_end,End,Ende,End
+input_vk_delete,Delete,Entfernen,Delete
+input_vk_insert,Insert,Einfügen,Insert
+input_vk_add,+,+,+
+input_vk_subtract,-,-,-
+input_vk_caps_lock,Caps Lock,Feststelltaste,Caps Lock
+,,,
+,,,
+,,,
+,,,
+--OPTIONS,,,
+ui_options_save,Save Game,Speichern,保存游戏
+ui_options_exit,Exit to Main Menu,Zurück zum Hauptbildschirm,返回主菜单
+ui_options_exit_to_desktop,Quit to Desktop,Zurück zum Desktop,退出到桌面
+ui_options_exit_game,Exit Game,Spiel beenden,退出游戏
+ui_options_load,Load Game,Spiel laden,读取游戏
+ui_options_load_last_save,Load Last Save,Letzten Spielstand laden,读取最近存档
+ui_options_load_last_save_info,Any progress not saved will be lost.,Nicht gespeicherter Fortschritt geht verloren.,未保存的进度将会丢失。
+ui_options_load_last_save_confirm,Load Last Save,Letzten Spielstand laden,读取最近存档
+ui_options_load_autosave,Load Last Autosave,Letzten auto. Spielstand laden,读取最近自动存档
+ui_options_map,Map,Karte,地图
+ui_options_journal,Journal,Tagebuch,日志
+ui_options_character_window,Player Window,Spielermenü,角色窗口
+ui_options_quick_open_player_window,###input.INPUT_INVENTORY_ITEM_DROP### open Player Window,###input.INPUT_INVENTORY_ITEM_DROP### Spielermenü öffnen,###input.INPUT_INVENTORY_ITEM_DROP### 打开角色窗口
+ui_options_quick_open_map,###input.INPUT_INVENTORY_ITEM_JUNK### open Map,###input.INPUT_INVENTORY_ITEM_JUNK### Karte öffnen,###input.INPUT_INVENTORY_ITEM_JUNK### 打开地图
+ui_options_quick_open_journal,###input.INPUT_INVENTORY_ITEM_LOCK### open Journal,###input.INPUT_INVENTORY_ITEM_LOCK### Tagebuch öffnen,###input.INPUT_INVENTORY_ITEM_LOCK### 打开日志
+ui_options_settings,Game Options,Optionen,游戏选项
+,,,
+,,,
+,,,
+,,,
+--JOURNAL,,,
+ui_journal_quests_open,Open Quests,Offene Aufträge,进行中的任务
+ui_journal_quests_open_none,No open quests,Keine offenen Aufträge,没有进行中的任务
+ui_journal_quests_closed,Closed Quests,Erledigte Aufträge,已完成的任务
+ui_journal_quests_closed_none,No closed quests,Keine erledigten Aufträge,没有已完成的任务
+ui_journal_quests_cancelled,Cancelled Quests,Abgebrochene Aufträge,已放弃的任务
+ui_journal_quests_cancelled_none,No cancelled quests,Keine abgebrochenen Aufträge,没有已放弃的任务
+ui_journal_notification_quest_updated,Quest updated,Auftrag aktualisiert,任务已更新
+ui_journal_notification_quest_done,Quest finished,Auftrag beendet,任务已完成
+journal_no_blueprints_available,No blueprints learned,Keine Anleitungen gelernt,尚未学会任何图纸
+,,,
+,,,
+--NOTIFICATIONS,,,
+ui_notification_game_saved,Game saved,Spielstand gespeichert,游戏已保存
+ui_notification_blueprint_learnt,New Blueprint:,Neue Anleitung:,新图纸：
+ui_notification_blueprint_no_available_blueprints,No new blueprint available,Keine neue Anleitung verfügbar,没有可用的新图纸
+ui_notification_skill_learnt,New Skill:,Neue Fähigkeit:,新技能：
+ui_notification_stash_full,the chest is full,Die Kiste ist bereits voll,箱子已满
+ui_notification_loot_filter_enabled,Loot Filter: on,Beutefilter: an,拾取过滤：开
+ui_notification_loot_filter_disabled,Loot Filter: off,Beutefilter: aus,拾取过滤：关
+,,,
+,,,
+,,,
+,,,
+--NPC NAMES,,,
+npc_bandit_guard,Guard,Wache,卫兵
+npc_outlaw_guard,Guard,Wache,卫兵
+npc_capital_guard,Guard,Wache,卫兵
+npc_outlaw,Outlaw,Bandit,亡命之徒
+weapon_trader,Weapons Dealer,Waffenhändler,武器商人
+npc_capital_flower_lady,Flower Lady,Blumenlady,卖花女
+npc_capital_arena_chief,Arena Chief,Arenachef,竞技场主管
+npc_old_sailor,Old Sailor,Alter Seemann,老水手
+npc_marin_passage_guard,Guard,Wache,卫兵
+npc_keeper_of_dhul_oq,Keeper of Dhul'oq,Hüter von Dhul'oq,杜尔奥克守护者
+npc_academy_novice,Novice,Novize,见习生
+npc_academy_wine_tester,Winemaker,Winzer,酿酒师
+npc_academy_entrance_guard,Academy Mage,Magier der Akademie,学院法师
+npc_capital_stables_woman,Horse groomer,Pferdepflegerin,马夫
+npc_rhoga_cultist_leader,Cult Leader,Sektenführer,邪教首领
+npc_rhoga_cultist,Cultist,Kultist,邪教徒
+npc_raider_chief,Raider Chief,Räuberanführerin,掠夺者头目
+npc_rhoga_cultist_altar,Altar,Altar,祭坛
+npc_king_weynard_3,King Weynard III,König Weynard III,韦纳德三世国王
+npc_capital_drunk_tavern,Drunk Guy,Betrunkener Typ,醉汉
+npc_capital_barkeeker,Innkeeper,Wirt,旅店老板
+npc_eternal_tower_smith,Smith,Schmied,铁匠
+npc_eternal_tower_merchant,Merchant,Händler,商人
+npc_academy_keeper_knowledge,Keeper of Knowledge,Hüter des Wissens,知识守护者
+npc_unknown,???,???,???
+npc_warak,Warak,Warak,瓦拉克
+npc_clemens,Clemens,Clemens,克莱门斯
+npc_albert,Albert,Albert,阿尔伯特
+npc_goran,Goran,Goran,戈兰
+npc_jesse,Jesse,Jesse,杰西
+npc_korg,Korg,Korg,科尔格
+npc_mika,Mika,Mika,米卡
+npc_carim,Carim,Carim,卡里姆
+npc_edmon,Edmon,Edmon,埃德蒙
+npc_aveline,Aveline,Aveline,艾薇琳
+npc_frestek,Baron Frestek,Baron Frestek,弗雷斯泰克男爵
+npc_brennan,Brennan,Brennan,布伦南
+npc_hick,Hick,Hick,希克
+npc_tess_vale,Tess Vale,Tess Vale,苔丝·维尔
+npc_kolfinn,Kolfinn,Kolfinn,科尔芬
+npc_mortis,Mortis,Mortis,莫尔提斯
+npc_trillis,Trillis,Trillis,特里利斯
+npc_marie,Marie,Marie,玛丽
+npc_rair,Rair,Rair,莱尔
+npc_roland,Roland,Roland,罗兰
+npc_veskar,Veskar,Veskar,维斯卡
+npc_glen,Glen,Glen,格伦
+npc_lennard,Lennard,Lennard,伦纳德
+npc_balder,Balder,Balder,巴尔德
+npc_hallgrim,Hallgrim,Hallgrim,哈尔格里姆
+npc_jens,Jens,Jens,延斯
+npc_leila,Leila,Leila,蕾拉
+npc_randolph,Randolph,Randolph,兰道夫
+npc_shrike,Shrike,Shrike,什里克
+npc_themir,Themir,Themir,塞米尔
+npc_bauric,Bauric,Bauric,鲍里克
+npc_martha,Martha,Martha,玛莎
+npc_renbrand,Renbrand,Renbrand,伦布兰德
+npc_travis,Travis,Travis,特拉维斯
+npc_bheir,Bheir,Bheir,贝尔
+npc_quentin,Quentin,Quentin,昆廷
+npc_cedric,Cedric,Cedric,塞德里克
+npc_darius,Darius,Darius,达里乌斯
+npc_lyrak,Lyrak,Lyrak,莱拉克
+npc_marvin,Marvin,Marvin,马文
+npc_thorald,Thorald,Thorald,索拉尔德
+npc_goblin_arena_master,Old Goblin,Alter Goblin,老哥布林
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+--BOSS NAMES,,,
+boss_goblin_mage,Goblin Mage,Goblinzauberer,哥布林法师
+boss_crystal_bulwark,Crystal Bulwark,Kristallfestung,水晶壁垒
+boss_troll_duo,Enslaved Troll Duo,Versklavtes Duo der Trolle,被奴役的巨魔双雄
+boss_troll_duo_single,Enslaved Troll,Versklavter Troll,被奴役的巨魔
+boss_gru_ra,Gru'ra,Gru'ra,格鲁拉
+boss_royal_aegis_corrupted,Corrupted Royal Aegis,Verderbte königliche Ägis,堕落的皇家神盾
+boss_dragon,Red Dragon,Roter Drache,红龙
+boss_orc_chief,Orcish Chieftain,Orkischer Häuptling,兽人酋长
+npc_skeleton_king_weynard,King Weynard II,König Weynard II,韦纳德二世国王
+boss_eye_of_secrets,Eye of Secrets,Auge der Geheimnisse,秘密之眼
+boss_pale_one,The Pale One,Der Bleiche,苍白者
+boss_undead_knight_sirynir,Undead Knight Sirynir,Untoter Ritter Sirynir,不死骑士西里尼尔
+boss_carim,Carim - Lord of Blood,Carim - Herr des Blutes,卡里姆——鲜血之主
+npc_raider_big_guy,Big Guy,Der Dicke,大块头
+boss_rak_sha,Rak'Sha - Lord of Lightning,Rak'Sha - Herr der Blitze,拉克沙——闪电之主
+npc_grad_laq_he,High Priest of Dhul'oq,Hoher Priester von Dhul'oq,杜尔奥克大祭司
+boss_gloom_hunter,Gloom Hunter,Düsterer Jäger,幽暗猎手
+boss_rhoga_savage_leader,Tribal Chieftain,Häuptling der Wilden,部族酋长
+boss_avatar_of_oriviel,Avatar of Oriviel,Oriviels Avatar,奥里维尔的化身
+,,,
+,,,
+,,,
+--REGIONS,,,
+region_name_old_forest,Old Forest,Alter Wald,古老森林
+region_name_central_world_map,Grassland,Grünland,草原
+region_name_abandoned_mine,Abandoned Mine,Verlassene Mine,废弃矿井
+region_name_abandoned_mine_2,Abandoned Mine,Verlassene Mine,废弃矿井
+region_name_eternal_realm_god,???,???,???
+region_name_goblin_cave,Goblin Cave,Goblinhöhle,哥布林洞穴
+region_name_goblin_arena,Goblin Pit,Goblingrube,哥布林竞技坑
+region_name_underground_caverns,Underground Caverns,Untergrundhöhlen,地下洞窟
+region_name_northern_mountain_path,Northern Mountain Pass,Nördlicher Gebirgspass,北方山口
+region_name_wasteland,Wasteland,Ödland,荒地
+region_name_wasteland_orc_temple,Orc Temple,Orktempel,兽人神殿
+region_name_capital,Capital,Hauptstadt,王都
+region_name_capital_throne_room,Throne Room,Thronsaal,王座厅
+region_name_wasteland_cave,Wasteland Cave,Ödlandhöhle,荒地洞穴
+region_name_house_crossroad_inn,Crossroad Inn,Taverne an der Kreuzung,十字路旅店
+region_name_marin_passage,Marin Passage,Marin Durchgang,马林通道
+region_name_marin_cliffs,Marin Cliffs,Marin Klippen,马林悬崖
+region_name_lake_passage,Lake Passage,Tunnel zum See,湖底通道
+region_name_lake_tower_outside,Lake Tower,Turm am See,湖畔之塔
+region_name_lake_tower,Lake Tower,Turm am See,湖畔之塔
+region_name_academy,Academy,Akademie,魔法学院
+region_name_academy_enchantment_lab,Enchantment Laboratory,Labor der Verzauberungen,附魔实验室
+region_name_rhoga_swamp,Rhoga Swamp,Rhogasumpf,罗加沼泽
+region_name_swamp_dungeon,Rhoga Temple,Rhoga Tempel,罗加神殿
+region_name_capital_travellers_inn,Traveler's Inn,Gasthaus zum Reisenden,旅人旅店
+region_name_academy_library,Library,Bibliothek,图书馆
+region_name_academy_alchemy_lab,Alchemy Lab,Alchemielabor,炼金实验室
+region_name_wasteland_volcano_region_transition,Wasteland Bridge,Ödlandbrücke,荒地大桥
+region_name_erstadt_route,Road to Erstadt,Straße nach Erstadt,埃尔施塔特之路
+region_name_volcano_cave,Volcano,Vulkan,火山
+region_name_capital_crypta,Crypt of the Royal Family,Krypta der königlichen Familie,王室墓穴
+region_name_capital_castle_dungeon,Dungeon,Kerker,地牢
+region_name_capital_barracks,Barracks,Kaserne,兵营
+region_name_floating_city,Floating City Dhul'oq,Schwebende Stadt Dhul'oq,浮空城杜尔奥克
+region_name_eternal_tower,The Endless Tower,Der Endlose Turm,无尽之塔
+region_name_crystal_cavern,Crystal Caverns,Kristallhöhlen,水晶洞窟
+region_name_raider_tunnel,Raider Tunnel,Räuberhöhlen,掠夺者隧道
+region_name_varethraen,Varethraen,Varethraen,瓦雷斯兰
+region_name_ruined_temple,Ruined Tower,Verfallener Turm,废弃之塔
+region_name_capital_fresteks_collection,Baron Frestek's Collection,Baron Fresteks Sammlung,弗雷斯泰克男爵的收藏
+region_name_rhoga_tree_inside,Old Rhoga Tree,Alter Rhoga Baum,罗加古树
+,,,
+,,,
+,,,
+--FACTIONS,,,
+faction_join_text,You have joined,Du bist nun ein Mitglied,你已加入
+faction_join_text_cultists,the Cultists,der Kultisten,邪教徒
+faction_join_text_royal_guard,the Royal Guard,der Königlichen Garde,皇家卫队
+faction_join_text_bandit_balder,Balder's Bandits,Balders Banditen,巴尔德的强盗团
+faction_join_text_academy,the Mages of the Academy,der Magier der Akademie,魔法学院法师
+faction_name_player_cultists,Cultist,Kultist,邪教徒
+faction_name_player_royal_guard,Royal Guard,Königlicher Gardist,皇家卫兵
+faction_name_player_bandit_balder,Balder's Bandit,Balders Bandit,巴尔德的强盗
+faction_name_player_academy,Mage of the Academy,Magier der Akademie,魔法学院法师
+,,,
+,,,
+--TELEPORT LOCATIONS,,,
+teleport_location_teleport_old_forest,Old Forest,Alter Wald,古老森林
+teleport_location_teleport_eternal_realm_world_forge,Eternal Realm,Ewige Ebene,永恒之境
+teleport_location_teleport_abandoned_mine_waterfall,Abandoned Waterfall,Verlassener Wasserfall,废弃瀑布
+teleport_location_teleport_wasteland,Wasteland,Ödland,荒地
+teleport_location_teleport_wasteland_orc_temple,Orc Temple,Orktempel,兽人神殿
+teleport_location_teleport_central_world_map_stonehenge,Stonehenge,Steinkreis,巨石阵
+teleport_location_teleport_capital_entrance,Capital,Hauptstadt,王都
+teleport_location_teleport_marin_cliffs,Marin Cliffs,Marin Klippen,马林悬崖
+teleport_location_teleport_lake_tower,Lake Tower,Turm am See,湖畔之塔
+teleport_location_teleport_northern_mountain_pass_bandit_throne,Bandit Camp,Banditenlager,强盗营地
+teleport_location_teleport_rhoga_swamp,Rhoga Swamp,Rhogasumpf,罗加沼泽
+teleport_location_teleport_erstadt_route,Road to Erstadt,Straße nach Erstadt,埃尔施塔特之路
+teleport_location_teleport_volcano,Volcano,Vulkan,火山
+teleport_location_teleport_floating_city,Floating City,Schwebende Stadt,浮空城
+teleport_location_teleport_varethraen,Varethraen,Varethraen,瓦雷斯兰
+,,,
+,,,
+,,,
+,,,
+--OTHER SKILLS,,,
+skill_lockpicking_name,Lockpicking,Schlösser öffnen,开锁
+skill_bow_handling_name,+#skill_value% physical damage with bows,+#skill_value% physischer Schaden mit Bögen,使用弓时物理伤害+#skill_value%
+skill_greatsword_handling_name,"+#skill_value% physical damage with two-handed swords, axes and maces","+#skill_value% physischer Schaden mit zweihändigen Schwertern, Äxten und Hämmern",使用双手剑、斧、锤时物理伤害+#skill_value%
+skill_rapier_handling_name,+#skill_value% physical damage with daggers and rapiers,+#skill_value% physischer Schaden mit Dolchen und Degen,使用匕首和刺剑时物理伤害+#skill_value%
+skill_staff_handling_name,+#skill_value% physical damage with staffs,+#skill_value% physischer Schaden mit Stäben,使用法杖时物理伤害+#skill_value%
+skill_spear_handling_name,+#skill_value% physical damage with spears,+#skill_value% physischer Schaden mit Speeren,使用长矛时物理伤害+#skill_value%
+skill_sword_handling_name,"+#skill_value% physical damage with one-handed swords, axes and maces","+#skill_value% physischer Schaden mit einhändigen Schwertern, Äxten und Hämmern",使用单手剑、斧、锤时物理伤害+#skill_value%
+skill_missile_aiming_name,-#skill_value% spread when firing a ranged attack,-#skill_value% Streuung beim Schießen,远程攻击散布-#skill_value%
+skill_magic_fire_mastery_name,+#skill_value% fire damage,+#skill_value% Feuerschaden,火焰伤害+#skill_value%
+skill_magic_ice_mastery_name,+#skill_value% ice damage,+#skill_value% Eisschaden,冰霜伤害+#skill_value%
+skill_magic_holy_mastery_name,+#skill_value% holy damage,+#skill_value% Heiligschaden,神圣伤害+#skill_value%
+skill_magic_dark_mastery_name,+#skill_value% dark damage,+#skill_value% Dunkelschaden,黑暗伤害+#skill_value%
+skill_magic_summon_mastery_name,+#skill_value% increased summon damage and duration,+#skill_value% erhöhte Dauer und erhöhter Schaden der Beschwörungen,召唤物伤害与持续时间+#skill_value%
+skill_magic_mana_regeneration_name,Regenerate #skill_value/4 Mana/s,Regeneriert #skill_value/4 Mana/s,每秒回复 #skill_value/4 点魔力
+skill_endurance_training_name,#skill_value less stamina usage when attacking,#skill_value weniger Ausdauerverbrauch bei Angriffen,攻击时精力消耗减少 #skill_value 点
+skill_read_ancient_text_name,Understand the ancient language,Die alte Sprache verstehen,理解古代语言
+skill_read_draconic_text_name,Understand the draconic language,Die drakonische Sprache verstehen,理解龙族语言
+skill_read_forgotten_text_name,Understand the forgotten language,Die vergessene Sprache verstehen,理解被遗忘的语言
+skill_resistance_poison_name,-#skill_value% poison damage,-#skill_value% weniger Giftschaden,毒素伤害-#skill_value%
+skill_activate_ritual_stones_name,Activate ritual stones,Ritualsteine aktivieren,激活仪式石
+skill_alchemy_plant_knowledge_name,Plants grow back in nature,Pflanzen wachsen in der Natur wieder nach,野外的植物会重新生长
+,,,
+,,,
+,,,
+,,,
+--DIALOGUE HINTS--,,,
+ui_dialogue_hint_skill_bow_weapon_training_10,+10% physical damage with bows,+10% physischer Schaden mit Bögen,使用弓时物理伤害+10%
+ui_dialogue_hint_skill_greatsword_weapon_training_10,"+10% physical damage with two-handed swords, axes and maces","+10% physischer Schaden mit zweihändigen Schwertern, Äxten und Hämmern",使用双手剑、斧、锤时物理伤害+10%
+ui_dialogue_hint_skill_rapier_weapon_training_10,+10% physical damage with daggers and rapiers,+10% physischer Schaden mit Dolchen und Degen,使用匕首和刺剑时物理伤害+10%
+ui_dialogue_hint_skill_staff_weapon_training_10,+10% physical damage with staffs,+10% physischer Schaden mit Stäben,使用法杖时物理伤害+10%
+ui_dialogue_hint_skill_spear_weapon_training_10,+10% physical damage with spears,+10% physischer Schaden mit Speeren,使用长矛时物理伤害+10%
+ui_dialogue_hint_skill_sword_weapon_training_10,"+10% physical damage with one-handed swords, axes and maces","+10% physischer Schaden mit einhändigen Schwertern, Äxten und Hämmern",使用单手剑、斧、锤时物理伤害+10%
+,,,
+ui_dialogue_hint_skill_magic_fire_mastery_10,+10% fire damage,+10% Feuerschaden,火焰伤害+10%
+ui_dialogue_hint_skill_magic_ice_mastery_10,+10% ice damage,+10% Eisschaden,冰霜伤害+10%
+ui_dialogue_hint_skill_magic_holy_mastery_10,+10% holy damage,+10% Heiligschaden,神圣伤害+10%
+ui_dialogue_hint_skill_magic_holy_mastery_20,+20% holy damage,+20% Heiligschaden,神圣伤害+20%
+ui_dialogue_hint_skill_magic_dark_mastery_10,+10% dark damage,+10% Dunkelschaden,黑暗伤害+10%
+ui_dialogue_hint_skill_magic_dark_mastery_20,+20% dark damage,+20% Dunkelschaden,黑暗伤害+20%
+,,,
+ui_dialogue_hint_skill_magic_mana_regeneration_1,+0.25 mana regeneration per second,"+0,25 Manaregeneration pro Sekunde",每秒魔力回复+0.25
+,,,
+ui_dialogue_hint_skill_resistance_poison_30,-30% poison damage,-30% weniger Giftschaden,毒素伤害-30%
+,,,
+ui_dialogue_hint_skill_magic_summon_mastery_20,+20% increased summon damage and duration,+20% erhöhte Dauer und erhöhter Schaden der Beschwörungen,召唤物伤害与持续时间+20%
+,,,
+ui_dialogue_hint_skill_lockpicking,Lets you pick locks using lockpicks,Ermöglicht das Öffnen von Schlössern mit Dietrichen,可使用撬锁器开锁
+ui_dialogue_hint_skill_missile_aiming_20,-20% spread when firing a ranged attack,-20% Streuung beim Schießen,远程攻击散布-20%

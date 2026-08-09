@@ -1,0 +1,24 @@
+type,id,text,zh
+action,action-e056afbe-9854-2009-ff12-3519ca6d9706,"*talks to himself
+What a beautiful ring this is.","*自言自语
+多漂亮的一枚戒指啊。"
+action,action-058e5d47-4ded-ec95-219e-97509572282e,Do you need something?,你需要点什么吗？
+action,action-21437426-a955-d8af-fe80-0909137ef3d3,"I am certain this one will sell for a good price, hehe.",这枚肯定能卖个好价钱，嘿嘿。
+action,action-6625253b-4d04-9e97-16b0-b888801cf957,"*sees you
+Uh... hey!","*看到了你
+呃……嘿！"
+action,action-dfb7f12c-a446-04c9-1bf0-2a6a73d40ce6,Call me #:Brennan:#.,叫我#:布伦南:#就好。
+option,choice-a5c3a759-25ab-b602-7279-2755b870197b,Who are you?,你是谁？
+option,choice-ba4fa367-fac8-afef-ad01-5731dcc54c42,What are you doing?,你在做什么？
+option,choice-366ad2a3-c751-efdf-3ad9-bd41f3ddcd06,Show me your artefacts.,让我看看你的神器。
+option,choice-09d48fc2-b9c7-eded-f4ca-334d122c5335,Craft an artefact for me.,为我打造一件神器。
+option,choice-4eba5406-e0ce-8c4d-a50b-109c37ef6bfb,See you!,回见！
+action,action-89d33fbe-2fad-4df9-9714-a73994b28006,Everyone calls me Brennan.,大家都叫我布伦南。
+action,action-7f26b5a8-9242-aa8c-81d3-de41e3d7b6b0,I craft small pieces of jewelry like rings and pendants available for you to purchase.,我打造戒指、坠子之类的小件首饰，你都可以买。
+action,action-e3ec7069-366d-826e-e93c-10a042bdeb2f,Sometimes customers come with their custom recipes and materials.,有时候客人会自带配方和材料来找我定做。
+action,action-d3ac841b-bc14-f1e6-d535-fe69c2a2e0af,"For a small additional charge, I occasionally craft very special artefacts.",只要加一点点费用，我偶尔也会打造非常特别的神器。
+action,action-dda6682c-f871-f7fe-1f0e-2182a22d8757,This is the finest selection of rings.,这些是最上乘的戒指。
+action,action-acb81fe5-8fb4-1bbb-ae7a-b809ca105f7a,"With pleasure!
+What do you want to have crafted?","乐意效劳！
+你想打造点什么？"
+action,action-aa6b3452-2c0b-adde-5049-4a7b43bb5023,Come back later and check out my new rings!,回头再来看看我的新戒指吧！

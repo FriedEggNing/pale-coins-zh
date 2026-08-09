@@ -1,0 +1,149 @@
+type,id,text,zh
+action,action-02a3692b-a69d-0169-adde-3210080df8f9,"Oh, hello!
+Are you new here?","哦，你好！
+你是新来的吗？"
+action,action-4ecf9dd0-bd89-9318-8861-c0cb08d1c48c,"Hey!
+Do you need something?","嘿！
+你需要什么吗？"
+action,action-2c4926df-bc39-4606-3659-031c82530f33,"I am Cedric, the newest mage of the academy.",我是塞德里克，学院最新晋的法师。
+option,choice-67c5e6f4-1971-3ace-1dc8-696bcc2cdaa6,I want to join the academy.,我想加入学院。
+option,choice-b8e6c5d6-a299-8b50-3d18-138d4020c19e,How did you join the academy?,你是怎么加入学院的？
+option,choice-680c9a6b-e67e-2455-255b-ed37df022197,Can you help me become a mage of the academy?,你能帮我成为学院的法师吗？
+option,choice-d8b91fb1-f8a8-ab13-4a8d-d38121c81546,Regarding the wine problem...,关于葡萄酒的问题……
+option,choice-460586a4-ccf2-b1e7-f901-25aecf5eac5c,I found the dealer of the fake wines.,我找到卖假酒的人了。
+option,choice-5f9298d5-cc03-90ab-c8a4-8d6494859414,Where do I get magic equipment?,我在哪里能弄到魔法装备？
+option,choice-16fae220-0dbd-dfa3-99eb-87a8a2964a10,Here is the list of your customers.,这是你的客户名单。
+option,choice-c3285ef0-620a-a21a-7121-e54c4dae8deb,Show me your wares.,让我看看你的货。
+option,choice-537538f1-2ba1-0c8c-948d-8cc72f0281c1,See you.,回头见。
+action,action-9d3210a2-00e7-ab65-f84c-54c437eca1a5,"I was lucky enough to help Warak and Lyrak on a secret mission.
+In the end, Warak was happy to accepted me into the ranks of the mages.","我有幸帮瓦拉克和莱拉克完成了一项秘密任务。
+最后，瓦拉克很乐意地接纳我加入了法师的行列。"
+action,action-977e65f4-862b-fcd8-de3b-b2845cdd764f,"The easiest way to join is to have rich parents.
+Many of our novices were sent by their parents to one day become a mage.","最省事的入门办法，就是有个有钱的爹娘。
+我们许多见习生都是被父母送来的，指望着有朝一日能成为法师。"
+action,action-802f0210-8335-9c76-e435-081ff5055d03,"But most of them don't understand our ways. Ultimately, the majority stay novices their whole life and keep on making our wine or clean our rooms.",可他们大多不懂我们的门道。到头来，大部分人一辈子都只是见习生，一直在替我们酿酒、打扫房间。
+action,action-cfaa3287-9b80-2b7e-4958-637d7e0d211f,"I am not supposed to say that, right?
+Anyway, please don't mention it towards our novices.","这些话我本不该说的，对吧？
+总之，请别在见习生面前提起。"
+action,action-2ce50bdc-d748-cda4-a567-0808d7d2d0b5,"The rightful way, however, is to gain our trust.
+We mages usually reward anyone who helps us.","不过，正途还是赢得我们的信任。
+我们法师通常会报答帮助过我们的人。"
+action,action-cbb0d633-c070-1d51-48e4-d6599ea6810c,"At first, I thought that I had to talk to our elder when I joined, but it appears that he is a busy man.
+It's a shame I never saw him in person.","起初我以为入会时得去拜见我们的长老，但他似乎是个大忙人。
+可惜我从没亲眼见过他。"
+action,action-db7b4a95-deed-649d-ef52-71f1e09b4238,"Although I have only recently become a magician, I believe that my word has some influence among the other mages.",虽然我才刚成为法师不久，但我相信我的话在其他法师中还是有些分量的。
+action,action-47ab9472-31c1-0610-0499-35cc30caff39,"Hmm...
+There's a problem I need help with.","唔……
+有个问题我需要人帮忙。"
+action,action-19ce9d23-1775-0dda-0ba5-04723a0ac998,"If you help me, I'll put in a good word for you with Warak.",如果你肯帮我，我就在瓦拉克面前替你美言几句。
+option,choice-f74e06e8-7a55-292b-6bee-a460daf6f110,I'll help you. What's the problem?,我来帮你。是什么问题？
+option,choice-60c05754-1fe4-bc07-7dbf-188261461645,Maybe later.,以后再说吧。
+action,action-8912fdc4-04c6-ddd3-c356-3185ad808f8d,"Of course.
+Ideally, the problem solves itself.","当然。
+最好这问题能自己解决。"
+action,action-772b6868-de83-5701-7b82-b91cfaf803d4,"The thing is, I'm responsible for the distribution of our wine and I also take care of the finances.",是这样的，我负责我们葡萄酒的分销，同时也管着账目。
+action,action-8cdf6fcd-3be5-9ae2-29ab-63f236045c72,"Recently, demand has declined, although according to some, consumption of our wine continued to rise.",最近，订货量下降了，可据一些人说，我们葡萄酒的消耗量却还在上涨。
+action,action-8b600df7-2e4a-a0d6-0aaf-0b4976aa9635,The innkeepers say that they only serve wine from the academy.,旅店老板们都说，他们只供应学院的葡萄酒。
+action,action-cf2e186f-c4ee-6e4f-02eb-c62691c466a5,"If you ask me, someone is secretly selling wine to the innkeepers in our name and is collecting our gold in return.",要我说，是有人打着我们的名号偷偷向旅店老板卖酒，把本属于我们的金币装进了自己腰包。
+option,choice-03ed5e33-350e-7850-a407-1c599d8ac402,Who usually buys wine from the academy?,通常都有谁向学院买酒？
+option,choice-f39dfd1a-9933-2fa2-ca4e-47dda2d04955,What should I look for?,我该从哪儿查起？
+option,choice-0579e672-abd8-f64d-6216-82aea5431d17,I am on my way.,我这就去。
+action,action-8b9bb4ad-6c14-cfab-8479-d1938561772a,"That's the next problem. Apparently, my list of customers was stolen.
+But I know most of them anyway.","这就是下一个问题了。我的客户名单似乎被偷了。
+不过大多数客户我反正都记得。"
+action,action-fdbd0330-1635-e0ef-fa36-85bbcae4e144,"Among the innkeepers there is Rair, the owner of the Crossroad Inn, as well as the innkeeper in the capital.",旅店老板里有十字路旅店的老板莱尔，还有王都的旅店老板。
+action,action-615ffae5-5a1c-26f8-383c-c61393b68511,"However, the innkeeper in the capital doesn't buy the wine himself, so I don't know his name.
+Baron Frestek - he owns the tavern - manages the business.","不过王都的旅店老板不亲自买酒，所以我不知道他的名字。
+酒馆归弗雷斯泰克男爵所有——生意也是他在打理。"
+action,action-7285e407-c229-c674-c012-f641cec9b8f8,"Then there is the farmer Roland, with whom we regularly barter.",然后是农夫罗兰，我们经常和他以物易物。
+action,action-c85f4fb5-729a-5dd6-bbd5-c8502aca3522,Sometimes the quartermaster of the royal guards also buys a few boxes of wine.,有时皇家卫队的军需官也会买上几箱酒。
+action,action-eea76d2b-78df-ed6c-5626-323bfce4cbf8,"Well, and there are also a few other citizens who buy bottles here when they visit the academy.",嗯，还有一些市民造访学院时会顺便买上几瓶。
+action,action-26555941-b00a-2da4-c424-58d6a3fb0c99,"To be honest. I don't know.
+Talk to the innkeepers.","老实说，我也不知道。
+去和旅店老板们谈谈吧。"
+action,action-2b32ce6f-3f1a-0d15-487d-1fbc9ba3a7b2,"They have to get the wine from somewhere, right?",他们的酒总得有个来路，对吧？
+action,action-6e2de5b1-9fd0-fbfe-b836-5f16fe9a0926,"Sure!
+I'll be here if you need something.","好！
+有需要的话，我就在这里。"
+action,action-e2d6e29b-e604-6103-bbb7-80e181940269,Yes?,什么事？
+option,choice-4ead8584-d716-c03f-8433-dba6b010c9ce,What should I look for?,我该从哪儿查起？
+option,choice-c442c936-8123-25d2-5e8e-2c42a03dcaae,What do you think of this wine? (Show Royal Ember),你觉得这瓶酒怎么样？（出示皇家余烬）
+option,choice-6fe06db2-39ae-f977-e480-44bb849d3e19,What do you think of this wine? (Show Regis Vitae),你觉得这瓶酒怎么样？（出示王命之典）
+option,choice-ab25bc81-733b-9615-1331-2121c0013bdb,I found this list in the cellar of the barracks.,我在兵营的地窖里找到了这份名单。
+option,choice-54154c52-154d-5d2a-c682-e43482f40c89,I'll be back later.,我稍后再来。
+action,action-018f3ab0-b061-2324-6182-7e6a590456c1,I'll be here if you need something.,有需要的话，我就在这里。
+action,action-bf8b818d-453b-5e05-10b5-67d357bd1e16,To be honest. I don't know.,老实说，我也不知道。
+action,action-640f98c2-089c-9477-d259-0444beb2ea46,"Start by talking to Rair, the owner of the Crossroad Inn, or the innkeeper in the capital.
+Both of them sell our Academy wine.","先去找十字路旅店的老板莱尔，或者王都的旅店老板谈谈。
+他们俩都卖我们学院的酒。"
+action,action-0971cede-7c8e-8d27-f8fd-163d6fff54d4,Let me see...,让我看看……
+action,action-238a9214-2862-3498-4526-a2f2b7576905,...,……
+action,action-12303f60-17d4-430e-665d-d37a532ee7f8,"The label appears to be correct. The cork is sealed with red wax, the same wax we use at the Academy.",标签看起来没问题。软木塞用红蜡封着，和我们学院用的是同一种蜡。
+action,action-6c228eb0-cda0-ee28-816c-730bb4b22030,"The color is simply gorgeous.
+This certainly is one of the best wines the academy has ever crafted.","这色泽真是绝了。
+这无疑是学院酿造过的最好的葡萄酒之一。"
+action,action-c7c47dc4-74fd-99c5-6d8b-0066759b6fc8,"Here, take back this excellent bottle of wine.
+I'm convinced this isn't a fake.","来，这瓶好酒你拿回去吧。
+我确信这不是假货。"
+action,action-1dcbe62c-8651-a16a-2944-563c9ffc08f6,Let me see...,让我看看……
+action,action-7a30ce68-7358-0f01-0250-1be0ef24451f,...,……
+action,action-1d01ac2a-d6a5-c644-f79e-3c01509e45e2,"A Regis Vitae?
+And the first edition, too?!","王命之典？
+还是初版的？！"
+action,action-7e2dd5f6-69c9-11ac-b65b-c8e7dbc25c11,"A bottle of Regis Vitae is worth a fortune.
+I heard that the elder of the Academy himself was involved in its production.","一瓶王命之典可值一大笔钱。
+听说学院的长老都亲自参与了它的酿造。"
+action,action-d65711b4-33bd-1ea2-ace4-7e5761aef644,You would have been set for life if it weren't for this flaw right here.,要不是这里有这么个破绽，你后半辈子都吃穿不愁了。
+action,action-29d294c8-2bf2-ae68-1018-ca5f930b4142,"Although the wine is said to have a honey note, the Regis Vitae, like every other wine from the Academy, was made exclusively with our grapes.",虽说这酒号称带有蜂蜜的香气，但王命之典和学院所有其他葡萄酒一样，都只用我们自己的葡萄酿造。
+action,action-ceca3bcf-9027-f587-324d-627a615be14a,"Also, the red wax above the cork is different from the one we use.
+This is easy to see when the sun shines on the wax at a certain angle.","还有，软木塞上的红蜡也和我们用的不一样。
+阳光以特定角度照在蜡上时，很容易看出来。"
+action,action-acd08f8d-a2cd-7fba-0b83-9685bb72d015,"This wine is obviously a fake.
+Where did you get this bottle from?","这瓶酒显然是假货。
+你这瓶是从哪儿弄来的？"
+option,choice-eaf335c9-c4a5-980b-4917-2df7e9c874ad,From the innkeeper of the capital.,从王都的旅店老板那里。
+action,action-f750f334-893f-b6cb-321a-996fd8b558c0,"Then we have a lead.
+Find out where the bottle came from, and we'll soon find the counterfeiter.","那我们就有线索了。
+查清这瓶酒的来路，很快就能找到造假的人。"
+action,action-02dfbad7-23c6-c7d4-45b9-eee6313b7155,"Here, take back the fake bottle in case you need it later.",来，这瓶假酒你先拿回去，以后也许用得上。
+action,action-0e358072-75b3-8955-cccd-da87634f6098,"This label, however, indicates that honey was added.",但这标签上却写着添加了蜂蜜。
+action,action-a4d3a634-003c-1e26-d4de-7b494cc224f6,"That's great!
+Speak! Who's behind this?","太好了！
+快说！幕后黑手是谁？"
+option,choice-4ccc7649-a474-6d25-e900-9a4e142a686e,Marvin. He took care of some deliveries.,是马文。他负责过几次送货。
+action,action-781881ca-fdfd-7a36-6745-e1f1e51c087a,"Marvin? I know him.
+He handled the latest of Frestek's orders for the tavern, right?","马文？我认识他。
+弗雷斯泰克酒馆最近几批订单就是他经手的，对吧？"
+action,action-1da1bd7c-0882-40f6-ac99-d181a9648cc1,So it was he who was able to smuggle the fake wines into the orders.,这么说，就是他趁机把假酒混进了订单里。
+action,action-4acc5183-0135-e803-25a8-66bd9a83be71,And it was he who must have stolen the list of my customers.,而且偷走我客户名单的肯定也是他。
+action,action-d17368fc-ac41-9b03-40da-919bae1b77fc,Where is Marvin now?,马文现在人在哪儿？
+option,choice-c30805c3-5f72-88ec-ef3f-a07fcf4b4bc3,He is still in the capital.,他还在王都。
+option,choice-8660c109-6c58-8f3a-4e95-d8d6e986ee53,He was able to flee.,他逃走了。
+action,action-f2d8f6e5-dc7e-66b6-4176-3008f69f98b0,We will make sure that he receives his punishment.,我们会确保他受到应有的惩罚。
+action,action-7bc4b793-68e0-4971-2b16-295ec474d212,"That's unfortunate!
+Well, at least we know his face.","真遗憾！
+好在我们至少认得他的脸。"
+action,action-7d88c98b-401d-33ff-3ab5-123de3e38014,"If Marvin participates in another delivery here, we will immediately identify and arrest him.",要是马文再敢参与来这里的送货，我们会立刻认出他并将他逮捕。
+action,action-2ce332f8-cd0c-e09b-09ef-8c3ca88cf6bf,"And now to you.
+You helped us a lot in solving the case.","现在说说你。
+这桩案子多亏了你的帮忙。"
+action,action-c275be60-5f59-3a34-d899-35f40a29dd5e,I'll put in a good word for you with Warak.,我会在瓦拉克面前替你美言几句。
+action,action-9ccb6bc7-8229-6366-6d60-c5bf61d72273,"Besides the wine business, I also deal in magical artifacts.",除了葡萄酒生意，我还经营魔法器物。
+action,action-11d0d66a-b6d1-a07d-0d58-217c4b890d02,"But those wares are strictly for members of the Academy.
+We've had enough disasters already.","但那些货只卖给学院成员。
+我们经历的灾祸已经够多了。"
+action,action-a16bdc1d-3322-faa8-dc5e-71d1a8b6c9fe,Take a look.,看看吧。
+action,action-f8303134-51ec-01b4-8b04-bb1227881b43,I see... So this is where my list ended up.,原来如此……我的名单竟然流落到了这里。
+action,action-96f27f1f-b377-8c88-ac3b-d3a3cfe3bb46,I shall take the list back into my possession.,这份名单我要收回了。
+action,action-74f21513-98f0-dd64-2b1b-282db24b8443,"This suggests that someone from the Guard stole it.
+Most likely during one of the recent deliveries.","这说明是卫队里的人偷的。
+多半是趁最近某次送货的时候。"
+action,action-345d3720-32a7-b458-ebf1-42aa18298c1f,"You should consult the quartermaster at the barracks.
+He usually arranges the wine deliveries for the capital.","你该去问问兵营的军需官。
+王都的葡萄酒配送通常都由他安排。"
+action,action-02f7a660-c5bc-44ef-e3a3-1458233eb4a2,"You should consult the quartermaster at the barracks.
+He usually arranges the wine deliveries for the capital.","你该去问问兵营的军需官。
+王都的葡萄酒配送通常都由他安排。"
+action,action-5168a819-eb3d-07a7-a9f3-b9ce7f046f56,"Thank you so much!
+I'll keep an eye on that list this time.","太感谢你了！
+这次我一定看好这份名单。"

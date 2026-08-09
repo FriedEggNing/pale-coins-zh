@@ -1,0 +1,7 @@
+type,id,text,zh
+action,action-28b9cdf1-657b-0115-a958-874b674455e8,"Hold ###input.INPUT_QUICK_ACCESS_RADIAL_LEFT### to display the quick access slots.
+Upon release, the highlighted weapon is equipped. Consumables are used immediately.","按住###input.INPUT_QUICK_ACCESS_RADIAL_LEFT###可显示快捷栏。
+松开后，将装备高亮的武器。消耗品则会立即使用。"
+action,action-60442efd-3e88-f6ba-9f9e-4e7ec349c5b6,With ###input.quick_access_slot### you can navigate through your quick access slots.,使用###input.quick_access_slot###可在快捷栏之间切换。
+action,action-2d4fab66-f3aa-b44c-0e42-34e24c5ab789,Skills can be placed into quick access slots from the skills tab in the player window.,可在玩家窗口的技能页签中将技能放入快捷栏。
+action,action-bfa83cf7-b642-9358-92fe-2201c2fc8a75,Hold ###input.INPUT_SKILL_QUICK_BAR### to open the skill quick bar and switch between available skills.,按住###input.INPUT_SKILL_QUICK_BAR###可打开技能快捷条，并在可用技能之间切换。

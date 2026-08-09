@@ -1,0 +1,96 @@
+type,id,text,zh
+option,choice-3d0f80d3-b437-2ea0-28d6-70173d602c0e,Search Themir,搜寻塞米尔
+option,choice-4956fb61-960b-b9ee-74eb-f5ce3690e6fc,Save Themir,救下塞米尔
+option,choice-3b24bbbc-43f7-5456-0b97-08db315ab815,leave,离开
+option,choice-619b5546-462f-4fa5-0821-677fe8d0dd68,Questlines,任务线
+option,choice-a756426c-f227-c301-da19-9b0d3d0f6894,Story Sections / Endings,剧情章节/结局
+option,choice-2fe51956-d846-b5f9-3c1b-a390cc3c7a0b,Factions,阵营
+option,choice-7245f6d3-dc2b-c74f-bf4e-36da121faa1c,Skills,技能
+option,choice-95bd8b5d-ff73-f138-d9af-3d51bea256d5,Player Stats,玩家属性
+option,choice-640d62af-669d-742f-85ad-9cdd4e2fd746,Teleport,传送
+option,choice-7c537d92-ff2a-5fb3-45c0-51a711b9b0ed,Reset Boss,重置首领
+option,choice-c54790b9-fd57-e1e6-73e5-e443b66e0fe7,Add Currency,添加货币
+option,choice-2cbe2ade-ab53-1d5d-e2ec-c8c0e0edf5b0,Leave,离开
+option,choice-a2551145-ec04-856f-69c9-324689cee29d,Found Danny,找到丹尼
+option,choice-df60e1a1-acd1-a714-d809-722a0a38c3c9,Add beer,添加啤酒
+option,choice-fcd817eb-5d02-31ca-fa5f-aeabdf2562ba,Add Hallgrim's Hammer,添加哈尔格里姆的锤子
+option,choice-51063fe1-49ff-0f7d-b243-b31d13709912,Move Hallgrim to the camp.,把哈尔格里姆移到营地。
+option,choice-d75e9de7-6975-d099-7542-208b23d9d385,leave,离开
+option,choice-b94bf1c9-665f-5c51-9b20-4e861e9e5ca3,Section 2,第二章节
+option,choice-d4751c38-d695-db12-6b92-a9b8650a045f,Section 3,第三章节
+option,choice-2c0f56d4-284b-7bab-ee13-5621e786b210,Ending - Claim the Champion's Coin,结局——夺取冠军硬币
+option,choice-c6fe472b-6139-5b6f-971b-5df1bb2bbb43,Ending - Deliver the Champion's Coin,结局——上交冠军硬币
+option,choice-a2247bce-3658-24d3-6e49-7c243ac57c2f,leave,离开
+option,choice-d4054c4c-f2ca-d183-a8bd-008ae3e64e37,Read Ancient Texts,阅读古代文字
+option,choice-cf592252-f6ec-e9b8-d87d-267580d69ff3,Lockpick,开锁
+option,choice-99419e43-2f77-cd76-3f15-a9b31b3e7916,Bow Handling,弓掌握
+option,choice-6ac81ba0-0fc1-8934-9b77-9ed230a1590d,Greatsword handling,巨剑掌握
+option,choice-6f5db39f-ca8f-538d-0b93-badf0bc4bdc1,Sword handling,剑掌握
+option,choice-dd5bc43f-2141-e375-320d-247b800fe410,Rapier handling,刺剑掌握
+option,choice-87b01349-7a04-fb29-0593-ec58e72147c2,Spear handling,长矛掌握
+option,choice-0d05530e-4c7b-debf-775d-4db9cef06277,Staff handling,法杖掌握
+option,choice-de170d6f-aff3-b938-2f02-1594ff387306,Improved endurance during fights,提升战斗中的耐力
+option,choice-34bb6df3-8628-e765-81e7-ee4b0161c251,Themir Questline,塞米尔任务线
+option,choice-306ec3e4-c301-5ecd-b078-1da129022e96,Hallgrim Questline,哈尔格里姆任务线
+option,choice-d23cb493-4945-798d-6878-a5e6c1a7a0dd,Lennard Questline,伦纳德任务线
+option,choice-be37e111-c19d-4f4a-0259-b8abd0c1d047,Balder / Goran,巴尔德/戈兰
+option,choice-1b86a496-7eac-0a08-6288-9c271315c8e7,Rair / Thorald,莱尔/索拉尔德
+option,choice-89bc6e42-0fbd-739b-984f-8d67d1c63d1e,Rhoga Swamp / Rhoga Temple,罗加沼泽/罗加神殿
+option,choice-59a94ac3-665d-b9ef-bcaa-6c1f33a7f14e,leave,离开
+option,choice-357ed6a4-afc1-8ea5-0f43-6ca059c86041,Save Lennard,救下伦纳德
+option,choice-5084bc46-063d-4858-591c-f46cecf70227,Info about their fight.,关于他们争斗的信息。
+option,choice-b866730b-8208-5255-1647-732469622c43,Delivered King's Ruby to Goran,已将国王的红宝石交给戈兰
+option,choice-d0a19dd2-25fe-aabb-7253-b214d114bd97,Delivered King's Ruby to the King,已将国王的红宝石交给国王
+option,choice-4a3d5e7f-c435-67cb-02aa-1ccb069499db,Thorald leaves Inn,索拉尔德离开旅店
+option,choice-3dccc3a1-5300-779d-9378-d8fa1b6bc2f8,Thorald pays bills,索拉尔德付清账单
+option,choice-14c25ba8-a3ab-1c98-1482-16b211f9b87b,Rair wants Thorald gone,莱尔想让索拉尔德离开
+option,choice-a82eb14b-8af1-a1ea-cdef-1c2f90c5a38f,Reset questline,重置任务线
+option,choice-08cbb247-711a-4d47-f7a0-30a7bf1dd7f9,Found Temple,找到神殿
+option,choice-d259b045-1d05-aafb-d9db-1f8725f0836a,Cultist Leader opens Temple,教团首领开启神殿
+option,choice-20564b3a-e827-8770-b69d-38c422a6e990,Finish all Rhoga Cult Quests,完成所有罗加教团任务
+option,choice-9d7048c5-aed1-69ba-1007-5f3b70229af9,Add Arcanum Sanguis,添加血之秘典
+option,choice-da77776a-5161-f222-9baf-a85c4242a4ce,Reset Questline,重置任务线
+option,choice-169016fb-9718-5346-9537-d4974fec91f2,leave,离开
+option,choice-017ed352-2c39-b259-e3f4-084f12e71306,Add XP,添加经验值
+option,choice-232bedda-e102-ddea-d07b-d7211e884906,Add Gold,添加金币
+option,choice-5469bf7c-19f4-ce4e-79b9-374cb64927c4,back,返回
+option,choice-275ea3d9-7021-1da3-84d8-6af1d8754fc1,500,500
+option,choice-db9c8191-5ed7-e3df-e886-8a444435c3a0,1000,1000
+option,choice-7480d4dc-999f-fb59-1ff2-fb7eb3387f6f,5000,5000
+option,choice-bdd62e6e-dd4f-d5c5-5108-bbbee411b4c7,200,200
+option,choice-bb300128-fd6f-2224-bc83-c90d545ec979,500,500
+option,choice-cb602e48-aee3-7351-f293-0597f200a04f,1000,1000
+option,choice-8ba84cf2-684e-a321-2021-c3e533a0d455,Boss - Goblin Mage,首领——哥布林法师
+option,choice-99f955f7-0dac-6766-5b1f-09f854cad7fe,Boss - Crystal Bulwark,首领——水晶壁垒
+option,choice-80e591db-fdcc-5171-dc5c-2fbf6fb0fd90,Boss - Troll Duo,首领——巨魔二人组
+option,choice-1db61a67-bb1d-913d-1652-683543774aa0,Boss - Kepper of Dhul'oq,首领——杜尔奥克守护者
+option,choice-a2377af2-0d55-2c1a-2226-16cd416d2559,Boss - Royal Aegis,首领——皇家神盾
+option,choice-2f723750-985b-ac85-5c9e-9353c6c8bf12,Boss - Gru'Ra,首领——格鲁拉
+option,choice-f4ec3fee-af5c-b235-2e78-cdb74656d61a,Boss - Skeleton King,首领——骷髅王
+option,choice-2d51e229-1f8f-9884-2b9d-eb56b3bfae93,Boss - Orc Chief,首领——兽人酋长
+option,choice-50786e26-2073-59a9-9eb2-a9cc8a30c9b0,Boss - Dragon,首领——巨龙
+option,choice-d900a9e7-ab0a-e430-026c-d08f16063d64,Boss - Syrinir,首领——西里尼尔
+option,choice-fdea36cb-c9cb-fc5a-abaa-2aab5068f80d,Boss - Eye of Secrets,首领——秘密之眼
+option,choice-b67624c3-4eb2-b398-fc19-d47b7e5f7db5,Boss - Carim,首领——卡里姆
+option,choice-d657eb28-4cc2-5de5-ccd3-f210108c9957,Boss - Raider Chief,首领——掠夺者首领
+option,choice-bb7ff624-c863-aa8d-1304-fe7ffcc55fd1,Boss - Pale One,首领——苍白者
+option,choice-5b393820-d6ce-3a91-224a-e1f9a8bfaa72,leave,离开
+option,choice-b90f8775-b050-2f05-13ca-4d4af9005464,Boss - Goblin Mage,首领——哥布林法师
+option,choice-8928d624-bf85-b5b8-c681-d77f6457a699,Boss - Crystal Bulwark,首领——水晶壁垒
+option,choice-b062e14d-863b-bcba-5ecd-e5ff8c379e33,Boss - Troll Duo,首领——巨魔二人组
+option,choice-1b78d5ff-4dc3-5a05-66e1-9e975cea97ac,Boss - Kepper of Dhul'oq,首领——杜尔奥克守护者
+option,choice-818199d4-41f0-8cab-c815-7ac3fe45b803,Boss - Royal Aegis,首领——皇家神盾
+option,choice-a374990a-7e73-d405-010f-8751771e9497,Boss - Gru'Ra,首领——格鲁拉
+option,choice-ee3c0cf9-623e-911d-226a-d04466054ada,Boss - Skeleton King,首领——骷髅王
+option,choice-07875b12-059f-2052-4685-c4155b24ed48,Boss - Orc Chief,首领——兽人酋长
+option,choice-19c79034-768c-d0de-0bd4-a5aebd6f8554,Boss - Sirynir,首领——西里尼尔
+option,choice-8f255d8e-ed6e-32be-67de-b3c95aa40980,Boss - Dragon,首领——巨龙
+option,choice-dd3eaf33-f7dd-3e28-80c6-aab9214d3ca3,Boss - Pale One,首领——苍白者
+option,choice-2bc7aade-943d-611d-5bd5-fa48561ec4cd,leave,离开
+option,choice-3bd06651-ad53-af74-0f16-6102fa231f2f,Join Cultists,加入教团
+option,choice-2bd8f0f9-7538-aafb-d18d-8a26bfaa7c8a,Join Academy,加入学院
+option,choice-086a273a-3e01-6408-d945-616bc857461f,Join Bandits,加入盗匪
+option,choice-8174a654-8ef2-3215-9da2-8fe2aad6879a,Join Royal Guard,加入皇家卫队
+option,choice-836018c6-0df6-a8ec-f3df-16259b91a568,leave,离开
+option,choice-7d1ace7a-2778-a756-9078-67b44368074d,Blood Coin x10,鲜血硬币 x10
+option,choice-8b150403-9be3-b03c-8ded-83a4cea5728c,leave,离开

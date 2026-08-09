@@ -1,0 +1,16 @@
+type,id,text,zh
+action,action-066a40fa-b9b4-d9ec-3ef0-e11bea11fc79,"Hello there, citizen!",你好啊，市民！
+action,action-5e3320d4-7e36-b953-afe8-28d22b1393ab,"The access to the harbor is restricted, unless you have an urgent matter at the docks.",港口禁止随意进入，除非你在码头有急事要办。
+option,choice-e4c72958-9e9c-923b-d746-22fb7166ad78,Why are there no ships lately?,为什么最近没有船了？
+option,choice-1a305837-9a46-7d7a-ac44-aa57c9b5d0f6,Why is the access to the docks restricted?,为什么码头禁止随意进入？
+option,choice-e0fc9944-c36e-df3d-33b3-1a276d2c56b4,I am on my way.,我这就走。
+action,action-c6976285-863f-c5be-4ac4-0ad47920db1b,"You see, Grenmark once was an important place for trading.
+Several merchants from the capital and Erstadt sold their wares oversees.","你要知道，格伦马克曾是重要的贸易之地。
+不少王都和埃尔施塔特的商人把货物卖往海外。"
+action,action-bd24c042-254b-8ad7-7986-9dc192f795bb,"As the road to Erstadt was overrun by monsters, trading stopped and Grenmark slowly lost its position.
+This also led to a decrease in ships.","自从通往埃尔施塔特的道路被怪物占据，贸易就停了，格伦马克也渐渐失去了地位。
+来的船自然也就少了。"
+action,action-9c0ac865-7672-adac-7e8a-b2d8f9398955,"That way, we'd have to station fewer guards at the docks.
+Since there's never anyone down there anyway, it's enough to have one or two guards patrolling near the ships.","这样一来，码头需要驻守的卫兵就少了。
+反正下面从来没什么人，派一两个卫兵在船附近巡逻也就够了。"
+action,action-ad9305a9-494f-c0dc-1934-c1115374c133,Have a good trip!,一路顺风！

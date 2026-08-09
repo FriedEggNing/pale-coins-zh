@@ -1,0 +1,18 @@
+type,id,text,zh
+action,action-8e765816-1ab8-dd09-fdaa-aa203029337d,*gasp,*喘息
+action,action-8ffe8ed6-a8fe-e0a5-db11-bbd5ef1b41b1,Oh.. It's you.,哦……是你啊。
+action,action-6c8df47d-f7c7-6da9-7a00-20b707729949,"You don't have a healing potion on you, do you?",你身上不会正好带着生命药水吧？
+option,choice-53ae8db3-25b0-ec5e-2312-8ef80b92b697,What happened?,发生什么事了？
+option,choice-55776b73-e899-299d-8c3a-1b1419fa56ae,Take this weak healing potion.,拿着这瓶弱效生命药水吧。
+option,choice-da62d745-b75c-c3c3-9cc4-da4c8ddeb70f,Take this small healing potion.,拿着这瓶小型生命药水吧。
+option,choice-90d30a85-81b8-70d1-fac4-d578594c4844,Take this standard healing potion.,拿着这瓶标准生命药水吧。
+option,choice-47e99591-b3f0-7067-cd83-d4760b1dc7bb,"Sorry, I don't have a healing potion on me.",抱歉，我身上没有生命药水。
+action,action-c779e58d-7505-cb18-e913-c37c0354286f,"I was curious what lies inside these ruins, and snuck my way through the undead.",我好奇这遗迹里藏着什么，就从亡灵堆里偷偷摸了进来。
+action,action-dd7f2ecd-ad0f-1fd0-2518-b460eb8375a0,"Eventually, I stumbled upon a monstrosity lurking down here.",结果，我撞见了一头潜伏在下面的怪物。
+action,action-f43be321-83db-34bb-0355-875e0b99cf2d,"I tried to take it down, but it overwhelmed me. One blow, and I knew it was time to retreat.",我想干掉它，却被它压着打。只挨了一下，我就知道该撤了。
+action,action-b3c7078c-3652-b9ca-e832-6427b0147173,"Ahh, fuck!
+Hopefully, I'll survive this round.","啊，妈的！
+但愿这回我能挺过去。"
+action,action-015c1bce-8a10-1360-a5c7-11524f7221a9,"Thank you!
+This will definitely help to defeat that monstrosity.","谢谢你！
+有了这个，肯定能帮我干掉那头怪物。"

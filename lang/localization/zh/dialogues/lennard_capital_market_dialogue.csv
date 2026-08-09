@@ -1,0 +1,31 @@
+type,id,text,zh
+action,action-077e3932-ff3c-1825-1fdf-c17a138e9385,"Oh, it's you again.
+Do you need something?","哦，又是你。
+有什么需要吗？"
+option,choice-acc93b7f-9aa5-c716-d77b-da3176197bd4,What are you doing here?,你在这儿做什么？
+option,choice-f68f4889-c302-0112-7443-f67f3011479d,Regarding the trading partner...,关于生意伙伴的事……
+option,choice-c84d7b72-0c6d-f751-f056-3566d9cdca77,What do you sell?,你卖些什么？
+option,choice-544a7819-8d67-f745-e2a0-5a1f85c9eee6,See you!,回头见！
+action,action-c87a3679-3c08-f8ac-03a0-63778d427fa2,"I am looking for a new business partner.
+Figured the capital is worth a shot.","我在找一位新的生意伙伴。
+琢磨着王都值得一试。"
+action,action-97b72c7d-1c2a-108d-ffda-18fe3688e2f4,Only the best for you!,都是给你备的好货！
+action,action-a5c71977-12cf-fb63-59fc-86f527bbcf05,"Still, I am unsure which merchant is truly the right one.",不过，我还拿不准哪个商人才真正合适。
+action,action-b0685d0e-80c0-e72c-411a-c800265aeeea,"What's your take? Should I invest in #:Weapons:#, #:Armor:#, or perhaps #:Jewelry:#?",你怎么看？我该投资#:武器:#、#:防具:#，还是#:珠宝:#？
+option,choice-6b4e611f-9b15-cdbb-cd3a-232d04f73a59,Everyone needs weapons nowadays.,如今人人都需要武器。
+option,choice-5816956e-8ade-5ebd-4347-1038b845b28f,Armor is a safe bet.,防具最稳妥。
+option,choice-7d09b9aa-2194-c54a-b350-041bd0a645e4,Jewelry sounds promising.,珠宝听起来有前景。
+option,choice-e600de0b-853e-ca5f-85dc-d8bf9add5268,I'll think about it.,我考虑考虑。
+action,action-89d2f710-c78c-3aaa-1fde-3a088bd5c315,"Sure.
+I, too, need to think about possible investments.","好。
+我也得琢磨琢磨该怎么投资。"
+action,action-3ea89beb-68d5-9e5b-6986-36a78abb4ce9,"Yes?
+Which business is worth investing in?","怎么样？
+哪门生意值得投资？"
+action,action-f44d1b04-24b2-535f-10a6-8d4dec1bece4,"With all the bandits around the capital and the problem with the trade route to Erstadt, you may be right.",王都周边土匪横行，通往埃尔施塔特的商路又出了问题，你说得或许有理。
+action,action-1a9bcab0-00a6-2d68-9558-256d2b32fa3b,"Armor sells for a decent profit. If I can get my hands on a few good pieces, it might be worth the effort.",防具的利润相当可观。要是能弄到几件好货，兴许值得一做。
+action,action-1bae6c8a-89da-7bd8-92db-9dfbc8afd00f,Of course. Jewelry is always popular with the capital's upper class.,没错。珠宝在王都的上流阶层向来吃香。
+action,action-0c89a9b2-5d7a-cd67-e6f7-f47ca942b400,"Well then!
+It's time to negotiate.","那好！
+该去谈生意了。"
+action,action-9c6d3cbb-9616-8011-aedc-552a34470edb,See you later.,回头见。

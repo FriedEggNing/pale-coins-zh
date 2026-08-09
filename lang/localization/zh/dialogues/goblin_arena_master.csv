@@ -1,0 +1,47 @@
+type,id,text,zh
+action,action-82e1a3e2-8769-fcf6-5ced-482e3d922154,Human.. here?,人类……来这儿？
+option,choice-f85aae75-e38e-c45a-5c49-50ff7adf34be,You know my language?,你会说我的语言？
+option,choice-16c77527-8786-1555-9e28-a92e66a90e07,Why don't you attack me?,你为什么不攻击我？
+option,choice-fa4d2cc1-ce38-53b5-a9a3-d906434f7ee0,Where am I?,我这是在哪儿？
+action,action-5249a810-4d56-ebfe-0d6b-6b6fe6ae4038,"Yes.
+Me follow big warrior. Strong warrior.","会。
+俺跟过大战士。强的战士。"
+action,action-8a230958-6b76-09f2-f518-a64072b882d1,"Old.
+Me too old...","老了。
+俺太老了……"
+action,action-9d4b5024-5f25-741e-f00f-8177cab58e9d,"We fight together.
+Me learn language.","俺们一起打仗。
+俺学会了语言。"
+action,action-a58781b1-8fb6-5bef-0f6b-5608fa3623a3,Me only watch fights...,俺现在只看打架……
+action,action-13ed6e4b-9470-8c5d-45b9-271e9b276896,"You in cave of goblins.
+In arena.","你在哥布林的洞里。
+在竞技场。"
+option,choice-7a45e3e9-2008-f017-051f-51b5351471a9,Can I fight in the arena?,我能在竞技场里战斗吗？
+action,action-773b4266-b1a1-c75d-658f-8e8f028fd04c,"Let think...
+Only strong warrior fight in arena.","让俺想想……
+只有强的战士才能打竞技场。"
+action,action-2e8b488d-f098-aa99-962d-55c09483a287,You strong. You fight.,你强。你能打。
+option,choice-ea32a437-4e58-a8a3-76e4-1a91bc75ea53,What are the rules of the arena?,竞技场的规矩是什么？
+option,choice-4d9200a2-722c-a626-48d8-51c75ba69e6b,I want to fight in the arena.,我想在竞技场里战斗。
+option,choice-9642352e-9d56-0f99-e464-4d5f7ffaa16d,I am on my way.,我这就去。
+action,action-a0f153eb-4681-a53e-a18a-eee220374139,You fight?,你要打？
+action,action-49efd739-f0cd-7d1c-25a6-014351f8ccc4,Me open door. You enter arena.,俺开门。你进竞技场。
+action,action-ed774e23-4236-7f98-f9bc-b3ddccfc0742,Many enemies come and you fight.,很多敌人来，你打。
+action,action-b064d6be-44ec-c3f2-896b-948b94db5a26,"You survive, you get price.",你活下来，就有奖。
+action,action-6fee03cb-eaa3-013f-8cd8-45e7ea0259f5,Come again.,再来。
+action,action-6acea956-2c4e-d137-d926-e71e9fae3736,"Yes.
+I give you easy enemies.","行。
+俺给你弱的敌人。"
+action,action-373c8424-bba9-4eeb-ec63-adaf0e5c48da,You go inside arena and fight.,你进竞技场，打。
+action,action-a27aaddd-5a31-d1c1-0d72-a0e15f6f0a7c,Yes. You strong.,行。你强。
+action,action-abf51c6e-b2f4-3711-ed18-856b25825d69,You fight strong enemies?,你要打强的敌人？
+option,choice-5fa7ebe7-e343-7cc6-0ca6-61c3bd168f55,I want to fight easy enemies.,我想打弱一点的敌人。
+option,choice-f840b39a-301f-901c-1afc-54b8b8cdfba6,Give me a challenge.,给我来点挑战。
+option,choice-064ee663-03d9-dc1c-f54d-0ea833702b68,I'll fight the strongest enemies.,我要打最强的敌人。
+option,choice-68f6fd29-979d-01e6-6d0f-a63059bd6cf2,I need to think about it.,我得考虑考虑。
+action,action-531d50ec-9096-db70-4617-7103290fe17c,"Afraid?
+He he.","怕了？
+嘿嘿。"
+action,action-18457899-6c6e-0270-7a39-c315b2e237d8,You go inside arena and fight.,你进竞技场，打。
+action,action-7069c65f-936a-51fa-9005-219b64ca4fbe,You fight good. You strong.,你打得好。你强。
+action,action-d2df8185-64be-d9ee-5830-1622bda8eddf,"Win against strongest enemy, you get good reward.",赢了最强的敌人，你有好奖赏。

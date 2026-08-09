@@ -1,0 +1,2 @@
+type,id,text,zh
+action,action-bbaeb765-ce59-d93c-f9f9-3aabbcb0d726,Use #text.frames=4##text.color=highlight####input.INPUT_UP### ###input.INPUT_LEFT### ###input.INPUT_DOWN### ###input.INPUT_RIGHT####text.default# to move around.,使用#text.frames=4##text.color=highlight####input.INPUT_UP### ###input.INPUT_LEFT### ###input.INPUT_DOWN### ###input.INPUT_RIGHT####text.default#进行移动。

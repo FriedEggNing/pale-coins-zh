@@ -1,0 +1,45 @@
+type,id,text,zh
+action,action-c3a0dbc0-76a3-f6de-f74f-e3140f7e00e2,"Did you really jump down here?
+Respect!","你真的跳下来了？
+佩服！"
+action,action-4f75b365-2de5-c414-a3e7-6f11644dfe69,"Now, don't just stand there. Pull me up!",行了，别傻站着。拉我上去！
+option,choice-ad470563-90a1-1f02-e91a-d65981628aac,What was that?,刚才那是怎么回事？
+option,choice-98586950-d5a4-c162-d446-519758f2c44b,*lend a hand,*搭把手
+option,choice-7468ed9c-4a4f-d040-b751-0a0f1132bae7,Do it yourself.,你自己来吧。
+action,action-21f60e6b-cad0-b36a-2ef7-b711b59a8b91,I prefer to talk at eye level. Help me up first!,我喜欢平视着说话。先扶我起来！
+action,action-e689aa56-1e71-4a9c-ef47-93b63638bd0b,"Well, look who found their backbone.",哟，瞧瞧是谁长出骨气来了。
+action,action-cc42defa-fa0c-1288-22a3-880adf84cad9,Hmpf!,哼！
+action,action-65e5d8a1-40f9-8342-fe29-c17fd1adf99a,"Thanks, man!",谢了，伙计！
+option,choice-6721879a-5638-bdfb-3aa2-6495694638c4,What was that?,刚才那是怎么回事？
+option,choice-60416d3d-5332-87b9-613d-417f26e435d5,What about the King's Ruby?,国王的红宝石是怎么回事？
+option,choice-30f86998-5ca7-94ba-be28-f64f37b32b1b,Where are we?,我们这是在哪儿？
+option,choice-20a04e23-0b2e-89a3-5c4d-d7b89e6eb0fa,What should we do?,我们该怎么办？
+action,action-a45b3fcf-cd2e-0ade-5401-f6aa2b5525af,That was me. Or at least... whatever's inside me.,那是我干的。或者说……是我身体里的那个东西干的。
+action,action-4a604ffd-3fa9-cff2-49d8-dabc68a23a8f,"Argh!
+Something's wrong with me. And it's more than I can explain.","呃啊！
+我的身体不对劲。这事我自己也说不清。"
+option,choice-0154cd21-4400-fdbb-a60f-697087060681,I don't understand.,我不明白。
+action,action-8bdc83c1-5287-0e73-4338-aad161b93506,"Is it a curse? A damn demon?
+Hell if I know.","是诅咒？还是哪个该死的恶魔？
+鬼才知道。"
+action,action-30be7de2-0bd5-4625-cb77-edcf0521dc9f,"Whatever it is, it's messing with me.
+Just happened again. I lost control over it.","不管那是什么，它在折腾我。
+刚才又发作了。我控制不住它。"
+action,action-855918e9-6064-4b92-3dcc-fd05bd20015b,...,……
+action,action-87e97c81-95a6-9ecd-4ab9-65965d43c818,Don't you dare tell anyone. Balder's the only one who knows.,你敢说出去试试。这事只有巴尔德知道。
+action,action-7e33934b-3e7b-e6c3-b031-7248b350952a,Jesse caught wind of someone giving the ruby to the king.,杰西听到风声，说有人把红宝石献给了国王。
+action,action-fa3ea3be-aa0d-a53a-e5e9-dc26fd089b56,"With the ruby in hand, I needed to see if the tales were real.",红宝石一到手，我就得验证那些传说是不是真的。
+action,action-bd66a4e6-6af9-ca94-0050-725547f15d0c,"Before the king could hide it, Jesse replaced the real ruby with a forgery.",趁国王还没把它藏起来，杰西用一枚赝品换走了真的红宝石。
+action,action-bbee022f-c79d-f847-e981-d5b0d8e4957c,Legend has it the King's Ruby enhances the inner strength of its wielder.,传说国王的红宝石能增强持有者的内在力量。
+action,action-d4d11d15-2f85-086a-2b22-1f42e3ffdb75,Which is how the ruby found its way into my hands.,红宝石就是这么落到我手里的。
+action,action-19113bb4-e28d-23c6-0032-b7724d601129,My plan was to use it to break the curse. Or keep it sealed away forever.,我本打算用它破除诅咒。或者把那东西永远封印起来。
+action,action-2cca3308-29e0-9bbc-0a95-214ef198efb7,"Apparently, the ruby didn't just strengthen me, but the thing inside me as well.",结果显然，红宝石不光增强了我，也增强了我身体里的那个东西。
+action,action-e3d80448-7390-e8ca-bab8-145141ec1c78,"I don't know.
+This place reminds me of the old mine Balder and I used to work in.","我不知道。
+这地方让我想起我和巴尔德以前干活的那座旧矿井。"
+action,action-d3b433d4-45c7-f177-10ec-cf026371acc2,"So, what do you want?",那么，你想干什么？
+action,action-93be105f-ad90-09e0-2113-91ac495f0540,Hmpf!,哼！
+action,action-310bcd24-2319-3554-ebf6-901a10b3c636,Let's not just stand here. We should explore the area and find an exit.,别在这儿干站着。我们该四处探探，找条出路。
+action,action-e5509a7b-bf47-d9e5-92f8-8e39e2181c97,"Come on already!
+You waiting for an invitation?","快点儿！
+还等着人下请帖吗？"

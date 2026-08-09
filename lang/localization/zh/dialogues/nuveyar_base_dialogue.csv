@@ -1,0 +1,165 @@
+type,id,text,zh
+action,action-8a8cdcc9-304e-3d9c-c6fc-ab3252adf3d0,"Oh, well now...",哦，瞧瞧……
+action,action-5a5b0c05-065c-2f5f-2f0c-9bb04bc4bcf8,Who do we have here?,这是谁来了？
+action,action-36b5a539-e767-7237-7c16-340c559b95a6,It has been a long time since the last visit.,距离上一次有访客，已经过去很久了。
+option,choice-2804094e-45c0-2a1f-5fdf-78187390e6e9,Who are you?,你是谁？
+option,choice-e38656f7-d774-0daa-8a78-323f3c674d12,What are you?,你是什么存在？
+option,choice-d7bc60ab-2a29-6139-1b15-c59d8a527e62,Where am I?,我这是在哪里？
+option,choice-7543528e-ae31-19d9-8baf-ac7128a9ac7b,Do you know about the Champion's Coin?,你知道冠军硬币吗？
+action,action-8b512bdc-b6ec-4318-68a9-41b7728b5fbf,Hmm... my name?,唔……我的名字？
+action,action-fa1b33c6-1dab-7ebb-b069-8878c6a9dba5,"The last time I was called...
+#:Nuveyar:#. Does that answer your question?","上一次，人们称我为……
+#:努维亚:#。这个回答能让你满意吗？"
+action,action-1735f71e-e26f-4c79-1faf-d57020400463,A good question indeed.,确实是个好问题。
+action,action-665cf546-6344-d0e6-f9e9-c56149bf7993,"However, it is not one I can answer, as I do not know. I was never given a reason for my existence.",但我无法回答，因为我也不知道。从没有谁告诉过我存在的理由。
+action,action-2dc5ca9b-e7e6-1283-4a9f-d086915f7d24,"Ever since the very first day, I merely watched the events around me, but never wanted to interfere.",自最初的那一天起，我只是注视着周遭发生的一切，从不愿插手干预。
+action,action-f7f83bc4-32f2-f656-92bc-661e2308af52,"To me, I find it more entertaining to watch.",对我而言，旁观更有乐趣。
+action,action-22afc693-27df-e1e9-6b48-dfa47246014c,"To answer your question, I might call myself a mere... #text.frames=4##text.color=highlight#Watcher#text.default#.",要回答你的问题的话，我或许可以自称为一个……#text.frames=4##text.color=highlight#观察者#text.default#。
+action,action-e353c24f-8762-401a-006d-4f386254ed36,We are in no specific place in no specific time.,我们不在任何特定的地方，也不在任何特定的时间。
+action,action-b3403232-4613-1370-df75-0d9a40c01704,"I call it the #text.frames=4##text.color=highlight#Eternal Realm#text.default#, as time and place are not even concepts here.",我称之为#text.frames=4##text.color=highlight#永恒之境#text.default#，因为时间与空间在这里根本不成概念。
+action,action-a19ff747-3f71-b133-1a87-705718b2c88a,Hmm...,唔……
+action,action-15ccc348-825c-31fa-139c-f08720299a87,Was only a matter of time before this was asked.,迟早会有人问起这个。
+action,action-8382a0c0-cf0f-1675-45fc-dc74193a943b,"Yes, I do know about the Champion's Coin.",是的，我知道冠军硬币。
+action,action-64d82348-cc51-99a8-f1ec-3be2e05e6ee4,"But, a question from me, before I answer yours.",不过在回答之前，我要先问你一个问题。
+action,action-6923fe97-61b6-d0fb-10d1-5dda093616f7,What do #text.frames=4#you#text.default# know about the Pale Coins?,#text.frames=4#你#text.default#对苍白硬币了解多少？
+option,choice-6ce12af9-9da3-bfd6-03d6-4bbbd0db0bf5,Nothing.,一无所知。
+action,action-6a280d80-b55b-d684-49e6-037dfa546017,Expected.,意料之中。
+action,action-ca40f3db-463a-0f43-2c32-f3295e7ff37c,"If you seek to know about them, then I shall oblige.",你若想了解它们，我自当奉告。
+option,choice-6eb3114b-b092-3601-3158-aaf9ba402ac9,I'd like to learn about the Pale Coins.,我想了解苍白硬币。
+option,choice-5d78359b-67ef-d7bc-eaab-0d8035a35933,Maybe later.,以后再说吧。
+action,action-2e3f2b98-3647-758a-f93b-d4a93d36c0c1,Very well.,很好。
+action,action-d4fbb0d7-6984-3707-098d-f3c289316e2d,As you wish.,如你所愿。
+action,action-4a4ffc4e-6b69-eaa9-827b-3cfccfd46516,"A long time ago, as I was watching the events in your world, creatures unknown to me emerged.",很久以前，当我注视着你们世界中的种种变迁时，一些我从未见过的生灵出现了。
+action,action-81754647-4088-8ff8-7781-45c676ed22dd,They introduced themselves as the #text.frames=4##text.color=highlight#Pale Ones#text.default#.,他们自称为#text.frames=4##text.color=highlight#苍白者#text.default#。
+action,action-bfb8fe86-61bd-2759-7961-c3bdc45eeaab,"Soon after their arrival, they created artefacts of power.",他们到来后不久，便造出了蕴含力量的神器。
+action,action-af9acab7-20a5-0c53-c07d-a3794be69559,Your kind called them the #text.frames=4##text.color=highlight#Pale Coins#text.default#.,你们的族类称之为#text.frames=4##text.color=highlight#苍白硬币#text.default#。
+action,action-e5e64610-301b-b9de-04be-6ff489f5a1e5,"The Pale Coins contained immense power, which they passed on to the owner of the coin.",苍白硬币蕴藏着无穷的力量，并会将这力量传给硬币的持有者。
+action,action-4fb00855-a4f2-b427-bf85-0aa86f6ad8f5,"It did not take long for your kind to fight over them, resulting in wars and chaos.",没过多久，你们的族类便开始为之争斗，战乱与混沌随之而来。
+action,action-c12026c4-38a9-5b40-fe77-b59178784b5d,"Soon after their appearance, the Pale Ones disappeared, not leaving a single trace, except the coins.",现身后不久，苍白者便消失了，没有留下一丝痕迹，只余下那些硬币。
+action,action-6fff9164-0a53-b8af-c8db-2a51b594c084,"The Pale Coins were seen as a danger to many of you, so they decided to destroy them. Admittedly, against the will of others.",在你们许多人眼中，苍白硬币是一种祸患，于是他们决定将其销毁。诚然，这违背了另一些人的意愿。
+action,action-3ccd3361-bc30-3310-0118-fadf8a987c3e,"As time passed, more and more Pale Coins were destroyed. With every next generation, their existence faded.",随着时间流逝，越来越多的苍白硬币被销毁。一代又一代过去，它们的存在也渐渐被淡忘。
+option,choice-27ab9171-3521-dbb3-bbe2-76bff68fb6e5,What about the Champion's Coin?,那冠军硬币呢？
+action,action-d8b0765e-2070-8ad3-0d9d-027eb855bc67,"Among the Pale Coins was one remarkable one. The very first Pale Coin, the #text.frames=4##text.color=highlight#Champion's Coin#text.default#.",在苍白硬币之中，有一枚非同寻常。那就是最初的苍白硬币——#text.frames=4##text.color=highlight#冠军硬币#text.default#。
+action,action-8eab7343-1791-80ed-3be3-e46b9556eb3a,"It contained a power too great for anyone to handle, so the coin decided to grant it's power in a different form.",它蕴含的力量过于强大，无人能够驾驭，于是这枚硬币决定以另一种形式赐予它的力量。
+action,action-0b5fb1c9-ce10-17ed-b0ad-451584c15297,The owner was able to wish for anything they wanted.,它的持有者可以许下任何愿望。
+action,action-0da17ced-c83c-a374-7518-c699e5563564,"Which leads me to ask.
+Why are #text.frames=4#you#text.default# looking for it?","这便引出了我的问题。
+#text.frames=4#你#text.default#为何要寻找它？"
+option,choice-5bd4cb9e-62b1-7431-bc7b-97c32bb23231,I was given a task to find it.,有人交给我寻找它的任务。
+option,choice-e76fe35f-4edd-089a-9747-54ad9179ac30,I want it for myself.,我想将它据为己有。
+option,choice-b0e29ab0-35d9-fc95-ad32-db4bba741d71,I don't know.,我不知道。
+action,action-400b5faf-3c4e-86b7-410b-44bcacb7ed94,"Hm, fascinating.",唔，有意思。
+action,action-efdb3153-ae44-d11c-898a-f6d3ee2a815c,The Champion's Coin will hold whatever it is you seek from it.,你想从冠军硬币那里得到什么，它便会为你呈现什么。
+action,action-c6f30a7a-da4f-876c-bed6-b17c63d15ddf,Your indecision is interesting.,你的犹疑不定倒是很有趣。
+action,action-ef5c9efc-465a-da2c-7521-3b96f12768bd,Is there anything else you want to know?,你还有什么想知道的吗？
+option,choice-64d6a79f-cb3c-2c67-78e3-2cc454186a9e,I want to identify a Pale Coin.,我想鉴定一枚苍白硬币。
+option,choice-cf3e6247-2d18-6136-d900-08866e0e2cbf,Surrender my memories (New Game+),交出我的记忆（新游戏+）
+option,choice-88dc34ee-218d-bbb4-dcd0-dfc7bd3c8934,Surrender my memories (Choose difficulty),交出我的记忆（选择难度）
+option,choice-27df8d4c-bd00-435b-ff73-78d93741999f,Where can I find Dhul'oq?,我在哪里能找到杜尔奥克？
+option,choice-85f9f051-887f-66cc-4423-3a7bc6ea0fd5,How do I leave this place?,我要怎么离开这个地方？
+option,choice-745ec15d-2d6a-107a-fe42-84265cd4bb4b,"I heard about ""our father"".",我听说了“我们的父神”的事。
+option,choice-a3a210c4-76d8-108a-f28b-4f5c130e868a,I know where to find Dhul'oq.,我知道去哪里找杜尔奥克了。
+option,choice-a1a1f528-3874-a91a-e0a0-82f66986e2de,Where can I find the sacred stones?,我在哪里能找到那些圣石？
+option,choice-1038521a-35f3-73fe-0ed2-9cf9e45a279b,I found a Pale Essence.,我找到了一份苍白精华。
+option,choice-02197e73-70fa-3427-ff62-e5bbcedaf818,There is nothing else I want to know.,没有别的想知道的了。
+action,action-7d2c1d74-a842-d3c2-f81e-fb62de244406,The Seeker of the Champion's Coin.,冠军硬币的寻觅者。
+action,action-e5538c26-c56c-57fb-60d8-eb503214d2c0,How may I help you?,我能为你做些什么？
+action,action-e06ff652-617c-ecfc-5b20-86a20c463e5d,"A question where the answer is as good as none, I am afraid.",恐怕这个问题的答案，说了也等于没说。
+action,action-e0b11def-ab78-b491-a0af-ae3b616c97e8,The Champion's Coin lies deep within the city of #text.frames=4##text.color=highlight#Dhul'oq#text.default#.,冠军硬币深藏于#text.frames=4##text.color=highlight#杜尔奥克#text.default#城之中。
+action,action-ff742bfb-3a44-9263-301a-879bdc5b4949,"However, the place is not known to any of your kind.",然而，你们的族类无人知晓那地方的所在。
+action,action-e5a0717b-ab46-b192-6f44-e835ee41ebf6,Where is the entertainment in telling you everything?,若是把一切都告诉你，乐趣何在？
+action,action-b4e1e02d-cd9b-8827-91d0-6e326b1ff01a,I am sure you will be able to find the city on your own.,我相信你能靠自己找到那座城。
+action,action-395a5122-fc73-c9f6-d6f3-a2886ab25382,Keep an eye out for the fragments of long past generations.,留意那些远古世代残留的碎片吧。
+action,action-5053b4d7-4258-3082-c355-9b3b708aba27,Ancient knowledge holds answers to present and future.,古老的知识蕴藏着关于当下与未来的答案。
+action,action-a1bdfe62-20b6-14bd-087f-297ca1b4b9c4,"The same way you entered the realm, I suppose.",我想，就沿着你进入此境的方式原路返回吧。
+action,action-13ba1ede-6da8-7fbc-39ca-7a78a6fdba08,You were teleported here by the power of a ritual stone. Why not give it another try?,你是借助仪式石的力量传送到这里的。何不再试一次？
+action,action-f073789f-82b0-9fd9-bef7-67bfea4a1b08,"Good luck with your search, Seeker.",祝你搜寻顺利，寻觅者。
+action,action-8fbb4e8c-8fa3-fac5-44be-cbff20db0819,Before I forget.,趁我还没忘。
+action,action-99231d6d-c5fd-b89e-113f-4c623df72b49,"Take this Ritual Key. With its help, you should be able to control the ritual stones and teleport wherever you wish.",收下这把仪式钥匙。借助它，你应该能操控各处的仪式石，随心传送。
+action,action-d8f7b68e-9ac4-7033-fdb2-3fbb54a4a9ec,"Unless you have not activated the ritual stone yet. Then, the location will be unreachable for you.",除非你尚未激活那处的仪式石。那样的话，那个地点对你来说就无法抵达。
+action,action-79003646-1dcd-28de-d1ed-6308c0649fe3,"Usually, these stones will activate as soon as you interact with them. You will need the Ritual Key, however.",通常，这些石头会在你与之接触时立即激活。不过你需要仪式钥匙才行。
+action,action-71e4ae51-f70c-fc32-610c-e0ce0ee26db2,As you wish.,如你所愿。
+action,action-799de5a3-177c-d000-1b52-8ac662a54b9b,Use your Ritual Key you already own to teleport between Ritual Stones.,使用你已经拥有的仪式钥匙，即可在仪式石之间传送。
+option,choice-4508c9c5-73de-32c5-70e2-156a790a1191,Where can I find the Champion's Coin?,我在哪里能找到冠军硬币？
+action,action-d94d134a-12e9-29ef-fe9f-d10920e80ee6,"Yes, yes... You people always want to believe in something higher when you can't explain things to yourself.",是啊，是啊……你们这些人一旦无法解释事物，就总想去相信某种更高的存在。
+option,choice-f8b004e2-de5e-e069-c3ae-ccf963fe2aeb,Is there something higher?,真的有更高的存在吗？
+option,choice-7474950c-fe4c-fc6e-2479-98ed1071e69d,I heard enough.,我听够了。
+action,action-b58a8fde-1960-c668-01e7-5f654cd8ea26,"Sure.
+Do you want to know something else?","当然。
+你还想知道些别的吗？"
+action,action-5e7478dd-fe53-95f6-b4eb-d3723411316f,Well... how did you get back to the mortal world?,呵……那你是怎么回到凡人世界的？
+action,action-f00b2a15-6894-1aa1-1fa4-4a02ed2e815c,"Even if you don't necessarily worship the same thing, there will always be higher beings.",即便你们崇拜的未必是同一种事物，更高的存在也永远都在。
+action,action-1630ed36-1506-0fa2-2dcd-df843f167d08,"Of course you do.
+The keeper told you, didn't he?","你当然知道。
+是那位守护者告诉你的，对吧？"
+action,action-b72bcf46-0c33-94e8-a2e8-ba77cb07120d,And yet you are here and not in floating city.,可你如今在这里，而不是在浮空城中。
+action,action-305ad89b-091a-e596-010f-4506428acfec,"Nayryth, Ferumor and Erylding...",奈里斯、费鲁莫尔和埃里尔丁……
+action,action-46532894-6b46-d3c5-069c-35fcd66f9502,"The stones to activate the portal to the city of Dhul'oq, right?",用来激活通往杜尔奥克城传送门的圣石，对吧？
+action,action-7171dac2-6ade-cb3a-ec0a-63c6916be4e7,Ages ago they were given to former lords to keep them safe.,很久以前，它们被交给昔日的领主们保管。
+action,action-2d6d0f1c-b0d2-c1c7-f05f-6fb2d3ce764e,"Anyway, what else do you want to know?",好了，你还想知道什么？
+action,action-ad5f5ce6-613f-d879-51fe-cd1d15462b7e,They failed as the sacred stones influenced the lords and their people.,他们失败了，因为圣石影响了领主与其子民。
+action,action-95587162-8346-42dd-fa3f-66f7d5711360,"You should find notes about the stones in the Tower of Dhul'oq - or the lake tower, as you might call it.",你应该能在杜尔奥克之塔——也就是你们所说的湖畔之塔——找到关于圣石的记录。
+action,action-3f96615a-a5a3-8672-e683-80d1388109dd,"An interesting find, for sure.",确实是一件有趣的发现。
+action,action-be14ad09-8079-a6f8-5a0b-9a0b341673f7,These essences seem to carry the same energy as a Pale Coin.,这些精华似乎与苍白硬币承载着同样的能量。
+action,action-83567852-432d-98ec-0118-87444a0cf8cd,While they are certainly not as powerful they may be useful in other ways.,虽然它们远没有那么强大，但或许能派上别的用场。
+action,action-52d0b68c-5013-198b-316a-5f429239a4e6,I know you already found all of them.,我知道你已经找齐了它们。
+action,action-111f2468-28e7-3bce-e2f1-2c0b87a66d31,"While this certainly is an incredible feat, don't you get tired of constantly running around and completing your quests?",这固然是了不起的壮举，但你不厌倦吗？终日奔波，完成一个又一个任务？
+action,action-214d0604-db4f-03bc-4050-84d0e33710dd,Just to find the Champion's Coin for someone else?,只为替别人找到冠军硬币？
+action,action-0913817e-8822-d02f-a14e-d9b64f20b842,Just to find the Champion's Coin and possibly fulfill yourself a wish?,只为找到冠军硬币，或许再为自己实现一个愿望？
+action,action-afe2976d-bb40-4ddf-650f-691dd4b88ef6,"Especially, as you don't even know why you're looking for the Champion's Coin?",更何况，你甚至不知道自己为何要寻找冠军硬币？
+action,action-7782daf1-b10d-5aaf-f88b-da9fdfc0cb6b,But none of that matters if you won't make it past your final challenge.,但如果你过不了最后的考验，这一切都无关紧要。
+option,choice-85e4bbff-b070-3038-e7fe-859a63b7cd59,A final challenge?,最后的考验？
+option,choice-d8f95298-3ee0-1763-c4e9-cba8b68868cd,That's enough. I have a coin to claim.,够了。我还有一枚硬币要去取。
+action,action-703e5fc2-97fc-533c-e870-12f69d59e0ed,Be on your way!,上路吧！
+action,action-4c601fae-f49f-8d95-4d1d-36675feba607,"Do you remember the Pale Ones?
+They disappeared without a trace, just after the creation of the Pale Coins.","你还记得苍白者吗？
+他们在造出苍白硬币之后，便消失得无影无踪。"
+action,action-0b6cc854-b7f2-13ac-b13b-8470676b89a4,"That is true for all of them except one.
+One of the Pale Ones returned to Dhul'oq, the place where it all started.","但有一位是例外。
+有一位苍白者回到了杜尔奥克，一切开始的地方。"
+action,action-08a2ddd2-1d8e-f6a5-faf9-a934b587baf4,"Although the Pale One seems to be weakened by his wounds, he won't let you claim the Champion's Coin.",尽管那位苍白者似乎已因伤势而衰弱，他仍不会让你取走冠军硬币。
+action,action-8817e57f-f184-b42a-1601-4c65d7c725c7,You have found yourself one of the Pale Coins it seems.,看来你已寻得了一枚苍白硬币。
+action,action-33a7cd5b-203c-4516-a103-04c8e950cd91,Do you wish to know how to use the power of those artefacts?,你想知道如何运用这些神器的力量吗？
+option,choice-02be43c0-825d-fbdb-61a3-c130cbac1ec4,Tell me how to use the Pale Coins.,告诉我如何使用苍白硬币。
+option,choice-32107f8b-672c-06ee-09bb-3c65bcbe3c54,I already know how to use them.,我已经知道怎么用了。
+action,action-66c75a01-011e-de06-d94f-39d6ec3b5be0,"I see.
+Is there anything else you need?","我明白了。
+你还需要什么吗？"
+action,action-df95bf3b-456f-ab8c-26bb-aea59ce78cc3,The coins can release their power in a variety of forms.,这些硬币可以用多种形式释放其力量。
+action,action-d2d4b043-e685-27c9-c8c3-4b6996a1f2ee,"Typically, the power of a Pale Coin is absorbed once you identify it.",通常来说，苍白硬币的力量会在你鉴定它时被吸收。
+option,choice-d82c1e73-d823-3917-c873-abb1e8ed6e69,How do you know how to identify coins?,你怎么会懂得如何鉴定硬币？
+option,choice-ba358ead-2fa8-ca67-a54a-a552d46a5574,That's all.,就这些。
+action,action-9914fd7c-b15d-97ca-cad3-644930dd795c,You can even further enhance the power of the coins by absorbing other sources.,你还可以通过吸收其他来源，进一步强化硬币的力量。
+action,action-b0a77a73-6737-8fb2-5bb3-1e0feedb3843,I have been observing your world and have already seen the power of coins.,我一直在观察你们的世界，早已见识过硬币的力量。
+action,action-1c86557d-8fe7-31e8-8174-3f5343a830e2,"While the Pale Coins may look similar to you, I recognize their true nature based on my observations.",在你们眼中这些苍白硬币或许彼此相似，而我基于长久的观察，能辨识出它们的真正本质。
+action,action-c09f35e6-d461-e944-db21-d618eeaf3c57,Come to me if you want to identify a Pale Coin.,若想鉴定苍白硬币，就来找我吧。
+action,action-0d9b0ce0-a300-2c96-57ab-4dc2ba34318b,Is there anything else you need?,你还需要什么吗？
+action,action-2dacf7d1-cb21-4139-9f60-23d26f085b14,"Very well.
+Which coin do you want to identify?","很好。
+你想鉴定哪一枚硬币？"
+action,action-768e2cba-609b-73f1-2d58-ac7f3e21003d,"The Bearer of the Champion's Coin!
+What can I do for you?","冠军硬币的持有者！
+我能为你做些什么？"
+action,action-326125a1-d38f-0ea6-81f1-ad06a75ce782,"You finally found the Champion's Coin, did you?",你终于找到冠军硬币了，是吗？
+action,action-20d93835-0fe2-e301-a461-1b21590a1621,"And still, you were not able to claim it.",但你依然未能将它收入手中。
+action,action-be00b8b3-c5fb-f3f1-3be4-597221cb192f,"The next time you stand before your goddess, be sure your life force is fortified to endure her divine might.",下一次站在你的女神面前时，务必先巩固你的生命之力，以承受她的神威。
+action,action-e2470eab-ac28-00e0-b042-30694c39b2f5,What did you wish for?,你许了什么愿？
+action,action-d6aed0c3-e459-4d1b-baf8-330cc33ad582,"Wait!
+Don't tell me.","等等！
+别告诉我。"
+action,action-f4a34d01-c85b-1272-06d1-9a95ed90bc93,"Sooner or later, I'll figure it out on my own.",迟早，我会自己弄明白的。
+action,action-c66b573b-aa6d-0551-bb64-96ebcebece4f,"Are you sure about that?
+You won't be able to return here for a while.","你确定吗？
+之后你会有很长一段时间无法回到这里。"
+option,choice-5f323e9e-980f-67a1-8407-fe454315fd34,Yes. (Choose difficulty),是的。（选择难度）
+option,choice-6e005161-f5c0-de2d-98cd-a8d2310111c5,No.,不。
+action,action-d4e567f7-3110-0efb-8773-ecb86e1e4c75,"Very well!
+It was nice meeting you ###player.name###.","很好！
+很高兴认识你，###player.name###。"
+action,action-847d1819-e666-f167-5138-9cc0743d0c9c,"We already know each other, don't we?",我们已经认识了，不是吗？
+action,action-19308d3c-1f94-1551-0af8-8293ea138bc3,You are the seeker of the Champion's Coin.,你是冠军硬币的寻觅者。
+action,action-330a7bea-5e06-42fc-a87b-80023df1035d,Why are you searching for the coin this time?,这一次，你又为何寻找那枚硬币？
+action,action-b71435dc-c1e4-d7c1-4c27-db974fd264c0,So you have finally entered Varethraen.,这么说，你终于进入瓦雷斯兰了。
+action,action-b5532135-a69e-ba36-e074-cd0fdf00fae0,"This was a sanctuary of magic and wisdom.
+Until pride led mortals to chase godhood.","这里曾是魔法与智慧的圣所。
+直到傲慢驱使凡人妄图追逐神位。"

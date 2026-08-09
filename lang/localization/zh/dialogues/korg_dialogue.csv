@@ -1,0 +1,77 @@
+type,id,text,zh
+action,action-b2991efe-f6c8-2dc8-4c2a-d3d42086904c,"I've never seen ya 'round here. You're new, right?",我以前没在这儿见过你。你是新来的吧？
+action,action-37b6b3cb-1bcd-e5d8-e78a-5ef5f1f1378e,You again? What's up?,又是你？什么事？
+option,choice-6cf904ea-36f4-55c2-4c20-36336640a246,Who are you?,你是谁？
+option,choice-f955cd1b-65ab-2f85-8ca0-1883dff73aad,"Here, I found Hallgrim's hammer.",给，我找到了哈尔格里姆的锤子。
+option,choice-2ea4cc2f-4f18-aae7-cf97-e92e96e12b99,Your father gave me this letter.,你父亲让我把这封信交给你。
+option,choice-4dbfd786-8339-076b-88d5-5c6fe8e4ca60,Have you made a decision about meeting your father?,见不见你父亲，你决定好了吗？
+option,choice-936ece4f-3c1d-a702-9e80-29465498fb51,How was it to see your father again?,再见到你父亲，感觉怎么样？
+option,choice-27d4e38f-36ec-ef46-c775-3ff2dfc778a2,Do you know where Lennard's wares are?,你知道伦纳德的货物在哪儿吗？
+option,choice-bc37b880-e94e-c32a-f62e-1ee25ff25838,Do you have something to sell?,你有什么东西要卖吗？
+option,choice-13d9da33-e8bf-0fae-03e3-b7ea80be27f9,See you!,回见！
+action,action-b35fd6d4-2d9b-3a7d-7763-3c8be6a1326b,"I'm #:Korg:#, the smith of this camp.",我是#:科尔格:#，这个营地的铁匠。
+action,action-7a61d6ca-17c1-96a3-8307-2f25d2f7d310,"Well, guess it's more accurate to say that I was the smith of this camp.",唔，准确点说，我以前是这个营地的铁匠。
+action,action-adec81c4-dd33-7b6a-b5ef-70390fd67fb8,"Hallgrim took the last hammers with him, as Balder was thrown out of here. Can't do any work now.",巴尔德被赶走的时候，哈尔格里姆把最后几把锤子也带走了。现在啥活儿都干不了。
+action,action-825de9e5-f675-f1ad-43f7-bb77b2429e86,HAHA! Look at that!,哈哈！瞧瞧这个！
+action,action-5b22061a-ff40-c2b8-7916-11f5e4de2428,My father would have killed someone over this hammer right here.,为了这把锤子，我父亲能跟人拼命。
+action,action-4dd747ca-60d8-fd77-500d-5618c8ab7c3c,You know what?,你知道吗？
+action,action-383ace3f-02ce-7f5d-bb9a-ea3f0ad3f2e7,"Take this axe. I made it a while ago, but I have no use for it at the moment.",拿上这把斧子吧。是我前阵子打的，眼下用不着。
+action,action-1a707c02-4240-3bf7-8128-94f4b7499d21,Don't get yourself killed now!,可别把小命搭进去了！
+action,action-15feebb5-b164-2d1d-7bd1-18f55559365b,"I'll tell the guard to let you pass to Goran.
+Least I could do.","我会跟守卫说一声，放你过去见戈兰。
+就当我尽点心意。"
+action,action-6415f266-477b-84ff-6888-d98fe17bb197,Make sure to visit me again. I might have some spare equipment layin' around.,记得再来看我。我这儿说不定还有些闲置的装备。
+action,action-b76dbf6a-0d9b-7a6e-6f77-f11a4e1888b5,"Sure thing. There's a few things I could spare. For the right price, of course!",当然有。有几样东西我可以匀出来。当然，价钱得合适！
+action,action-452d66b5-b194-8fc3-100a-61fd2a38c5f7,"My father?
+Is that true?","我父亲？
+真的吗？"
+action,action-fd5b523d-8e2e-069d-331b-7d229a72865a,Let me see.,让我看看。
+action,action-01413e27-eb3a-0935-fcbc-50b3068038f0,...,……
+action,action-8aa08623-8384-1171-96e8-7182f65abc49,"That truly is my father's writing.
+I am kinda surprised, you know.","这确实是我父亲的笔迹。
+说实话，我挺意外的。"
+action,action-71e9ed76-f9ed-2711-75df-6369430e17e1,"Pop didn't use to be the best father.
+After I left the capital, I could hear him screaming over the walls.","老爹以前算不上什么好父亲。
+我离开王都的时候，隔着城墙都能听见他的吼声。"
+action,action-e3f48356-f967-4e02-6a62-21dc84b66552,"HA, HA!
+He surely was pissed.","哈，哈！
+他肯定气坏了。"
+action,action-0733d0ac-f4c4-cefb-7169-da5dc4465e37,...,……
+action,action-102f37f4-b583-896c-5d30-d40af5019c4f,"Wait...
+In his letter, he wrote, he'd like to see me again.
+I could visit him at his house in the capital.","等等……
+他在信里写道，他想再见见我。
+我可以去王都他的家里看他。"
+action,action-97c45133-4691-158f-016a-a61670e73d21,"I don't know about that.
+Give me some time to think this through.","这事我说不好。
+给我点时间好好想想。"
+action,action-f4def16d-b6a1-5ffb-8fe3-71ca21eaa8e1,"Lennard is the fool from the Icefall Village, right?",伦纳德就是冰瀑村那个傻子，对吧？
+action,action-86028f40-d23b-d4de-1941-3a9889566eb6,"Nah, I don't know about his wares.",不，我不知道他的货在哪儿。
+action,action-a2cea5a4-524c-3e0c-ce53-94ca597b5746,"Yes, I've decided.
+I'm going to meet him.","嗯，我决定了。
+我要去见他。"
+action,action-ad95a3db-9eed-00ca-db35-fee013c1d15a,I still need time to think about it.,我还需要点时间考虑。
+action,action-d2bdd086-dac6-f215-ab52-1e681c23c2a3,"What do you think?
+Should I bring something?","你觉得呢？
+我该带点什么去吗？"
+action,action-dcc4f807-3f60-9ad8-c586-701bbb89a6a2,"But not at his house.
+Instead, we're going to meet at my mother's grave, at the cemetery in the capital.","但不是在他家。
+我们约在我母亲的墓前见面，就在王都的墓园里。"
+option,choice-ff04b3e9-e0fc-2d41-f673-73d9cb731321,"Show him the hammer, I've given you a while ago.",把我之前给你的那把锤子拿给他看。
+option,choice-d6cb3ad7-dc02-0526-22fb-7fd3ca27d574,How about flowers for your mother?,给你母亲带束花怎么样？
+option,choice-c224dd90-3394-fb30-09e9-5ef0f9cebbde,I don't think it is necessary to bring something.,我觉得不必带什么东西。
+action,action-7d461cc6-df20-c15e-d94c-3afc6f9d570e,"Flowers?
+Hmm...","花？
+唔……"
+action,action-a7638ca7-0658-ca79-78bb-f2dbc1a117b6,"That's it!
+Pop's going to like that one.","就是它了！
+老爹肯定会喜欢的。"
+action,action-d3f874e7-20dc-97c2-861f-c1e5b75825c5,I guess you're right.,你说得也对。
+action,action-e85c6b41-4248-d378-feb4-8e9ec4f8dc9c,"Then I'll be on my way.
+See you in the capital!","那我这就出发。
+王都见！"
+action,action-49752930-ece5-3855-ca76-6ad4eec2f7fc,"Let's see, if the ol' flower lady still lives in the capital.",看看那位卖花的老太太还住不住在王都吧。
+action,action-7a1a6800-0d78-1d1a-3720-ed71f90986a3,"I was pretty scared, if I'm honest.",说实话，我心里挺害怕的。
+action,action-94819ede-bda2-23f5-735d-8747d86eb354,"But my old man was just happy to see me, and we had a lot to talk about.",但我老爹见到我就只是高兴，我们聊了很多。
+action,action-77f5c1e7-15aa-64c1-807b-9501a8a190aa,"I still don't want to take over his forge, but maybe I'll stop by more often.",我还是不想接手他的锻炉，不过也许我会常回去看看。
+action,action-1002f4fd-9e71-2874-3bc4-2724d959d46d,"Anyway, thanks for helping us!",总之，谢谢你帮了我们！

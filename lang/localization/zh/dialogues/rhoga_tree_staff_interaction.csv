@@ -1,0 +1,5 @@
+type,id,text,zh
+action,action-015d6b84-0bd7-996f-0c9b-68037d6a6cb4,*An eerie aura surrounds the staff.,*一股诡异的气息环绕着这根法杖。
+option,choice-fbac4d85-0ef7-658f-8dbc-12ab30c02fdd,Touch the staff,触碰法杖
+option,choice-35a31ad4-b4dd-92e4-2b1a-4a5e823c8b0e,Use Oriviel's Soul Fragment,使用奥里维尔的灵魂碎片
+option,choice-d3a3461a-8b3f-3450-0fc3-2880a75bea2c,Leave...,离开……

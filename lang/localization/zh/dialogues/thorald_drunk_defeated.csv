@@ -1,0 +1,13 @@
+type,id,text,zh
+action,action-0450e660-a308-8de5-b6ae-3e83be2bdc95,*breathes heavily*,*粗重地喘息*
+action,action-a34b3bc4-fcdd-eebc-bb36-c8ae6f0c09cc,What else do you want?,你还想怎么样？
+option,choice-87e67e56-36d6-0880-e85f-1a4e5da5e868,Get out of this inn!,滚出这家旅店！
+option,choice-b8ad2bee-7fe1-2720-94ce-6a2225b3f2fd,Pay your bills and you can stay.,把账结了，你就可以留下。
+option,choice-283d8d5a-6f96-f0eb-e56e-7092ea51cb18,Nothing.,没什么。
+action,action-edd9d30d-293a-768f-dc29-1547006fc46d,This will have cons...,这事儿会有后……
+action,action-3bc7d18b-1206-0f69-7dc3-1c14efd1968e,*mumble to himself*,*自顾自地嘟囔*
+action,action-0c80c1c4-f3e7-be98-2c3a-44c6109dc0ad,...,……
+action,action-df84f9a7-e964-0a4b-6781-8077af93701f,Consequences!,后果的！
+action,action-69104e04-1309-79f3-127a-2a03f4d5b03a,Wait and see!,走着瞧！
+action,action-00580908-d57a-0efc-3458-44fcd2cab582,Fine...,好吧……
+action,action-2217c90e-9571-7709-88ce-80365a857281,"That will give a bad review, though.",不过，我可要给个差评。

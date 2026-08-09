@@ -1,0 +1,5 @@
+type,id,text,zh
+action,action-2391c371-66bc-4ae6-fc61-4a7dff300fb6,The statue of a queen.,一座王后的雕像。
+option,choice-a81ed0ed-958a-7550-4552-de2d7ee23035,Place the right arm,安放右臂
+option,choice-fd9246a7-b569-2d97-4b2a-dbe6964b4a41,Place the left arm,安放左臂
+option,choice-98ce14ef-b2fe-e791-8930-94ea3206a20c,Leave...,离开……

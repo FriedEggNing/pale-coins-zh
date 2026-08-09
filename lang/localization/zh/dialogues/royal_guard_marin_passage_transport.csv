@@ -1,0 +1,27 @@
+type,id,text,zh
+action,action-97b4858e-ea36-507d-6b82-eb47efce03f4,"Ahh, another one who wants to join the transport to the academy?",啊，又来一个想搭车去魔法学院的？
+action,action-3cc8deaf-38e5-b778-cc6e-35e7b5f2e136,We'll wait here for the others for a while.,我们要在这儿等其他人一会儿。
+option,choice-5b79a229-92e9-90a4-bdde-8d42ac071cce,"Yes, I'd like to travel to the academy.",是的，我想去学院。
+option,choice-f167c65c-a7ec-1282-1715-f92adb1e75a5,Maybe later.,以后再说吧。
+option,choice-cb4d0d64-5b95-329f-e6e0-60d98fa78a5d,"Nope, I have to go somewhere else.",不了，我还有别的地方要去。
+action,action-15b15161-cd00-203e-6d66-c38610f847db,"If you happen to change your mind, we may be still here and can take you with us.",要是你改变主意了，我们没准还在这儿，可以捎上你。
+action,action-bdfbaa2a-8f87-bd5a-8016-a55e818c4717,Very good. The fee for safe transportation through the Marin Passage is 100 gold coins.,很好。安全穿越马林通道的护送费是100金币。
+option,choice-979b5086-5829-69d5-4413-b7a72acd79c9,Here are the 100 gold coins for the transport.,这是100金币的护送费。
+option,choice-9128622b-da8a-1201-f077-1787ecc2b9de,Why do you charge so much for the transport?,护送费为什么收这么贵？
+option,choice-60add82a-99a3-50f6-e8c1-b80e81408e7e,Maybe later.,以后再说吧。
+action,action-f31a386b-f4cc-73ff-81ed-aa2debbe2551,"The number of raiders in the Marin Passage continues to rise.
+They attack all travelers who are unescorted or not prepared.","马林通道里的掠夺者越来越多了。
+凡是没有护卫或毫无防备的旅人，都会遭到他们袭击。"
+action,action-0e6f5a9e-112a-34af-f7d1-4d7dee238c6d,"And we, the royal guard, will take care of them if they attack you in the passage.",而我们皇家卫队会在通道里替你解决来袭的掠夺者。
+action,action-352e7611-5016-a367-8dbc-14abe89add01,"All good!
+So we've cleared everything up.","好了！
+这样一切都谈妥了。"
+action,action-ac554183-73df-5c05-a997-23a676cf43bc,We'll wait a bit longer and then begin the journey to the academy.,我们再等一小会儿，就动身前往学院。
+action,action-cbe25e48-1f43-0afb-c660-1adfcc0bc14a,"I see.
+Then we don't have to wait for you any longer.","明白了。
+那我们就不用再等你了。"
+action,action-e930ffd3-e61d-0b6d-298d-7735989fca95,"Reach out to Edmon, the king's advisor, to find out when the next transport through the passage will take place.",想知道下一趟穿越通道的护送队什么时候出发，去问国王的顾问埃德蒙吧。
+action,action-98437925-49f6-6ee6-9d49-2fa9ead1000d,"Oh, it's you again!
+Do you want to join the trip to the academy?","哦，又是你！
+想加入去学院的这一趟吗？"
+action,action-f177913b-b357-082a-cb7c-f1b120c785bf,My name is Travis and I will accompany you to the academy today.,我叫特拉维斯，今天由我护送你前往学院。

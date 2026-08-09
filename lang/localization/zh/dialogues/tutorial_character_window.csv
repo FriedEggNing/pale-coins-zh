@@ -1,0 +1,3 @@
+type,id,text,zh
+action,action-0b5852a7-826f-3561-a535-ec474ae2e675,Press ###input.INPUT_CHARACTER_WINDOW### to open the player window.,按###input.INPUT_CHARACTER_WINDOW###打开角色窗口。
+action,action-acacd791-8083-b57e-3564-e288feb84787,Open the start menu via ###input.INPUT_START### to access the player window.,通过###input.INPUT_START###打开开始菜单，即可进入角色窗口。

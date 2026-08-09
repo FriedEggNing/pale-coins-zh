@@ -1,0 +1,71 @@
+type,id,text,zh
+action,action-29e2b527-d065-36b4-cc01-e40a1a488610,HEY!!,嘿！！
+action,action-7f88236d-e3f3-3aa1-b27e-9f590c00ec69,OVER HERE!,这边！
+action,action-356a204e-47e0-c533-022a-7135f28183a3,Thank god someone finally came.,谢天谢地，总算有人来了。
+action,action-e4b28904-8897-5166-de7f-d3d1fb6b603a,I thought I was going to die down here!,我还以为我要死在这下面了！
+option,choice-06bd48e4-140e-cd86-f51a-2e0662747f95,Are you Themir?,你是塞米尔吗？
+option,choice-45ca2c73-822b-3c1d-a8fa-b27c7d1a51b7,How did you end up here?,你怎么会落到这儿的？
+option,choice-46940e8a-7717-99c1-57fc-a5bb68e7c3aa,I will come back later.,我稍后再来。
+action,action-80c25510-fb26-0d78-d981-11e9ed05a8c2,The one and only!,如假包换！
+action,action-2e0d009d-9c8f-5ac8-184b-c26f15d45343,Did Balder send you?,是巴尔德派你来的？
+action,action-efcda49f-b199-2631-8293-ac04f0955c96,Of course he did.,当然是他派来的。
+action,action-ab17c06a-4952-8081-e7ce-6af204b41d29,Wait a second.. You aren't one of his men.,等等……你不是他的人。
+action,action-3687dab5-9bba-9578-8be6-cc5edd9bf713,Never mind.,算了。
+action,action-798c7e1c-4562-4b89-25b4-b24ce3c36e52,There's more important matters at hand! Get me out of here!,眼下有更要紧的事！快把我弄出去！
+action,action-efcd093b-41fe-9765-2e35-3d136f47bbca,"You see, there's several magical fountains in this cave.",你看，这洞里有好几处魔法泉。
+action,action-5740d713-ac25-5536-8bc5-50c3483c98af,"So I thought, I'd hop right in and be out of here in just a second.",所以我心想，进来转一圈，眨眼工夫就能出去。
+action,action-6e4321d9-0301-371d-8208-2def93453e4a,"As I was about to write down my findings, a goblin stole my staff!",我正要记下我的发现，一个哥布林偷走了我的法杖！
+action,action-a58579c6-e7b2-45ee-2461-97dfa35b3ac9,"And as if the situation wasn't bad enough, the floor underneath me fell apart and left me stranded here.",仿佛这还不够倒霉似的，我脚下的地面塌了，把我困在了这里。
+option,choice-75f64f7f-7795-a301-02cf-520acdd63d33,Do you need help?,你需要帮忙吗？
+option,choice-9aaf8438-b2f2-23df-1576-4b831e1b8f54,I'll come back later.,我稍后再来。
+action,action-ade246a0-1817-c59b-17e0-ae48bb0d53fa,What the hell do you mean?!,你到底什么意思？！
+action,action-f2b7833d-0ca3-e541-f2c6-99e8450b7133,You can't just leave me here!,你不能就这么把我丢在这儿！
+action,action-f713bd4c-7234-936c-0681-00da349b2994,I am the only wizard around!,我可是这附近唯一的巫师！
+action,action-0113a840-9697-9bf6-a2a0-8c471fc76274,"In fact, I may be the only wizard you'll ever see here!",事实上，我可能是你在这儿能见到的唯一一个巫师！
+action,action-b1638479-de7c-7ea9-6ac6-ff5a26c52387,"So, if you want any of your questions answered. YOU need me!",所以，你要是想得到任何问题的答案——是你需要我！
+action,action-7e799d95-df47-dae0-4e68-ea05c0c6b77e,What does it look like?!,你看我这副样子像不需要吗？！
+option,choice-7eaa4a9a-6121-45ab-00f5-e670b6074199,What do you need?,你需要什么？
+action,action-d31f6c92-3d41-dc6e-e508-c762847ba2f3,"Well, I'm not leaving without my staff. It's too dangerous to be left to the hands of some filthy goblins!",哼，拿不回法杖我是不会走的。把它留在肮脏的哥布林手里太危险了！
+action,action-b68772d5-e5ac-c5fc-1d09-3dfb0ab02a59,"Besides, it'll make getting out of here a breeze!",再说，有了它，出去就易如反掌了！
+action,action-c673c271-144a-0875-30a9-1856dc22f048,"Anyway. To the north, there's a little entrance.",总之，北边有个小入口。
+action,action-ebd0d99d-ea0f-b163-4c6a-e0e41e7df4f1,That bastard left through that very hole the moment he took my staff!,那混蛋抢了我的法杖，转身就从那个洞钻走了！
+action,action-e420c70a-d333-750d-c094-dbed57f8a591,Be prepared for him though.,不过你得当心他。
+action,action-83314f6f-91a4-7340-11c7-96570d49b952,"I think he was able to use it, somewhat.",我觉得他多少能使唤那法杖了。
+action,action-6e7022b4-67a0-cf95-18c3-32349053cc55,"Quite uncommon among goblins, if I do say so myself.",要我说，这在哥布林里可不多见。
+option,choice-8e5acd1d-ac21-5fb3-3910-51b107ba6a53,I will help you.,我会帮你。
+option,choice-d3386b0c-f997-ae0c-70a4-4909496885b9,Why should I help you?,我为什么要帮你？
+option,choice-6c93b3db-6a3a-d199-3d03-e020333a4d85,I am searching for a coin.,我在找一枚硬币。
+option,choice-72a96320-313f-768b-20cb-f6128463247d,I do not have time for that.,我没时间管这个。
+action,action-9781b4d9-8ca0-69b6-aac0-d400bae9bc22,By the gods!,诸神在上！
+action,action-597d435c-8b4e-2264-3035-b066530ad3aa,"Bless you, young one!",愿神保佑你，年轻人！
+action,action-453ed311-d3ab-6650-7dd8-e9cd8c26cae7,Please hurry now!,请快点吧！
+action,action-697cbbd8-30ff-6898-d58f-a8132466e791,I really need to get out of here.,我真的得离开这里了。
+action,action-e1c4ba60-a07f-7c35-6120-222f7a79f8d2,What!?,什么！？
+action,action-bdaeb8a4-583f-492e-82db-62919b4f9893,Why did you even come down here then!?,那你到底下来干什么！？
+action,action-55883205-2d30-cd30-0583-87645ec4916a,...,……
+action,action-e2e5746c-4b96-2ae5-ba22-4ba288b4170b,*Sigh*,*叹气*
+action,action-6e985d50-76f7-44b5-18b7-f5d00eb2f8db,Fine. I'll spare a few coins for you.,好吧，我可以匀几枚硬币给你。
+action,action-1213f041-e22b-b39e-a662-4fe5660dc626,But not before you get my staff!,但你得先把我的法杖拿回来！
+action,action-b52fcf91-0e7e-d8ef-4ea5-10287230fc0b,"Don't you see, that I am trapped here?!",你没看见我被困在这儿了吗？！
+action,action-d65b100e-2a43-1660-3f45-e391f0d3df15,We can talk about whatever when YOU get ME out of here!,等你把我弄出去，想聊什么都行！
+action,action-fcd686da-b6ca-ff0e-f885-d4398c0a6395,Curse you!,该死的家伙！
+action,action-5f272597-06a1-f754-82ec-6a7640bea56a,Did Balder send you here just to screw with me?!,巴尔德派你来就是为了耍我吗？！
+action,action-ef21cf5d-410f-1fd2-5527-5d8be4a772ff,Gah! Leave me be then!,呸！那就别管我！
+action,action-c8a2cc0d-4b6d-b451-fd2f-061675a56e24,"If I have to rot away in this hole, then I don't want it to be with the likes of you!",就算我要烂死在这洞里，也不想和你这种人待在一起！
+action,action-d17b7ffc-dee2-8e5c-7949-91dd480d0e47,Hello!,你好！
+action,action-5fee0763-9366-02fd-6cb6-169d73ddc01b,Did you find my staff?,你找到我的法杖了吗？
+action,action-a7651728-3b0c-fede-9936-cd9c38ec5d88,"Oh... It's *you*...
+What the hell do you want?","哦……是*你*啊……
+你到底想干什么？"
+option,choice-54e75b60-c2b4-e333-6fa8-ca24e97fe95a,I found your staff.,我找到你的法杖了。
+option,choice-4bb3ca21-174d-9104-92af-96645c5f329f,I'll come back later.,我稍后再来。
+action,action-2422b0cc-1bfd-16e3-5d2a-ddb21b0ddb14,You bloody legend!,你可真是个人物！
+action,action-4fdbe0b5-ad64-f849-8f3e-ddfea1225ea8,Hand it over!,快交给我！
+action,action-fa6c8563-0da1-7230-c2de-8ef9ee680fa1,Hmm...,唔……
+action,action-d2c087d6-e799-1bde-6133-6b62415089cd,This is the one! Gods bless you!,就是它！诸神保佑你！
+action,action-0b92dbf2-4f9f-29dc-a344-cee167c212c3,I'll need only a second to recover.,我只需片刻就能恢复过来。
+action,action-4f3873e5-f83c-83d5-5030-955214456910,Very well. Visit me in the outlaw camp!,很好。到亡命徒营地来找我吧！
+action,action-a2821c08-b4b5-c4e6-90b3-9f61e3e81f56,I could teleport you out of the cave before I leave. What do you say?,走之前我可以把你传送出洞。你意下如何？
+option,choice-4d1e77d6-0307-4512-0bbb-c830ea19a6d5,Sounds good.,听起来不错。
+option,choice-4d661b61-6ab0-bd5b-1afb-b1c8c72c68a2,I still have a few things to do.,我还有些事要办。
+action,action-115d67f3-610a-b457-5c7a-97e5862c1255,"Just hold still for a second. It shouldn't hurt, I think.",站着别动。应该不会疼——我想。

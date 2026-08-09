@@ -1,0 +1,21 @@
+type,id,text,zh
+action,action-8bdbed0c-bc2f-60c7-60eb-44501f4e0ce0,Hey! You there!,嘿！你！
+action,action-58f84d01-52d6-0635-d924-173a00dd46d8,"You gotta help us, man!",老兄，你可得帮帮我们！
+option,choice-0501febd-0792-3f55-f90e-2f1e8368917d,What do you need?,你们需要什么？
+action,action-006efcdf-7cd3-1fc6-4edd-d23a1f8bc04b,These bastards 'round here won't let us go.,这儿的混蛋们不肯放我们走。
+action,action-bfa915c8-555b-7adf-e9a1-1a2fa44dcc55,"We were just looking for someone up here, and suddenly they knocked our heads in!",我们只是上来找个人，他们却突然把我们打得头破血流！
+option,choice-2bb8d66e-1165-07ff-e268-2e12f1901a90,First tell me your name.,先告诉我你的名字。
+option,choice-1f38e5b6-35f7-88fe-e54b-4da193a4bea0,How can I help?,我能帮上什么忙？
+option,choice-89cef31b-4754-0bbf-1235-663e5bca477a,What should I do to get you out of here?,我该怎么做才能把你们弄出去？
+option,choice-01d5e24d-178e-13e6-70e2-3147b626fdc9,Let's get out of here.,我们离开这儿吧。
+option,choice-4b6913d7-1470-5ba2-18d8-3e3c332e3a33,See you!,回头见！
+action,action-043927cd-6b6d-b7cf-d1f6-727779651579,"Hey, you're back!",嘿，你回来了！
+action,action-1f9767c4-dd11-98d9-768a-f93afb660abf,"Well, how about getting us out of here?!",那么，把我们弄出去怎么样？！
+action,action-b341902a-cbf1-4c8a-7767-08e24dbaaa2a,Talk to Balder. He has to know that Goran is keeping us here.,去找巴尔德谈谈。得让他知道戈兰把我们关在这儿。
+action,action-84161ce8-ffd0-8373-cb6a-d5518d0777c0,"You could talk to Goran as well, I guess, but I don't see that conversation being fruitful.",我猜你也可以去跟戈兰谈，不过我看那谈不出什么结果。
+action,action-ae84a6b4-41fc-521c-878e-a4c1d39de751,"You can't just leave us here, man!",老兄，你不能就这么把我们丢在这儿！
+action,action-24c73e6e-325b-a2a9-546c-58c0c91d3990,I am #:Randolph:#.,我是#:兰道夫:#。
+action,action-125d5899-e504-c91d-1fe2-98772d5b64b7,"So, will you help us?",那么，你愿意帮我们吗？
+action,action-b35d7946-1fa4-a974-9e4b-18b28b6eaed8,How did you manage to get us out of here?,你是怎么把我们弄出来的？
+action,action-5e9ae0f5-5d46-fb0c-407e-1180f64eb0f5,"Anyway, we will be heading to Balder's camp right away.",总之，我们这就动身去巴尔德的营地。
+action,action-2543ad56-ba7e-593e-3106-dcf06be5cc2c,See you there!,营地见！

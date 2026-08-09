@@ -1,0 +1,13 @@
+type,id,text,zh
+action,action-abd73be4-28c4-177a-1cba-55cbc795d859,*Lyrak's Enchanting Notes,*莱拉克的附魔笔记
+option,choice-48e48067-a97b-8ac4-fd40-e4b3986f4d87,First observations,初步观察
+option,choice-73e20338-2ed6-77cb-b319-fabedd677c43,Simple enchantments,简单附魔
+option,choice-f83afdac-a3a3-7cbd-2dcf-a314fa9edddf,Miscellaneous,杂项
+option,choice-11ca9ba9-6d6b-f31e-764f-3fc17b7cfa0f,leave,离开
+action,action-5a2920d9-37f3-efe9-dbd5-c2a4d9fa9382,One of the few remaining enchantment tables lies here in the academy of Grenmark.,现存为数不多的附魔台之一，就安放在格伦马克的学院里。
+action,action-cf81b3d0-60fa-39e4-6e12-9510571cde87,"Most were destroyed during the Crownless Years, which is why enchantment knowledge is so rare.",大多数附魔台都毁于无冠之年，附魔知识因此变得如此稀有。
+action,action-9be30a09-b744-a815-4b1b-1f7e086dc539,"Apparently, it requires three items to be placed on the table. However, the choice of items is important, as only certain combinations seem to work.",使用时显然需要在台上放置三件物品。不过物品的选择很关键，似乎只有特定的组合才会起效。
+action,action-22bb165b-c808-f83c-8fe6-bd190014c8c3,I've successfully conducted basic enchantments using small gems.,我已成功用小宝石完成了基础附魔。
+action,action-add65b16-3b0c-0132-e0b0-80703b5d3f13,"For example, placing three small gems of the same color causes them to fuse into a larger one.",例如，放上三颗同色的小宝石，它们便会熔合成一颗更大的宝石。
+action,action-1b52256a-460e-bbf7-95a5-e6f8ac93c8f5,"Combining gems of different colors may be possible, though I've yet to test that hypothesis.",组合不同颜色的宝石或许也可行，不过这个假设我尚未验证。
+action,action-b0ce7a7b-43cc-9b41-c47f-e22dce37e56f,"Apparently, the rare blood gems react strongly with certain equipment. I wonder what effect they have.",稀有的血宝石显然会与某些装备产生强烈反应。我很好奇它们究竟有何效果。

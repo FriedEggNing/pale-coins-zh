@@ -1,0 +1,44 @@
+type,id,text,zh
+action,action-3c169f94-70fb-6553-81ad-0ca5ab4cd528,"What du ya want?!
+*hicks*","你想咋样？！
+*嗝*"
+option,choice-87ddf430-dab1-37e4-941d-2dcf4ab5745b,Who are you?,你是谁？
+option,choice-86eb95e8-f430-c663-d5f3-297fdf84d803,Why don't you work?,你怎么不干活？
+option,choice-63ba9eb3-2c12-7420-ddc6-c554ea1ffbc5,You shouldn't drink while working!,你不该在当值的时候喝酒！
+option,choice-2c0adca3-79cf-b178-af35-5ab67b9bfbe8,Stop drinking at Rair's expense!,别再白喝莱尔的酒了！
+option,choice-84c9a6fd-411a-b973-779b-e1292eb416c5,I am on my way!,我这就走！
+action,action-10509af9-a59f-d1e9-5738-22de27d1440d,Get lost!,滚开！
+action,action-bc8a3592-7793-bb56-9e7d-e5b653a5b51c,"Listen up, bud.
+We do be workin'. *hicks*","听好了，伙计。
+我们这就是在干活。*嗝*"
+action,action-603d1f4c-75e8-6aea-ad3a-de6d6cd716b7,We are checkin' sche qua...,我们在检查酒水的至……
+action,action-b9a68a89-ce35-8f51-1b66-7c70bc51e775,Sche quat...,至两……
+action,action-81009c7c-d04d-efd2-54f2-550c2df48cc0,...,……
+action,action-ece64514-41fd-952a-db53-f4c5c6c0792a,We are checkin' the quality of the beverages.,我们在检查酒水的质量。
+option,choice-56fe64c1-0c73-05bd-acde-4b3383e17189,What do you think of the beverages?,你觉得这些酒水怎么样？
+option,choice-98cbe5ee-e6ff-eaa7-fa5d-ed0f8f098f8a,That does not look like quality checking to me.,我看这可不像是在检查质量。
+option,choice-ce3e9911-7c3a-7831-b06c-041102ee9fc3,Go on!,继续吧！
+action,action-b551146e-8b19-9586-b0fc-27178a863044,"Yes sir!
+*hicks*","遵命，长官！
+*嗝*"
+action,action-3b5005e5-a08a-142e-07c2-fc2c3c8f7b4e,Rair has some of the best beer around.,莱尔家的啤酒是这一带最棒的。
+action,action-f73602b7-d841-9a11-7092-aba9adce1805,Whaaat?!,什——么？！
+action,action-3eeb7ece-2bf2-5fd2-9743-4b471ebdac84,I will shut you up!,我要让你闭嘴！
+option,choice-a598f654-8cce-ec0a-b8ff-d883186a8c47,I am sorry!,对不起！
+option,choice-60304bb6-3da0-565d-3d8f-ae58598c09de,Try me!,有本事来啊！
+action,action-25f256e6-e63e-85cd-4eff-9dc1564d36fa,Fuck off!,他妈的滚开！
+action,action-20e3bdfc-ab24-6ff9-8bed-c0732242750e,We don't get no drinks anymore in our barracks.,我们兵营里再也领不到酒喝了。
+option,choice-1185565b-a8d6-7101-dde5-284415237d0b,Did you pay your bills already?,你们账都结清了吗？
+option,choice-26f70b2e-dfa3-a423-660b-65d9cff1fbf4,I am on my way!,我这就走！
+action,action-e951eccf-1403-f9ea-069d-ea5dbd12377b,*mumble to himself*,*自顾自地嘟囔*
+action,action-331fd55b-927c-64cd-648f-1b6ed8dc806e,Don't cause any more troubles.,别再惹麻烦了。
+action,action-eba9215b-231d-6c14-1cea-3705e3bbb4c1,"Yes.
+We even gave a tip.","结了。
+我们还给了小费呢。"
+action,action-35b007b0-f152-1173-6371-d735fa0d5d25,"After all, we are among the noble knights of the royal guard.",毕竟，我们可是皇家卫队的高贵骑士。
+action,action-e259ea23-27c2-752b-9d66-508f9d95ed31,*hicks*,*嗝*
+action,action-22e6630f-2126-09db-6933-ec91159825bc,I am #:Thorald:#.,我是#:索拉尔德:#。
+action,action-91d30a5e-229e-897a-a30c-03d3d438d394,"I am a member of the royal guard.
+*hicks*","我是皇家卫队的一员。
+*嗝*"
+action,action-05bdd9dc-76f3-e693-13d3-dafcc80c2a58,"Now leave if you have nothing more to say, kid.",没别的话就赶紧走吧，小子。

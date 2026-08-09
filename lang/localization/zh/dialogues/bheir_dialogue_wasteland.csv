@@ -1,0 +1,17 @@
+type,id,text,zh
+action,action-8f8c228b-f096-168a-d872-e31e3720be95,"Better watch yourself, traveller.",最好当心点，旅人。
+action,action-d7651211-f98a-f8da-69e7-1c633d9b24e0,"Here starts the wasteland, and it's a rough place for someone like you.",荒地从这里开始，对你这样的人来说，那可是个凶险的地方。
+action,action-b5c3c371-eddf-d1fb-271f-3c3a49f75d10,"Though, it looks like you could handle an orc or two.",不过，看样子你还能对付一两个兽人。
+action,action-1728247c-c5a2-92c8-2b38-e2a35339f6f7,"Do you need anything, traveller?",你需要什么吗，旅人？
+option,choice-b9de7abe-860d-3c56-b1e9-98931711761c,Who are you?,你是谁？
+option,choice-121acbed-71c3-f08d-a120-78816e66b956,Have you seen a wizard lately?,你最近见过一个巫师吗？
+option,choice-9e5a4951-5fe6-4f4b-939b-3f2c50f352e6,What are you doing here?,你在这里做什么？
+option,choice-ac870c38-b55e-4240-fec6-b64f55c881ad,See you!,回见！
+action,action-92dd71a4-7b5f-f7a7-cf18-ba8e08f05481,A wizard?,巫师？
+action,action-94a8b05a-de2d-3782-fd63-c0a95afe0649,"One came by a few days ago, but turned back as quickly as he arrived.",几天前有一个路过这里，但他来得快，回头也快。
+action,action-459a9e59-a237-0baa-c08a-60ee9b043a10,My name's #:Bheir:#.,我叫#:贝尔:#。
+action,action-26db0b03-17e5-7f62-2cf5-0db325c89aad,Most likely the only berserker around.,多半是这一带唯一的狂战士。
+action,action-a9188ba4-b77e-ed63-227b-5e3893b7a765,Waiting.,等待。
+action,action-a67e2c4b-2d92-9c76-4594-cdbb33cb810e,There is a right time to cross the wastes but it has not yet come.,穿越荒地要挑对时机，但那个时机还没到。
+action,action-484b8fd6-2c88-9747-0ff5-606b09532fcc,"Good luck, traveller.",祝你好运，旅人。
+action,action-b569c400-f4e2-b355-8c49-d097f359b62a,"Seemed like an odd fellow, though.",不过那家伙看着挺古怪的。

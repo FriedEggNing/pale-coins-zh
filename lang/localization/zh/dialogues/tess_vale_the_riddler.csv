@@ -1,0 +1,83 @@
+type,id,text,zh
+action,action-208a7cee-4bdc-5ef1-5575-5000237a3b10,"Hello, there!",你好呀！
+action,action-b53dfc84-e090-69ae-ab7a-347ab7a90119,"May I introduce myself - Tess Vale the Riddler.
+I enjoy challenging people with short, yet difficult riddles.","请容我自我介绍——谜语师苔丝·维尔。
+我喜欢用简短却难解的谜语来考验人们。"
+action,action-c08bc30a-aac8-1030-b45a-a9b0324bc827,Care to test your mind with a riddle?,想用一道谜语试试你的头脑吗？
+action,action-527862ca-4682-5f5f-7c41-81856a2b403f,"What about you?
+Care to try one?","你呢？
+想来试一道吗？"
+option,choice-278e507f-9340-d743-aeab-2206e1833249,Sure! Test me with your riddle.,当然！用你的谜语考考我吧。
+option,choice-415be0d9-4991-d933-1fda-1ec14fda7b2e,Test me with your riddle. (5 Gold),用你的谜语考考我吧。（5金币）
+option,choice-a9bf65b6-ebac-b549-4cbd-e4d4ba9a6a19,Maybe later.,以后再说吧。
+action,action-31e6ce01-5960-2076-5906-8784280711d5,"Alright!
+Listen carefully.","好的！
+仔细听好了。"
+action,action-5c8597b1-1535-ef83-92dc-a776fe2e5ae5,"The more you take, the more you leave behind. What am I?",你迈出得越多，身后留下的就越多。我是什么？
+option,choice-efcb11fe-ad1d-9dbe-f996-e7f85fee67c1,Can you repeat the question?,你能再说一遍题目吗？
+option,choice-b77d447f-68f1-91e3-5340-01be663d3ef4,Healing potions.,生命药水。
+option,choice-0cbfd14d-bec8-5e56-25b3-96c4feac4707,Footsteps.,脚步。
+option,choice-71f04213-7bd4-8981-26a5-53cf789307ec,Wounds.,伤口。
+option,choice-0de01a0c-f0be-f8a4-508c-4844e599a895,Herbs.,草药。
+action,action-671ae51f-ab3d-d42b-34c4-8d57445c6c1b,"I'm sorry, that's not the answer.
+Do you want me to repeat the riddle?","很遗憾，答案不对。
+要我把谜语再说一遍吗？"
+option,choice-dcd0f808-465d-f66d-6fef-c910ead553a9,Yes!,好！
+option,choice-7a7192ec-89da-8e91-b3cc-325b50831965,Maybe later.,以后再说吧。
+action,action-4f2f5b5f-de97-a31e-bc0b-a0c97766680d,"Sure!
+I'll be here.","没问题！
+我就在这里。"
+action,action-ad0659e7-6169-8a75-f2aa-5e8fe997062a,"Well done!
+This is it!","答得好！
+正是它！"
+action,action-d83572ba-2cc8-15c2-1170-7d8ace758e89,"If you'd like, I can give you more riddles.
+But it'll cost you a little.","如果你愿意，我还有更多谜语给你。
+不过要收一点费用。"
+action,action-73f83f1c-327a-a3f8-88d7-f677cf33955b,5 gold coins per try.,每次5枚金币。
+action,action-e6f95695-bfb8-dfe5-5d54-bd2f6f47267c,Feel free to come back whenever you're ready.,准备好了随时回来找我。
+action,action-398a2ff2-62b3-28bb-8883-9ebc82f705bf,"Alright!
+Listen carefully.","好的！
+仔细听好了。"
+action,action-d1ea782e-f583-17a9-a0a3-1f0154520551,If you only had enough gold...,可惜你的金币不够呢……
+action,action-3fc1cf69-1a2e-36a8-f9d4-56408dc222b5,"Feed me and I live, give me water and I die.
+What am I?","喂我食物，我便存活；给我水喝，我便死去。
+我是什么？"
+option,choice-84da0e8e-8c8a-52af-9caa-b58bfb8226f6,Can you repeat the question?,你能再说一遍题目吗？
+option,choice-e750becb-ed65-f123-b3cf-17d0da2047b7,Fire.,火。
+option,choice-ab78f1dc-db28-45c6-64a2-59a9321986b9,A dog.,一条狗。
+option,choice-be3c219d-8608-fb2b-a840-61ef9ab74ef6,Light.,光。
+action,action-950be836-1511-2552-6ac6-3a9a92cfae96,"I'm sorry, that's not the answer.
+Do you want me to repeat the riddle?","很遗憾，答案不对。
+要我把谜语再说一遍吗？"
+option,choice-1fd60e18-5cfe-1681-676d-cb6e26b732f2,Sure. (5 Gold),好。（5金币）
+option,choice-865c6f3f-ff3a-e958-4177-7bc4faf89e95,Maybe later.,以后再说吧。
+action,action-6f1524e9-2b55-15f6-b760-e51877576d3e,"Well done!
+This is it!","答得好！
+正是它！"
+action,action-f279277f-91c2-4ba2-f225-32084dc57fe4,Feel free to come back whenever you're ready for a new riddle.,想挑战新谜语的时候，随时回来找我。
+action,action-1591d5ee-9f4b-cf71-2bf6-7df89e357586,What's the name of this Inn?,这家旅店叫什么名字？
+option,choice-28182ba5-937b-98c3-3949-166e0c4cc53e,Can you repeat the question?,你能再说一遍题目吗？
+option,choice-35b584b3-2169-f961-60b4-f91daf12689c,Crossroad Inn.,十字路旅店。
+option,choice-eccc13fc-595d-360e-ada5-e7d973836846,Rhoga Inn.,罗加旅店。
+option,choice-5f5e0e49-a9f3-e0bd-b24f-1f74a2d552da,Traveller's Inn.,旅人旅店。
+action,action-54f73876-0027-dcc0-ba14-cef40da5fed6,What's the name of the king's advisor?,国王的顾问叫什么名字？
+option,choice-82077dc9-b184-d2a7-de97-7f00198b9e0f,Can you repeat the question?,你能再说一遍题目吗？
+option,choice-72d759cd-c88b-f2db-132d-c3a8f210e554,Edmon.,埃德蒙。
+option,choice-376e3e29-2242-acf9-164c-ab732399b090,Weynard.,韦纳德。
+option,choice-ed0169cf-4ac2-283f-c106-6784b73003f0,Miriam.,米里亚姆。
+action,action-865a651e-8bb8-7899-f803-28ff7bf5d3ec,I have a face but no eyes. Hands but no arms. What am I?,我有一张脸，却没有眼睛；有一双手，却没有臂膀。我是什么？
+option,choice-19f172ab-77f2-7d3e-cbf9-2367ceeb10d4,Can you repeat the question?,你能再说一遍题目吗？
+option,choice-08cd238e-f275-5f73-3b4a-95582c828337,A Dragon.,一条龙。
+option,choice-fd2a69d5-3bc3-c261-3add-83df4a351e73,A Clock.,一座钟。
+option,choice-1f1c81a9-fdc8-984f-3a6b-f3e6bbd8059d,The last bandit I encountered.,我上次碰到的那个强盗。
+action,action-8b69d79c-41d4-a46b-6ce5-26d250ed33ab,"Uhm... what the fuck? No!
+Do you want me to repeat the riddle?","呃……搞什么鬼？不对！
+要我把谜语再说一遍吗？"
+action,action-765223cb-c57a-4a6e-46bd-65f13ca66997,"I follow you everywhere, but you can never touch me. What am I?",我处处跟随着你，你却永远碰不到我。我是什么？
+option,choice-014844b9-e0d4-8e87-147f-f1be6b2ac472,Can you repeat the question?,你能再说一遍题目吗？
+option,choice-53de9185-27cc-62d8-2de6-34d74e64fd31,The sun.,太阳。
+option,choice-71cb5bf2-73b0-eebf-892c-260c59296e6d,The moon.,月亮。
+option,choice-84c5552c-c4b6-d569-c18d-814f413ba69a,My shadow.,我的影子。
+action,action-f96953fb-e252-7442-d058-10e64564ae74,"Sorry, I just ran out of riddles.
+Give me some time to think about a new one.","抱歉，我的谜语刚好用完了。
+给我点时间，让我再想一道新的。"

@@ -1,0 +1,7 @@
+type,id,text,zh
+action,action-4728f666-6a5f-caca-91a6-502f591a3110,"Did you know, that there is a way to quickly change your current skills?",你知道吗？有个办法可以快速切换你当前的技能。
+action,action-455d7557-9406-f22b-d063-a6bba9a61150,I was told to hold '###input.INPUT_SKILL_QUICK_BAR###' and select a skill.,听说只要按住'###input.INPUT_SKILL_QUICK_BAR###'再选择一个技能就行。
+action,action-7aa4ecca-0cd8-7ab5-198a-612e3cde7443,"Obviously, you need to have items equipped, which grant skills.",当然，你得先装备上能赋予技能的物品。
+action,action-b631a8e7-e78d-938b-dd72-56ffeecc3724,By the way... what exactly is '###input.INPUT_SKILL_QUICK_BAR###'?,话说回来……'###input.INPUT_SKILL_QUICK_BAR###'到底是个什么东西？
+action,action-a1ac9dd8-df03-3870-c38e-b46b1691fa89,Sounds like something to eat.,听起来像是什么吃的。
+action,action-0987d635-9e31-a6c7-e50c-d6457b49f3a5,But what do I know? I am just an NPC.,不过我懂什么呢？我只是个NPC罢了。

@@ -1,0 +1,78 @@
+type,id,text,zh
+action,action-b515f949-47c5-ef75-69b0-e1b9b0ff8afa,"Hey!
+Nice to meet you again.","嘿！
+又见面啦。"
+action,action-755338f8-7a1d-d177-3ec1-effc76388bdb,What do you need?,你需要什么？
+option,choice-6c72a8fb-dc4a-5a93-0c75-b7a6fefc609c,Tell me about this area.,跟我讲讲这一带吧。
+option,choice-4f49cc00-28e6-5817-51f6-63065753272a,What do you think about Balder?,你觉得巴尔德怎么样？
+option,choice-5c8c1f62-f530-0ad6-953e-7eff0e522120,What do you know about Goran?,你对戈兰了解多少？
+option,choice-c5141c79-fa92-09d7-7f7d-69ffa1ffbf47,Do you have something to sell?,你有东西卖吗？
+option,choice-0b66295d-4ab6-5d9c-2d74-b09b7d7affdb,Is there a place to rest?,有地方可以休息吗？
+option,choice-589467f4-457f-89c8-9ebe-5fb567229d1a,"Themir mentioned, that you can brew potions.",塞米尔提到你会调配药水。
+option,choice-1879f61f-f7fe-7daf-9e29-daea095dc336,Let's brew some potions.,我们来调配药水吧。
+option,choice-96df3af0-5e7e-29e0-57ab-9135815550aa,See you!,回头见！
+action,action-a844f14e-2d94-e062-d3ec-cdda0f5b22a1,"Try to stay alive, honey!",好好活着，亲爱的！
+action,action-44b77e28-bc70-a58b-5161-2489835c59e6,"A few things, sure!",当然有，就几样东西！
+action,action-9ef93426-132a-b1ab-2757-bf94ffa40afe,"You are in the #text.frames=4##text.color=highlight#Old Forest#text.default#, which is west of the capital.",你现在在#text.frames=4##text.color=highlight#古老森林#text.default#，就在王都的西边。
+action,action-13a19618-c568-8705-76cd-984350155b30,This is our outlaw camp. #text.frames=4##text.color=highlight#Balder#text.default# is the chief of these guys.,这里是我们的法外之徒营地。#text.frames=4##text.color=highlight#巴尔德#text.default#是这帮家伙的头儿。
+action,action-7b6c8373-beca-79a7-a120-2a1fbbe3812c,"To the north there's another camp, but it is full of bandits and idiots. Guess those two go hand in hand however.",北边还有一个营地，不过那里全是强盗和蠢货。话说回来，这两样本来就是一路货。
+action,action-45e30cc1-7cde-7b77-1786-e632d8d95bd1,And east of here a small river is separating us and the capital.,东边有条小河，把我们和王都隔开了。
+action,action-b4086e8e-19be-f9f8-566a-8002bf7139ed,Is there anything else you want to know?,你还想知道点什么吗？
+action,action-3901c2ba-a130-4078-c995-733f6c4dce0f,"He is my fiance, so only the best.",他是我的未婚夫，自然是没得说。
+action,action-74e7e10e-33eb-bb26-c05c-3a9221375cd2,"We met a long time ago, but it was only recently he asked me.",我们很久以前就认识了，但他最近才向我求婚。
+action,action-b12f7868-db87-bdd7-ec66-549efee91257,"Ever since then, I am by his side and try to help where I can.",从那以后，我就一直陪在他身边，尽力帮忙。
+action,action-7b632da8-e7dc-d97f-4be4-3ee47f6ef9e5,There's still a place in the barn.,谷仓里还有个空位。
+action,action-8c04325c-5a23-5e7d-8eac-0b3c56634d7c,"For you it will be 10 gold, as you do not belong to our camp.",你不是我们营地的人，所以要收你10金币。
+action,action-dab59167-3636-94f7-4829-2d379d551238,You are free to sleep there at any time.,你随时都可以去那儿睡。
+option,choice-ee6dd644-7959-a8a6-6338-d77da09d3057,That's fine. (10 gold),行。（10金币）
+option,choice-9744b0f0-a099-5117-732c-cc7490b49b2c,Maybe later.,以后再说吧。
+option,choice-6c181737-2494-52e1-0717-ee13299cc2e5,I'll go to sleep for a while.,我去睡一会儿。
+option,choice-063b7d4d-029f-e12c-caf4-9a8f68ef3705,Maybe later.,以后再说吧。
+action,action-b8cc9328-1ad8-0558-2a3f-94c5b5eb986e,"Sure, honey.",好的，亲爱的。
+action,action-02125fa0-f4c5-83e5-15c0-b3b75ea88be4,Good night.,晚安。
+action,action-c152c15d-4fa4-4495-d05b-febe6e1c5d2a,"Goran?
+This ain't an easy story, you know?","戈兰？
+这故事说来话长，你知道吗？"
+action,action-4309d68e-d0f1-804c-374b-55528c0316aa,Goran is my brother.,戈兰是我哥哥。
+action,action-800f2703-3ae2-0980-b36d-c510f23c0a73,"Without our parents, we came into the capital at a young age.",我们从小失去父母，很早就来到了王都。
+action,action-371e1324-8f70-52af-e742-1b8b57e5ffb1,"A man of the royal guard found us and took us with him.
+He cared for us.","一位皇家卫队的人发现了我们，把我们带在身边。
+他一直照顾我们。"
+action,action-e8728ad3-9e0b-7467-cce3-45abfaa724dc,"It was there, when we first met Balder, who was a child as well.",就是在那时，我们第一次遇见了巴尔德，他当时也还是个孩子。
+option,choice-e7d1d7ca-18ec-cf04-815a-61f41115edab,Why are you no longer in the capital?,你们为什么不在王都待了？
+option,choice-537f3543-61d6-faf3-4494-b03003513df0,Who cared for you all?,是谁照顾你们的？
+option,choice-5acf1263-bedb-5dd0-bbda-b96ce9983b91,Why did Goran fight Balder?,戈兰为什么跟巴尔德打起来了？
+option,choice-b4c5c726-f446-4bf8-fe2e-76b60d751f2a,That is all I wanted to know.,我想知道的就这些。
+action,action-4eb03a5e-151e-e160-a4aa-39a6c0dda0a0,"Sure!
+Thank you for listening to my tale.","好！
+谢谢你听我讲这些往事。"
+action,action-73bfc268-e0d4-a380-b762-89bdddce6545,"Balder wanted to leave the capital for good.
+God knows why...","巴尔德想永远离开王都。
+天知道为什么……"
+action,action-1e8c97d3-16da-d3de-3336-f13726cea03b,"He even was one of the Royal Guards, the king's elite.",他甚至曾是皇家卫队的一员，那可是国王的精锐。
+action,action-8bb4cf83-87ff-04c7-890d-93765bcbfec0,His name was Gunthar.,他叫贡塔尔。
+action,action-58fe6679-9dfa-3696-b4fa-89e02cd39fa5,"Our foster father once was one of the friendliest men in the capital.
+He cared for so many children, who lost their family.","我们的养父曾是王都里最和善的人之一。
+他照顾过许许多多失去家人的孩子。"
+action,action-cfd7c703-7403-8dc8-95f3-873b539f7d2d,"But after the assassination of King Weynard II, he had to leave the capital.",但在韦纳德二世国王遇刺之后，他不得不离开王都。
+action,action-ecf2a738-f14a-a244-fa61-46beb39f7011,"Soon after, we were on our own once again.",没过多久，我们就又只剩自己了。
+action,action-b1d0bed5-6d5b-29ae-acd3-ec18eb0d4c1c,Balder and Goran led the camp together.,巴尔德和戈兰曾一起领导营地。
+action,action-62fb58c9-9d78-1668-a4df-f78aabfa7d08,"But Goran had different plans, as far as I know, so they had an argument.",但据我所知，戈兰有别的打算，于是他们大吵了一架。
+action,action-cfdcd26b-58ef-573e-271b-f83359fdc9e0,Balder left the camp of his own accord.,巴尔德是自己主动离开营地的。
+action,action-fc69e991-b226-2d0d-1a19-a7a7e5c52a26,"But my brother told everyone, he kicked Balders ass, which is nonsense.",可我哥哥却跟所有人说是他把巴尔德揍跑的，纯属胡扯。
+action,action-0f4a97d0-ac35-fe3a-7074-18a61b4dee7f,And now we are hunted by the same men.,而如今，追捕我们的是同一批人。
+action,action-4eaae6ae-0c22-25df-e145-b98931b89ec2,"Hey!
+I'm not supposed to talk to you until you pay your fine to Balder.","嘿！
+在你向巴尔德付清罚金之前，我可不能和你说话。"
+action,action-2546234a-f907-0935-7965-6dc3a39e2920,I heard you cleared the mine.,听说你把矿井清理干净了。
+action,action-d2c0c640-7c45-c896-b152-92699033dccb,"Impressive, honey!",真了不起，亲爱的！
+action,action-a0ea1aa4-c043-d83e-f2ad-6eb00ba0d4d7,"Oh... Basically, Themir is right.
+However, I'm still a bit inexperienced when it comes to brewing potions.","哦……塞米尔说得没错。
+不过说到调配药水，我还有点生疏。"
+action,action-e585812c-9831-bd43-5978-2f351adcfe44,"I do have a suggestion, though. Bring me the ingredients and the simple recipes, and I'll try brewing your potions.",不过我有个提议。把材料和简单的配方带给我，我就试着帮你调配药水。
+action,action-7a399676-02e6-0e90-4921-ec25a2163299,"That way, I can practice my alchemy skills, and you'll get your potions.
+Sounds good, right?","这样一来，我能练习炼金术，你也能拿到药水。
+听起来不错吧？"
+action,action-4765c3d9-2dfd-d318-7ee7-887ecc56f689,"Sure!
+Show me your recipes.","没问题！
+把你的配方给我看看。"

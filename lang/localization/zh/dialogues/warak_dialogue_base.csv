@@ -1,0 +1,248 @@
+type,id,text,zh
+action,action-b83b7918-d637-2137-4609-8e06b4b48ff3,"Well, look who we got here?",哟，瞧瞧这是谁来了？
+action,action-e7e2eb33-59ba-c046-9e29-4f81836d4a74,"Are you a new novice?
+Or is it our wine you seek?","你是新来的见习生吗？
+还是为了我们的葡萄酒而来？"
+action,action-0f6c027f-e0b9-94be-369c-25df7086499d,"I am glad you are here.
+How may I help you?","很高兴你来了。
+有什么可以帮你的？"
+option,choice-c8d42819-d749-0abf-217b-b6e84f210c85,What are you doing?,你在做什么？
+option,choice-494fe0e9-babd-394b-0296-9c4877b30590,Tell me about the academy.,给我讲讲学院吧。
+option,choice-db5a9428-3299-b42d-63f7-ae92b13cb298,What do you think about this letter?,你怎么看这封信？
+option,choice-b8eb90cb-8f6f-23ec-0533-a64aa5fb841c,The Arcanum Sanguis was stolen.,血之秘典被偷了。
+option,choice-d22d5057-5615-d5ca-9886-dfcb8864db4e,Someone is going to steal a book called the Arcanum Sanguis.,有人打算偷一本叫血之秘典的书。
+option,choice-310c22a6-9ac1-f32c-374a-c2c03cfc50a7,Let's talk about the Arcanum Sanguis.,我们谈谈血之秘典吧。
+option,choice-03a4b1e4-5210-e8b6-8d06-5914c23d6488,I have the Arcanum Sanguis with me.,血之秘典就在我身上。
+option,choice-778f51cd-ea26-a179-c538-1d7da00d746b,Do you know how to open a magically sealed door?,你知道怎么打开被魔法封印的门吗？
+option,choice-619f0feb-d550-3a87-4c7c-b068e90e12e7,Do you know how to open a magically sealed door?,你知道怎么打开被魔法封印的门吗？
+option,choice-01fb8544-a66c-be3e-6445-ea9e3e44e961,Lyrak won't talk to me.,莱拉克不肯和我说话。
+option,choice-c68ecea3-29d5-a28b-3954-d068514021a2,What do you know about the fake wine?,关于假酒你知道些什么？
+option,choice-5e014b3b-4dc6-ed31-b4b3-580e5928e07f,Can you decipher this ancient tome I found?,你能解读我找到的这本古书吗？
+option,choice-d7244871-0f3b-1ab1-ecac-a0c535b19105,I wish to join the academy.,我想加入学院。
+option,choice-5f4f0091-1a00-fc80-d842-3e091454272d,Do I also get a robe as a magician?,成了法师，我也能领一件法袍吗？
+option,choice-debe6213-c5ed-73f8-1943-0fb42e0b5b4f,I'd like training in the arts of magic.,我想接受魔法技艺的训练。
+option,choice-0a18a881-c868-5516-73e2-3613cc4eba0c,I am on my way.,我这就去。
+action,action-5057be81-09d6-45f2-4bd2-7284569bc357,"Don't trip over the roses.
+They are blooming so beautifully at the moment.","小心别踩到玫瑰。
+它们眼下开得正美。"
+action,action-9b2293f2-b3a6-7f4a-c71a-611073d77276,"Sometimes I'm a teacher, sometimes I'm an alchemist, other times I'm in charge of the wine.",有时我是教师，有时是炼金术士，有时还得管着葡萄酒。
+action,action-830b55bb-515d-9b5d-8297-c0a4186570a0,And now I am in charge of your questions.,而现在，我负责回答你的问题。
+action,action-72193dfb-7817-9e51-1b20-0643ecc7c7ed,What do you want to know?,你想知道什么？
+action,action-45fb8911-6d38-a8a5-35a4-bbd013fb2445,Let me see...,我想想……
+action,action-65250045-231b-d36d-6430-aca9af270a4d,"Well, the academy has a long history.",嗯，学院的历史可悠久了。
+action,action-a339d124-735e-8f15-30c0-65de1dad60b0,Once there was just a lighthouse for the ships and the sailors.,从前这里只有一座为船只和水手指路的灯塔。
+action,action-2ebe1334-2c82-c013-fb06-8434d7a231b7,"At that time, magicians from all countries came together in the capital.
+However, they didn't like being under the king's care.","那时，各国的法师齐聚王都。
+然而，他们并不喜欢受国王的管束。"
+action,action-c159f98d-3381-e8ff-132c-53ab74d04cd8,We magicians usually travel to the surrounding continents. So the academy was built around the lighthouse to be close to the harbor.,我们法师常要远赴周边各大陆，所以学院便建在灯塔四周，好靠近港口。
+option,choice-e382a0b6-c955-8f6f-0450-477337c0e267,Why did you leave the king?,你们为什么离开国王？
+option,choice-4f5856cd-671b-5072-7fcf-d47232eeb31f,Where is the lighthouse now?,灯塔现在在哪儿？
+option,choice-0e3d8752-2cfb-af9f-0524-52f1521abd98,Where do you get your food from?,你们的食物是从哪儿来的？
+option,choice-b1b03e3d-ec64-55fa-1a26-65e5c7a49328,I've heard enough.,我听够了。
+action,action-5e2959e0-119f-1f20-dddc-dd26c62a4e43,"According to the records, they disliked the idea of having to serve the king.",据记载，他们不喜欢必须为国王效力这件事。
+action,action-46e3399a-0921-04b2-8817-2f6fb5dbd3a1,"Thanks to our independence, we can study in peace and act neutrally in political matters.",多亏了独立，我们才能安心钻研，并在政治事务上保持中立。
+action,action-c64041fa-8994-0720-74b4-a44bf55d12f9,Did our father gift you with blindness?,难道我们的父神赐了你一双瞎眼？
+action,action-64caab72-0385-86e2-f878-b802c795e155,"The tower of the elder is also the lighthouse, which is just north of here.",长老之塔就是那座灯塔，就在此地以北。
+action,action-ee86f05a-4efa-91b6-a291-54d270434e0f,We usually get our food by ship.,我们的食物通常靠船运来。
+action,action-bde0e477-d7aa-669c-381c-dbe387fcfd13,"Since fewer ships have docked here, we are dependent on the farmers near the capital.",自从停靠的船变少后，我们就得依赖王都附近的农夫了。
+action,action-93fa9433-dc2c-9f4a-1f2a-90f735d09938,"Good.
+Do you need something else?","好。
+你还需要别的吗？"
+action,action-0a0840e0-e20d-69ee-d1b5-90fea64f19c4,...,……
+action,action-76549705-1031-583b-ff0c-e2a5655a5704,Ahh yes... this explains why Gregor did not return in a while.,啊，是了……难怪格雷戈这么久没回来。
+action,action-59e88dd9-9c2b-8370-bc4c-014f5980dd9b,Talk to the magician #:Lyrak:#.,去和法师#:莱拉克:#谈谈吧。
+action,action-05c17a3f-74cd-df52-b08b-1cb0fb47a19c,"He is Gregor's master, so he can probably tell you more.
+You will find him in the enchantment laboratory inside the walls of the academy.","他是格雷戈的导师，应该能告诉你更多。
+你可以在学院围墙内的附魔实验室找到他。"
+action,action-31b83515-5d70-9879-67dc-e0f41ea8bccb,Here's your letter.,信还给你。
+action,action-f7085497-88a3-add9-78bc-46b4fffb795d,"I've certainly heard about that.
+How do you know about it?","这事我自然听说了。
+你是怎么知道的？"
+option,choice-c3e31184-8fe3-823d-28e7-b89cde71410c,I heard about it here.,我在这里听说的。
+option,choice-fd1f2c86-7809-c617-f94c-2d3616dd9cf2,The cult in the swamp told me about it.,沼泽里的教团告诉我的。
+option,choice-548dde05-041e-094e-1465-afaa65e19eb5,The cult in the swamp told me about it.,沼泽里的教团告诉我的。
+option,choice-f85bd399-88d3-b67c-8325-05c930cc1f18,It is mentioned in these orders.,这份命令里提到了。
+option,choice-9ba15e84-b012-1440-e78a-204c979f3fe7,That is not important.,这不重要。
+action,action-615321ad-50bc-6443-719b-0531afc402b5,"In a matter like this, it seems very important to me.",在这种事情上，我认为这非常重要。
+action,action-3cf514fd-8bd2-f3a7-374c-d1db152ae23c,"I dislike how dangerous information is treated around here.
+But that should not be your concern.","我不喜欢这里对待危险情报的方式。
+不过这不该由你操心。"
+action,action-6f47e5cc-1a39-ccde-3629-dc4a637cf2bf,"What?!
+Do you even know who they are?","什么？！
+你知道他们是些什么人吗？"
+action,action-bd241a87-59b8-3948-a45c-5ed845abacdd,A book like this must not be given to the cult.,这样的书绝不能落到教团手里。
+action,action-8feea7a8-961a-ce3d-267c-b8394b4d8a3b,"Under these circumstances, I will no longer answer your questions about the Arcanum Sanguis.",既然如此，我不会再回答你任何关于血之秘典的问题。
+action,action-53b80a20-a54f-e78c-61e1-d1e0d3af3f29,"Even if the book is never found, it is certainly better than knowing it is in the hands of the cultists.",就算那本书永远找不回来，也总好过知道它落在教徒手中。
+action,action-6063f78b-4887-4e82-35e6-7bac7f586cd1,Is there anything else which is not related to the book?,还有什么和那本书无关的事吗？
+action,action-626691af-4f7f-398f-82ad-5eff0c1e224d,"As you already know about the book, and it's theft, I shall answer your questions.",既然你已经知道那本书和失窃之事，我就回答你的问题吧。
+option,choice-ab1884b7-a652-3524-009a-0f27b21d4c82,What is the Arcanum Sanguis about?,血之秘典讲的是什么？
+option,choice-dd248b20-ac59-db03-eeaa-1e65fce26e8d,What happened on the day of the theft?,失窃那天发生了什么？
+option,choice-52240899-d895-f71a-2435-bbf8d9dd1a73,Who bought wine on that day?,那天都有谁买了酒？
+option,choice-146449fb-ad2a-2d71-3ede-48c0d58b2454,I know where the Arcanum Sanguis is.,我知道血之秘典在哪里。
+option,choice-a12383bb-8e23-3197-2e3f-101a5760e2fe,I have the Arcanum Sanguis with me.,血之秘典就在我身上。
+option,choice-9b8a0be5-3160-3fdd-ce49-b3941675220c,May I get access to the library for investigations?,我能进图书馆调查吗？
+option,choice-626b99b1-0292-a34f-22ad-7e9c42e9da31,That's all I wanted to know.,我想知道的就这些。
+action,action-e11c626a-f13a-0f16-f29d-64fc78892ce4,"I don't know.
+It has never been in my interested to study the book.","我不知道。
+我从来没兴趣研究那本书。"
+action,action-cd8b8845-fc12-067d-56b5-537b67abf93d,Only Lyrak and the elder studied the book.,只有莱拉克和长老研究过那本书。
+action,action-36388e22-757f-dc74-e371-c4af44d04898,"Nothing unusual, as far as I am concerned.",依我看，没什么异常。
+action,action-a5f4f6e7-e867-ee02-df7e-6cf1d5757adf,"Late afternoon, we had several planned pickups of our best wine.",傍晚前后，有几批人按约来取我们最好的葡萄酒。
+action,action-0f098acf-2521-b7ef-d981-c5b04241f550,There were a few visitors during the day. Most of them were probably from the capital.,白天来过几位访客，多半都是从王都来的。
+action,action-39e99c0c-a2a2-96eb-fc17-e68505fbaae9,I'm afraid your warning comes too late. The book has already been stolen.,恐怕你的警告来得太迟了。书已经被偷走了。
+action,action-0582bb85-619a-e04b-c3c3-4449156636f4,But tell me where you got this information.,不过告诉我，你是从哪儿得到这个消息的？
+option,choice-cceb63e3-506b-0ef5-b7c8-07f320ca7fa5,It is mentioned in these orders.,这份命令里提到了。
+option,choice-81eb3bdd-608f-4674-410e-332a788b9d9f,That is not important.,这不重要。
+action,action-1ffe58cf-e6dc-5b22-a584-89a3cc7f7ed7,"In a matter like this, it seems very important to me.",在这种事情上，我认为这非常重要。
+action,action-98e79cb6-615a-37b9-de73-84913d3177fd,"I see.
+This certainly was a planned theft.","我明白了。
+这肯定是一场有预谋的盗窃。"
+action,action-4d29eb73-dfe4-7797-3a46-ae4a258b3184,Maybe together we can find a solution to find the book.,也许我们可以一起想办法找回那本书。
+action,action-243bae96-74d1-5e33-89c4-df4e0d246ade,What do you want to know?,你想知道什么？
+action,action-fc0eb17c-a905-4750-fa31-7a9d00bcf3a4,"Rair, the innkeeper of the Crossroad Inn, has ordered a few bottles.",十字路旅店的店主莱尔订了几瓶。
+action,action-345af475-2653-998b-7417-464e9581681d,He even had a few people with him to help with the transport.,他还带了几个人帮忙搬运。
+action,action-3fd78d8b-2a4b-88b5-011f-3320ac7d1ec4,The innkeeper from the capital had ordered and picked up plenty of bottles as well.,王都的旅店老板也订购并取走了不少瓶。
+action,action-f1980247-b8c0-c882-c74b-f55f4fe74821,"Also, some of the visitors from the capital bought a few bottles.",另外，几位从王都来的访客也买了几瓶。
+action,action-c0a4307f-6c42-d02b-fbe0-3804965e093e,"Very well!
+Let's hurry and get it back!","太好了！
+我们赶紧把它取回来吧！"
+action,action-575efce9-73c5-5c19-0dce-e694652fd8fc,Where is it?,它在哪儿？
+option,choice-60bb2330-ae4c-47b2-498a-0d67b0da86bd,*reveal the location of the chest,*说出宝箱的位置
+option,choice-46a5ca98-4435-85fe-ea3e-9731fb049a71,I have it with me.,就在我身上。
+option,choice-a57afd19-2c60-9e97-0a55-147b9946b8c6,It was in a chest behind a waterfall.,它原本在瀑布后面的一个箱子里。
+action,action-8205bfe5-e2d2-146f-c4f3-476bdc8452b4,"A locked chest?
+That shouldn't be a big deal.","上了锁的箱子？
+那不算什么难事。"
+action,action-c1175a2c-8db4-85b8-1ae3-399b492f051c,Let's meet in the cave with the chest.,我们在放箱子的洞穴碰头吧。
+action,action-94b7dd53-2702-5e4f-50ac-bdf086cfa9af,"Excellent!
+I'll be taking the book, if you don't mind.","太好了！
+不介意的话，书就交给我保管吧。"
+action,action-ac20c0c1-adca-b002-b93b-905a5b652425,So? Where is it now?,那么？它现在在哪儿？
+action,action-e3bbeff1-0223-0930-3864-03beb60fc46c,"Don't tell me, that you lost that book!",别告诉我你把书弄丢了！
+action,action-8184db0d-d8bf-4f59-b61b-561397342c16,"Hmm... Usually, the library is only accessible by the members of the academy.",唔……通常只有学院成员才能进入图书馆。
+action,action-819ca53e-4600-5568-69a6-0ac5b85dfd90,"However, this seems to be a different case.
+You may enter the library for your investigations.","不过，这次情况特殊。
+你可以进图书馆进行调查。"
+action,action-f12edd11-938f-07b1-bf02-a76b847bf130,We all thank you for helping us in our search for the Arcanum Sanguis.,我们全体感谢你帮忙寻找血之秘典。
+action,action-d057021e-c64c-1b18-149a-40182a102885,"If you wish to join the academy, I will give you my blessing.",如果你想加入学院，我会为你送上祝福。
+action,action-b3ffdc31-8b88-9e4b-297d-a38c3c8acf85,"Convince the other mages, and we will accept you as one of ours.",说服其他法师，我们就接纳你为一员。
+action,action-f7f6682a-17a6-a70b-1309-55f33948e721,"Mhm...
+That is a most exciting wish, if I am being honest.","唔……
+说实话，这真是个令人振奋的愿望。"
+action,action-73e6cd6d-7a9a-ec72-82db-e83c2648ee75,"Unfortunately, sealed doors are not my strength.
+Please refer to Lyrak in case you want to know about magically sealed doors.","可惜，封印之门不是我的专长。
+想了解被魔法封印的门，请去找莱拉克。"
+action,action-43b04c30-1d19-d216-fe65-2cdc68648ad2,"Don't hold it against him.
+Unfortunately, he's not an easy person to talk to.","别往心里去。
+可惜他这人不太好相处。"
+action,action-0d19d1bd-d7da-fe64-5ae0-07f29658b04a,I'll take care of it.,这事交给我吧。
+action,action-efdf82ec-9da2-250e-cfae-2fcbe7a5462b,"You've truly accomplished a lot here in a short time.
+The academy welcomes anyone with your qualities.","你在短短时间内确实成就斐然。
+学院欢迎任何拥有你这般才干的人。"
+action,action-ea5cbc05-5833-bbee-f565-026208ca79aa,"However, you are still a stranger to the academy.
+You must know that we won't accept everyone here.","不过，对学院而言你还是个外人。
+你要知道，我们并非来者不拒。"
+action,action-867fc9b5-fd89-7f29-e231-2eb2b8e42077,"The circle of magicians is small, but we trust each other.
+Each of us is a master of our field.","法师的圈子虽小，但我们彼此信任。
+每个人都是各自领域的大师。"
+action,action-7a8b5b4f-deb9-5d09-c139-bf937213e797,"How about talking to the other mages first?
+If you do well, they may put in a good word for you.","不如先去和其他法师谈谈？
+你若表现出色，他们或许会为你美言几句。"
+option,choice-bc214da4-2d20-93aa-28bb-61781e9e82d7,Who should I talk to?,我该找谁谈？
+option,choice-caecb73b-a227-1950-9337-a79376ee5d2d,Do you have a quest for me?,你有任务给我吗？
+option,choice-9720a446-6d39-76db-8062-1da9444fa94b,I am on my way.,我这就去。
+action,action-046b2708-5d3a-ed1a-4543-2c140dbafdc8,"Of the mages who are at the Academy and not traveling, I'd say you should speak with Darius or Lyrak.
+Both have been members of the Academy for a long time.","学院里没有外出远行的法师中，我建议你去找达里乌斯或莱拉克。
+他们都是学院的老成员了。"
+action,action-06894ae4-b0c2-4c6c-e633-efa4e606801a,"Also, we recently welcomed Cedric into the ranks of us mages.
+You might as well give him a visit near the vines.","另外，我们最近刚接纳塞德里克加入法师之列。
+你不妨去葡萄藤那边拜访他一下。"
+action,action-f1abce05-a98f-aabd-1204-280095542881,"While there is one thing, that concerns me, it is a matter for us mages only.",我确实有件挂心的事，但那只是我们法师内部的事务。
+action,action-adb9585b-fa1f-ab16-9972-3da2e9e90064,"Don't trip over the roses.
+They are blooming so beautifully at the moment.","小心别踩到玫瑰。
+它们眼下开得正美。"
+action,action-2961b83d-3419-9b1f-719d-228579bb6b10,"So, Cedric told you about our problem and our assumptions, did he?",这么说，塞德里克把我们的麻烦和猜测都告诉你了？
+action,action-f60ca712-964b-7278-6d33-0478722edb4f,"Having an outsider like you, who isn't well known around here, help us, could be a major advantage in uncovering our problem.",有你这样一位在这一带不为人熟知的外人相助，对查清这件事或许大有好处。
+action,action-6d6ab69c-6a04-73bc-082e-e6d9e7065bda,"Unfortunately, I don't know much about the counterfeit wine.
+However, I have a sneaking suspicion that someone stole Cedric's list to identify potential customers.","可惜，关于假酒我知道的不多。
+不过我暗自怀疑，有人偷了塞德里克的名单，用来物色潜在的买主。"
+action,action-f12e5d98-50a7-20df-0982-db33d4dd586e,"If you cannot solve the problem any other way, we will be able to convict the counterfeiter using the list if it is found.",如果你实在没有别的办法，只要找回那份名单，我们就能凭它给造假者定罪。
+action,action-af596022-747b-00e8-d75a-1318a4bf555a,"If you wish, I will accept you as a magician of the academy.
+From that moment, you will no longer be able to join other groups.","你若愿意，我就接纳你成为学院的法师。
+从那一刻起，你将无法再加入其他团体。"
+option,choice-a99a81cb-472c-3c80-2943-a8c9f4900ec5,I want to join the Academy!,我要加入学院！
+option,choice-1d8764ec-b5ab-63cd-37ce-9a109adad491,Why should I join the academy?,我为什么要加入学院？
+option,choice-91051617-80b3-0142-917d-fe00b8cc313d,Do I have to have served as a novice before?,我必须先当过见习生吗？
+option,choice-d5d2c5f2-781d-5bad-2941-5e04b9fec71a,I need time to think about it.,我需要时间考虑一下。
+action,action-e98b4f78-3bd2-e785-cefe-6323c21f436d,"Of course.
+Such a decision shouldn't be made lightly.","当然。
+这样的决定不该草率。"
+action,action-909370bf-5dcf-fdec-ff2e-aa99f3684a33,"No!
+Most novices were sent from the capital to study here.","不必！
+大多数见习生都是从王都送来求学的。"
+action,action-fd636696-87b2-6cf3-cf54-df8a7c3726f2,We only know after many years whether a novice has the necessary knowledge to become a mage like us.,一名见习生要经过多年磨砺，我们才能确定他是否具备成为我们这样的法师所需的学识。
+action,action-8021a959-7b6b-cfbb-d440-2c2554bf998d,"You, on the other hand, have already proven to us that you are ready.",而你，早已向我们证明了自己。
+action,action-cb39468a-4c29-1b82-fc0e-cfab9f6d94b3,So be it!,那就这么定了！
+action,action-6d08362a-22bb-3c2f-dfbd-73aa1f2c62ce,"From this day on, you will walk the path of the arcane arts as a mage of our Academy.",从今日起，你将以本学院法师的身份，踏上奥术之道。
+action,action-fdaaee35-c4ec-60dc-d8f5-5b76e978bd27,"Let us walk this path together with wisdom, courage and a clear mind.",让我们带着智慧、勇气与澄明之心同行此路。
+action,action-5a603f21-4edc-9618-d3a8-b9f24d5d7125,At our academy you have the opportunity to expand your knowledge of magic together with the other mages.,在我们学院，你有机会与其他法师一同精进魔法学识。
+action,action-4a7fdaff-65f7-7d69-822c-62341767cab1,We can also teach you how to draw magic from within yourself and thus regenerate it over time.,我们还能教你如何从自身汲取魔力，让它随时间慢慢恢复。
+action,action-31d7b01f-5973-6a80-d6ef-6e6aa0821f61,"Sure, Brother of the Academy.
+What do you want to know?","当然，学院的兄弟。
+你想知道什么？"
+option,choice-bc599fa0-5c94-5cc2-eac0-5467b8167afd,"Fire Mastery (min. 5 INT) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_fire_mastery_10"",""only_once_on_difficulty"": true}","火焰精通（需智力5）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_fire_mastery_10"",""only_once_on_difficulty"": true}"
+option,choice-5c3cf9da-1c0b-f8fb-1071-5f1404369c28,"Ice Mastery (min. 5 INT) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_ice_mastery_10"",""only_once_on_difficulty"": true}","冰霜精通（需智力5）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_ice_mastery_10"",""only_once_on_difficulty"": true}"
+option,choice-ece8cee8-052d-6519-d818-d1ede2c875bb,"Mana Regeneration (min. 15 MAG) [4 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_mana_regeneration_1"",""only_once_on_difficulty"": true}","魔力回复（需魔力15）[4 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_mana_regeneration_1"",""only_once_on_difficulty"": true}"
+option,choice-7d55ff6c-9a77-bdf5-1ab6-462f3aa99935,That's all I wanted to know.,我想知道的就这些。
+action,action-bf67c2ac-a74d-eb2b-60ae-d9bc4b6eb2a0,The key to regenerating your magical energies is to empty your mind from unnecessary thoughts.,恢复魔力的关键，在于清空脑中不必要的杂念。
+action,action-15a154ab-cca8-7f05-a1bc-69a076e61ab4,"Let silence settle within, and the arcane will flow once more.",让静默沉入心底，奥术自会再度流淌。
+action,action-10f4f982-4f94-e190-b161-cc00f374c9f8,"Alright.
+See you later!","好的。
+回头见！"
+action,action-bc1d25cb-7685-3ebe-eedb-1c2e6a748033,"In my opinion, mastering the ice alone isn't enough. Often, it all comes down to how you shape the ice.",依我之见，光是掌握冰霜还不够。很多时候，关键在于你如何塑造冰。
+action,action-4f52699d-6992-6807-4d7d-8ab7c68b714a,"Imagine a wine bottle.
+In some places, even a little pressure is enough to destroy the bottle.","想象一只酒瓶。
+在某些部位，只需一点压力就足以让瓶子碎裂。"
+action,action-29ca5f91-74b1-3387-dbf5-c6ef38b5c061,Know where the weak points of your ice spells are and shape the ice to eliminate those weak points.,弄清你的冰霜法术弱点何在，再通过塑形消除这些弱点。
+action,action-83eb9e4e-16ea-b7b9-efd4-c16c8e9a74af,"Controlling fire used to be difficult for me. I tried too often to tame it, which ultimately only drained my magical energy.",掌控火焰对我来说曾经很难。我总想驯服它，结果只是白白耗尽了魔力。
+action,action-b8491324-2b90-b8d9-46eb-5da851ed7ee5,"Later did I realize that the fire doesn't want to be tamed.
+Quite the opposite!","后来我才明白，火焰根本不愿被驯服。
+恰恰相反！"
+action,action-3e43990d-9494-88d3-f31d-b4c5d96832a5,Just give your fire spells the direction and let the fire choose the path itself.,只需为你的火焰法术指明方向，让火自己选择路径。
+action,action-1fe5eeec-7a04-0143-58e3-3b6e27cb819f,"And if you come across any #:torn pages:#, be sure to hand them over to our Keeper of Knowledge.
+You'll find him inside the library.","如果你找到任何#:残页:#，务必交给我们的知识守护者。
+他就在图书馆里。"
+action,action-3b884d9f-d6d1-dd7a-dbd2-01e0c85aa2c3,"Of course, brother!
+As a member of the Academy, you are now entitled to wear the robe of our order.","当然可以，兄弟！
+身为学院一员，你如今有资格穿上我们的法袍。"
+action,action-96963ac1-8bd1-0599-d905-6a7930686322,Which robe do you want to wear?,你想穿哪件法袍？
+option,choice-c2b6a9d6-e08e-72e9-703e-aea4c64a8d21,Where's the difference?,它们有什么区别？
+option,choice-2ee9b90c-5fcf-2998-14b0-e3db37c8cb06,I want to wear the robe of a Fire Mage.,我想穿火焰法师的法袍。
+option,choice-ecd9d06b-4802-69de-a731-e1846d829ff9,I want to wear the robe of an Ice Mage.,我想穿冰霜法师的法袍。
+option,choice-54631fe0-adb0-fb91-362c-5794119ef8b1,I want to wear the robe of a Summoner.,我想穿召唤师的法袍。
+option,choice-6320b46a-4ae5-af1b-e249-c65a59ca0ecb,I want to wear the robe of a Priest.,我想穿祭司的法袍。
+option,choice-a1fb119d-3777-7614-7696-b46908a86028,I need to think about it.,我得考虑考虑。
+action,action-73a82862-07d5-c440-3232-9f9fcd60c81e,Choose wisely.,好好选择。
+action,action-f1a1c2c0-a36b-b3b9-5acb-47fb76b5a8a2,The four robes we wear here at the academy strengthen our magical power in different ways.,我们学院的四种法袍，会以不同方式强化我们的魔法力量。
+action,action-8e738071-b929-0584-17a9-70f7df8501cc,"The robes of fire and ice mages, for example, not only strengthen the spells we cast, but also our maximum magical power.",比如火焰法师和冰霜法师的法袍，不仅能强化我们施放的法术，还能提升魔力上限。
+action,action-8ddf0958-1418-6a49-a1b1-6c15abebeb3f,"A summoner's robe increases not only dark and holy damage, but also the power and duration of your summons.",召唤师的法袍不仅能提高暗影与神圣伤害，还能增强召唤物的力量和持续时间。
+action,action-d5023ec2-5fab-72bf-6344-26d62a17ebea,"There is also the priest's robe, which only slightly increases your dark and holy power but offers additional protection against magical damage.",还有祭司的法袍，它对暗影与神圣之力的提升有限，却能额外抵御魔法伤害。
+action,action-140b1e09-d199-b476-67b1-3ee7cbea2c05,"Here is your robe.
+It now belongs to you.","这是你的法袍。
+它现在属于你了。"
+action,action-c4d134f6-b255-0638-be69-a1cf9d332355,Let me see.,让我看看。
+action,action-50cea10b-a173-0e0d-942c-c3f5f3891e69,...,……
+action,action-cdcb990f-a77f-7bcd-9f04-c0e06c7047c1,"Hmm... That's interesting.
+Whatever language this is, it's beyond my understanding.","唔……真有意思。
+不管这是什么语言，都超出了我的理解范围。"
+action,action-db059a13-4df8-6914-e60b-9f9728b226e6,"It's best to take this to our Keeper of Knowledge in the library.
+He specializes in old books and their preservation.","最好把它拿去图书馆，交给我们的知识守护者。
+他专精于古籍及其保存之道。"
+action,action-2bd5d10d-ec67-e8e2-54fd-29e227338811,"As far as I'm concerned, you may now enter the library.",就我而言，你现在可以进入图书馆了。
+action,action-44ede85f-4489-883a-80e1-5ea23ed687ef,"What?!
+Do you even know who they are?","什么？！
+你知道他们是些什么人吗？"
+option,choice-21da2085-6548-f0e3-addc-0dd3c36d727c,I do not work for the cult.,我不是为教团做事的。
+action,action-cc0b803d-4ab8-3af0-73e1-3ca18cd5963f,"Well then...
+You already know about the book, and it's theft. Maybe you'll be of help in that regard.","那好吧……
+你已经知道那本书和失窃之事。也许在这方面你能帮上忙。"

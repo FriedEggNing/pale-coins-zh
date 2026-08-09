@@ -1,0 +1,68 @@
+type,id,text,zh
+action,action-96c82588-9bf8-c32d-b647-d77a0d226872,Hey buddy!,嘿，伙计！
+action,action-e52cfc41-d0fc-c8bb-7160-dcc4e855e454,Thanks for coming by.,谢谢你过来看我。
+action,action-1a4a64da-587a-d606-dbac-c2885c7f8f55,My headache's almost gone now.,我的头痛差不多好了。
+action,action-bb8f3ad8-2a1c-1bae-b00b-6305e19edbe3,"Still can't believe Danny's dead, though.",不过我还是不敢相信丹尼死了。
+option,choice-7c216163-c9eb-6c4a-c184-fc1eb92968dc,I found your hammer.,我找到了你的锤子。
+option,choice-f1b5b630-64e3-635b-9185-948cf034b47b,"You said, you owe me one for the hammer.",你说过，锤子的事你欠我一个人情。
+option,choice-8fb90233-8cae-16a4-0b79-29b7ddc9e8ba,Do you have something to sell?,你有什么东西要卖吗？
+option,choice-9de4bfa7-d165-037c-dc82-c1df42b26f78,Can you teach me how to forge weapons?,你能教我怎么锻造武器吗？
+option,choice-459cfec8-eed0-27a6-cc03-db7facd960db,Craft me new equipment!,给我打造新装备！
+option,choice-bb876aa7-33d5-d5cb-fc06-3e43813ccb15,See you later.,回头见。
+action,action-641fda39-d748-ca9a-b4a2-0aff7c49b236,Right!,对了！
+action,action-2d40b2f1-dafe-2d09-c3ce-acbe6f23d668,Didn't forget about that.,这事我可没忘。
+action,action-95d1b223-86be-5746-3c3b-d906163a6ee6,"You see, considering I'm the best and only smith in this camp.",你看，我可是这营地里最好的——也是唯一的铁匠。
+action,action-7a62a55b-29a4-de7a-31d0-9588ce5525be,Could give you some of my weapons?,要不送你几件我打的武器？
+option,choice-fdfff130-9844-73f1-a519-dcbed5107732,A weapon sounds good.,有件武器倒不错。
+option,choice-32d0bb15-b353-f449-dc39-147780270c98,I am not interested in a weapon.,我对武器没兴趣。
+option,choice-7e30c265-8910-e28a-20fb-253bfb30760e,I'll need to think about that.,我得考虑考虑。
+action,action-adcf41a7-3a39-4893-294f-c2c54d685880,"Haha, knew you'd like the sound of that, lad!",哈哈，就知道你会喜欢，小子！
+action,action-e4f0b86d-f7b7-9610-6b36-1191a6972cbf,Here's my latest work.,这是我最新的作品。
+action,action-30e3a33f-0a07-55ed-c5f7-a6b596317ff1,This long-sword. Made from the best steel around!,这把长剑。用这一带最好的钢打的！
+option,choice-b1be8129-a2ea-1e18-8d07-fcf2cd810c7e,I'll take it.,我收下了。
+option,choice-6ebdc36b-f56e-2e8a-b5c8-41a25c8bc861,I have no use for a sword.,我用不上剑。
+action,action-6ea389f1-bfb3-6f5f-7c80-602025239b36,"Put it to good use, won't ya.",好好用它，行不？
+action,action-2d796574-ae23-6426-78f1-d6236743cf17,What? No use for a sword?! You a pacifist or somethin'?,什么？用不上剑？！你是个和平主义者还是咋的？
+action,action-aab4cc32-7927-b5f6-4e4d-89a7a0ad26cf,This is the best steel you'll ever see.,这可是你这辈子能见到的最好的钢。
+action,action-c97eba37-3fa8-b11d-a042-8543e5e4207d,"Well, your loss, lad.",行吧，那是你的损失，小子。
+action,action-6e316aaf-06da-8532-1849-39d67514317f,"Then, here. 100 gold for ya.",那好，给。100金币拿去。
+action,action-98c1676e-82e4-e4c4-f471-224971189994,"Then, here. 50 gold for ya.",那好，给。50金币拿去。
+action,action-b4211d3e-3b06-9a4e-ab3e-737e3aef0de2,Here ya go.,给你。
+action,action-532a7755-a080-43f6-ebef-9367d96536c1,Also...,还有……
+action,action-281fad52-0157-2293-b1d1-ab99aa8a14ae,Maybe you can use this ol' knife.,也许这把旧刀你用得上。
+action,action-c4fb071c-7855-3d40-178a-bb23f9ddef8e,"I made it for Danny, but he has no use for it now. Better you put it to good use than have it rust away here.",这是我给丹尼做的，但他现在用不上了。与其让它在这儿生锈，不如你拿去好好用。
+action,action-cc9bcdad-5030-bab1-61c5-465b32d70f0f,See ya buddy!,回见，伙计！
+action,action-f1bffcea-e896-204b-d0d8-f5d0773ecc91,I have some weapons lying around. Take a look.,我这儿放着些武器，看看吧。
+action,action-9c74ebb5-dd84-2333-8c47-57a7636c638d,Thanks lad. I really owe you one.,谢了小子。我真欠你一个人情。
+action,action-df0fd8e1-1221-f56d-e35b-75cad71c2876,"Hey buddy!
+I'm not supposed to talk to you until you pay your fine to Balder.","嘿，伙计！
+在你给巴尔德交清罚金之前，我不该跟你说话。"
+action,action-29b440ef-e05c-887a-fffe-1c2a79fd2a23,"Ha, Ha!
+I don't have the time to teach you how to smith.","哈哈！
+我可没时间教你打铁。"
+action,action-467f6554-132a-955b-7593-f1624b3b69df,Balder would kick my ass if I forged even less than I already do.,我现在打的铁已经够少了，再少下去巴尔德非揍我不可。
+action,action-e0867501-c991-380f-0be8-f65f62d9607f,But hear me out!,但你听我说！
+action,action-9fade0ea-0258-3596-fbfa-af130954f415,"Bring me the #:blueprints:# and the needed #:materials:# for an item you want to have forged, and I will do the rest.",把你想锻造的物品的#:图纸:#和所需的#:材料:#拿来，剩下的交给我。
+action,action-f02ecfd1-2fa3-fc9b-2f74-4ee9774efec3,What do you think?,你觉得怎么样？
+option,choice-21ffb604-71f5-ffde-8e3b-dd89d6908ea5,Where can I find blueprints?,我在哪儿能找到图纸？
+option,choice-0ff843ab-5e6a-ae6e-08b4-0be5e86c4e6b,Where can I find materials?,我在哪儿能找到材料？
+option,choice-053566cf-9814-7d9a-0f70-f08b4066e5cd,Can you also forge artefacts?,你也能锻造神器吗？
+option,choice-f0542898-339e-98ac-beb6-a275cb79c8ba,Sounds good!,听起来不错！
+action,action-98d19c57-ad86-c2bc-ef1d-bc445877ec69,Hmm... Let me think!,唔……让我想想！
+action,action-cbc1c4e6-562a-dc33-a1e8-ec80baee4063,Some smiths sell these blueprints.,有些铁匠会卖这种图纸。
+action,action-6c1d2a12-bd3c-7afe-9d79-460ae5b76703,"Also, if you're lucky, you could find blueprints in chests or so.",还有，运气好的话，你也能在宝箱之类的地方找到图纸。
+action,action-aa045dc9-25ca-9b6d-29a3-fd26bacdef15,"Well, you can find ore in mines, obviously.",这个嘛，矿井里当然能挖到矿石。
+action,action-4d08ad92-8b4f-91b2-5f8a-f1121233db7a,I suppose some of the materials can be found at merchants as well.,我想有些材料在商人那儿也能买到。
+action,action-2d68a2d3-89ef-9090-5689-8571d4afe355,"Great!
+Let me know if you want to have something forged.","太好了！
+想锻造什么就跟我说。"
+action,action-c3adae77-5430-29c6-0287-5240ba4dc329,Bring me blueprints and I will forge everything for you.,把图纸拿来，我什么都能给你打出来。
+action,action-ae793ff5-14e0-1a0a-20b9-6d11292f8d97,"Good job at the mine, lad!",矿井那事干得漂亮，小子！
+action,action-88f47db5-f887-776a-707f-3bd1abc6d1f6,This will give you strength again.,这能让你恢复力气。
+action,action-6e9e061c-c8d9-88ea-344f-5f49c9ebdbf0,Congrats on joining our camp!,恭喜你加入我们营地！
+action,action-f5cfd401-43f9-257e-4cd0-f0e4f3d7aaa1,"If you want, I can upgrade your new bandit armor.
+For some gold, of course.","你要是愿意，我可以升级你的新强盗护甲。
+当然，得收点金币。"
+action,action-4cd578e2-1638-712a-8eeb-c8b70114dad9,"No, my hands are too rough for that.",不行，我这双手太粗，干不了那种精细活。
+action,action-1185376d-8776-7693-3021-b7746361466e,You'll probably find someone in the capital who is able to craft these things.,在王都你多半能找到会做这些东西的人。
+action,action-0da6fb01-8e25-cda0-2bef-83afefc0bda6,What's up?,有啥事？

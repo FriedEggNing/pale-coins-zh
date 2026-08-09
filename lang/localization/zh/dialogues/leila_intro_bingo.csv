@@ -1,0 +1,15 @@
+type,id,text,zh
+action,action-64622260-3844-9438-9ab0-15f4496408c5,"Hey!
+Are you new to Bingo?","嘿！
+你是第一次玩宾果吗？"
+action,action-7f98006a-62c1-9e69-82d9-6632c0459c33,"If you want, I can explain the game mode to you.",如果你愿意，我可以给你讲讲这个游戏模式。
+option,choice-7c1be1f6-e691-65ec-c4fd-3acb52a74aea,How does Bingo work?,宾果是怎么玩的？
+option,choice-d3035c20-03a5-0fb6-95b8-bc4f6398aa2d,How can I keep track of the goals?,我要怎么追踪这些目标？
+option,choice-3a361a6a-ba0b-633e-8a16-5dfefdbc1f11,That's all.,就这些。
+action,action-d91b257f-7e87-8536-2045-c177fd9c77eb,Do you have any questions about Bingo?,关于宾果，你还有什么问题吗？
+action,action-99ee3690-e55c-52ab-8cf9-4b6a5cb8c075,"At the start of the game, you'll get a handful of random objectives to complete.",游戏开始时，你会得到一些随机目标去完成。
+action,action-a32c1cbe-bb41-a3ea-1f27-81e880b3c05a,Simply press ###input.INPUT_GAME_MODE_SPECIAL### to view the Bingo Board and your objectives.,只需按下###input.INPUT_GAME_MODE_SPECIAL###即可查看宾果板和你的目标。
+action,action-79ace87d-0ba3-77af-c716-13055e29c34b,"As soon as you completed a Bingo Goal, open the Bingo Board and mark it.",一旦完成某个宾果目标，就打开宾果板把它标记上。
+action,action-c667e986-7de0-608b-e396-1289fbd74726,"A Bingo is achieved by marking all goals in a vertical, horizontal or diagonal line.",把竖排、横排或对角线上的所有目标都标记完成，即可达成一次宾果。
+action,action-2a95d64a-da57-1285-6b3e-62d1e25df2b9,You can favor Bingo Goals to easily find certain goals on the Bingo Board.,你可以收藏宾果目标，方便在宾果板上快速找到特定目标。
+action,action-54755b4c-4536-225c-1b2f-2dcc90176e12,"Also, you're able to add counters to your goals to track progress as you work toward a set amount.",此外，你还可以给目标添加计数器，在朝着设定数量努力时随时掌握进度。

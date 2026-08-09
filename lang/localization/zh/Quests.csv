@@ -1,0 +1,290 @@
+,en,de,zh
+quest_test_1,Quest Test 1,Quest Test 1,任务测试1
+quest_test_1_info_1,This is just an information,Das ist nur eine Information,这只是一条信息
+quest_test_1_info_2,Yet another information. But this time a very long Information to see if there's a problem with line breaks.,"Eine weitere Information. Aber diesmal eine sehr lange Information, um sicherzustellen, dass es keine Probleme mit Zeilenumbrüchen gibt.",又是一条信息。不过这次是一条很长的信息，用来测试换行是否存在问题。
+quest_test_1_info_3,Yet another information. But this time a very long Information to see if there's a problem with scrolling.,"Eine weitere Information. Aber diesmal eine sehr lange Information, um sicherzustellen, dass es kein Problem beim Scrollen gibt.",又是一条信息。不过这次是一条很长的信息，用来测试滚动是否存在问题。
+quest_test_1_info_end,This quest is done,Dieser Auftrag ist erledigt,这个任务已完成
+,,,
+,,,
+,,,
+--Champion's Coins,,,
+quest_main_story,Find the Champion's Coin,Finde die Münze der Champions,寻找冠军硬币
+quest_main_story_start,I was given a task to find the Champion's Coin for a goddess.,"Ich wurde auserwählt, die Münze der Champions für eine Göttin zu finden.",一位女神交给我一项任务：为她寻找冠军硬币。
+quest_main_story_info_intro_leila,It looks like the coin is not known here. I should talk to the people around.,"Es sieht so aus, als wäre die Münze hier nicht bekannt. Ich sollte mich in der Umgebung umschauen und mit den Leuten reden.",看来这里没人知道这枚硬币。我该四处找人打听打听。
+quest_main_story_info_balder,"Balder, the leader of the outlaw camp, mentioned, that the wizard Themir may know about the Champion's Coin.","Balder, der Anführer der Banditen, meinte, dass der Zauberer Themir etwas über die Münze der Champions wissen könnte.",强盗营地的首领巴尔德提到，法师塞米尔或许知道冠军硬币的下落。
+quest_main_story_info_saved_themir,"I saved the wizard Themir in a cave full of goblins. Maybe, he'll be able to tell me about the Champion's Coin.",Ich habe den Zauberer Themir in einer Höhle voller Goblins gerettet. Möglicherweise kann er mir mehr über die Münze der Champions erzählen.,我在一个满是哥布林的洞穴里救下了法师塞米尔。也许他能告诉我关于冠军硬币的事。
+quest_main_story_outlaw_mine,Themir handed me a key to the outlaw mine. There could be something leading to the Champion's Coin.,"Themir hat mir den Schlüssel zur Mine der Banditen gegeben. Dort könnte es etwas geben, das mich bei meiner Suche nach der Münze der Champions weiterbringt.",塞米尔把强盗矿井的钥匙交给了我。那里也许有关于冠军硬币的线索。
+quest_main_story_nuveyar_intro,"I talked to an otherworldly being called Nuveyar, who told me about the Pale Coins. One of them is called the Champions's Coins and may fulfill any wish.","Ich habe mit einem übernatürlichen Wesen namens Nuveyar gesprochen. Dieser erzähle mir von den Bleichen Münzen. Eine der Münzen scheint die Münze der Champions zu sein, die jeden Wunsch erfüllen kann.",我和一个名叫努维亚的异界存在交谈过，他向我讲述了苍白硬币的事。其中一枚被称为冠军硬币，据说能实现任何愿望。
+quest_main_story_dhul_oq_mentioned,The Champion's Coins seems to be located in the city of Dhul'oq. Who could know about the city?,Die Münze der Champions liegt offenbar in der Stadt Dhul'oq. Wer könnte etwas über diese Stadt wissen?,冠军硬币似乎位于杜尔奥克城。谁会知道这座城市呢？
+quest_main_story_told_themir_about_dhul_oq,"I told Themir about Dhul'oq. Although he does not know about the city, he suggested looking for clues in the library in the capital.","Ich habe Themir von Dhul'oq berichtet. Obwohl er mit dem Begriff nicht viel anfängt, schlug er vor, in der Bibliothek der Hauptstadt nach Hinweisen zu suchen.",我把杜尔奥克的事告诉了塞米尔。虽然他并不了解这座城市，但他建议我去王都的图书馆寻找线索。
+quest_main_story_lied_to_themir_about_dhul_oq,I did not tell Themir about the city Dhul'oq. I should look somewhere else for clues where to find the city.,Ich habe Themir nichts von Dhul'oq erzählt. Vielleicht finde ich woanders Hinweise zur Stadt.,我没有把杜尔奥克城的事告诉塞米尔。我得去别处寻找这座城市所在的线索。
+quest_main_story_dhul_oq_location,Dhul'oq seems to be located northwest of the Capital. I have to make my way there to find the Champion's Coin.,"Dhul'oq liegt scheinbar nordwestlich der Hauptstadt. Ich muss mich auf den Weg dorthin machen, um die Münze der Champions zu finden.",杜尔奥克似乎位于王都西北方。我必须前往那里寻找冠军硬币。
+quest_main_story_king_dhul_oq_location,The king told me that he himself was searching for Dhul'oq and found the ruins of the city. I have to go through the Marin Passage and then west to a lake.,"Der König erzählte mir, dass er selbst auf der Suche nach Dhul'oq war und die Ruinen der Stadt fand. Ich muss durch die Marin Passage und anschließend westlich zu einem See.",国王告诉我，他自己也曾寻找过杜尔奥克，并找到了那座城市的遗迹。我必须穿过马林通道，然后向西前往一座湖泊。
+quest_main_story_dhul_oq_ancient_plate,"I found an ancient tablet in the ruins near the tower on the lake. According to the text, the ruins are said to have once been the city Dhul'oq.",Ich habe eine alte Steintafel in den Ruinen in der Nähe des Turms am See gefunden. Dem Text nach sollen die Ruinen einst die Stadt Dhul'oq gewesen sein.,我在湖上高塔附近的遗迹中找到了一块古老的石板。据上面的文字所述，这片遗迹曾经就是杜尔奥克城。
+quest_main_story_dhul_oq_ancient_plate_lake_tower_not_read,"There is a strange tablet on the top floor of the tower, but I can't read the text.","Im obersten Stock des Turms am See ist eine seltsame Steintafel, aber ich kann den Text nicht lesen.",塔的顶层有一块奇怪的石板，但我读不懂上面的文字。
+quest_main_story_dhul_oq_ancient_plate_lake_tower,Three sacred stones seem to reveal the way to the sky.,Die drei heiligen Steine offenbaren den Weg in den Himmel.,三块圣石似乎能揭示通往天空之路。
+quest_main_story_find_sacred_stones,"I need to find the sacred stones Nayryth, Ferumor and Erylding.","Ich muss die heiligen Steine Nayryth, Ferumor und Erylding finden.",我需要找到圣石奈里斯、费鲁莫尔和埃里尔丁。
+quest_main_story_dhul_oq_portal_active,The portal to Dhul'oq is active.,Das Portal nach Dhul'oq ist aktiv.,通往杜尔奥克的传送门已经激活。
+quest_main_story_done,I finally found the Champion's Coin.,Ich habe die Münze der Champions gefunden.,我终于找到了冠军硬币。
+,,,
+,,,
+,,,
+,,,
+--Save Themir,,,
+quest_save_themir,Find the wizard Themir,Finde Themir den Zauberer,寻找法师塞米尔
+quest_save_themir_start,"Balder wants me to find the wizard Themir, as he has been gone for a while. Maybe the people around the camp can help me find the wizard.","Balder will, dass ich den Zauberer Themir finde, da er schon eine Weile verschwunden ist. Ich sollte in der Umgebung nachsehen und mit den Leuten reden.",巴尔德想让我去找法师塞米尔，他已经失踪一段时间了。营地附近的人也许能帮我找到这位法师。
+quest_save_themir_shrike,The hunter Shrike has not seen Themir for a while.,Der Jäger Shrike hat Themir schon eine Weile nicht mehr gesehen.,猎人什里克已经有一阵子没见过塞米尔了。
+quest_save_themir_jens,Jens did not see the wizard lately.,Jens hat Themir in letzter Zeit wohl nicht gesehen.,延斯最近没有见过那位法师。
+quest_save_themir_hallgrim,Hallgrim told me to look either north or south of here.,"Hallgrim meinte, dass ich entweder im Norden oder im Süden von hier suchen sollte.",哈尔格里姆让我去这里的北边或南边找找。
+quest_save_themir_northern_guard,Themir did not cross the bandit guarding the northern mountain pass.,Themir kam nicht an der Wache zum nördlichen Gebirgspass vorbei.,塞米尔没有经过守卫北方山口的那个强盗那里。
+quest_save_themir_bheir,"A man named Bheir saw a wizard lately. However, the wizard turned back. There's no need to search the wasteland for Themir.","Ein Mann namens Bheir hat vor kurzem einen Zauberer gesehen. Dieser kehrte allerdings wieder um. Es gibt keinen Grund, nach Themir im Ödland zu suchen.",一个名叫贝尔的人最近见过一位法师。不过那位法师半路折返了。没有必要去荒地寻找塞米尔。
+quest_save_themir_in_goblin_cave,"I found Themir. He seems to be stuck in a cave, as his staff was stolen by a goblin. I should retrieve his staff and return to Themir.","Ich habe Themir gefunden, dieser scheint allerdings in einer Höhle festzustecken, da sein Stab von einem Goblin gestohlen wurde. Ich sollte den Stab suchen und zurückbringen.",我找到了塞米尔。他的法杖被一只哥布林偷走了，他似乎被困在了一个洞穴里。我该找回法杖，再回到塞米尔那里。
+quest_save_themir_returned_staff,"I found Themir's staff and returned it to him. Now, I should go visit him in the outlaw camp.",Ich habe Themirs Stab gefunden und ihn zurückgegeben. Jetzt sollte ich ihn in Balders Lager besuchen.,我找到了塞米尔的法杖并还给了他。现在我该去强盗营地拜访他。
+quest_save_themir_dead,I found Themir but it is too late. He is dead.,"Ich habe Themir gefunden, aber es war zu spät. Er ist tot.",我找到了塞米尔，但为时已晚。他已经死了。
+,,,
+,,,
+,,,
+--Hallgrim Hammer,,,
+quest_hallgrim_hammer,Hallgrim's Hammer,Hallgrims Hammer,哈尔格里姆的锤子
+quest_hallgrim_hammer_info_danny,"Danny, a friend of the smith Hallgrim, went missing after a night of drinking. He took Hallgrim's hammer and went south.","Danny, ein Freund von Hallgrim, wird seit einer flüssigen Nacht vermisst. Er nahm Hallgrims Hammer und ging nach Süden.",铁匠哈尔格里姆的朋友丹尼在一夜酗酒后失踪了。他带着哈尔格里姆的锤子往南去了。
+quest_hallgrim_hammer_info_danny_already_found,"Danny, a friend of the smith Hallgrim, went missing after a night of drinking. I found him, but he was dead already.","Danny, ein Freund von Hallgrim, wird seit einer flüssigen Nacht vermisst. Ich habe ihn gefunden, aber er war bereits tot.",铁匠哈尔格里姆的朋友丹尼在一夜酗酒后失踪了。我找到了他，但他已经死了。
+quest_hallgrim_hammer_info_found_danny,"I found Danny, but he was dead already.","Ich habe Danny gefunden, aber er war bereits tot.",我找到了丹尼，但他已经死了。
+quest_hallgrim_hammer_info_found_hammer,I found Hallgrim's hammer in Danny's pockets.,Ich habe Hallgrims Hammer in Dannys Tasche gefunden.,我在丹尼的口袋里找到了哈尔格里姆的锤子。
+quest_hallgrim_hammer_reported_to_hallgrim_about_danny,I told Hallgrim about Danny. He should go back to the camp now.,Ich habe Hallgrim von Dannys Ableben berichtet. Er sollte nun wieder ins Lager zurückgehen.,我把丹尼的事告诉了哈尔格里姆。他现在该回营地去了。
+quest_hallgrim_hammer_returned_hammer,I returned the hammer to Hallgrim.,Hallgrim hat seinen Hammer wieder.,我把锤子还给了哈尔格里姆。
+quest_hallgrim_hammer_reward,Hallgrim gave me a reward for finding his hammer.,Hallgrim hat mir eine Belohnung für seinen Hammer gegeben.,哈尔格里姆给了我找回锤子的酬劳。
+quest_hallgrim_hammer_korg,I gave Hallgrim's hammer to Korg.,Hallgrims Hammer habe ich Korg übergeben.,我把哈尔格里姆的锤子给了科尔格。
+,,,
+,,,
+,,,
+--Access the capital,,,
+quest_capital_access,Access to the Capital,Zugang zur Hauptstadt,进入王都
+quest_capital_access_travis_info,The Royal Guard Travis told me that an official permit is required to enter the capital.,"Der königliche Gardist Travis meinte, dass ich eine Genehmigung brauche, um die Hauptstadt betreten zu dürfen.",皇家卫兵特拉维斯告诉我，进入王都需要官方通行证。
+quest_capital_access_renbrand_can_give_permit,"Renbrand, a high-ranking Royal Guard, may be able to help me gain access the capital.","Renbrand, ein hochrangiger königlicher Gardist, könnte mir helfen in die Hauptstadt zu gelangen.",伦布兰德是一位高阶皇家卫兵，他也许能帮我获得进入王都的资格。
+quest_capital_access_permit_received,I have received a permit for the capital.,Ich habe eine Genehmigung für die Hauptstadt erhalten.,我拿到了王都的通行证。
+,,,
+,,,
+,,,
+--King's Ruby,,,
+goran_kings_ruby,Goran wants the King's Ruby,Goran will den Rubin des Königs,戈兰想要国王的红宝石
+goran_kings_ruby_start,"Goran, the ill-tempered bandit leader, demands the King's Ruby. He says it's stashed somewhere in the royal crypt.","Goran, der mürrische Anführer der Banditen, will, dass ich den Rubin des Königs für ihn finde. Angeblich liegt er irgendwo in der königlichen Krypta.",脾气暴躁的强盗首领戈兰想要国王的红宝石。据他说，宝石就藏在王室墓穴的某处。
+goran_kings_ruby_delivered,The ruby is in Goran's hands now. I should check later to see what he intends to do with it.,"Der Rubin ist nun in Gorans Besitz. Ich sollte später nachsehen, was er damit vorhat.",红宝石现在到了戈兰手里。我稍后该去看看他打算用它做什么。
+goran_kings_ruby_hole_ground,What happened? Goran tore a hole in the ground at the bandit camp.,Was ist passiert? Goran hat ein Loch in den Boden des Banditenlagers gerissen.,发生了什么？戈兰在强盗营地的地面上撕开了一个大洞。
+goran_kings_ruby_goran_story,Goran said something possessed him. He tried to resist it with the help of the ruby.,Laut Goran hat etwas von ihm Besitz ergriffen. Mithilfe des Rubins wollte er dagegen ankämpfen.,戈兰说有什么东西附了他的身。他曾试图借助红宝石的力量抵抗它。
+goran_kings_ruby_crystal_cavern,Goran and I need to find a way out of the Crystal Caverns.,Goran und ich müssen einen Weg aus den Kristallhöhlen finden.,我和戈兰得想办法离开水晶洞窟。
+goran_kings_ruby_end_of_tunnel,We found an exit. I should speak with Goran at the bandit camp.,Wir haben einen Ausgang gefunden. Ich sollte mit Goran im Banditenlager sprechen.,我们找到了出口。我该去强盗营地找戈兰谈谈。
+,,,
+,,,
+,,,
+--the King's Plans,,,
+quest_kings_plans,The King's Plans,Die Pläne des Königs,国王的计划
+quest_kings_plans_started,Balder wants me to find out why the king is increasingly searching for and executing bandits. I should question his advisor and the royal guards about it.,"Balder, will, dass ich herausfinde, warum der König die Banditen verstärkt sucht und hinrichtet. Ich sollte seinen Beraten und die königlichen Gardisten darüber befragen.",巴尔德想让我查明国王为何愈发频繁地搜捕并处决强盗。我该就此盘问他的顾问和皇家卫兵。
+quest_kings_plans_renbrand,"The king seems to care more about the bandits than the trade route to Erstadt. Furthermore, all valuables confiscated from the bandits must be handed over to the quartermaster.","Dem König scheinen die Banditen wichtiger zu sein, als die Handelsroute nach Erstadt. Außerdem müssen alle abgenommenen Wertgegenstände der Banditen beim Quartiermeister abgegeben werden.",比起通往埃尔施塔特的商路，国王似乎更在意强盗的事。此外，从强盗身上缴获的所有值钱物品都必须上交给军需官。
+quest_kings_plans_capital_guard,Some of the guards think that the number of bandits is steadily increasing.,"Einige der Gardisten meinen, dass es immer mehr Banditen werden.",一些卫兵认为强盗的数量在不断增加。
+quest_kings_plans_baron,The Baron told me that the leader of the bandits is unknown.,"Der Baron meinte, dass den Drahtzieher der Banditen noch keiner kennt.",男爵告诉我，强盗首领的身份还无人知晓。
+quest_kings_plans_hick,"The bandits' belongings are brought to Hick, the quartermaster, who delivers all the documents to the king.","Das Zeug der Banditen wird Hick, dem Quartiermeister, gebracht. Dieser soll alle Schriften dem König bringen.",强盗的物品都被送到军需官希克那里，他会把所有文书呈交给国王。
+quest_kings_plans_edmon,It seems that the Royal Guard will soon be looking for bandits across a large area.,Scheinbar wird die königliche Garde demnächst großflächige Suchen nach Banditen durchführen.,皇家卫队似乎很快就要在大范围内搜捕强盗了。
+,,,
+,,,
+,,,
+--Access to the Bandit chief,,,
+quest_goran_access,Access to the Bandit Chief,Zugang zum Banditenanführer,面见强盗首领
+quest_goran_access_guard_block,A guard blocked my way to the chief of the bandits. I should talk to the people in the camp.,Eine Wache lässt mich nicht weiter zum Anführer der Banditen. Ich sollte mit den Leuten im Lager sprechen.,一名守卫拦住了我去见强盗首领的路。我该和营地里的人谈谈。
+quest_goran_access_guard_pass,I am now allowed to talk to Goran in the bandit camp.,Ich darf nun mit Goran im Banditenlager reden.,我现在可以去强盗营地和戈兰谈话了。
+quest_goran_access_guard_jesse,Jesse will take care of the guard.,Jesse kümmert sich um die Wache.,杰西会去搞定那个守卫。
+quest_goran_access_guard_korg,Korg will speak to the guard to let me pass to the bandit chief.,"Korg wird mit der Wache reden, damit ich zum Anführer der Banditen kann.",科尔格会去和守卫说情，让我能过去见强盗首领。
+quest_goran_access_guard_clemens,Clemens will convince the guard to let me pass.,"Clemens wird die Wache überzeugen, mich durchzulassen.",克莱门斯会说服守卫放我过去。
+,,,
+,,,
+,,,
+--Lennard in the Bandit Camp,,,
+quest_lennard_bandit_camp,Lennard the merchant,Lennard der Händler,商人伦纳德
+quest_lennard_bandit_camp_start,"Lennard, a merchant of the Icefall Village, had his goods stolen in the northern bandit camp.","Lennard, ein Händler aus dem Eisfalldorf, wurden seine Waren im nördlichen Banditenlager gestohlen.",伦纳德是冰瀑村的一位商人，他的货物在北边的强盗营地被偷了。
+quest_lennard_bandit_camp_goods,"He needs his goods back, or at least some gold, before he can return to his caravan east of the camp.","Er braucht seine Waren zurück, oder zumindest den Wert in Gold, bevor er zu seiner Karawane östlich des Lagers zurückkehren kann.",他得拿回货物，或者至少得到一些金币作补偿，才能回到营地东边的商队那里。
+quest_lennard_bandit_camp_bridge,"Unfortunately, the bridge to the east broke down a while ago. I should make sure the bridge is repaired, so Lennard can cross the river safely.","Dummerweise ist die Brücke nach Osten vor einer Weile zusammengebrochen. Ich sollte sicherstellen, dass sie repariert ist, damit Lennard sie überqueren kann.",不巧的是，通往东边的桥前段时间塌了。我该确保桥被修好，好让伦纳德安全过河。
+quest_lennard_bandit_camp_korg,Korg probably doesn't know anything about the stolen goods.,Korg weiß wohl nichts über die gestohlenen Waren.,科尔格大概对被偷的货物一无所知。
+quest_lennard_bandit_camp_clemens,Clemens told me to speak to Jesse.,"Clemens meinte, ich sollte mit Jesse darüber reden.",克莱门斯让我去和杰西谈谈。
+quest_lennard_bandit_camp_jesse,"Jesse has Lennard's wares, but he is not willing to return them. At least not for free.",Jesse hat Lennards Waren. Er will sie allerdings nicht ohne Gegenleistung zurückgeben.,伦纳德的货物在杰西手里，但他不愿归还。至少不肯白白归还。
+quest_lennard_bandit_camp_retrieved_wares,I retrieved Lennard's goods and should return them soon.,Ich habe Lennards Waren und sollte sie bald zurückgeben.,我取回了伦纳德的货物，该尽快还给他。
+quest_lennard_bandit_camp_found_wares,I found some goods in a chest near the bandit camp.,Ich habe ein paar Waren in der Nähe des Banditenlagers gefunden.,我在强盗营地附近的一个箱子里找到了一些货物。
+quest_lennard_bandit_camp_jesse_wares_outside_camp,"The goods are somewhere outside the camp. Maybe, I'll be able to find out where they are.","Die Waren sind außerhalb des Lagers. Vielleicht kann ich herausfinden, wo sie sind.",货物在营地外的某个地方。也许我能查出它们的下落。
+quest_lennard_bandit_camp_jesse_fucked_up,"I must have offended Jesse while negotiating, as he no longer wants to sell me the goods. I have to think of something else.",Ich habe Jesse wohl beleidigt beim Verhandeln und er will mir die Waren nicht mehr verkaufen. Ich muss mir was anderes einfallen lassen.,我在讨价还价时一定是得罪了杰西，他不肯再把货物卖给我了。我得另想办法。
+quest_lennard_bandit_camp_finish,Lennard was satisfied with my work and will go back to his caravan.,Lennard war mit meiner Arbeit zufrieden und wird wieder zu seiner Karawane zurückkehren.,伦纳德对我的工作很满意，他会回到自己的商队去。
+,,,
+,,,
+,,,
+--Save the bandit Mika,,,
+quest_saving_bandit_mika,Save the bandit in the orc camp,Den Banditen vor den Orks retten,营救兽人营地里的强盗
+quest_saving_bandit_mika_start,"A bandit is trapped in an orc camp inside the wasteland. I should kill the orcs in that camp, so the bandit can get out of there safely.","Ein Bandit ist in einem Lager der Orks gefangen. Ich sollte die Orks des Lagers töten, damit der Bandit sicher fliehen kann.",一名强盗被困在荒地的一处兽人营地里。我该杀掉营地里的兽人，好让那名强盗安全脱身。
+quest_saving_bandit_mika_done,"After defeating the orcs, the bandit Mika was able to flee. He also told me about a key the orc mage left at a pillar in front of the temple.","Nach dem Sieg über die Orks konnte der Bandit Mika fliehen. Er erzählte mir auch von einem Schlüssel, den ein Magier der Orks an einer Säule vor dem Tempel hinterlassen hatte.",击败兽人之后，强盗米卡得以逃脱。他还告诉我，兽人法师在神殿前的一根石柱旁留下了一把钥匙。
+,,,
+,,,
+,,,
+--Unwanted guests,,,
+quest_thorald_crossroad_inn,Unwanted guests,Unerwünschte Gäste,不速之客
+quest_thorald_crossroad_inn_rair_info,Rair has a problem with the royal guards in his tavern. Maybe I can get them to leave.,"Rair hat ein Problem mit der königlichen Garde in seiner Taverne. Vielleicht kann ich sie dazu bringen, zu gehen.",莱尔的酒馆里来了些皇家卫兵，让他很是头疼。也许我能让他们离开。
+quest_thorald_crossroad_inn_finished,Rair thanked me for my help. I should come back later to see if Thorald causes problems again.,"Rair war dankbar für meine Hilfe. Ich sollte später wiederkommen, um zu sehen, ob Thorald wieder Ärger macht.",莱尔感谢了我的帮助。我稍后该再来看看索拉尔德是否又惹麻烦了。
+quest_thorald_crossroad_inn_thorald_kicked_out,I kicked Thorald out of Rair's tavern.,Ich habe Thorals aus Rairs Taverne rausgeschmissen.,我把索拉尔德赶出了莱尔的酒馆。
+quest_thorald_crossroad_inn_thorald_pay_bills,I made sure Thorald would pay his bills.,"Ich habe dafür gesorgt, dass Thorald seine Rechnungen begleichen wird.",我确保了索拉尔德会付清他的账单。
+,,,
+,,,
+,,,
+,,,
+--Old Sailor Hat,,,
+quest_old_sailor_hat,A lost hat,Der verlorene Hut,丢失的帽子
+quest_old_sailor_hat_start,The old sailor at the Marin Cliffs told me about a hat he lost somewhere in the passage west of there.,"Der alte Seemann auf den Marin Klippen hat mir von seinem Hut erzählt, den er in der Passage westlich von dort verloren hat.",马林悬崖的老水手告诉我，他把帽子丢在了西边通道的某个地方。
+quest_old_sailor_hat_found_hat,I brought back the old sailor's hat.,Ich habe dem alten Seemann seinen Hut zurückgegeben.,我把老水手的帽子还给了他。
+,,,
+,,,
+,,,
+--Check on the northern Marin Passage Guard,,,
+quest_check_northern_marin_passage_guard,The Marin Passage guards,Die Wachen der Marin Passage,马林通道的守卫
+quest_check_northern_marin_passage_guard_start,The guard at the southern entrance of the Marin Passage asked me to check on his pal on the northern entrance.,Die Wache am südlichen Eingang des Marin Durchgangs hat mich gebeten nach seinem Kumpel am nördlichen Eingang zu sehen.,马林通道南入口的守卫请我去看看他在北入口的伙伴。
+quest_check_northern_marin_passage_guard_info,"I checked on the guard, and he is doing fine. I should report back to the other guard.",Der nördlichen Wache scheint es gutzugehen. Ich sollte der anderen Wache Bescheid geben.,我去看过那名守卫了，他一切都好。我该回去向另一名守卫报告。
+quest_check_northern_marin_passage_guard_end,The southern passage guard thanked me for checking on his pal. There's probably nothing more to do here.,Die Wache bedankte sich bei mir. Mehr gibt es hier wohl nicht zu tun.,南入口的守卫感谢我去看望了他的伙伴。这里大概没什么可做的了。
+,,,
+,,,
+,,,
+--Quentin and the ruins,,,
+quest_quentin_ruins,The Stone Door,Die Tür aus Stein,石门
+quest_quentin_ruins_start,A man called Quentin wants to open a stone door near the capital but lacks the key.,"Ein Typ namens Quentin will eine Steintür in der Nähe der Hauptstadt öffnen, aber ihm fehlt der Schlüssel.",一个名叫昆廷的人想打开王都附近的一扇石门，却没有钥匙。
+quest_quentin_ruins_start_alt,I met a man called Quentin. He set off toward the ruin I just opened near the capital.,"Ich habe einen Typen namens Quentin getroffen. Nachdem ich die Ruinen nahe der Hauptstadt geöffnet hatte, ist er hineingegangen, um sie zu erkunden.",我遇到了一个名叫昆廷的人。他动身前往我刚在王都附近打开的那处遗迹。
+quest_quentin_ruins_academy,Quentin told me to look for clues in the academy.,"Quentin meinte, dass ich mich in der Akademie umhören sollte.",昆廷让我去学院寻找线索。
+quest_quentin_ruins_quentin_moves_to_ruins,I was able to open the stone door and told Quentin about it. He set off toward the ruins to see what's inside.,"Ich konnte die Steintür öffnen und erzählte Quentin davon. Er brach sofort auf, um herauszufinden, was sich in den Ruinen befindet.",我成功打开了石门，并把这事告诉了昆廷。他随即动身前往遗迹，想看看里面有什么。
+quest_quentin_ruins_quentin_dead,"Quentin made his way through the ruins, but died while fighting against the undead monstrosity.","Quentin konnte sich durch die Ruinen schleichen, starb allerdings im Kampf gegen die untote Monstrosität.",昆廷穿过了遗迹，却在与不死怪物的战斗中丧命。
+quest_quentin_ruins_quentin_finish,"Quentin made his way through the ruins and we defeated the undead monstrosity. He was waiting for his client in the Inn, but I still got my reward.","Quentin konnte sich durch die Ruinen schleichen und zusammen besiegten wir die untote Monstrosität. Er wartete auf seinen Auftraggeber in der Taverne, aber ich bekam trotzdem meine Belohnung.",昆廷穿过了遗迹，我们一起击败了不死怪物。他在旅店等他的雇主，但我还是拿到了自己的报酬。
+,,,
+,,,
+,,,
+--Gregor’s mysterious letter,,,
+quest_gregors_letter,Gregor’s Mysterious Letter,Gregors seltsamer Brief,格雷戈的神秘信件
+quest_gregors_letter_start,I found a letter signed by a novice called Gregor.,"Ich habe einen Brief gefunden, der von dem Novizen Gregor gezeichnet wurde.",我找到了一封署名为见习生格雷戈的信。
+quest_gregors_letter_meet_lyrak_at_stonehenge,Lyrak told me to meet him at the Stonehenge where I found the letter.,"Lyrak meinte, ich solle ihn beim Steinkreis treffen, wo ich den Brief fand.",莱拉克让我去我发现信件的那处巨石阵与他会面。
+quest_gregors_letter_lyrak_pissed,"I guess I upset Lyrak, and he doesn't want to talk to me anymore.",Ich habe Lyrak wohl verärgert und er will nicht mehr mit mir reden.,我大概是惹恼了莱拉克，他不想再和我说话了。
+quest_gregors_letter_lyrak_ritual_done,"Lyrak connected his spirit with the energies at the Stonehenge and was able to find Gregor. However, Gregor seems to be stuck in another astral plane, and Lyrak cannot save him at the moment.",Lyrak hat am Steinkreis seinen Geist mit den Energien verbunden und konnte Gregor damit finden. Dieser scheint aber in einer anderen astralen Ebene festzustecken und Lyrak kann ihn momentan nicht retten.,莱拉克在巨石阵处将自己的精神与那里的能量相连，找到了格雷戈。然而，格雷戈似乎被困在另一个星界位面，莱拉克目前无法救他。
+,,,
+,,,
+,,,
+--The Rhoga Temple,,,
+quest_rhoga_temple_access,Access the Rhoga Temple,Eintritt zum Rhoga Tempel,进入罗加神殿
+quest_rhoga_temple_access_start,"There is a huge temple in the middle of the Rhoga Swamp, but the door seems to be closed.",In der Mitte des Rhogasumpfes befindet sich ein riesiger Tempel. Allerdings scheint dieser verschlossen zu sein.,罗加沼泽的中央有一座巨大的神殿，但大门似乎紧闭着。
+quest_rhoga_temple_access_cult_leader_opens_the_door,"B'Oldar, the leader of the Rhoga cult, agreed to open the door to the temple.","B'Oldar, der Führer der Sekte, wird das Tor zum Tempel öffnen.",罗加教团的首领博尔达尔答应打开神殿的大门。
+quest_rhoga_temple_access_cult_leader_invite,"B'Oldar, the leader of the Rhoga cult, wants me to meet him in front of the temple.","B'Oldar, der Führer der Sekte, will mir vor dem Tempel treffen.",罗加教团的首领博尔达尔想让我去神殿前见他。
+quest_rhoga_temple_access_temple_open,The temple is now open. I should stock up healing potions before entering the temple.,Der Tempel ist nun offen. Ich sollte sicherheitshalber einige Tränke einpacken.,神殿的大门已经打开。进入神殿之前，我该备足生命药水。
+quest_rhoga_temple_access_academy_mages_seal,Bauric told me about a seal that keeps the temple door shut. The mages of the academy may know how to break the seal.,"Bauric erzählte mir von einem Siegel, das die Tempeltür verschlossen hält. Die Magier der Akademie wissen vielleicht, wie man das Siegel bricht.",鲍里克告诉我，有一道封印锁住了神殿的大门。学院的法师们也许知道如何破除封印。
+,,,
+,,,
+,,,
+--Gems for the cult,,,
+quest_rhoga_cult_gems,Gems for the cult,Edelsteine für den Kult,教团要的宝石
+quest_rhoga_cult_gems_start,A cultist in the swamp is in need of a new gem for his experiments.,Ein Kultist im Rhogasumpf braucht einen neuen Edelstein für seine Experimente.,沼泽里的一名教徒需要一块新的宝石来做实验。
+quest_rhoga_cult_gems_done,I delivered a gem to the cultist. Was that a good idea?,Ich habe dem Kultisten einen Edelstein gebracht. Ob das eine gute Idee war?.,我给那名教徒送去了一块宝石。这真的是个好主意吗？
+quest_rhoga_cult_gems_failed,The cult seems to be gone.,Der Kult ist scheinbar verschwunden.,教团似乎已经不见了。
+,,,
+,,,
+,,,
+--Heart of a Warrior for the cult,,,
+quest_rhoga_cult_heart,Heart of a Warrior for the cult,Das Herz eines Kriegers für den Kult,教团要的战士之心
+quest_rhoga_cult_heart_start,A strange cultist from the swamp gave me the task of finding the heart of a warrior for him.,"Ein seltsamer Kultist aus dem Sumpf gab mir den Auftrag, das Herz eines Kriegers für ihn zu finden.",沼泽里一名古怪的教徒交给我一项任务：为他寻找一颗战士之心。
+quest_rhoga_cult_heart_given,I delivered the heart of a warrior. What good will that do?,Ich habe das Herz eines Kriegers abgegeben. Was das wohl bringt?,我交出了一颗战士之心。这能有什么用呢？
+quest_rhoga_cult_heart_bauric_idea,"Bauric, the hunter near the cultists, wants to poison a heart and thus render it useless.","Bauric, der Jäger in der Nähe der Kultisten, will ein Herz vergiften und damit unbrauchbar machen.",在教徒们附近扎营的猎人鲍里克想给一颗心脏下毒，使其失去效用。
+quest_rhoga_cult_heart_bauric_poisoned_heart,Bauric poisoned the heart of a warrior. It is up to me to deliver a real heart or a poisoned one.,"Bauric hat ein Herz unbrauchbar gemacht. Es liegt jetzt an mir, ob ich den Kultisten ein echtes oder ein vergiftetes Herz gebe.",鲍里克给一颗战士之心下了毒。交出真正的心脏还是下了毒的那颗，全由我决定。
+quest_rhoga_cult_heart_poisoned_given,I delivered the poisoned heart of a warrior. Let's hear what Bauric has to say.,Ich habe das vergiftete Herz eines Kriegers abgegeben. Bauric wird das bestimmt interessieren.,我交出了下了毒的战士之心。听听鲍里克怎么说吧。
+quest_rhoga_cult_heart_failed,The cult seems to be gone.,Der Kult ist scheinbar verschwunden.,教团似乎已经不见了。
+,,,
+,,,
+,,,
+--Arcanum Sanguis,,,
+quest_arcanum_sanguis,The Arcanum Sanguis,Das Arcanum Sanguis,血之秘典
+quest_arcanum_sanguis_cultist_start,The leader of the cultists in the swamp wants me to find a book called Arcanum Sanguis.,"Der Anführer der Kultisten im Sumpf möchte, dass ich ein Buch namens Arcanum Sanguis finde.",沼泽教团的首领想让我找到一本名为《血之秘典》的书。
+quest_arcanum_sanguis_rair_involved,"Apparently, the owner of the Crossroad Inn knows something about the book. I should speak to him.",Der Besitzer der Taverne zur Wegkreuzung weiß offenbar etwas über das Buch. Ich sollte mit ihm sprechen.,十字路旅店的老板似乎知道这本书的事。我该和他谈谈。
+quest_arcanum_sanguis_failed_cultists,I decided to no longer help the cultists in their search for the book.,"Ich beschloss, den Kultisten bei ihrer Suche nach dem Buch nicht länger zu helfen.",我决定不再帮教徒们寻找那本书。
+quest_arcanum_sanguis_skeleton_key,"The cultists' leader can craft a skeleton key, which is able to unlock the chest.","Der Anführer der Kultisten kann einen Skelettschlüssel herstellen, mit dem sich die Truhe öffnen lässt.",教团首领能制作一把万能钥匙，用它可以打开那个箱子。
+quest_arcanum_sanguis_skeleton_key_received,"I now have the skeleton key to open the chest. It can only be used once, so I should not waste it.","Ich habe jetzt den Skelettschlüssel, um die Truhe zu öffnen. Er kann aber nur einmal verwendet werden, also sollte ich ihn nicht verschwenden.",我拿到了打开箱子的万能钥匙。它只能使用一次，所以我不能浪费。
+quest_arcanum_sanguis_success_cultists,The Arcanum Sanguis was handed over to the cultists.,Das Arcanum Sanguis wurde den Kultisten übergeben.,《血之秘典》已交到教徒们手中。
+quest_arcanum_sanguis_rair_theft_information,"Rair, the owner of the Crossroad Inn, stole the book from the academy. However, on his way back through the Marin Passage, raiders stole the Arcanum Sanguis.","Rair, der Besitzer der Taverne zur Wegkreuzung, stahl das Buch aus der Akademie. Auf seinem Rückweg durch die Marin Passage wurde das Arcanum Sanguis jedoch von Räubern gestohlen.",十字路旅店的老板莱尔从学院偷走了那本书。然而在他经马林通道返回的路上，掠夺者又抢走了《血之秘典》。
+quest_arcanum_sanguis_rairs_wants_the_book,"Rair was set up to get the book stolen. Now, he wants the book for himself, to sell it for more than the initial price.","Rair wurde hereingelegt, um das Buch zu stehlen. Jetzt will er es für sich selbst haben und es für mehr als den ursprünglichen Preis verkaufen.",莱尔是被人设局才丢了那本书。现在他想把书据为己有，以高于原先的价格卖掉。
+quest_arcanum_sanguis_success_rair,The Arcanum Sanguis was handed over to Rair.,Das Arcanum Sanguis wurde an Rair übergeben.,《血之秘典》已交到莱尔手中。
+quest_arcanum_sanguis_success_academy,The Arcanum Sanguis was handed over to the academy.,Das Arcanum Sanguis wurde der Akademie übergeben.,《血之秘典》已交还学院。
+quest_arcanum_sanguis_warak_no_more_info,"Warak, a mage of the academy, no longer wants to talk to me about the Arcanum Sanguis, after mentioning the cultists.","Warak, ein Magier der Akademie, will nicht mehr mit mir über das Arcanum Sanguis sprechen, nachdem ich die Kultisten erwähnt habe.",自从我提到教徒们之后，学院法师瓦拉克就不愿再和我谈《血之秘典》的事了。
+quest_arcanum_sanguis_warak_waterfall_cave,I should meet with Warak in the cave behind the waterfall.,Ich sollte mich mit Warak in der Höhle hinter dem Wasserfall treffen.,我该去瀑布后的洞穴与瓦拉克会面。
+quest_arcanum_sanguis_raider_chief_information,"A raider was nearby the chest, where the Arcanum Sanguis was hidden. I must figure out how to get inside it.","Ein Räuber war in der Nähe der Truhe, in der das Arcanum Sanguis versteckt ist. Ich muss herausfinden, wie ich hineinkomme.",藏有《血之秘典》的箱子附近曾有一名掠夺者。我必须弄清楚该怎么打开它。
+quest_arcanum_sanguis_jesse,Rair suggested talking to a bandit named Jesse to get the chest open.,"Rair schlug vor, mit einem Banditen namens Jesse zu sprechen, um die Truhe zu öffnen.",莱尔建议我去找一个名叫杰西的强盗来打开箱子。
+quest_arcanum_sanguis_jesse_opens_the_chest,Jesse is going to open the chest behind the waterfall for me.,Jesse wird die Truhe hinter dem Wasserfall für mich öffnen.,杰西会替我打开瀑布后面的那个箱子。
+,,,
+,,,
+,,,
+--Rescue Randolph,,,
+quest_free_randolph,Free Randolph from the bandit camp,Befreie Randolph aus dem Banditenlager,从强盗营地救出兰道夫
+quest_free_randolph_start,A few bandits have captured Randolph and his buddy in the bandits' northern camp. I should talk to Balder or Goran about that.,Ein paar Banditen haben Randolph und seinen Kumpel im nördlichen Lager der Banditen gefangen genommen. Ich sollte mit Balder oder Goran darüber sprechen.,几名强盗把兰道夫和他的伙伴关押在强盗的北方营地。我该和巴尔德或戈兰谈谈这件事。
+quest_free_randolph_get_kings_ruby,"Goran wants me to find the King's Ruby, which is hidden somewhere in the crypt of the royal family.","Goran will, dass ich den Rubin des Königs finde, der irgendwo in der königlichen Krypta sein soll.",戈兰想让我找到国王的红宝石，它就藏在王室墓穴的某处。
+quest_free_randolph_find_new_men,Balder's idea was well-received. I'm supposed to bring Goran at least one man in exchange for Randolph's release.,"Balders Idee ist gut angekommen. Ich soll Goran mindestens einen Mann, im Gegenzug für Randolphs Freilassung, bringen.",巴尔德的主意得到了认可。我得给戈兰带去至少一名人手，以换取兰道夫获释。
+quest_free_randolph_saved,Goran finally agreed to let Randolph and his buddy go free.,"Goran stimmte endlich zu, Randolph und seinen Kumpel freizulassen.",戈兰终于同意放了兰道夫和他的伙伴。
+,,,
+,,,
+,,,
+--Plants and Herbs for Darius,,,
+quest_darius_plants_and_herbs,Plants and Herbs for Darius,Pflanzen und Kräuter für Darius,达里乌斯要的植物与草药
+quest_darius_plants_and_herbs_start,"Darius, an alchemist at the academy, wants me to bring him 10 plants.","Darius, ein Alchemist der Akademie, möchte 10 Pflanzen von mir haben.",达里乌斯是学院的一名炼金术士，他想让我给他带去10株植物。
+quest_darius_plants_and_herbs_delivered,I delivered all the herbs Darius wanted.,"Ich habe Darius alle Pflanzen gebracht, die er haben wollte.",我把达里乌斯想要的草药都送到了。
+,,,
+,,,
+,,,
+--Cornelia the Raider Chief,,,
+quest_cornelia_raider_chief,"Cornelia, the traitor","Cornelia, die Verräterin",叛徒科妮莉亚
+quest_cornelia_raider_chief_info,"Cornelia, the overseer of the castle dungeon, seems to be the chief of the raiders.","Cornelia, die Aufseherin im Kerker des Schlosses, scheint nebenbei die Anführerin der Räuber zu sein.",城堡地牢的监管科妮莉亚似乎就是掠夺者的首领。
+quest_cornelia_raider_chief_report,"I will tell the king's advisor about this. Cornelia, however, managed to escape.",Ich werde dem Berater des Königs davon erzählen. Cornelia konnte allerdings entkommen.,我要把这件事告诉国王的顾问。不过，科妮莉亚还是逃脱了。
+quest_cornelia_raider_chief_keep_quiet,"I let Cornelia go. In return, she told me about a candlestick in the western cell block that opens a wall in a cell.","Ich ließ Cornelia laufen. Im Gegenzug erzählte sie mir von einem Kerzenständer im westlichen Zellenblock, welcher eine Wand in einer Zelle öffnet.",我放走了科妮莉亚。作为交换，她告诉我西侧牢区有一座烛台，能打开某间牢房里的一面墙。
+quest_cornelia_raider_chief_reported_to_edmon,I told Advisor Edmon about Cornelia.,Ich habe Berater Edmon von Cornelia berichtet.,我把科妮莉亚的事告诉了顾问埃德蒙。
+,,,
+,,,
+,,,
+--Family Business,,,
+quest_family_business,Family matters,Familienangelegenheiten,家事
+quest_family_business_start,"Kolfinn, the blacksmith from the capital, is missing his son Korg. He seems to have joined the bandits some time ago. Kolfinn asked me to deliver a letter to his son.","Kolfinn, der Schmied aus der Hauptstadt, vermisst seinen Sohn Korg. Dieser scheint vor einiger Zeit zu den Banditen gegangen zu sein. Kolfinn bat mich, einen Brief an seinen Sohn zu überbringen.",王都的铁匠科尔芬很挂念他的儿子科尔格。科尔格似乎在不久前投奔了强盗。科尔芬请我给他儿子送一封信。
+quest_family_business_letter_delivered,"I delivered the letter to Korg. His father wants to meet with Korg, but he needs some time to think about it.","Ich habe den Brief an Korg überbracht. Sein Vater will sich mit Korg treffen, dieser braucht aber etwas Zeit, um darüber nachzudenken.",我把信送到了科尔格手里。他父亲想和他见面，但科尔格需要一些时间考虑。
+quest_family_business_korg_goes_to_the_capital,"Korg wants to meet his father in the capital, at his mother's grave.","Korg will seinen Vater in der Hauptstadt, am Grab seiner Mutter, treffen.",科尔格想在王都他母亲的墓前与父亲见面。
+quest_family_business_done,"Kolfinn and Korg finally met. Apparently, they had a lot of catching up to do.",Kolfinn und Korg haben sich endlich getroffen. Scheinbar hatten sie einiges aufzuholen.,科尔芬和科尔格终于见面了。看来他们有许多话要叙。
+,,,
+,,,
+,,,
+--Wine Monopoly,,,
+quest_wine_monopoly,Wine Monopoly,Weinmonopol,葡萄酒垄断
+quest_wine_monopoly_start,"According to the magician Cedric, there's someone making wine and selling it as the Academy's wine. If I find out who's behind it, Cedric will put in a good word for me with the magicians.","Laut dem Magier Cedric gibt es jemanden, der Wein herstellt und als Wein der Akademie verkauft. Wenn ich herausfinde, wer dahintersteckt, wird Cedrik bei den Magiern ein gutes Wort für mich einlegen.",据法师塞德里克所说，有人在私酿葡萄酒并冒充学院的酒出售。如果我查出幕后主使，塞德里克就会在法师们面前替我美言几句。
+quest_wine_monopoly_missing_list,"Warak said that the wine counterfeiter must have stolen the list. If I find the list, I might also find the culprit.","Warak meinte, dass der Fälscher die Liste gestohlen haben muss. Wenn ich die Liste finde, finde ich möglicherweise auch den Täter.",瓦拉克说，偷走名单的一定是那个造假酒的人。找到那份名单，也许就能找到罪魁祸首。
+quest_wine_monopoly_rair,Rair buys his wine bottles exclusively from the Academy.,Rair bezieht seine Weinflaschen ausschließlich aus der Akademie.,莱尔的葡萄酒全部从学院进货。
+quest_wine_monopoly_capital_innkeeper,The innkeeper in the capital only serves the wine. Baron Frestek is in charge of the inventory.,Der Wirt in der Hauptstadt schenkt den Wein nur aus. Baron Frestek kümmert sich um den Einkauf.,王都的旅店老板只负责卖酒。进货则由弗雷斯泰克男爵负责。
+quest_wine_monopoly_wine_grape_info_winetester,The academy only uses grapes and never mixes the wine with any other flavor.,Die Akademie verwendet ausschließlich Trauben für ihren Wein und keine weiteren Zutaten.,学院酿酒只用葡萄，从不往酒里掺任何别的味道。
+quest_wine_monopoly_wine_grape_info,A book about the Academy's wine states that they use only grapes and never mix the wine with any other flavor.,"In einem Buch über den Wein der Akademie steht, dass sie nur Trauben verwenden und den Wein nie mit anderem Geschmack mischen.",一本关于学院葡萄酒的书上写着：他们只用葡萄酿酒，从不掺入任何别的味道。
+quest_wine_monopoly_wine_fake_wine_bottle_cedric,"Cedric could easily see that the bottle of Regis Vitae was a fake. If I can find out where the bottle came from, I'll find the counterfeiter.","Cedric konnte mit Leichtigkeit erkennen, dass der Regis Vitae eine Fälschung ist. Wenn ich herausfinde, woher die Flasche kommt, finde ich den Fälscher.",塞德里克一眼就看出那瓶王命之典是假货。只要查出这瓶酒的来路，就能找到造假者。
+quest_wine_monopoly_baron_frestek_inventory,Baron Frestek organizes regular wine deliveries from the Academy for his tavern.,Baron Frestek organisiert regelmäßige Weinlieferungen aus der Akademie für seine Taverne.,弗雷斯泰克男爵定期从学院为他的酒馆订购葡萄酒。
+quest_wine_monopoly_marvin_delivery,"Marvin, a helper of the quartermaster, sold Baron Frestek a counterfeit wine.","Marvin, ein Helfer der königlichen Garde, hat Baron Frestek einen gefälschten Wein verkauft.",军需官的帮手马文卖给了弗雷斯泰克男爵一瓶假酒。
+quest_wine_monopoly_marvin_exposed,I was able to confront Marvin and will hand him over to the Academy.,Ich konnte Marvin konfrontieren und werde ihn der Akademie ausliefern.,我当面揭穿了马文，并会把他交给学院处置。
+quest_wine_monopoly_marvin_let_go,I was able to confront Marvin and let him go.,Ich konnte Marvin konfrontieren und ließ ihn laufen.,我当面揭穿了马文，然后放他走了。
+quest_wine_monopoly_done,The mages of the academy now know who the dealer of the counterfeit wines is.,"Die Magier der Akademie wissen nun, wer der Händler der gefälschten Weine ist.",学院的法师们现在知道假酒贩子是谁了。
+quest_wine_monopoly_cedrics_list_given,Cedric has the list again. He suspects the thief is among the ranks of the royal guard. I should speak with the quartermaster Hick.,Cedric hat die Liste wieder. Er vermutet den Dieb in den Reihen der königlichen Garde. Ich sollte mit dem Quartiermeister Hick reden.,名单回到了塞德里克手中。他怀疑小偷就在皇家卫队之中。我该去和军需官希克谈谈。
+quest_wine_monopoly_marvin_stole_list,Marvin was involved in the latest deliveries. Hick told me to go see him.,"Marvin war bei den letzten Lieferungen beteiligt. Hick meinte, ich solle mit ihm reden.",马文参与了最近几次送货。希克让我去找他谈谈。
+,,,
+,,,
+,,,
+--Wine Monopoly,,,
+quest_bandit_ring_for_royal_guard,Bandits outside the capital,Banditen außerhalb der Stadt,王都城外的强盗
+quest_bandit_ring_for_royal_guard_start,I should bring a Bandit Ring to the king's advisor to demonstrate my skills and commitment to the king.,"Ich soll dem Berater des Königs einen Banditenring bringen, um so mein Können und meinen Einsatz für den König zu demonstrieren.",我该给国王的顾问带去一枚强盗戒指，以此向国王展示我的能力与忠诚。
+quest_bandit_ring_for_royal_guard_done,"The king's advisor received the ring and was pleased. If I keep going like this, I'll soon be able to join the royal guard.","Der Berater des Königs hat den Ring erhalten und war zufrieden. Wenn ich so weitermache, kann ich bald der königlichen Garde beitreten.",国王的顾问收下了戒指，十分满意。照这样下去，我很快就能加入皇家卫队了。
+,,,
+,,,
+,,,
+--The Wandering Merchant,,,
+quest_traveling_merchant,The traveling merchant,Der reisende Händler,旅行商人
+quest_traveling_merchant_crossroad_inn,"Lennard wants to expand his selection with a few bottles of liquor. However, Rair, the owner of the Crossroad Inn, seems to have little interest in supporting Lennard.","Lennard möchte sein Sortiment um ein paar Flaschen Schnaps erweitern. Rair, der Inhaber der Taverne zur Kreuzung, scheint allerdings wenig Interesse zu haben, Lennard dabei zu unterstützen.",伦纳德想进几瓶烈酒来丰富他的货品。然而，十字路旅店的老板莱尔似乎没什么兴趣帮衬伦纳德。
+,,,
+,,,
+,,,
+--Below Grenmark / Varethraen,,,
+quest_below_grenmark,Hidden beneath Grenmark,Verborgen unter Grenmark,隐藏在格伦马克之下
+quest_below_grenmark_warak_info,Warak tried to read from the ancient tome I found. He suggested taking it to the Keeper of Knowledge in the library.,"Warak versuchte aus dem alten Folianten zu lesen, den ich gefunden habe. Er meinte, ich sollte damit zum Hüter des Wissens in der Bibliothek.",瓦拉克试图解读我找到的那本古籍。他建议我把它带给图书馆的知识守护者。
+quest_below_grenmark_tome_given,The Keeper of Knowledge in the library received the tome from me for his studies. I should check on it later.,Der Hüter des Wissens in der Bibliothek hat den Folianten von mir für seine Studien bekommen. Ich sollte später nach ihm sehen.,图书馆的知识守护者收下了我的古籍用于研究。我稍后该去看看进展。
+quest_below_grenmark_received_notes,The Keeper of Knowledge was able to decipher the tome. He asked me to take his notes and look for other texts in the ruins.,"Der Hüter des Wissens konnte den Folianten entziffern. Er bat mich, seine Notizen zu nehmen und in den Ruinen nach weiteren Texten zu suchen.",知识守护者成功破译了古籍。他请我带上他的笔记，去遗迹中寻找其他文本。
+quest_below_grenmark_tome_info,The tome revealed that Varethraen was a city guarded by watchtowers. One of which led to a sanctuary accessible only with four keys held by the bell keepers.,"Der Foliant enthüllte, dass Varethraen eine von Wachtürmen umgebene Stadt war. Einer der Türme führte zu einem Heiligtum, das nur mit vier Schlüsseln zugänglich war, die die Glockenwärter besaßen.",古籍揭示，瓦雷斯兰曾是一座由瞭望塔守卫的城市。其中一座塔通往一处圣所，只有用守钟人持有的四把钥匙才能进入。
+quest_below_grenmark_renbrand_key,"Renbrand handed me the key of a bellkeeper after I showed him the notes left by his former commander, Sirynir.","Renbrand gab mir den Schlüssel eines Glockenwärters, nachdem ich ihm die Notizen seines früheren Kommandanten Sirynir gezeigt hatte.",我向伦布兰德出示了他前任指挥官西里尼尔留下的笔记，他便把一名守钟人的钥匙交给了我。
+quest_below_grenmark_entered_city,I was able to open the stone door with four keys of the bellkeepers.,Ich konnte die steinerne Tür mit vier Schlüsseln der Glockenwärter öffnen.,我用守钟人的四把钥匙打开了那扇石门。

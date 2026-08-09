@@ -1,0 +1,36 @@
+type,id,text,zh
+action,action-4c5e7833-66f0-83d9-578c-328aaef5b531,Isn't the sea beautiful?,大海很美，不是吗？
+action,action-659eb228-31ee-4412-a961-a68b994fb751,"May I help you, boy?",有什么事吗，小子？
+action,action-3fb0ca67-d01c-b5af-28d3-b1bda640b045,"Oh, how I miss being at sea.",唉，我真怀念在海上的日子。
+option,choice-0f24d584-56b7-84a3-f04a-769543ccd6b0,Who are you?,你是谁？
+option,choice-545084d3-c8f2-0bc4-367b-e5b1d006600a,Why aren't you on a ship?,你为什么不在船上？
+option,choice-de4602b8-2854-7bf1-19ae-b981b2aa66bc,Do you want to live in the capital?,你想住到王都去吗？
+option,choice-43a4f4fa-3587-1fb8-7b6f-fe23cd0c8713,What is there to know about the area here?,这一带有什么值得了解的？
+option,choice-74484812-79da-5b6b-d877-d218157de42f,I could find your hat.,我可以帮你找回帽子。
+option,choice-4468c9a0-48d6-057d-e242-b615524d6f38,I found your old hat.,我找到了你的旧帽子。
+option,choice-0b343a20-72f6-9326-aa9f-28379ad7c764,See you!,回见！
+action,action-21de5bd4-69bf-c10d-1ac5-624796477f0f,"I am just an old sailor, boy.",我只是个老水手，小子。
+action,action-cc956881-865c-d08c-c04b-83f5d76cc302,There's not much to know.,没什么好说的。
+action,action-3605e580-83bc-3027-33a8-a420ff40d9bf,Look at me...,你看看我……
+action,action-beef13be-1b40-8c32-1220-25091872703a,"I am far too old to be on adventures again.
+A few years ago I retired and now I am spending my time here in this ol' hut.","我已经太老了，没法再去冒险了。
+几年前我退了休，如今就在这间破旧的小屋里打发日子。"
+action,action-9aea44df-05fc-c0fe-07ed-e9e66b8285f6,At least there is a great view on the sea.,至少这里看海的风景不错。
+action,action-31282ba8-ff9e-e088-713a-8d4b312e00d0,To move even farther away from the sea?,搬到离大海更远的地方去？
+action,action-c693343f-03a3-1fc3-7518-c04b32ad4f23,"Ha!
+Of course not!","哈！
+当然不想！"
+action,action-cb662d1b-f1bf-9667-d161-6a77a1635484,"The cliffs are called Marin Cliffs, but I forgot where the name comes from.",这片悬崖叫马林悬崖，不过这名字的由来我已经忘了。
+action,action-f61bf403-8dea-2105-6089-569545aa9dcd,To the east is the #:Academy of some ol' wizards:#.,东边是#:一帮老巫师的学院:#。
+action,action-06d6f066-47f9-ecd1-2abd-29a7d750d035,"Also, the #:harbor:# lies nearby, but the ships no longer come regularly.",另外，#:港口:#就在附近，不过船已经不常来了。
+action,action-98c06ee6-9622-a9d7-03f8-7a28b4e7b3a4,"And be aware of the region west of here. There's a small tunnel leading to a lake with an #:ancient tower:#, but strange people settled there.",还有，当心此地以西的那片区域。有条小隧道通向一座湖，湖边有座#:古塔:#，但那里住着一群古怪的人。
+action,action-a9cafe4e-9458-5643-c7b2-83e49cf2406b,"I once visited the tower and just barely made it back alive.
+While runnin' for my old life, I even lost my good hat, ha ha!","我去过一次那座塔，差点没能活着回来。
+拼了老命逃跑的时候，连我那顶好帽子都跑丢了，哈哈！"
+action,action-f0ea726e-aa59-622a-166f-09be50f4a548,"Well, that would be something.
+Just make sure to make it back alive!","哦，那可就太好了。
+只是你可得活着回来！"
+action,action-248859cc-0095-63fc-4747-6eb60f4b8512,"Look at that!
+This truly is my hat!","瞧瞧啊！
+这真是我的帽子！"
+action,action-6e830d5a-2bfb-08ae-c91c-952de733462b,"Here, take some of the gold I found on my adventures when I was a captain.",给，拿上这些金币吧，是我当船长闯荡时攒下的。

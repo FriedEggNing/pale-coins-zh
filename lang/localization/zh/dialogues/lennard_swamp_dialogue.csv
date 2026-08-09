@@ -1,0 +1,11 @@
+type,id,text,zh
+action,action-cf65c290-fbd1-e566-1381-8e6aa8f80a25,"Oh, it's you again.
+Do you need something?","哦，又是你。
+需要点什么吗？"
+option,choice-e1668ede-ac5b-3b8d-9f0c-b64d215b9fa0,What are you doing here?,你在这儿做什么？
+option,choice-3a7caba9-1a8c-b288-97bd-a0ae788cf737,What do you sell?,你都卖些什么？
+option,choice-bb43b10b-35bb-52cd-7078-9bd926a36a85,See you!,回见！
+action,action-dfad7826-3fcf-c03e-c264-9ff1e2f9b8a7,Only the best for you!,只给你最好的货色！
+action,action-c05b5e69-3650-06ec-0936-a9810a31d15f,"I was about to visit the swamp, until I met this hunter here.",我本打算去沼泽里走一趟，结果碰上了这位猎人。
+action,action-3efabd32-65cf-c9da-5818-0b2c1b219114,"He told me about a beast nearby, so I decided to better leave that place.",他跟我说附近有头野兽，我就决定还是离那地方远点为妙。
+action,action-357ff305-0e4c-1ff1-542f-0d5315b1fb58,"Fortunately, I found a few gems inside the swamp before Bauric escorted me out of there.",幸好在鲍里克护送我离开之前，我已经在沼泽里找到了几颗宝石。

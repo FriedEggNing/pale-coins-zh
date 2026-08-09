@@ -1,0 +1,56 @@
+type,id,text,zh
+action,action-624c8f1b-94c8-ebd2-2392-0a035058d7a3,"Welcome, friend!",欢迎啊，朋友！
+action,action-5b7c1a72-d82f-8af2-e221-6c8c51271882,"You look like you can handle yourself.
+Fancy a fight in our #text.highlight#arena#text.default#?","看你身手应该不赖。
+想不想在我们的#text.highlight#竞技场#text.default#里打上一场？"
+action,action-b8ea18f5-e0b9-dd4f-85bc-cde650c1f77e,Knew I'd see ya again!,我就知道还会见到你！
+option,choice-bf9946ce-a860-fead-e221-ba314c420975,Who are you?,你是谁？
+option,choice-f7df6513-87be-7ca3-9dad-d831c5c62bbe,May I fight in the arena?,我可以在竞技场里比试吗？
+option,choice-bef10ba1-d956-c8a0-aecc-16dcc633fafb,I want to fight.,我想打一场。
+option,choice-e8d71b90-e838-8529-fed0-d309384e128a,See you!,回见！
+action,action-c9615225-3111-c597-7482-91bfd2730777,I manage the fights here in the slums. It's dirty but can pay handsomely.,贫民窟这儿的打斗都归我管。活儿是脏了点，但赏钱可不少。
+action,action-4fb66898-b42d-1c5a-61dd-dfb9b31bebc6,If you think you got what it takes to take on one of my lads then be sure to let me know.,要是你觉得自己有本事跟我手下的小子们过过招，尽管来找我。
+action,action-f0129051-5eb9-a3a1-b048-46b208ec4223,"'Course!
+As long as you can hold a weapon, that is.","当然可以！
+只要你还拿得动武器就行。"
+action,action-a7ac4e41-0c21-7f06-b3be-0a6081a2b027,"We have a variety of fighters 'round here, all with different skill levels.",我们这儿的斗士各式各样，水平也参差不齐。
+action,action-a687fe39-f54c-7d04-c38f-fa68248733a4,Familiar with the rules?,规矩都清楚吗？
+option,choice-3bac533a-4ad6-1fdb-c5a1-ba994f4b9319,No. Tell me the rules.,不清楚。跟我说说规矩。
+option,choice-d7fcc760-664e-0721-5eb8-f9ed50b5ed01,Yes.,清楚。
+action,action-2abb27cd-731f-8c5b-a395-be7a2e48178f,Well... it's pretty simple.,嗯……其实很简单。
+action,action-98cbd44e-0526-a372-88a6-34b8eee70ea7,"First, you tell me who you want to fight and pay the stake.",首先，你告诉我想跟谁打，然后付下注钱。
+action,action-638775b5-c28c-bc84-9d0a-a06124e9c015,"Then, move into the arena, wait for your opponent and have at 'em.",接着走进竞技场，等你的对手上场，然后放开了打。
+action,action-55875d28-091c-c995-8198-14c65189a553,"If ya leave the arena before either of you drop, the fight's over and ya lose.",要是双方都还没倒下你就离开竞技场，比试就算结束，判你输。
+action,action-d9172d6d-05af-1ced-8c02-0c0efc143864,"The most important rule is: ""We all fight for our lives.""","最重要的一条规矩是：""我们都在为活命而战。"""
+action,action-4b0a4368-77e5-7e0b-8cd8-7fe90eb2c11f,"You may leave the arena in shame, die a honorable death, or come out victorious.",你可以灰溜溜地离开竞技场，可以光荣地战死，也可以凯旋而归。
+action,action-deb790f8-d05b-1452-cc5f-9ea144cb8f9a,Catch all that?,都记住了？
+option,choice-519959a7-722e-655b-c72a-a3b8b015caae,Yes.,记住了。
+option,choice-6960e812-c4ec-32bf-49a4-d7995d6739b0,Please repeat the rules.,请再说一遍规矩。
+action,action-41a92c11-ed0e-3baa-6363-bfa9e777bf94,Alright then!,那就好！
+action,action-2f7bc1da-d665-b7fb-5ffc-7d5c914e963c,Come back anytime if you want to fight!,想打的时候随时回来！
+action,action-0947ec1a-417f-40d0-fbde-16e1add18624,"Alright, friend! Let's see...",好嘞，朋友！我看看……
+action,action-b681b926-fd1d-7399-a937-039ee9c2939b,Who do you want to fight?,你想跟谁打？
+option,choice-c695bc83-d62d-7047-047e-a88ce2467840,An easy opponent. (20 gold),来个好对付的对手。（20金币）
+option,choice-91fc3ab9-8d71-80c4-1d21-b8867c6bed06,Give me a fighter. (100 gold),给我来个真正的斗士。（100金币）
+option,choice-fb9005d9-b783-d85c-f33b-2f559771010f,I want a challenge. (200 gold),我想要点挑战。（200金币）
+option,choice-a9eeb086-e332-ab14-bf63-917ac768c489,Nevermind.,算了。
+action,action-ab5f8ed1-50b9-3da4-7b48-41723615aa70,"Very well.
+This one's pretty green, but he's got a couple fights under his belt.","很好。
+这家伙还嫩得很，不过好歹也打过几场。"
+action,action-c9936dc3-d58d-3927-45c5-cd8df97f0868,Now enter the arena and give us a good show!,现在进竞技场吧，给我们来场好戏！
+action,action-f6374923-bdee-77d4-8e10-4379db986ea8,"Well done, friend!",干得漂亮，朋友！
+action,action-8fcde62f-8f5d-9a21-b56f-22bf06f64dfd,"Left the arena?
+Well... you aren't the first but I expected better.","离场了？
+唉……你不是第一个，但我本来觉得你能行的。"
+action,action-0c293745-3c7b-800b-622a-5eb7a22dc4db,"Don't make a habit of it, yeah?",别养成习惯，行吗？
+action,action-292721d3-ad42-b812-bb7f-581e9ef4ce14,"He was a newbie, but 30 gold should be good.",他是个新手，不过30金币也不算亏了。
+action,action-2b56b028-7734-cd9e-6350-d6d172bb2956,"Your opponent certainly weren't no pushover. Here, 150 gold for your trouble.",你那对手可绝不是软柿子。给，150金币，辛苦费。
+action,action-c45290f3-fcf9-cda2-5b00-60eca1942286,"Got cold feet, eh?",临阵怯场了，嗯？
+action,action-cc725e61-ae40-98de-a421-25972895bba7,Would be careful 'round this one. He isn't anything special but he'll put you through your paces.,对付这家伙得当心点。他没什么特别的本事，但绝对够你受的。
+action,action-c8ca049e-c726-4a33-300f-b48cea2bce38,One of our finest. Can't say I'm feeling too confident for you in this case.,我们这儿数一数二的好手。这回我可不敢说看好你。
+action,action-cfbfb035-dabc-337d-746e-66380f919cf4,"Mighty impressive work in there!
+Won yourself 300 gold. Be sure to spend it with pride, friend.","场上那表现太带劲了！
+你赢了300金币。可要花得体面点，朋友。"
+action,action-12811b0d-a22c-d882-7816-196694c96476,"That's the last straw, friend!
+I'm revoking your right to fight in the arena. Go waste someone elses time.","我忍你到头了，朋友！
+你在竞技场比试的资格被取消了。浪费别人的时间去吧。"

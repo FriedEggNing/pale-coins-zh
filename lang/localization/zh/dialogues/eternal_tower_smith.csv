@@ -1,0 +1,8 @@
+type,id,text,zh
+action,action-afb77fed-f142-85ba-b6e5-3f720d65e4a6,Ya need something?,你需要点什么？
+option,choice-f6dfe3a5-7d91-eda2-f39c-f49f1174cb54,Show me your wares!,让我看看你的货！
+option,choice-e242778d-66b5-05f7-6f4e-5da753d71e21,Craft new equipment.,打造新装备。
+option,choice-11a49a59-3fec-0f67-fd14-913b0ce75b40,That's all.,就这些。
+action,action-9432e090-b988-5d18-c5ac-72b37dcf3217,Make sure the eternal tower does not consume your soul!,当心，别让无尽之塔吞噬了你的灵魂！
+action,action-d365329a-45a9-213b-d432-a497709e423f,Only the best.,全是上等货。
+action,action-40ccd0cb-1867-453e-0aeb-7c0a79567c6a,What do you want to craft?,你想打造什么？

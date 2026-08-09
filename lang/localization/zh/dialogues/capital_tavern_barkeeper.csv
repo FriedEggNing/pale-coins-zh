@@ -1,0 +1,36 @@
+type,id,text,zh
+action,action-2420b6e4-e738-17e9-023a-b1cc15e71e8a,What shall it be?,来点什么？
+action,action-86e4eb73-466c-c19f-618d-a39b56f9e1c4,"Do you want a fresh beer?
+Or maybe a glass of the finest wine from the academy?","要来杯新鲜的啤酒吗？
+还是来一杯学院出品的上等葡萄酒？"
+action,action-1dc6f4a7-11b3-f648-4918-dd9ae22aba8a,"Besides drinks, I can also tell you a lot about the capital.",除了酒水，我还能给你讲讲王都的种种见闻。
+option,choice-d41c42df-77e0-7a1f-562b-7244f7d9bc6d,Is this your tavern?,这是你的酒馆吗？
+option,choice-f81c81f3-e050-e012-3c50-f1e4284a9ae5,Do you have any news?,有什么新鲜事吗？
+option,choice-4638be2a-84a6-e491-50aa-ced8c1b73a74,Where do you get your wine from?,你们的葡萄酒是从哪儿进的？
+option,choice-91074d59-030f-63ad-c8bc-a80545865c2c,Where did you get the wine with the honey flavor?,那种带蜂蜜味的葡萄酒是从哪儿弄来的？
+option,choice-4eaf2b58-e2f7-8ce3-e0b8-7665dc6a4ae1,Show me your wares.,让我看看你的货。
+option,choice-5b6fdd4f-824c-31a0-3587-1c254097066e,See you!,回见！
+action,action-432016be-2df3-5e00-9df1-69ab003e377f,"Nope.
+I am just working here.","不是。
+我只是在这里打工。"
+action,action-ea34ceb4-227a-7b6b-1ca4-9d7bd54296e2,Baron Frestek bought this inn some time ago from Rair and made some renovations.,前段时间弗雷斯泰克男爵从莱尔手里买下了这家旅店，还翻修了一番。
+action,action-03efa7ee-0f38-2131-d23c-f20b38b8b57d,Let me think...,让我想想……
+action,action-0afc4acc-7521-e88b-3772-d218ee654f96,,
+action,action-4bea513b-c377-a133-9ecb-b15e91f46017,,
+action,action-d83aa227-52a0-2045-ae3a-f07758b83c3c,"Not yet.
+Come back later.","暂时没有。
+过阵子再来吧。"
+action,action-9d9ec2d2-6aa8-2618-e5a5-d726a1a557f9,Pst... Listen up.,嘘……听好了。
+action,action-ec6c5555-22ce-8c6c-487c-f5648a915d8d,See that drunk guy over there?,看到那边那个醉汉了吗？
+action,action-772bc37f-9717-a6ee-5e08-1e9365ced817,"Lately, he has been mumbling about the dungeon of the castle.",最近他老是在嘟囔城堡地牢的事。
+action,action-e44426af-315a-5f2f-2371-4200980db870,"For an adventurer like you, this might be interesting.
+I don't know if it's true, though.","对你这样的冒险者来说，这也许挺有意思。
+不过是真是假我就不知道了。"
+action,action-e2818f24-9e67-6a60-a25a-92c180fdf1ad,Only the best for you!,给你的自然是最好的！
+action,action-cf6e12e1-2917-e6a9-6f36-3bb37c1151eb,"I don't buy the wine myself, it's not my tavern.",酒不是我进的，这又不是我的酒馆。
+action,action-b0797ac2-d88f-dfbc-c892-3f434020ba38,"Baron Frestek is in charge of the inventory.
+I actually only serve the wine.","存货都是弗雷斯泰克男爵在管。
+我其实只负责端酒。"
+action,action-eed363d5-c4ad-719a-d103-ff9d957b685a,"Oh, you'll have to ask Baron Frestek.
+He often receives the fine wines as gifts or buys them from other collectors.","哦，这你得去问弗雷斯泰克男爵。
+那些上等好酒常常是别人送他的，或是他从其他藏家手里买来的。"

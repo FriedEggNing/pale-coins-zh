@@ -1,0 +1,131 @@
+type,id,text,zh
+action,action-9a59adaf-5d9a-32ef-5f65-1fb17971170c,"Hey, hey, hey!
+Did I tell you interrupt me?!","喂，喂，喂！
+我让你打断我了吗？！"
+action,action-b219b413-a9b7-9349-80a4-6ba9c4a11067,"Yeah, whatever...",行吧，随便……
+option,choice-e9568d21-06a1-7f77-605b-38ef393b4c0e,Sorry!,抱歉！
+option,choice-5f0b3fdf-a28d-23d1-6cdc-f3e17b439c18,"Don't 'hey, hey, hey' me.",别对我“喂、喂、喂”的。
+option,choice-63547891-2a3a-3175-8561-e7b80d201a9d,What did I interrupt?,我打断什么了？
+action,action-4259c800-5872-9341-08f7-544296e59407,What do you want?,你想干什么？
+action,action-8dae67f7-aca2-f225-ccf3-7f2faac56300,"I see.
+You're a fool, aren't you?","明白了。
+你是个蠢货，对吧？"
+action,action-ae149348-3cf6-5e65-f9e8-4da3c06c79c3,Don't mess with a mage...,别招惹法师……
+action,action-2b1c3051-a538-3614-8134-05001bf6a0f2,... #:BOY:#!,……#:小子:#！
+action,action-90649e37-d09b-a4a1-3e37-5baeee3924dd,I was about to...,我正要……
+action,action-561f2b2e-eae1-bddf-f149-f539bd36e3c1,"Never mind.
+You wouldn't understand.","算了。
+你不会懂的。"
+option,choice-04e27690-6a2b-3595-188d-f2ba4387aab4,Who are you?,你是谁？
+option,choice-39214dac-6621-61c9-8d7d-b504a7e6647d,Tell me about your work.,跟我讲讲你的工作吧。
+option,choice-9427b7ce-88eb-d5bf-54a1-f62a1f97b89b,What do you think about this letter?,你怎么看这封信？
+option,choice-fbc27e00-da95-c7c3-af4e-2c92aad63074,Do you know how to open a magically sealed door?,你知道怎么打开被魔法封印的门吗？
+option,choice-95fb4561-ed62-a82f-e582-059212b646ad,Do you know how to open a magically sealed door?,你知道怎么打开被魔法封印的门吗？
+option,choice-091cd507-517d-d467-3054-58332d9c8faf,I want to buy a scroll to open magically sealed doors.,我想买一卷能打开魔法封印之门的卷轴。
+option,choice-3c50e576-9d04-83ff-cc8c-29aa36c43771,What can you teach me?,你能教我什么？
+option,choice-969ab2f3-49df-f50c-d7d1-6fa03742c2a4,I'd better go then.,那我还是走吧。
+action,action-e081f318-a8d9-5053-36ba-0251e9a2f083,"Mpf..
+I am #:Lyrak:#.","哼……
+我是#:莱拉克:#。"
+action,action-29e4b3f4-be7c-c4d8-739d-bedd6396bbba,I am a master of astral energies and enchantments.,我是星界能量与附魔的大师。
+action,action-f0fc3430-e220-933c-1716-59dc6d68f2fe,And who are you?,那你又是谁？
+action,action-fca09ecd-143b-2198-8344-a09feb894c05,...,……
+action,action-c12430aa-16ce-3ce7-2dfc-13a65c1513f1,Well ###player.name###... Why are you still here?.,好吧，###player.name###……你怎么还在这儿？
+action,action-4d142d78-7db8-0998-f30d-83c813ed8527,"Unless you are an accepted member of our academy, I won't tell you about my work.",除非你是我们学院正式接纳的成员，否则我不会跟你谈我的工作。
+action,action-0f3428e1-5749-8b1f-b80b-8b00f83eb6a8,Make sure to don't touch anything.,千万别碰任何东西。
+action,action-df84cd5a-3b23-7121-fb39-71de38e82a91,What is that?,那是什么？
+action,action-e37a839b-62aa-4c95-2343-9fbd9bf9ed23,...,……
+action,action-d7a743bb-b759-d049-5554-a8168aad1fb3,"Gregor, my disciple, wrote this letter.",这封信是我的弟子格雷戈写的。
+action,action-55055e3a-608f-fc43-8d65-4629fe8ee741,"Why do you have the letter?
+And where is Gregor?","这封信怎么会在你手上？
+格雷戈人呢？"
+option,choice-13bcdf44-d835-e534-9bdc-b3b2e4de9614,I found the letter near a Stonehenge.,我在一处巨石阵附近捡到了这封信。
+option,choice-3092f904-5aa9-df0c-3ca3-49b1b42e7d37,I don't know where Gregor is.,我不知道格雷戈在哪儿。
+action,action-e34c68ad-fdb9-2fd2-4a56-b8a881177271,"Hmm...
+Let me think.","唔……
+让我想想。"
+action,action-813d2448-60e4-71cd-96a4-54fd190e8956,Then where did you get this letter?,那这封信你是从哪儿弄来的？
+action,action-5424f28a-d99c-276a-2ef2-773cd14ed5b0,The astral energies could...,星界能量或许……
+action,action-def4b70c-f89e-cb00-d95e-71a1c93e9fc4,Could...,或许……
+action,action-1e6c2d32-739f-549d-e051-bbc26329a1b5,...,……
+action,action-87e0e211-7e86-cde8-6238-01f07bbab26b,"You there!
+You are going to help me find out more about the Stonehenge.","你！
+你要帮我查清那座巨石阵的底细。"
+option,choice-fea6e567-d301-265f-7e2d-25ffe00a4b4f,Sure!,好啊！
+option,choice-a0e50eff-99b5-c203-5086-38a80dc4dd2b,Why should I?,我凭什么？
+option,choice-a2da6584-4c6b-1196-a813-d7069ee07d2d,"No, I won't!",不，我不干！
+action,action-b776f235-13ad-3ef1-50f6-35b9c23d9c95,"Great!
+We will meet at the Stonehenge.","很好！
+我们在巨石阵碰头。"
+action,action-a3b8bdeb-cdbe-a042-2160-b6ccd4eafd2b,Because you found the letter!,因为信是你捡到的！
+action,action-3195b09a-bffc-a441-7ee7-c7211e539ad9,"And because I, a mage of the academy, told you so!",也因为是我——学院的法师——命令你这么做的！
+action,action-006846b6-e0d8-d995-a63b-6a532e535ad9,You are disrespecting MY order?!,你竟敢违抗我的命令？！
+action,action-7419e4e6-f327-9eb2-1824-43f1977edc40,You are not aware of the trouble you are getting yourself into.,你根本不知道自己惹上了多大的麻烦。
+action,action-91c19e1c-b5f8-3021-fc5a-abc2ef82da61,Last chance to change your mind!,最后一次改主意的机会！
+option,choice-3da894db-3e5d-3097-bebb-89a8d18b4919,"Ok, I will help you.",好吧，我帮你。
+option,choice-d9e87522-ce5a-8755-3072-b074feb8fe88,No. I won't let you talk to me like that.,不。我不许你这样跟我说话。
+action,action-dcdc9a0b-a236-215c-9128-9947d2b6d292,"Then get out of this place!
+Warak will find out about this!","那就滚出这里！
+瓦拉克会知道这件事的！"
+action,action-50a14f6a-b920-48d5-55f8-c5047c069eaf,"Leave this place, you useless brat!",滚出这里，你这没用的小崽子！
+action,action-8f77c7f6-78ee-f836-cfce-5cac80f72cab,"What a strange question.
+Of course, I know how to open these doors.","真是个怪问题。
+我当然知道怎么打开那些门。"
+action,action-b1668ff2-528a-2108-3c90-4d9986e8c5b4,But tell me why you show interest in them.,不过说说吧，你为什么对它们感兴趣。
+option,choice-53dc30b4-fb04-75ce-0f8c-3a22f3c6098d,I want to access an old temple in the swamp.,我想进入沼泽里的一座古老神殿。
+option,choice-4648caeb-6939-3c8c-0480-80ada2215eba,I want to open these strange stone doors.,我想打开那些奇怪的石门。
+action,action-c109ee00-2009-083b-3cc8-7f46a039c046,Well. Are you looking for treasures like all the other fools?,呵。你也和其他蠢货一样在找宝藏？
+action,action-8ad8f46d-80da-2d5b-2b34-04dc1df9f59b,"A temple in the swamp?
+I never knew that there was a temple in that forsaken place.","沼泽里的神殿？
+我从不知道那种荒废之地还有神殿。"
+action,action-03344b8d-fba6-a7d6-34b6-e387e3140e81,"Anyway, I don't have the time, nor the motivation, to teach you how to cast a spell to break magical seals.",总之，我既没时间，也没兴致教你施展破除魔法封印的法术。
+action,action-a67a81f1-68d6-c4ea-9b4a-bf3e28110e63,"Furthermore, you ain't a member of our academy.",再说了，你又不是我们学院的成员。
+action,action-9d4bec1d-29c0-6266-8525-efc56f5a4e67,"However, I can sell you scrolls containing some astral magic.
+With these scrolls, you should be able to break the seals.","不过，我可以卖给你几卷蕴含星界魔法的卷轴。
+有了这些卷轴，你应该就能破除封印了。"
+option,choice-a95ec1ac-0326-b184-e698-7c57d9d3fb88,How do I use the scroll?,卷轴要怎么用？
+option,choice-3b888c34-9c58-2a80-7210-171fe64b37ff,Alright.,好的。
+action,action-3aae27f7-61bf-df09-e02b-a318e6252c6a,"You know how to read, right?",你识字，对吧？
+action,action-77eb49e7-b290-707d-cd1b-f9bf72f912f3,Just stand in front of a door that is sealed and read the text on the scroll.,站到被封印的门前，念出卷轴上的文字就行。
+action,action-253c092f-9ff6-5613-529d-37851f5f89ce,"The scroll's astral magic will break the seal, and the door shall open.
+Be aware that this also breaks the scroll.","卷轴中的星界魔法会破除封印，门便会打开。
+注意，卷轴也会随之损毁。"
+action,action-afe857d8-9e41-0fc9-1222-cb5bf2862c9d,"I figured as much.
+Just let me know if you want to buy a scroll.","我猜也是。
+想买卷轴的话就告诉我。"
+action,action-97fc2590-1c4c-f294-3616-290426858ba7,"Of course.
+Here's one I recently finished.","当然。
+这是我最近刚做好的一卷。"
+action,action-ce752e38-c252-0937-cf8b-37e0901c9502,You can have the scroll for 300 gold.,300金币，这卷轴就归你。
+option,choice-e9703418-b69f-94e9-8d11-43d2e8f333fe,Here are 300 gold for the scroll.,这是买卷轴的300金币。
+option,choice-977bb9ea-786b-a9e4-04ab-d2ac6496abd2,Maybe later.,以后再说吧。
+action,action-3e0fa67f-7a9e-8455-e4bc-c4de101a4958,Don't waste my precious time!,别浪费我宝贵的时间！
+action,action-40a86d6a-7792-5f8c-dc4a-99e3b8ca2538,"Thank you! Take this scroll.
+Now leave this place if there's nothing else.","多谢！拿好这卷轴。
+没别的事就离开这里吧。"
+action,action-8388dac7-e48e-d5fb-4765-e67fda2eeb33,I study the astral energies.,我研究星界能量。
+action,action-77e0a1e4-211b-b81d-d6e5-c74a66d31cd4,"However, you wouldn't understand.
+Now fulfill your duty as a member of the Academy.","不过，你不会懂的。
+现在去履行你作为学院成员的职责吧。"
+action,action-e82f2d02-e777-2a9c-9eb4-8035d47c56ac,"What do you want, brother?",你想要什么，师弟？
+action,action-e70e1d6e-7339-9fcb-b845-d7ffc04bb235,"I can show you how to work with astral energies.
+What do you want to know?","我可以教你如何运用星界能量。
+你想知道什么？"
+option,choice-de0125da-50ee-5d9c-744d-bd795cd98ed5,"Dark Mastery (min. 15 INT) [4 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_dark_mastery_20"",""only_once_on_difficulty"": true}","黑暗精通（需智力15）[4 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_dark_mastery_20"",""only_once_on_difficulty"": true}"
+option,choice-4764e893-dd47-a394-df27-e826148e9405,"Holy Mastery (min. 15 INT) [4 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_holy_mastery_20"",""only_once_on_difficulty"": true}","神圣精通（需智力15）[4 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_holy_mastery_20"",""only_once_on_difficulty"": true}"
+option,choice-4e2e7ee8-42bd-443b-7e18-41243220a233,"Summon Mastery (min 10 MAG) [4 AP]#args:{""hint"":""ui_dialogue_hint_skill_magic_summon_mastery_20"",""only_once_on_difficulty"": true}","召唤精通（需魔力10）[4 技能点]#args:{""hint"":""ui_dialogue_hint_skill_magic_summon_mastery_20"",""only_once_on_difficulty"": true}"
+option,choice-12812808-1a5f-564c-5de9-374b2128b54b,That's all I wanted to know.,我想知道的就这些。
+action,action-969cdc02-9382-61f3-a912-406c22eedd98,Of course.,当然。
+action,action-ee1cad1c-1d27-0f98-9ca2-2cab1a5ef242,"Well, dark astral energies are very special. Many people think they're evil.
+Nonsense!","嗯，黑暗星界能量非常特殊。许多人以为它们是邪恶的。
+一派胡言！"
+action,action-ec92b15d-2f19-350e-9315-672c2099ff36,"When casting spells, try to separate the dark and holy energies.
+Draw your power from the holy energy and pass it directly to the dark one.","施法时，试着将黑暗与神圣能量分离开来。
+从神圣能量中汲取力量，再直接导入黑暗能量之中。"
+action,action-89e63fbb-8667-cade-fca8-e8b076f9f970,The sacred energies are not exclusively there to heal ailments or relieve pain.,神圣能量并非只能用来治愈疾病、缓解疼痛。
+action,action-bf913eca-a249-eb04-e8cd-2c856d1abb9e,"When casting spells, try to separate the dark and holy energies.
+Draw your power from the dark energy and pass it directly to the holy one.","施法时，试着将黑暗与神圣能量分离开来。
+从黑暗能量中汲取力量，再直接导入神圣能量之中。"
+action,action-795c603f-a6e5-19d9-e9af-1523bd89bb57,Your summoned beings will never reach their full potential if you do not understand the connection with astral energies.,若你不了解召唤物与星界能量之间的联系，它们就永远无法发挥全部潜力。
+action,action-e1988b1d-7239-4f7b-b935-bba101fe92f1,"Too many summons of the same type will drain your power, so their possible summoning time will be greatly reduced.",召唤过多同类造物会耗竭你的力量，它们能维持的召唤时间也会大幅缩短。
+action,action-d8b358b5-9670-203d-51f6-8e70fa4fc9f7,"Give your summoned creatures not only your energy, but also that of those around you. This increases both the duration and the strength of your creatures.",不要只把你自己的能量赋予召唤物，也要借用周围之人的能量。这既能延长它们的存在时间，也能增强它们的力量。

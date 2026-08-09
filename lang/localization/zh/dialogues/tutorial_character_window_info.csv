@@ -1,0 +1,3 @@
+type,id,text,zh
+action,action-d92053f3-beb6-d05e-383e-71497dccb29a,Use the player window to allocate attribute points earned from leveling up.,在角色窗口中分配升级获得的属性点。
+action,action-ea006229-def9-005e-ca29-3f7f3d9c64c9,"The player window displays your current stats, bonuses, and skills from equipment.",角色窗口会显示你当前的属性、加成，以及来自装备的技能。

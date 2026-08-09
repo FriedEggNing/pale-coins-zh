@@ -1,0 +1,12 @@
+type,id,text,zh
+action,action-8a1eb78d-c363-2451-46fb-b374618d6175,You're finally here!,你总算来了！
+action,action-2067565a-36c6-bb1c-52a9-769ad7461033,"While you were obviously asleep, I've already gained new insights of this place.",你显然还在呼呼大睡的时候，我已经对这地方有了新的发现。
+action,action-8518064b-c04e-9ded-82c4-18d666e07846,A new energy now emanates from the stones that was not felt before.,如今这些石头散发出一股前所未有的新能量。
+action,action-1f0c95e5-d148-e420-c80c-bdb3e957a94d,I will now connect my mind with these energies using the astral powers.,现在，我要借助星界之力，将我的心智与这些能量相连。
+action,action-24d4608a-17fa-cc5c-7517-3311eca25376,"My body will be completely defenseless, so you have to make sure nothing happens to me.",届时我的身体将毫无防备，所以你必须确保我不出任何意外。
+action,action-02227f06-c501-0922-75a5-83a81f2d95d1,Are you ready for the ritual?,你准备好进行仪式了吗？
+option,choice-92da496a-5a67-faec-f0a1-d721bd10888f,Let's begin.,开始吧。
+option,choice-4cc81dee-9726-f453-72f6-a43c84c295c7,I need time to prepare,我需要时间准备
+action,action-0aa5f737-6bbc-cdcc-6fe7-deb4c7a516c9,You're not as useless as I thought.,你没我想的那么没用。
+action,action-5a52cebb-0372-fc9a-4a58-93f1b6af2162,Then hurry up!,那就快点！
+action,action-77f5a7f6-4544-241e-4051-a8b353b36364,"No matter what happens, make sure my body is not damaged!",无论发生什么，都要保证我的身体毫发无损！

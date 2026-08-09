@@ -1,0 +1,4 @@
+type,id,text,zh
+action,action-3db10619-1961-9b26-3b8f-fbb19baeb5c8,Did you already try the #text.frames=4##text.color=highlight#quick access bar#text.default# thing?,你试过那个#text.frames=4##text.color=highlight#快捷栏#text.default#玩意儿了吗？
+action,action-6b0cbf10-b6cd-88c7-aeb4-ed24d12ae0fd,"People say, you can access Items and Skills by pressing the keys '1' to '8'.","人们说，按下""1""到""8""键就能使用物品和技能。"
+action,action-c95535b0-4866-b8ab-52cf-a521f6d8b5fb,"What are keys, though?","不过，""键""又是什么东西？"

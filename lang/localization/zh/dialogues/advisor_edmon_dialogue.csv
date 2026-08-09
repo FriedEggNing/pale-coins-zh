@@ -1,0 +1,190 @@
+type,id,text,zh
+action,action-7bfc0d7a-9f52-80a2-880c-cca6b55682c4,Yes?,什么事？
+option,choice-9fb123c5-024e-8775-ed01-0449f5d77418,Who are you?,你是谁？
+option,choice-91ecd8c6-ac3f-a9cf-e903-73c6d9ee09ac,How do I get an audience with the king?,我要怎样才能觐见国王？
+option,choice-741f1f27-73d9-1702-91d0-5928686e1017,I need access to the library.,我需要进入图书馆。
+option,choice-545f0746-7536-b527-ecb4-a76130cbcb19,I want to pay the fee to access the library.,我想付费进入图书馆。
+option,choice-d1c2690f-c92f-683f-db59-1db48cdbdb95,What do you know about Dhul'oq?,你对杜尔奥克了解多少？
+option,choice-3f5c38e4-4279-47ca-4a14-d38446de6ddc,I need a permit to access the Marin Passage.,我需要一张进入马林通道的通行证。
+option,choice-9177f9a2-8068-19ad-1108-1cf28724d437,"Cornelia, the overseer, is a traitor.",监工科妮莉亚是个叛徒。
+option,choice-f38e0495-c456-b269-de4d-e70df2fe8783,Marvin sold fake academy wine.,马文卖过假的学院葡萄酒。
+option,choice-37c5ab8a-5fe0-357d-775c-2fb4ba0338e4,Thorald has been causing trouble at Rair's Inn.,索拉尔德一直在莱尔的旅店闹事。
+option,choice-4340bb3c-7fc0-6009-232d-92d0e9a1fdba,What do you know about the bandits?,关于强盗你知道些什么？
+option,choice-cee54929-e6ed-3206-a36f-4bd439b5e108,Here's the bandit ring you wanted.,这是你要的强盗戒指。
+option,choice-a22a9edf-808b-ca05-e2c5-8b5cb42e8f7d,I want to join the royal guard.,我想加入皇家卫队。
+option,choice-50dcd6a0-755a-752a-8591-76f2e4b46ded,What are my duties as a Royal Guard?,身为皇家卫队一员，我的职责是什么？
+option,choice-b24cf574-aa5a-e2c6-3b5d-ade100d4b540,Where is the king?,国王在哪里？
+option,choice-893ed209-8420-7e4c-cb04-09839c9d84fe,I found this bag of the raider chief.,我找到了掠夺者首领的这个袋子。
+option,choice-42a6df4d-05ce-b48f-659e-05788af7b4fb,I have some bandit rings for you.,我这里有些强盗戒指要给你。
+option,choice-91b3c6de-7201-b450-4d22-e35d2c5b1c0e,I'll come back later.,我稍后再来。
+action,action-35e07d78-c863-2c27-b53a-10ccf8f6bc65,Name's #:Edmon:# - the King's advisor.,我叫#:埃德蒙:#——国王的顾问。
+action,action-c4b1319d-d485-80b1-bef0-1073ad3588a1,"Who are you, if I may ask?",恕我冒昧，你是哪位？
+action,action-a7cc74c3-63fc-4e0b-13e4-629e838cd19c,...,……
+action,action-3dc1e099-583b-a9b7-707b-f5734b0845af,"Very well, ###player.name###.
+Is there anything in particular that you need?","好的，###player.name###。
+你有什么特别的需求吗？"
+action,action-e0cd9ea1-b095-e4e1-d01e-ad3a7b403d73,Very well.,好的。
+action,action-eb95b3bf-658d-9bff-0d5b-1c61bb3d9356,"You?
+Unless you have urgent matter, I am afraid you won't get an audience soon.","你？
+除非你有紧急事务，否则恐怕你短期内见不到国王。"
+action,action-99fe90ed-be09-86a5-e814-323ee9a08bfd,It will certainly be enough if you first present your concerns to me.,你先把你的事务向我陈述，这样就足够了。
+action,action-6a30d1f0-e2f4-3e06-bc36-ea386be422cb,Is there something specific you are looking for?,你在找什么特定的东西吗？
+option,choice-8608b28b-3481-34b4-1e66-0e6da1562a31,I am looking for a book about Dhul'oq.,我在找一本关于杜尔奥克的书。
+option,choice-e08f36c1-a506-8602-045d-f7227867fdd3,Which books are there in the library?,图书馆里都有些什么书？
+option,choice-962bb9da-0ed3-9ef9-0427-da1f1c1bae51,I am researching the stone doors.,我在研究那些石门。
+option,choice-a57ffcdf-cb35-f71a-c8ae-95c5c17aa6c0,Nothing in particular.,没什么特别的。
+action,action-57d8f2c2-cb70-7aba-4d3a-df898925bea0,"Maybe you should start with other books first, and not with those from the royal library.",也许你应该先从别的书读起，而不是王室图书馆里的这些。
+action,action-fa60964c-a62f-8b25-0bce-231e3bb4f00f,"Alternatively, you may as well pay a small fee to access the library.",或者，你也可以支付一小笔费用进入图书馆。
+action,action-9e977652-58ed-766a-73d0-d4728ab26e0e,We mostly have historical books about our beloved Grenmark and the capital.,我们的藏书大多是关于我们挚爱的格伦马克和王都的历史书籍。
+action,action-745bcced-6dcf-5abf-b821-6a371cede932,Of course you'll also find various other books the king acquired on his journeys to other places.,当然，你也能找到国王在游历各地时收集的各种其他书籍。
+action,action-83aa2e4d-2b2a-1b2d-b159-b43658f59d92,"I don't know about Dhul'oq, nor a book about it.",我不知道什么杜尔奥克，也没听说过与之相关的书。
+action,action-0a2d34b3-d2de-8403-41ce-dff4f909237f,"So, is there a particular book you are looking for?",那么，你在找某本特定的书吗？
+action,action-4ac29393-c2b0-926c-911d-3c099ddb54e7,Many of our books are valuable and irreplaceable. A small fee is needed to cover the risk of you flipping the pages a bit too harsh.,我们的许多藏书都珍贵且无可替代。收取一小笔费用，是为了弥补你翻书太用力带来的风险。
+action,action-5f559bac-efd5-0f07-27d3-b48a44252ed3,The fee to access the library is 250 gold coins.,进入图书馆的费用是250金币。
+option,choice-ab546e0d-e049-4bb7-54bd-f57b1777f6d3,Here are 250 gold coins.,这是250金币。
+option,choice-73af8d00-656e-35d6-5f66-61079db4bd90,I'll come back later.,我稍后再来。
+action,action-6db1330d-d453-fcb6-5a22-40d9339f59d1,Good.,好。
+action,action-6abb5a5e-30cb-2acf-d01d-44a193da2833,Perhaps knowledge about this can be found in one of the older books of the library.,也许在图书馆较古老的藏书中能找到相关的知识。
+action,action-036a0f70-1182-38c0-a21c-c965ebbe17ca,"Thank you very much!
+You'll find the library on the upper floor of the throne room.
+The stairs leading up are to your left.","非常感谢！
+图书馆就在王座厅的楼上。
+上楼的楼梯在你左手边。"
+action,action-c9e7b3e2-f0e8-540b-9d54-97ca05c94230,"Whatever Dhul'oq seems to be, it is not something I have heard of.",不管这个杜尔奥克是什么，我从未听说过。
+action,action-77ce597f-caae-0192-38d9-56be52c55fa9,Perhaps knowledge about Dhul'oq can be found in one of the older books of the library.,也许在图书馆较古老的藏书中能找到关于杜尔奥克的知识。
+action,action-65eccfdb-388b-cf68-d971-fabcfbc17321,You must mean those sealed ruins that can be found all over the area.,你说的一定是这一带随处可见的那些被封印的遗迹。
+action,action-e1215d40-6331-1ea4-fb2a-3c0125427ca0,"A mage from the academy wrote a paper on this. If I remember correctly, the author's name was #:Lyrak:#.",学院的一位法师就此写过一篇论文。如果我没记错，作者的名字是#:莱拉克:#。
+action,action-90c179d1-60f8-bcb6-a010-df5cb9bc63fd,The magicians were kind enough to bring us a copy after our king also wanted to know about the ruins.,在我们的国王也想了解那些遗迹之后，法师们好心地给我们送来了一份副本。
+action,action-65819633-4edf-56f8-bbf2-725e8a909809,"For a small fee, you can search for the paper yourself in the library.",只需一小笔费用，你就可以亲自去图书馆查找那篇论文。
+action,action-cf3fe28a-0547-24ad-28b6-ccd3f297cb98,The passage is closed off at the moment due to the increased amount of raiders in there.,由于通道里的掠夺者越来越多，那里目前已被封闭。
+action,action-af36c12f-1a09-17c4-a71f-ac3fbc974165,"Why would you need to access the passage?
+Are you perhaps interested in visiting the academy of the mages?","你为什么需要进入通道？
+莫非你有意造访法师学院？"
+option,choice-255ca963-ad31-d413-cc47-ffc6872e57ed,A place called Dhul'oq is past the passage.,通道的另一头有个叫杜尔奥克的地方。
+option,choice-9f8a2697-0d8c-185b-d2cf-e6a8e1d0df02,Uhm... Yes! I'd like to visit the academy.,呃……是的！我想去学院看看。
+option,choice-61ecf541-eaed-8568-8d29-7d92116a6704,Uhm.. Yes! I'd like to visit the academy.,呃……对！我想去学院看看。
+option,choice-e99c273f-8ea5-ac45-fbb2-552c9e9bbef7,For no particular reason.,没什么特别的原因。
+action,action-0fc9ae99-e9f4-76e4-cac7-014fde7ab337,"I'm not aware of such a place.
+North of the passage, there's only the academy, the harbor, and an old tower.","我不知道有这样一个地方。
+通道以北只有学院、港口和一座旧塔。"
+action,action-0d4f37b1-6f7b-361a-f420-0d3fffdf23bd,"But if you really want to go through the Marin Passage, I can give you a permit.",不过如果你真想穿过马林通道，我可以给你一张通行证。
+action,action-de143f1c-3feb-5d0f-faf9-e34a3ee8d7de,"For the permit and an official seal, I shall receive 50 gold coins from you.",通行证连同官方印章，我要向你收取50金币。
+option,choice-3da4aa04-50dc-76f8-59b0-afe01b6acbc8,Ok. Here are 50 gold coins.,好吧。这是50金币。
+option,choice-74800575-e007-a505-f1e6-7cca6982d335,That's quite a lot.,这可不便宜。
+action,action-c7016819-1437-abbc-fbe5-aa11d64e93f6,"The 50 gold coins are a simple flat fee that every citizen must pay.
+Feel free to come back later when you have the gold.","这50金币是每位公民都必须支付的统一费用。
+等你凑够了金币，随时欢迎再来。"
+action,action-11557afa-a2cb-90ac-060c-530674ace675,"Good.
+This will only take a second.","好。
+马上就好。"
+action,action-1aa86b2e-8e63-9a8e-f971-d9f993311abf,...,……
+action,action-416e3e2e-abcc-2a67-1be5-c16b76a7815d,"Here, take the permit to access the Marin passage.",给，拿好这张进入马林通道的通行证。
+action,action-7d57248c-8271-7bbd-306c-071a5a443df4,Then may I refer you to the royal guard.,那么请容我把你引荐给皇家卫队。
+action,action-6baaa4c9-0db1-99d2-fa56-921f40a842f2,"As far as I know, some other citizens will soon be escorted through the passage by our guards.",据我所知，很快会有一批市民在我们卫兵的护送下穿过通道。
+action,action-17a887c7-9b4e-159d-f71a-dea4495086c4,"If you hurry, you can still join them.
+They usually wait in front of the #:entrance to the passage:#.","如果你抓紧时间，还能赶上他们。
+他们通常在#:通道入口:#前等候。"
+action,action-bf602d84-0b4d-32ce-4b26-d89b297b29ba,"Then, for your own safety, I will decline your request.",那么，为了你自己的安全，我将拒绝你的请求。
+action,action-e955ae50-1d28-f8ee-8f53-af6a9b03aeb8,"If you think of a good reason later, please feel free to ask me again.",如果你之后想到了正当的理由，欢迎随时再来找我。
+action,action-888e390a-de52-3122-e279-37cd49e89cbe,"What?!
+What do you want to tell me?","什么？！
+你想告诉我什么？"
+option,choice-4e18c5c1-bd6a-ae7b-8c74-190290d95292,She is secretly the leader of the raider.,她暗中是掠夺者的头目。
+action,action-425b4ed4-af20-d161-daf8-a9f4966e1920,"I'm shocked.
+How could we have been so blind?","我很震惊。
+我们怎么会如此有眼无珠？"
+action,action-127b0236-999e-6aa5-dd8c-6767b8a9fe39,"I, on behalf of the King and the Royal Guard, must express my thanks.",我谨代表国王和皇家卫队，向你表示感谢。
+action,action-b56c3ac6-e113-7d0a-ccd6-1633ef9c755a,"Here, take my ring as a thank you for your efforts.",来，收下我的戒指，作为对你付出的谢意。
+action,action-6b3dfb5b-d470-7afc-e879-16f0d39ecebe,We are happy to have you in our ranks.,我们很高兴有你加入我们的队伍。
+action,action-92f67d5d-32f3-874c-476f-6d00df1ae5a3,You would certainly be a valuable member of the ranks of the royal guard.,你一定会成为皇家卫队中宝贵的一员。
+action,action-643604f7-17ba-701a-6cda-9927b626ed44,"If I were you, I would consider joining us.",如果我是你，我会考虑加入我们。
+action,action-d5fbb06f-f405-a1f6-63f1-9f81c43d4bb7,You won't regret your decision.,你不会后悔这个决定的。
+action,action-1353c36b-f96d-b3ba-47f0-794612507624,I hereby appoint you as an official member of the Royal Guard!,我在此正式任命你为皇家卫队的一员！
+action,action-3994dbd4-57a7-1335-325a-8af9970f9844,You will get your new equipment in the barracks.,你可以在兵营领取你的新装备。
+action,action-5f35e734-163d-4d48-39f6-a2364a510cdb,...,……
+action,action-8deab938-454b-5c9e-129c-a3a87de1ef0c,"I've already heard about it.
+Hick and I are going to have a conversation about that.","这件事我已经听说了。
+我会和希克好好谈谈的。"
+action,action-ae30073a-fd9e-fdd7-e150-3abc76ba5407,"You, however, have done a good job in this matter.
+That is the attitude I expect from the Royal Guard.","不过，你在这件事上做得很好。
+这正是我期望皇家卫队应有的态度。"
+action,action-60ad58e0-c2f1-d549-077b-5201649aaaa3,"Keep up the good work.
+We could use someone like you in our ranks.","继续保持。
+我们的队伍正需要你这样的人。"
+action,action-e5604de9-b11c-00a3-0f61-ca2e2d4e3eea,"Here, this shall be your reward.",来，这是你的奖赏。
+action,action-95ae977d-b669-844b-892a-9653554a45da,I cannot condone your attacking a member of the royal guard.,我无法容忍你袭击皇家卫队成员的行为。
+action,action-8ffdfdd6-c922-a1d1-21ed-1880874c56e9,"However, we knew that Thorald often causes problems, which does not correspond to the image of the royal guard.",不过我们也清楚，索拉尔德经常惹是生非，这与皇家卫队的形象不符。
+action,action-fb16793d-8e6f-4a55-f288-ca03c64b987a,"Apparently, you were able to convince him to behave like a guard again.",看来，你成功说服了他重新拿出卫兵该有的样子。
+action,action-3e2cca91-f449-31be-2a41-beff477bc223,"The matter between Thorald and Rair seems to have been resolved, but Thorald didn't seem particularly enthusiastic about his return to the barracks.",索拉尔德和莱尔之间的事似乎已经解决了，但索拉尔德对回到兵营似乎并不怎么热心。
+action,action-7ee28866-62c7-85ba-dee0-c611db50a0b6,"You've acted most like the royal guard in this matter.
+Standing up for the citizens is our duty, and for that I must thank you!","在这件事上，你的所作所为最有皇家卫队的风范。
+挺身维护市民是我们的职责，为此我必须感谢你！"
+action,action-6a694145-b9a7-e27a-eea5-947b9e891218,So you want to put yourself in the king's service?,这么说，你想为国王效力？
+action,action-a2adfd90-f77a-babf-e065-0e451efb89dd,"You've proven to us that you have what it takes.
+If it's your wish, I'll welcome you into our ranks on behalf of the king.","你已经向我们证明了自己的实力。
+如果这是你的意愿，我将代表国王欢迎你加入我们的队伍。"
+option,choice-accb82a5-6c50-1915-9e06-ac84d0f5553a,"Yes, I want to join the Royal Guard.",是的，我想加入皇家卫队。
+option,choice-38f1718a-0846-301b-bbfa-5127729ed82e,I need to think about it.,我需要考虑一下。
+action,action-d4457d34-d0ed-1465-e2de-31f227c9c5f2,"To do that, you must first prove to us that you have what it takes.
+A Royal Guard serves the king, but above all, the citizens.","要加入卫队，你必须先向我们证明你有这个实力。
+皇家卫队为国王效力，但更重要的是为市民服务。"
+option,choice-f11f1ed3-a0cf-f5f4-c81b-c2d349cc6a14,How can I prove myself?,我要如何证明自己？
+option,choice-0035cda5-c822-728e-0434-84d2dd0475c1,I'll be back later.,我稍后再来。
+action,action-97edcc94-24a5-9e44-9930-db8a41c61aec,Such an important decision should not be made carelessly.,如此重要的决定不该草率做出。
+action,action-f2ba4300-0bf6-050f-45cf-f5709ac84ed4,"Once you become a guard, other groups will no longer accept you.",一旦你成为卫兵，其他势力就不会再接纳你了。
+action,action-ba844c5b-a303-7950-c85c-754b84bef542,"Bandits are gathering outside the walls, making the streets unsafe for everyone here in Grenmark.",强盗在城墙外聚集，让格伦马克的街道对所有人来说都不再安全。
+action,action-4b71ed73-c9e1-e89d-2c26-c44735d8c003,"If you bring me a #:Bandit Ring:#, it shows me that you are both skilled in combat and capable of serving the king and the citizens.",如果你能给我带来一枚#:强盗戒指:#，就足以证明你既善于战斗，又有能力为国王和市民效力。
+action,action-2596eabc-8ea6-ee65-e2ae-246ac6490459,"Good!
+One day you'll be a Royal Guard if you behave like one.","很好！
+只要你拿出皇家卫队的样子，总有一天你会成为其中一员。"
+action,action-3f578188-c13e-173a-a9f5-20acd4294fc6,Let me see...,让我看看……
+action,action-9521cbe8-a418-caea-8138-0686aedfe307,...,……
+action,action-5733e888-3bf0-1571-c003-1aa03ee25e6a,"Yes, indeed!
+It looks like the other rings we've already taken from the bandits.","没错，正是！
+它和我们已经从强盗手里缴获的其他戒指一模一样。"
+action,action-42f0f7e5-4acf-c545-500d-f5ecd5109795,"You've shown courage, and that speaks volumes. Keep it up, and you'll soon become a member of our guard.",你展现了勇气，这足以说明一切。继续保持，你很快就能成为卫队的一员。
+action,action-3379dcf0-0d78-3416-e32c-047bc4986a3a,"Unfortunately, we had to stop the transports to the academy due to the increasing dangers around the capital.",遗憾的是，由于王都周边的危险日益增多，我们不得不暂停前往学院的护送。
+action,action-30364308-8462-99ed-b062-56f064718f9b,"We already know a lot about the incidents with the bandits, but I'm not allowed to tell you everything.",关于强盗的种种事件，我们已经掌握了很多情况，但我不能全部告诉你。
+action,action-cb4e9a0d-22f6-d40b-3d15-589953312778,"Essentially, the bandits have been a nuisance for too long. They're the reason why the citizens don't want to leave the city unaccompanied by our guards.",说到底，强盗为患已久。正是因为他们，市民们才不愿在没有卫兵陪同的情况下出城。
+action,action-b8862f3f-a989-d60e-8954-b0d87804576f,"Despite the constant efforts of the Royal Guard, some of the bandits continue to roam unpunished.
+Unfortunately, we don't know where they come from.","尽管皇家卫队不懈努力，仍有一些强盗逍遥法外。
+遗憾的是，我们不知道他们来自何处。"
+action,action-08dd6974-b441-6adb-ca4c-aa42dde80a34,"It's also a mystery to us who's leading the bandits. We have some suspicions, but nothing concrete.",究竟是谁在领导这些强盗，对我们来说也是个谜。我们有一些怀疑对象，但没有确凿的证据。
+option,choice-28811a98-29fc-3b0d-8795-81703e23af20,What are your plans regarding the bandits?,你们打算如何对付这些强盗？
+action,action-2742326b-d244-aa1f-278d-30e124bda400,"As far as I am allowed to tell, we are currently trying to keep the surrounding area safe.",在我能透露的范围内，我们目前正努力保障周边地区的安全。
+action,action-7df594d6-2518-5102-bd02-8165e458f625,"In the near future, we will send out some patrols and start a large area search.",不久之后，我们将派出巡逻队，并展开大范围搜索。
+action,action-e1b0c3a8-7c14-b7ab-091d-ac28eedaea89,We hope to get more information about the bandits and a lead to their chief.,我们希望能获得更多关于强盗的情报，以及指向其首领的线索。
+action,action-cea19628-a392-a379-7bc7-759d08a8f342,That's all I can tell you.,我能告诉你的就这么多。
+action,action-d39f0da1-1205-b573-c7f7-be2540304bd7,"As a Royal Guard, it is your duty to help the people and support the king.",身为皇家卫队的一员，帮助人民、辅佐国王是你的职责。
+action,action-57c49d07-a5a5-b464-adef-be24e6de0224,"Still, bandits are a major problem for our fellow citizens.
+For every bandit ring you bring me, I will reward you accordingly.","话虽如此，强盗仍是市民们的一大祸患。
+你每给我带来一枚强盗戒指，我都会给你相应的奖赏。"
+action,action-a503182a-e605-c2cc-b0c3-86cc7f33b245,"Also, take this key.",另外，拿上这把钥匙。
+action,action-448bfa4c-c1a0-753f-d35c-aa54db6442a1,"As a Royal Guard, you will occasionally be needed in the royal crypt. With this key, you may enter the crypt via the barracks' basement.",身为皇家卫队的一员，你偶尔会需要前往王室墓穴。有了这把钥匙，你就可以经由兵营的地下室进入墓穴。
+action,action-f7d62e56-9860-6714-9bc9-1c45f65dca53,"Very good!
+You've ensured safety on the streets of Grenmark once more!","非常好！
+你再一次守护了格伦马克街道的安全！"
+action,action-14887de7-cc53-316d-3ffb-d0dcdab8243b,Is there anything else you need?,你还需要什么吗？
+action,action-7a7a5814-42b2-66b0-c2c8-8223a0b2cf25,You have already given me the ring of a bandit.,你已经给过我一枚强盗的戒指了。
+action,action-d9d42f56-ee4c-64bd-6fcc-414828874ae7,"I am sure the other guards need your assistance as well.
+Keep your eyes open and help them if you can.","我相信其他卫兵也需要你的协助。
+保持警觉，力所能及时帮帮他们。"
+action,action-59bb3340-3097-4ac1-6619-e5b722e31f3c,"You found a bag from the chief?
+I am impressed!","你找到了首领的袋子？
+真是令我刮目相看！"
+action,action-8d13959e-9f9f-181e-8581-e708a62a734f,You truly are an excellent member of the Royal Guard.,你确实是皇家卫队出色的一员。
+action,action-38f9b3aa-99e5-750b-ffbc-e6d04cafca06,You'd make a fine Royal Guard.,你会成为一名优秀的皇家卫队成员。
+action,action-8d7c6695-0a0a-eca3-5a8d-5ab03e30bdb3,"If you don't mind, I'll take the bag and bring it to Hick, our quartermaster.",如果你不介意，我会把袋子收下，交给我们的军需官希克。
+option,choice-254a79fb-99b0-3001-ce52-b9ff21a58c85,"Here, take the bag.",给，袋子拿去吧。
+option,choice-ce7b64e6-7200-e05c-bd6f-eb46079d0cdf,I'll take it to Hick myself.,我自己拿去给希克。
+action,action-50350e8f-8cdf-77fa-3aa7-23abdead3a14,"Very well.
+Don't hesitate and go straight to him.
+You'll find Hick in the barracks.","好的。
+那就别耽搁，直接去找他。
+希克就在兵营里。"
+action,action-3e484434-6f84-a9b9-327e-58f9594de1bb,Very well.,好的。
+action,action-4a8c0e7b-4e79-033d-bf48-0ecc561472fc,...,……
+action,action-70f37e17-e331-eca0-7989-87173429b8fb,This shall be your reward.,这是你的奖赏。
+action,action-002cd8db-9e07-c71e-4602-38b646243bb2,King Weynard III made his way down into the #:crypt:#.,韦纳德三世国王已经下到#:墓穴:#去了。
+action,action-155adcdb-992d-8f4f-aa1f-c039630804b1,It seems the raider chief carried an artifact the king has been seeking for quite some time.,看来掠夺者首领身上带着一件国王寻觅已久的神器。
+action,action-c6661481-0960-1433-848a-f7a2640f00fa,"As one of the king's Royal Guard, you are forbidden from pledging yourself to any other faction.",身为国王的皇家卫队一员，你不得再效忠于任何其他势力。

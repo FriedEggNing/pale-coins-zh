@@ -1,0 +1,309 @@
+type,id,text,zh
+action,action-3088e0e2-bad3-0ebe-a0be-f8c25a7d3f48,Hey!,嘿！
+action,action-2795ad85-2c5a-a46b-c5dc-b18e8f93dad1,What are you doing here in this camp?,你在这营地里做什么？
+action,action-b4736db4-adec-bcb1-7d41-ab86ea1cca70,You don't look like one of my men.,你看着可不像我的手下。
+option,choice-53082683-a3ae-9d77-a5ce-90a9afc04be4,Who are you?,你是谁？
+option,choice-c6a49a5d-b2d3-01f8-2307-0f5238c71463,I am just passing through.,我只是路过。
+option,choice-61f1e989-2e50-1fae-e5e3-4e375ba2e821,I am looking for a coin.,我在找一枚硬币。
+action,action-c654181b-683c-8eb5-84dd-cd3a9d3921f0,Passing through?,路过？
+action,action-ea798228-52cf-9e42-d3f2-c79dc09c4d3b,A coin?,一枚硬币？
+action,action-5a33731d-f9e9-9427-194e-3843489c68e7,He should be here already.,他这会儿早该到了。
+action,action-95e042ad-375a-d5f6-f4ea-6562c05cfb47,"Looks like you're stuck here, then.",那看来你是被困在这儿了。
+action,action-d25e11a4-446a-51f0-fd78-ddfe09ca5c59,"My men have the #text.frames=4##text.color=highlight#mine locked down#text.default#, #text.frames=4##text.color=highlight#bandits#text.default# are occupying the #text.frames=4##text.color=highlight#northern mountain pass#text.default# and the #text.frames=4##text.color=highlight#eastern bridge#text.default# is #text.frames=4##text.color=highlight#destroyed#text.default#.",我的手下已经把#text.frames=4##text.color=highlight#矿井封锁#text.default#了，#text.frames=4##text.color=highlight#强盗#text.default#占据着#text.frames=4##text.color=highlight#北方山口#text.default#，而#text.frames=4##text.color=highlight#东边的桥#text.default#也已经#text.frames=4##text.color=highlight#被毁#text.default#了。
+action,action-54c95145-9b5b-08e5-ed07-67ab27b65eb7,You better go back to wherever you came from.,你最好从哪儿来回哪儿去。
+action,action-88cc52ee-7a0a-6197-f3c6-f926c7c09e32,"Don't think you should be begging around here, friend.",朋友，这里可不是你讨饭的地方。
+action,action-bac623bf-081d-efc9-52b6-5ae66e2ff612,"Keep your distance from the camp, we don't have anything to give to you.",离营地远点，我们没什么可施舍你的。
+action,action-f5d27aeb-0276-6bda-d1f0-d354f7da20eb,"Now, is there anything else?",那么，还有别的事吗？
+option,choice-57664fa6-81c5-2766-9256-21c56cfd6d4a,I am looking for a specific coin?,我在找一枚特别的硬币。
+option,choice-d9cbca73-e51e-c69f-e43a-4082dc980634,Alright!,好吧！
+action,action-ccdc011d-0437-0ed9-f35d-40069d7d763f,Do I look like a coin collector?,我看着像收藏硬币的吗？
+action,action-5e139622-f6c0-d9c0-2e79-e39986562da5,#text.frames=4##text.color=highlight#Themir#text.default# - our wizard - may be able to help you.,#text.frames=4##text.color=highlight#塞米尔#text.default#——我们的法师——也许能帮你。
+action,action-74e7d027-5e74-ef0d-2f35-1a2ce71d4416,"Themir was out for a walk or something, he tends to disappear at times.",塞米尔出去散步还是干什么去了，他时不时就会消失一阵。
+action,action-d428d2f4-6a9f-fede-7a4c-679b87c3a617,"I sent men to look for him, but they also didn't return.",我派人去找过他，可他们也没回来。
+action,action-714e0feb-df40-3ad0-751d-d6014e9029bc,"I can't afford to send more of my men, so that's where you come in.",我不能再派更多手下去了，所以就轮到你出场了。
+action,action-987c8bfc-d707-3835-a526-2eb5fdee58aa,He should be here in the camp again.,他应该已经回到营地了。
+action,action-a35d2734-b154-23c2-052e-926f2dc4af06,"If I knew where to find him, he wouldn't be missing, right?",我要是知道上哪儿找他，他就不算失踪了，对吧？
+action,action-14789c48-3b41-97de-ba78-c04be493bb0e,Ask the people outside the camp.,去问问营地外面的人。
+action,action-353f2f07-bd24-eff2-96a6-505bc637a482,"Maybe, one of them saw him.",也许有人见过他。
+option,choice-fff8dd4f-8d0b-14eb-613c-4eff059f94c3,I am looking for Themir.,我在找塞米尔。
+option,choice-0e6da03b-e8f1-e29e-073a-561ed83fd17b,Do you know where I could find Themir?,你知道我在哪儿能找到塞米尔吗？
+option,choice-1e9d28da-d0fe-39c3-8122-16146a84c366,Themir is dead.,塞米尔死了。
+option,choice-88bc0f04-7f99-b946-90d9-7f01911cc754,Why did you close the mine?,你为什么封锁矿井？
+option,choice-621c2624-3559-762f-6ebd-08bbd16e963e,I want to join your camp!,我想加入你们的营地！
+option,choice-d325d9e5-bcff-6aa6-28bb-7fa01f0f9654,I have information about the king's plans.,我有关于国王计划的情报。
+option,choice-0ca4c102-a826-5bcb-8ae5-ae862bfd6381,I'll open the mine.,我去打开矿井。
+option,choice-fbeab8a9-7682-1092-a249-85004dc6d57b,I found Randolph.,我找到兰道夫了。
+option,choice-96d03771-b4b9-6ea8-e7c3-c83b2f7e012a,Randolph is back in camp.,兰道夫回营地了。
+option,choice-260dce6c-1e5a-70cf-1218-dea61f7f693f,The mine is now free.,矿井已经安全了。
+option,choice-bce6ed69-ae12-6aa7-245e-a383ac62c20b,I heard about your fight with Goran.,我听说了你和戈兰的争斗。
+option,choice-eb4e7ee2-aa7f-87f5-6f9e-047f532f3ad4,Jens is busy fishing instead of repairing the bridge.,延斯光顾着钓鱼，没在修桥。
+option,choice-3e771acd-7098-02b6-b935-cc4dae3d8f98,What do you think about this letter?,你觉得这封信怎么样？
+option,choice-e7f68e03-1cb5-8a2b-bf6c-8abb6c67c0b2,I seek combat training.,我想接受战斗训练。
+option,choice-a0dca6db-d1c8-3592-62d4-f12793b6c897,Let us train.,我们来训练吧。
+option,choice-b8981ecb-c6e6-3d93-d1a9-ae588c4470f6,See you later!,回头见！
+action,action-465afbf2-af03-ef07-c036-0e683d137e57,#text.frames=4##text.color=highlight#Themir#text.default# - our wizard - told me to close the mine.,#text.frames=4##text.color=highlight#塞米尔#text.default#——我们的法师——让我封锁矿井。
+action,action-bec4149c-781b-1d9c-3595-7841f8eadfb5,"Until he tells me to open it again, the mine will stay closed.",除非他让我重新打开，否则矿井会一直封着。
+action,action-137c1039-84ef-75c3-8cca-3b6d7ab88a47,Listen. Themir told me...,听着，塞米尔跟我说……
+option,choice-6dab20ad-7e1a-6698-999f-b1cbd831e245,Themir already gave me the key.,塞米尔已经把钥匙给我了。
+action,action-f2cf66ec-b19f-77b4-cfcd-9758951c9fbd,"Very well, then.",那好吧。
+action,action-ae1fd6d0-a768-4bf4-dab6-e4f9d192e622,"But be aware.
+We haven't been in the mine for a while.","但你要当心。
+我们已经有段时间没进过矿井了。"
+action,action-1f88e5cd-bf1e-cd2d-38b0-5ebc407d95de,"Themir's magic barely scratched those things in the mine.
+However, our swords and axes proved far more reliable.","塞米尔的魔法对矿井里那些东西几乎不起作用。
+倒是我们的刀剑斧头可靠得多。"
+action,action-3bc29e39-dc50-e2fc-b3df-6d9ca4bc10ea,"Thing is, he usually comes back. This time he didn't.",问题是，他通常都会回来。这次却没有。
+action,action-f3eec5ee-9938-8656-3353-c461fe861bd8,Help me find Themir!,帮我找到塞米尔！
+action,action-97d8572d-95a1-0ace-1547-815bf2cbc8dd,It wouldn't surprise me if it's full of monsters again.,就算里面又挤满了怪物，我也不会意外。
+action,action-f8441f68-099a-b52b-205f-f3c3bceb30bf,"Bold of you to show your face here again, after all you've done!",你干了那些好事，居然还敢在这儿露面！
+action,action-80e3be53-dde1-47ab-8492-56693e02cccd,"Either pay up for the damage you caused, or you can consider yourself exiled!",要么赔偿你造成的损失，要么就当自己被驱逐了吧！
+option,choice-04fe67a3-7924-6c30-bd22-e15e63aedb37,How much do I have to pay?,我得付多少钱？
+option,choice-d2708b6e-8ee8-7812-c80a-3b049a037786,Maybe later.,以后再说吧。
+action,action-cfcf653f-df29-eddb-d617-eb04a5b91211,Then get the hell out of my camp!,那就滚出我的营地！
+action,action-f1b06b53-3ede-e098-5153-4b2c81b69778,Based on what you did...,按你干的好事来算……
+action,action-ea2192f9-f47e-8f10-a26a-46cdcc7c0648,... 100 gold.,……100金币。
+action,action-7d6fed0a-cebb-7ee7-b841-7b336e67a2fa,... 200 gold.,……200金币。
+action,action-463862a4-b845-2ce9-ccd7-475c5fb7c2cc,... 300 gold.,……300金币。
+action,action-ddfc3d5d-3d08-684c-dd33-512eaa047c6c,... 400 gold.,……400金币。
+action,action-294eeb22-4c57-4b6c-6479-5b53ddecebf8,... 500 gold.,……500金币。
+option,choice-86002514-b51c-888e-e422-17885f90f9c3,Here's the 100 gold.,这是100金币。
+option,choice-d28d113d-056d-ab79-bf44-e2adc5b6c7a2,Maybe later.,以后再说吧。
+option,choice-78b2f111-fde3-dee9-3be1-eb89004af79f,Here's the 200 gold.,这是200金币。
+option,choice-061d7560-2c46-6a2f-498f-5c419e6dc3f8,Maybe later.,以后再说吧。
+option,choice-2a9318b4-4f4c-f264-f64c-0fb05092060c,Here's the 300 gold.,这是300金币。
+option,choice-d3154459-c50a-20a8-dbf1-fceceda3263d,Maybe later.,以后再说吧。
+option,choice-49e59bf5-1104-3fbe-65df-b90ec1e0e171,Here's the 400 gold.,这是400金币。
+option,choice-04d86e6c-16c7-a5a9-1788-c865e7b4aac8,Maybe later.,以后再说吧。
+option,choice-1ba2a12c-6277-01db-2f2b-ac17cdad8a6a,Here's the 500 gold.,这是500金币。
+option,choice-c23d7c53-1e1e-5c8a-1e05-1b296a8fff98,Maybe later.,以后再说吧。
+action,action-efc868be-bc43-9d2a-55db-ad2cf663ddc2,"You're lucky you can...
+Next time I won't be so lax.
+Don't do it again!","算你走运，还付得起……
+下次我可不会这么好说话。
+别再犯了！"
+action,action-aa7bd11c-5e3b-d9fb-8b6e-9fb88c5f69a5,I can show you how to fight properly.,我可以教你怎么正经地战斗。
+option,choice-a1c8d6aa-a9f9-a1fb-a89d-3cc3e1879769,How about some gold?,给点金币怎么样？
+option,choice-9adebcb3-ae66-2c9a-c560-048e2d0a5fc1,I cleared the mine.,我清理了矿井。
+option,choice-a4002d92-f338-67a7-4149-f1d45f131279,I don't know yet...,我还不知道……
+action,action-1b318b62-3119-b369-de1d-3b534b819bdb,There's more important things than gold.,有些东西比金币更重要。
+action,action-5e468711-5043-d8a7-6741-03e1323ec54f,"That's true...
+Not only did you help Themir, but you also helped us.","说得对……
+你不仅帮了塞米尔，也帮了我们。"
+action,action-c7887878-b5f3-78b2-d6ae-7963e3d34c73,"Where is he?
+Why isn't he here again?","他人在哪儿？
+怎么又不见他回来？"
+option,choice-f0720bca-dc31-c18c-a876-559570a0745f,Goran keeps him imprisoned.,戈兰把他关起来了。
+action,action-6135d608-1608-473c-4256-d89c4e0dd84f,What?!,什么？！
+action,action-20e658a3-d1dd-1b4d-f641-8c19f6333595,"Is he out of his mind?
+Why does he keep Randolph imprisoned?","他疯了吗？
+为什么要关着兰道夫？"
+option,choice-ad539c5c-ef61-33dc-cc5a-7ad363b2dc65,He wants me to bring him the King's Ruby.,他要我给他带去国王的红宝石。
+option,choice-5f427915-dc42-1890-f3bb-89490f1e3955,I don't know.,我不知道。
+action,action-b9d0d432-0928-00c1-a49f-68ce861dabfa,Shame...,真可惜……
+action,action-bca93c0e-59c2-e473-dcc9-23581149a02a,"Maybe, we can punch out a deal.",也许我们能谈成一笔交易。
+action,action-bbf6e0f8-b1a6-26d0-0ac8-9d29fae71378,I am certain he wants more men in his group.,我敢肯定他想给自己的队伍添些人手。
+action,action-dfe2e225-27fb-9b93-be76-ecc651966c04,"If you bring him a man or two, he might let Randolph and the others go.",如果你能给他带去一两个人，他也许就会放了兰道夫他们。
+action,action-be829f65-e617-672b-84c0-6cb191b5003f,"In case it ain't obvious, leave MY men out of this.
+You better find someone somewhere else.","先把话说明白，别打我手下的主意。
+你最好去别处找人。"
+action,action-2170f237-8983-7c37-4673-a901383fe13c,"Also, it might be a good idea to not let Goran know, that I suggested this.",还有，最好别让戈兰知道这主意是我出的。
+action,action-515e01db-62f5-13f1-bd5b-ce95a70f88db,That ol' story again?,又是那个老掉牙的故事？
+option,choice-2f4529bf-afb3-dccd-a9c9-87ae72dae8a7,I'll try to find them.,我去试着找找人。
+option,choice-5359c404-cda4-f9da-1d32-106201086e0a,Where can I find people for this?,我上哪儿去找这样的人？
+action,action-db074915-e1bd-536d-cdb1-5e9594299451,"They usually don't appear out of nowhere.
+Go look for them in east of here.","这种人一般不会凭空冒出来。
+去东边找找吧。"
+action,action-b8410ad2-94b1-3bca-7496-ac6f19610bf2,"If we're lucky, he is already missing some of his men.
+Then, you can look for them on this side of the river.","运气好的话，他手下已经走丢了几个人。
+那样你就能在河这边找到他们。"
+action,action-6d979d46-d375-c144-7186-07c6fa4c2756,Sure thing!,没问题！
+action,action-26ccddb9-316d-82ec-1367-0b8839419d2a,"I will reward your help accordingly, as soon as Randolph is back in the camp again.",等兰道夫回到营地，我自会好好酬谢你。
+action,action-01dcaf2e-1aa3-caf2-3e62-ffa387038121,Some folks say it was buried with Weynard II in the royal crypt.,有人说它和韦纳德二世一起葬在王室墓穴里。
+action,action-d7f0308a-2834-66fc-6797-a8d476a1a95e,"Getting inside the crypt is the tricky part, though.
+Unless you are a high-ranking royal guard, you won't be able to access it.","不过，进入墓穴才是麻烦所在。
+除非你是皇家卫队的高层，否则根本进不去。"
+action,action-f5cef78e-3e11-c7e8-383b-4b6c2448c4f4,I have an idea of how to get Randolph out of there quicker.,我有个主意，能更快把兰道夫救出来。
+action,action-dbdf104e-a758-677a-0adc-48ce314ff8e5,And now you are here to make fun of me?,你现在是来看我笑话的？
+action,action-bc82cf32-38dd-6108-46f9-862a41a731c9,"Listen, I went of my own accord.
+There was no real fight to begin with.","听着，我是自己主动走的。
+压根就没有真正打过一场。"
+action,action-5a53fdd9-7e5b-1202-b265-ea6d46e82590,"If Goran and I were to fight for real back then, we would have destroyed a whole camp along each other.",要是当年我和戈兰真打起来，我们俩能把整个营地一起拆了。
+action,action-84f78f63-956c-f381-a520-0f711cf04067,"I did not want to risk the life of our men, so I left the camp and moved here.",我不想拿弟兄们的性命冒险，所以就离开了营地，搬到了这里。
+action,action-e97395d5-fc33-2825-db5f-81cafb11e014,"Now, is there anything else?",那么，还有别的事吗？
+action,action-5c8ba023-4e0c-a9a3-3688-edd4a58d62c5,"Does he?
+Can't expect much from him.","是吗？
+对他也别抱什么指望。"
+action,action-14545fc2-bfef-eaf5-d34e-aa76beab9aed,Tell him I'll cut his pay.,告诉他，我要扣他的工钱。
+action,action-f101e233-538f-66c2-2f0c-af0ad96423fa,"I am #:Balder:#, the leader of this camp.",我是#:巴尔德:#，这个营地的头领。
+action,action-055d15dd-1e43-8094-610d-69b726b00a54,"Now, why are you here?",那么，你来这儿做什么？
+action,action-a386f725-2106-04a9-ffc9-de3c2c103f02,"Look at that!
+I didn't trust you to do that.","瞧瞧！
+我本来还不信你能办成。"
+action,action-605c5d5e-2e37-ffdb-b80b-44226542f988,"Anyway...
+Thank you for clearing the mine.","总之……
+谢谢你清理了矿井。"
+action,action-8cc7b947-7e48-73c7-e306-de3f20f0ec8f,Take this gold.,拿上这些金币。
+action,action-143745f8-f8de-24c0-8aa1-b1b1f2452f8e,Keep it up and you will soon be one of us.,继续保持，你很快就能成为我们的一员。
+action,action-08c5b7aa-0cdf-26fb-8fc6-0411bcbc731a,But why should I do that?,可我为什么要那么做？
+action,action-78959e50-3008-4e0e-4d82-7bc14cdf3c25,Such as trust...,比如说信任……
+action,action-540d9f19-3683-2a44-95eb-7ada2651ff69,And at the moment I don't trust you enough.,而眼下我还不够信任你。
+action,action-894d4b3f-dda4-50c0-554a-e20f1b10bd71,"If there's no better reason, stop wasting my time.",要是没有更好的理由，就别浪费我的时间了。
+action,action-23bfdc86-9a8e-1e9a-4fab-33d885ae6999,Come back if you can give me a good reason.,等你能给我个好理由再回来吧。
+action,action-18c1162b-a0d9-47d8-a260-3ee9488c8d0d,"However, I only train the people I trust. As long as you are not a member of my bandits, I cannot teach you how to fight.",不过，我只训练我信任的人。只要你还不是我手下强盗的一员，我就不能教你怎么战斗。
+action,action-2f7b84fe-111a-529d-07b6-26768e9740ab,What do you want to know?,你想知道什么？
+option,choice-45344a79-53cf-7dc9-8c0e-29d5e0d554e0,"Two-handed weapon training (min. 8 STR) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_greatsword_weapon_training_10"",""only_once_on_difficulty"": true}","双手武器训练（需力量8）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_greatsword_weapon_training_10"",""only_once_on_difficulty"": true}"
+option,choice-20e539d7-2dfe-ff1b-cf8f-1c20a1b99c8c,"One-handed weapon training (min. 5 STR) [2 AP]#args:{""hint"":""ui_dialogue_hint_skill_sword_weapon_training_10"",""only_once_on_difficulty"": true}","单手武器训练（需力量5）[2 技能点]#args:{""hint"":""ui_dialogue_hint_skill_sword_weapon_training_10"",""only_once_on_difficulty"": true}"
+option,choice-10c5b8c5-9ce9-3b0f-fa0a-3bef46083eb8,Maybe later...,以后再说吧……
+action,action-c6b5e774-d97d-80b1-eb8a-c3a4b3956a8a,A one-handed weapon is an extension of your arm.,单手武器就是你手臂的延伸。
+action,action-621063ec-cab4-6d06-e6f3-d32471bf542b,Never neglect your training.,千万别荒废训练。
+action,action-88606876-318d-d94c-117e-e61ccb48dba2,Don't hold your weapon too tightly when you strike and use the momentum.,挥击时别把武器握得太死，要顺势借力。
+action,action-794c21f0-e6a3-3859-59d5-726fa2728ae7,"You're using a heavy weapon, after all. Don't try to control it too much.",毕竟你使的是重型武器，别想着完全控制它。
+action,action-44ff2773-3d04-236e-850c-93170a5c457c,"This won't be of any use to you with spears and one-handed weapons.
+Essentially, you can only use this knowledge with two-handed swords and axes.","这些对长矛和单手武器没什么用。
+基本上，这套本事只适用于双手剑和双手斧。"
+action,action-c8c5f6ed-f9db-bba7-03cc-fed3d957489e,With this arm you should deliver precise strikes and hit your opponent's weak points.,用这条手臂，你要打出精准的攻击，直击对手的弱点。
+action,action-a7748fff-733e-d6c9-3ccd-880f36ba3398,Let me see...,让我看看……
+action,action-2f13c841-113c-7d2c-e21d-7a928dc6d62b,...,……
+action,action-c973b787-420a-3edd-bdd2-eb996f139aae,This letter is written by #:Gunthar:#?,这封信是#:贡塔尔:#写的？
+action,action-1062edd4-f955-cefb-4854-6c507a8fce42,How?!,怎么会？！
+action,action-825c4b44-7b22-a081-ecd6-5e34834c884a,He writes that he wants to kill the #:Beast in the Swamp:# together with Johann.,他写道，他想和约翰一起去杀掉#:沼泽中的野兽:#。
+action,action-8f284780-faf4-516f-1331-24adc3db4833,And then finishes with these lines...,信的结尾是这样几句……
+action,action-3d0fe8d0-6b60-14b8-c0e6-38292ef370ad,"""I'm sorry, Balder. Please forgive me for leaving you, Goran and the others behind.""",“对不起，巴尔德。请原谅我丢下你、戈兰和其他人。”
+action,action-9872668a-c514-db25-6af5-697988c3612e,"""After we have slain the beast, I will go to Erstadt and start anew. Away from Grenmark and away from the king.""",“杀死那头野兽之后，我会去埃尔施塔特重新开始。远离格伦马克，远离国王。”
+action,action-0e4404d2-3551-e916-0da6-21daebefd51d,Signed... Gunthar.,署名……贡塔尔。
+action,action-bfbb8e6e-3e44-8212-5d29-7380e5fa6242,"I already had a word with him.
+Good work!","我已经跟他谈过了。
+干得好！"
+action,action-ad4a2016-7121-578b-d952-7ec0d37e2b26,You shall also receive a reward for this.,你也该为此得到一份酬劳。
+action,action-f7ffaf89-5bb6-2765-0aad-9cba3700febc,"Jens just recently found this piece of paper in the forest.
+This appears to be a permit into the capital, which you can have if you want.","延斯前不久在森林里捡到了这张纸。
+看样子是进入王都的通行证，你想要的话就拿去吧。"
+action,action-13ad02a6-a440-7f41-acc9-4527633ffb5e,"Alternatively, you can have some gold for your journey.",或者，你也可以拿些金币当盘缠。
+option,choice-f23e55a6-df4f-7ccd-45d4-c2442e9d8198,The permit to the capital sounds great.,王都通行证听起来不错。
+option,choice-aba7e734-b7a5-9822-9c6e-bc9d5385a4ee,Gold is fine with me.,给我金币就行。
+option,choice-09a2bfd0-89f1-8861-303d-53895f2df17c,I don't need anything. I am here to help.,我什么都不需要。我是来帮忙的。
+action,action-b7fb1e50-aaa8-a40d-6773-b62a95aaa42d,"Impressive! Impressive indeed.
+We could use more men like you.","了不起！真是了不起。
+我们正缺你这样的人手。"
+action,action-de1b700b-2a6b-20f7-6d17-e9ea39526dcd,"Everyone has to watch their own backs.
+Take these 250 gold coins.","各人都得自己顾好自己。
+拿上这250枚金币吧。"
+action,action-e97c8c90-1dd6-020a-686f-43997b013c28,"Good!
+You'll need it if you want to get into the capital.","好！
+想进王都的话，你会用得上它的。"
+action,action-96a6f8d5-7a05-a26e-53c5-6b47db25bec2,Is there anything else?,还有别的事吗？
+action,action-7e94ccc8-5ec4-7a2c-c78d-30e3dca4f6cc,"You've really accomplished quite a bit.
+I'm impressed!","你确实办成了不少事。
+真让我刮目相看！"
+action,action-d848c926-7d62-0d97-af07-3c52d8bd7cf4,I need more people like you.,我需要更多像你这样的人。
+action,action-46daf8b7-3564-c089-563a-5001b3742652,"If you join us, you won't be accepted into any other faction.
+So be sure about it!","一旦加入我们，其他势力就不会再接纳你了。
+所以想清楚！"
+action,action-d5958c7c-3e8b-07a6-f9f7-9558fceebd23,Do you still want to join my camp?,你还想加入我的营地吗？
+option,choice-4488609b-fc53-675a-fa00-63fd5dee3c62,Yes! I want to be a member of your camp.,是的！我想成为你营地的一员。
+option,choice-110f9873-05c4-8a2a-b342-3480bfdd774a,I need to think about it.,我得考虑考虑。
+action,action-eb10308c-0c95-129a-47fb-7f065cbaecbb,"Good!
+Let me know when you're ready.","好！
+准备好了就告诉我。"
+action,action-87549456-b8ab-4599-962c-c70ac4ccf9b2,"That's what I wanted to hear from you!
+From now on, you're a member of our camp.","这才是我想听到的！
+从现在起，你就是我们营地的一员了。"
+action,action-4043f84a-1e48-3226-f7bb-df4c76babc25,Welcome!,欢迎！
+action,action-3f74a541-dc0a-9f0d-5c68-35d3234ae1fa,Wear this armor as a sign that you are one of us.,穿上这身护甲，作为你是我们一员的标志。
+action,action-d76526de-2fdd-37da-5e05-2b195013efb7,"You joined the Royal Guard?
+Then I must have been mistaken about you.","你加入了皇家卫队？
+那看来是我看错你了。"
+action,action-c83ce44c-5717-7e7a-71d4-1811ba9e19dc,"Listen! As long as you don't betray us, I'll allow you to stay here in the camp.
+After all, I have nothing against you.","听着！只要你不背叛我们，我就允许你留在营地里。
+毕竟，我对你没什么意见。"
+action,action-4a402351-fe5b-f612-943a-6f2fd905db9a,"But if you ever get the idea to tell the king about me, we're out of here.
+And you'll end up on my list.","但你要是敢起念头向国王告发我，我们就立刻转移。
+而你也会上我的黑名单。"
+action,action-f56f6011-61d1-abd9-973b-2906867b7db1,"If you really want to join us, you have to prove that we can trust you.",如果你真想加入我们，就得证明你值得信任。
+option,choice-cb41c498-be92-5812-9a6d-f8de53b332c2,What can I do for you?,我能为你做些什么？
+option,choice-998447e7-a448-22d0-a37d-fda74cbfe007,There's something else I want to know.,我还有别的事想知道。
+action,action-ddbaa2d3-593b-3e13-c50e-30d0b157ff21,Yes? What is it?,嗯？什么事？
+action,action-7cde68bf-1670-c593-efac-e19c5b5b0a82,"Straight to the point?
+I like that!","开门见山？
+我喜欢！"
+action,action-1aae9aa4-330a-3f56-0802-25d146a9ba74,"For some time now, the king has been increasingly searching for bandits and has them executed.",最近这段时间，国王越来越频繁地搜捕强盗，抓到就处决。
+action,action-fefc2a86-f853-a926-7567-099f508c2f05,"However, this is not a task I will give to anyone.",不过，这任务我可不会随便交给谁。
+action,action-fe1184d3-da7b-b944-5418-400f3e8781e3,"Prove yourself useful to the camp, and I will tell you about the task.",先为营地证明你的价值，我再告诉你任务的内容。
+action,action-2a781d89-55da-5d42-d58c-c3bd4cc719af,"Overall, I don't think this is bad. Many of the bandits around the capital are attacking citizens and merchants, which is why they can hardly leave the city on their own anymore.",总体来说，我不觉得这是坏事。王都附近的许多强盗袭击平民和商人，害得他们几乎不敢独自出城。
+action,action-3d341842-4ed1-1851-4a6b-49a6d7ee9a7e,"But we have nothing in common with such scum. 
+Not even Goran would threaten defenseless citizens.","但我们和那种人渣毫无共同之处。
+就连戈兰也不会威胁手无寸铁的平民。"
+action,action-fe5f38d6-12c3-6094-2695-72b0f8a892f9,"I want you to find out what plans the king, or rather the royal guard, has.",我要你查清国王——或者说皇家卫队——有什么计划。
+option,choice-bc62946c-9a63-f99a-78d1-4d964d6494a9,What should I do?,我该做什么？
+option,choice-84e29b29-ef28-b70e-50a3-2a52e105f4a0,You are dead?,你不是死了吗？
+option,choice-80ea1af7-4a6d-ccaf-09f6-b17e0eb51de2,I will find out about the king's plans.,我会查清国王的计划。
+option,choice-fa1112db-ed93-2e2d-faf3-614c7e931a02,This seems tricky. I need to think about it.,这事儿有点棘手。我得考虑考虑。
+action,action-684bbf46-f3a2-fc0c-3c0b-5d12a21466d3,"The king, however, doesn't seem to care, which is why we're on the hit list, too.",可国王似乎并不在乎，所以我们也上了他的清剿名单。
+action,action-927081f2-d893-0947-0ee8-ae12cafcedc3,"It would be best if you spoke to his advisor in the capital about it.
+The king himself is unlikely to speak to someone like you.","这事你最好去王都找他的顾问谈。
+国王本人可不太可能搭理你这样的人。"
+action,action-439b7e6b-ffcc-bdc1-a884-3004763979f3,"I don't want to be rude, but without an audience or a good reason, Weynard will reject you immediately.",恕我直言，没有觐见许可或正当理由，韦纳德会立刻把你拒之门外。
+action,action-8f48a7ef-7298-93a3-c9b2-6d8525bdbf09,"The royal guard might also know something.
+Ask the guards about their duties. In the best case, someone is directly involved in the search for the bandits.","皇家卫队可能也知道些什么。
+去问问卫兵们的职责。运气好的话，正好有人直接参与搜捕强盗的行动。"
+action,action-9c7a1da5-58cf-1051-585d-19d38d8ddc95,"Oh... and one more small detail.
+Never mention my name to the guards or the king.","哦……还有个小细节。
+千万别在卫兵或国王面前提起我的名字。"
+action,action-18029ac3-a703-61d4-bbd8-04eb11da8ed2,"They think I'm dead, and I'd like to keep it that way.",他们以为我死了，我也希望一直这样。
+action,action-4bdfeb07-089a-4808-8d96-df255e3a7019,Alright.,好的。
+action,action-02968ce6-1fde-e587-d144-2e08779df57b,"Very good!
+With this task, you can prove to us that we can trust you.","很好！
+完成这个任务，你就能证明自己值得我们信任。"
+action,action-931edd74-abc5-7f3c-49fb-89b9bb94defa,It will also help me figure out how we're going to proceed with the camp.,这也能帮我想清楚营地接下来该怎么走。
+action,action-eda42110-ca26-83d7-8376-995293fffd93,Do I look dead to you?,你看我像死人吗？
+action,action-956e0dfa-2165-3f6b-ebca-a7d0943418ea,"That's too long a story to tell you now.
+Finish your tasks first, then we can talk about it.","这说来话长，现在没法讲给你听。
+先完成你的任务，然后我们再谈。"
+action,action-2d5da560-c6f2-660f-a27e-02b4d26971e2,"I want you to find out what plans the king, or rather the royal guard, has, and why they are increasingly searching for bandits.",我要你查清国王——或者说皇家卫队——有什么计划，以及他们为什么越来越频繁地搜捕强盗。
+action,action-25c1be06-df3f-6dde-489d-839c948f4976,"I want you to find out what plans the king, or rather the royal guard, has, and why they are increasingly searching for bandits.",我要你查清国王——或者说皇家卫队——有什么计划，以及他们为什么越来越频繁地搜捕强盗。
+action,action-334bd8f5-24a4-37c3-9682-39242ff383aa,"You've already proven to me that we can trust you.
+Make yourself useful around the camp a little longer, and I'll be happy to accept you as a bandit.","你已经向我证明了你值得信任。
+再为营地多出些力，我就很乐意接纳你成为强盗的一员。"
+action,action-b819ab34-7828-ad4d-ed2a-380e26e026f2,"Not bad!
+What can you tell me about the plans?","不赖！
+关于那些计划，你都打听到了什么？"
+option,choice-74a5ba24-efc1-ec43-966a-f5f05fc73981,The king is going to search for bandits in a large area.,国王打算在大范围内搜捕强盗。
+action,action-bc975f1f-05cd-39a2-66af-3f8c612095eb,"Damn!
+That means the Royal Guard will arrive here sooner or later.","该死！
+这么说皇家卫队迟早会找到这儿来。"
+action,action-0711d51c-4bc5-1b8d-ba1b-39113afc3641,Did you find out anything else?,你还查到别的了吗？
+option,choice-63295222-389a-8716-9963-8b1f0cfdfa11,All the bandits’ valuables end up with the quartermaster.,强盗的值钱物品最后都交到军需官手里。
+option,choice-ec527f3d-6c7a-a377-a35d-5c20fcbec26e,The quartermaster brings all documents to the king immediately.,军需官会把所有文件立即呈给国王。
+option,choice-188622be-2a04-9de4-819f-059f82ab59fa,The leader of the bandits is unknown.,强盗头领的身份不明。
+option,choice-ee5146f9-73ea-86f0-5d02-e7ef549dd7db,That's all.,就这些。
+action,action-4d0226c9-2f20-2464-ed84-d84a97415244,"From this, I assume that the king is not only concerned about the bandits.",由此我推断，国王在意的不只是强盗。
+action,action-8fe5c10f-b403-4f7d-5df7-eb3e64368232,Notes or plans would definitely be a great help in the fight against the bandits.,笔记或计划书对剿匪肯定大有帮助。
+action,action-d2f2f8f2-5a8b-442a-977b-69f34ceff51e,"I already thought so.
+If the bandits' leader was known, they would attempt a targeted attack.","我早就料到了。
+如果强盗头领的身份暴露了，他们就会发动针对性的袭击。"
+action,action-b15d51ba-556a-bb06-40d5-0d6cc724f4e4,It seems he is searching for something specific that he believes is among them.,看来他在找某样特定的东西，而且他认为那东西就在强盗手里。
+action,action-16efc366-3cb0-1d72-a88e-8e93e8b00d8a,Did you find out anything else?,你还查到别的了吗？
+action,action-8ff6f2e2-e3f6-347e-27eb-c44ab8708392,"However, I can well imagine that he is looking for something else among the documents.",不过，我很怀疑他其实是想在那些文件里找别的东西。
+action,action-93879b02-2278-48b6-e969-a4bd0e61cd55,"By doing this, you have proven to me and everyone else in the camp that we can trust you.",这么一来，你已经向我和营地里的所有人证明了你值得信任。
+action,action-89652f09-ab41-4b16-6b72-429d86dce247,"Plus, you showed us you've got what it takes.
+That's worth a lot here.","而且你也让我们见识到了你的本事。
+这在这里可值不少分量。"
+action,action-8a6e353c-37e7-3490-37ad-1206349e0989,"As far as I'm concerned, you can join us.
+If you can convince the others, I'll gladly count you among my bandits.","就我而言，你可以加入我们。
+只要你能说服其他人，我很乐意把你算作我手下的强盗。"
+action,action-0b864ed3-931b-1625-62d0-749ca02436f5,"As you are now a member of my bandits, I'll teach you how to master the various weapons.
+Let me know if you want to train.","既然你现在是我手下强盗的一员，我就教你掌握各种武器。
+想训练的时候告诉我。"
+action,action-ed24b1e6-65fd-b4b0-1e91-6a7c7da61c9d,Good!,好！
+action,action-03dd5e21-edf2-620b-69ab-5d3529dc8000,"Now that you are here, you may well make yourself useful.",既然你来了，正好可以派上用场。
+action,action-d18b69ff-6a9d-6cb9-bc45-656bb3af3d63,#:Themir:# - our wizard - is missing.,#:塞米尔:#——我们的法师——失踪了。
+action,action-d2e2bfed-9810-2233-e61c-e704393fe78c,"What?!
+Are you kidding me?","什么？！
+你在开玩笑吗？"
+action,action-fd4982de-95f1-5c5e-575a-36a99dd8061e,Where is he?!,他在哪儿？！
+option,choice-08801963-9459-8c9e-0e7f-8549d25611bb,Themir lies in a cave west of here.,塞米尔躺在西边的一个洞穴里。
+action,action-f7614a88-c12d-88f4-f6e5-1ba51d3f4126,"Thank you for finding him.
+Now go. I must contemplate what comes next.","谢谢你找到了他。
+去吧。我得好好想想接下来怎么办。"
+action,action-fe388a16-bf55-8ef0-75b1-a7c83c9fa4cf,Then you're free to ask him about any coin you like.,到时候你想问他什么硬币都随你。
+action,action-b6ebc921-6f27-735a-b3c3-d2f01053d40f,Maybe you've got what it takes to become one of my men.,也许你有本事成为我的手下。

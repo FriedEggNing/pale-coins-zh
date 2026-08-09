@@ -1,0 +1,30 @@
+type,id,text,zh
+action,action-37c4d9cb-29d0-c17c-5f41-faba9dde7389,Stop for a moment!,站住！
+action,action-ff205da4-342b-65ad-305b-990bbd7630ef,"This is the #:King's Library:#.
+Without the king's permission, I won't let you pass.","这里是#:国王的图书馆:#。
+没有国王的许可，我不会放你过去。"
+option,choice-f755042c-70c0-ab7e-149a-cd543c532dfa,I have the permission to enter.,我有进入的许可。
+option,choice-6e04d442-54dd-4f62-d26f-3be2068a6e88,Why don't you make an exception?,通融一下不行吗？
+option,choice-7f2a1f3e-eb25-a8c4-6bd1-b9173d3cd7f6,Step aside or you'll get a beating.,让开，不然揍你一顿。
+option,choice-996a6acf-4c29-dda1-39bf-f621e7dde764,I'll come back later.,我稍后再来。
+action,action-111236cd-ea51-1732-43ad-55285246fbf4,"This is the #:King's Library:#.
+Without the king's permission, I won't let you pass.","这里是#:国王的图书馆:#。
+没有国王的许可，我不会放你过去。"
+action,action-26176421-8319-b3a8-b992-3e2a20a30893,"Really?
+Usually, I'll get notified when someone is allowed to visit the library.","是吗？
+照理说，有人获准进图书馆时，我会收到通知。"
+action,action-3ec012f7-0d86-aaaf-222f-083c339383be,You may pass.,你可以过去了。
+option,choice-e9b90c5e-63e6-063b-34ec-cf167e2c770a,Baron Frestek wants you to get this.,弗雷斯泰克男爵要我把这个交给你。
+option,choice-d33a5a69-4b5b-b0bd-8974-5dc7a6ceb878,Nevermind then.,那算了。
+action,action-b1620937-0f7d-a390-ead9-20f806d01f83,I see.,我明白了。
+action,action-e7bbb1c3-7bac-d3e5-9701-91253f795446,...,……
+action,action-ca42655f-0146-6b1a-3caa-5fd4a02efd97,You may pass.,你可以过去了。
+action,action-025f9e0d-e170-08e1-f205-4b46150b6bf2,"If the king found out that I let anyone in here, I could start writing my will.",要是让国王发现我随便放人进去，我就可以开始写遗嘱了。
+action,action-c9b48dff-762a-3e5a-0c1e-21e03a772d1c,No exceptions!,没有例外！
+action,action-ed7269ac-674b-8b62-6a6a-ed2c8eaf4ece,What?,什么？
+action,action-40ac6cc6-2f76-74fa-2ba5-d5a385db4f47,You want to attack a member of the royal guard inside the king's castle?,你想在国王的城堡里袭击皇家卫队的人？
+action,action-fabe30a5-e0d7-de0c-5554-139786ff7f71,"Here?
+Where most of us guards are?","就在这儿？
+在我们大部分卫兵都驻守的地方？"
+option,choice-bdee40d5-e5ba-9b2c-e159-2f46c2932ca0,That was a stupid idea.,是我犯蠢了。
+action,action-67a73ac7-e6fd-df44-8c8b-d32e5e2c5fd2,Indeed.,确实。

@@ -1,0 +1,12 @@
+type,id,text,zh
+action,action-8ca3a830-0506-6ac8-9859-4079e2548d10,"Hello there, hunter!
+What can I do for you?","你好啊，猎手！
+有什么能为你效劳的？"
+option,choice-2ed39c44-0bc0-2be9-c5d8-21522d052afd,Show me your wares!,让我看看你的货！
+option,choice-ac76114e-e9cc-a01f-3c73-1707ac0385a3,Where do you get your bows from?,你的弓都是从哪儿来的？
+option,choice-6f563f94-bc64-7f8b-9a6d-55f821cabfa4,See you!,回见！
+action,action-dcde6c0b-f7fd-f0fb-c675-486514eb1fea,"All my bows are my own craft.
+I only use the best wood for these.","我的弓全是我亲手做的。
+用的都是最好的木料。"
+action,action-a5705ef3-bfa0-27b0-4497-276d8c2f0c6d,"You won't find better bows anywhere else, I promise you that. I have spent a lifetime perfecting my technique.",我向你保证，别处你找不到比这更好的弓。我花了一辈子打磨我的手艺。
+action,action-1c1c70db-7a39-56f8-8732-cf2ead2183d6,Come back soon!,欢迎再来！

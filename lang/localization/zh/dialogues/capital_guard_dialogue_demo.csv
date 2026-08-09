@@ -1,0 +1,37 @@
+type,id,text,zh
+action,action-9763805a-0058-98ce-7333-50a4bc462da7,HALT!,站住！
+action,action-7fff2d64-370f-d332-9ed2-0dad981508a7,You stand before the Capital - the current residence of our King.,你面前的就是王都——我们国王如今的居所。
+action,action-370fe217-dea3-c6da-e03f-7294d9a6e207,Without a proper reason to enter I am afraid you must remain outside.,没有正当的入城理由，恐怕你只能待在外面。
+action,action-fec2c3e4-c5b6-2cd7-b077-92aba3c052c6,Is there anything else?,还有别的事吗？
+action,action-f746e469-893f-9369-0dc5-467acf60b035,"Ah, it's you again.
+What do you need?","啊，又是你。
+有什么事？"
+option,choice-3079df5d-3f3f-3bd0-9a5e-4599b8336e3e,Let me in!,让我进去！
+option,choice-bcfc3ab0-2000-8d4c-02cf-acd2f68e5b36,Who is in the capital?,王都里都有些什么人？
+option,choice-da6931d6-7932-526c-bf68-570b094a0a5a,Why are you guarding the capital?,你们为什么把守王都？
+option,choice-3068fcc1-6b47-a7cc-c58a-2c1c7e78410d,I need to go.,我得走了。
+action,action-7de5b5a8-0795-6457-b159-d5c53a76d0bd,"Ha! How forthright!
+And WHY should we let you inside?","哈！还真是直截了当！
+那凭什么让你进去？"
+action,action-f7a77431-0e94-fcd3-b336-938faf91c866,"Mostly common citizens.
+Some lived inside the capital their whole lives.","大多是普通市民。
+有些人一辈子都住在王都里。"
+action,action-b73fad34-ec80-f9bc-7030-bad645d47259,"A few of them pursue their craft, like our good ol' smith.",有些人经营着自己的手艺，比如我们那位老铁匠。
+action,action-aeb358d5-6168-103f-bc69-c1dab5ebefb7,"Then there are merchants from the outside, buying and selling wares.",还有从外地来的商人，做买进卖出的营生。
+action,action-1866dd77-fe69-4211-e923-8632038dbfe3,"I heard rumors about thieves inside the capital as well, but I wouldn't pay such gossip much mind.",我也听说过王都里有窃贼出没的传言，不过这种闲话我可不怎么放在心上。
+action,action-3363ced3-7c5c-3279-4794-3a99ba125586,"And last but not least, most of the royal knights are inside the capital, assisting and protecting the king as best they can.",最后，大多数皇家骑士也都驻在王都里，竭尽全力辅佐并保护国王。
+action,action-fe60cec2-0c57-38b6-9f91-6b057f4aaef6,"We got the order from Renbrand, who is stationed south of here.",我们奉的是伦布兰德的命令，他驻扎在这里的南边。
+action,action-27e30e08-0c2f-a5f2-89e1-3f58c1acf360,It is our duty to protect the citizens inside by curating who comes and goes.,我们的职责就是把控人员进出，保护城内的市民。
+action,action-13e38004-9e60-84db-54e3-4383191fc12d,There were way too many troublemakers recently so we must remain vigilant.,最近闹事的家伙太多了，我们必须保持警惕。
+action,action-270ed621-3d79-ec7d-aa5b-ec109f5c6738,Stay safe out there!,在外面注意安全！
+option,choice-8c57ad25-d224-91b3-6999-2b474608ae43,I have a permit.,我有通行证。
+option,choice-33b827d0-c80b-4b74-5d05-7c52fab9c27e,I belong to the Icefall caravan.,我是冰瀑村商队的人。
+option,choice-169f1777-1ae8-423d-bab2-a01a2d443085,I could force my way in.,我可以硬闯进去。
+option,choice-45934743-4a71-14e4-6811-5d876e95b48f,Nevermind...,算了……
+action,action-e392e41e-98fe-731c-5e87-a5f3b751ae76,"As expected. Now try not to disturb our duties anymore, would you?",果然如此。那就别再妨碍我们执勤了，行吗？
+action,action-2300f659-08a6-6652-8591-ba001235553e,"I am sorry, but this is a Demo version!
+There is no way I'll let you pass.","抱歉，这可是试玩版！
+我绝不会放你过去的。"
+action,action-6b02800e-2695-a80e-bc59-d90a64a38ac1,You'll have to wait for the full version of Pale Coins.,你得等 Pale Coins 的完整版了。
+action,action-a695205d-7ca4-54fa-fbc7-ca9647c1b4cf,"Even if you could, the door will stay closed.",就算你闯得进来，这扇门也不会开。
+action,action-c47fedaa-affd-da70-6d21-89e425eaabfd,"I am sure you don't want to end up as a criminal, right?",你也不想落得个罪犯的下场吧？

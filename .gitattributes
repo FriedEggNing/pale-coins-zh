@@ -1,0 +1,14 @@
+# The game reads these CSVs byte-for-byte: CRLF between records, but bare LF
+# inside quoted multi-line cells. Git's EOL conversion is not CSV-aware and would
+# rewrite the in-cell LFs too, corrupting multi-line dialogue. So: no conversion.
+# "diff" keeps them showing as readable text diffs on GitHub despite -text.
+*.csv  -text diff
+
+# Fonts
+*.ttf  binary
+
+# Docs and scripts
+*.md   text eol=lf
+*.ps1  text eol=crlf
+*.csx  text eol=crlf
+*.txt  text

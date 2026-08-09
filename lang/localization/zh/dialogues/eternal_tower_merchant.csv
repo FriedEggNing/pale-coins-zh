@@ -1,0 +1,8 @@
+type,id,text,zh
+action,action-0612b112-cde4-4af5-4378-6de360c84cea,"Another one in the tower?
+May I help you?","塔里又来了一位？
+有什么可以帮你的吗？"
+option,choice-1da6271a-ae35-3d72-2c59-cca94e7c01c2,What do you sell?,你卖些什么？
+option,choice-fa6a31e2-a78d-5cfa-4dd5-79969c6db6b3,That's all.,就这些。
+action,action-aae48c39-5d54-e444-4cb0-9443e7eff4db,Be careful as you make your way through the tower.,在塔中前行时务必小心。
+action,action-b25ba712-8dc8-702b-414a-bc47cd0c3c0e,Take a look.,请看吧。

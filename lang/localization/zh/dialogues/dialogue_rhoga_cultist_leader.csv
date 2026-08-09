@@ -1,0 +1,158 @@
+type,id,text,zh
+action,action-360e9501-69a9-2780-b63d-f730f98f6009,Yes?,什么事？
+action,action-07c004a0-7191-5faf-05b5-0943d49d6135,A new face.,一张新面孔。
+action,action-c119eb3c-7e76-74c2-2c26-bb6893bf24d5,"What brings you here, my child?",是什么把你带到这里来的，我的孩子？
+option,choice-bebf5500-1252-0248-420e-10fd29b965c1,Who are you?,你是谁？
+option,choice-29e52ed8-3af4-937d-f9da-be1efa6ecaaf,Where am I?,我这是在哪儿？
+option,choice-9fbb9651-e317-c1f4-7bea-7cd96e019e27,What are you doing here?,你们在这里做什么？
+option,choice-adef44ca-05e2-d9e5-be04-743d5f75d09d,Can you open the temple?,你能打开神殿吗？
+option,choice-5cf29dfd-bae2-63e4-e1ac-4e2ed966d3bd,Regarding the book...,关于那本书……
+option,choice-277c9a06-175e-eba8-9609-a5bdd66f34f1,You trapped me inside the temple!,你把我关在神殿里了！
+option,choice-7322a5da-eda1-60b0-e035-ce8de09fce8b,See you!,回头见！
+action,action-92d298d0-b465-00d7-23e0-8b1ab50f6c21,"Take care of yourself, my child.",照顾好自己，我的孩子。
+action,action-b7bb42e9-f3ed-47ba-7ebe-2af3f2952048,"I am #:B'Oldar:#, the leader of this sacred place.",我是#:博尔达尔:#，这处圣地的领袖。
+action,action-bfba7f90-c1ec-7d51-e840-948d5c18131c,And who am I talking to?,那么，与我交谈的又是哪位？
+option,choice-bab962fe-0801-a568-083b-40dbd2eda6ca,Just a traveler.,只是个旅人。
+option,choice-765d2dd4-4c34-2570-0117-c85607bed53e,A nobody.,无名之辈。
+action,action-d7480ce0-9d1c-e0ea-5f7d-85d80493908f,I see...,原来如此……
+action,action-e35addb4-4371-3c42-18b8-3669325076ed,Then I will not deter you any longer from your travels.,那我就不再耽搁你的旅程了。
+action,action-19c2bde8-9b59-bc60-a1d2-2c123c6078f3,So?,怎么样？
+action,action-06be01f8-700d-30af-3278-6dcd49f9ef53,You don't seem to be a... #:nobody:#.,你看起来可不像是……#:无名之辈:#。
+action,action-a86db6cc-1f3a-2fe0-02d3-958815d01442,You seem to be far more. Is that right?,你远不止如此。我说得对吗？
+action,action-547cf5cd-ac38-8fec-5e5c-27e479ca1654,"Please forgive my question.
+I'm just very curious.","请原谅我的提问。
+我只是非常好奇。"
+action,action-6ea5e451-6b9a-b154-ce5d-8dd40c19d72e,You are in the heart of the Rhoga Swamp.,你正身处罗加沼泽的深处。
+action,action-be2e4c40-c133-249f-10c7-7270c38a098a,"However, be careful where you go. There is a fearsome beast lurking around.",不过，走动时务必小心。附近潜伏着一头可怕的野兽。
+action,action-284c6a46-d245-e96a-90a6-73c161537b30,Especially near the temple.,尤其是在神殿附近。
+option,choice-c11905fa-4316-001e-e5e1-65b212af714a,What temple?,什么神殿？
+option,choice-43e26cb5-8c36-27bb-6413-bb649f08470c,Which beast?,什么野兽？
+option,choice-4ecb51fe-04ee-43ba-a7a8-a0cdca423b65,That's all I wanted to know.,我想知道的就这些。
+action,action-c6dacbd8-2085-9bd3-b652-d1164ffecf1f,"To the east, there is a sacred temple.
+It is our mission to protect it by any means.","东边有一座神圣的神殿。
+不惜一切代价守护它，正是我们的使命。"
+action,action-9cc22ece-3357-2e80-31e3-9b27f4658612,"In order to protect the temple from outsiders and the beast, we had to seal it.",为了保护神殿不受外人和野兽的侵扰，我们不得不将它封印。
+action,action-0961d15c-7221-2aba-fa29-5e6fddc0b141,Haven't you heard the rumors about the beast of the swamp?,你没听说过沼泽野兽的传闻吗？
+action,action-c5b3c803-1da0-647e-7194-2f954bcc2dd4,It sneaks up on you... And in the blink of an eye you'll be dead.,它会悄无声息地接近你……眨眼之间，你就没命了。
+action,action-78667042-e1ac-7539-49e6-1d3e975f5c0e,"Many have come here to kill the beast, but no one ever came back.",许多人来这里猎杀那头野兽，却没有一个人回来过。
+action,action-afbc6039-f811-dfe7-232f-805794c8f121,Even two high-ranking members of the royal guard never returned.,就连皇家卫队的两位高阶成员也一去不返。
+action,action-2eb27dab-1643-2ad0-8ad9-e8d53b521631,Is there anything else?,还有别的事吗？
+action,action-a7ee010c-5ef5-c573-de81-01da9b320a12,Open the temple?,打开神殿？
+action,action-bf623fad-8a20-a58a-3659-cc5fe425c0b4,I suppose you could help us with the beast.,也许你能帮我们对付那头野兽。
+action,action-bcbb5c48-aede-7057-3b1f-421e28729cd9,"We managed to trap it inside the temple, but could not defeat it on our own.",我们设法把它困在了神殿里，却无力凭自己击败它。
+action,action-6677e35c-f6c9-8093-2eac-ffd80c92f5ef,What do you say?,你意下如何？
+option,choice-33afa163-063b-2d2f-575c-13838432ebfd,I will go into the temple and slay the beast.,我会进入神殿，斩杀那头野兽。
+option,choice-7e46e1a4-0a03-ecf2-b9b4-634774098c5b,Let me think about that.,让我考虑一下。
+action,action-89ad0264-7d24-1f2e-2f11-52cf90b58417,Very well...,很好……
+action,action-94c17123-b9a8-f4dc-d953-851486431c14,I knew you were the one who would defeat the beast.,我就知道，你就是那个会击败野兽的人。
+action,action-81ce64c3-8f6c-35a8-205b-5d4430be5bf8,Meet me at the entrance to the temple.,到神殿入口处与我会合。
+action,action-d19a5d2b-19f6-9943-9d94-57427d63b279,"No!
+The temple remains sealed.","不行！
+神殿必须保持封印。"
+action,action-30eea428-d73c-bc97-a013-4e2fd73e45fc,I won't open the door without a good reason.,没有充分的理由，我是不会开门的。
+action,action-0ca17a45-53f1-f746-3f8a-3e5d9d3455ab,We have given up our simple needs and now serve only our God.,我们舍弃了世俗的欲求，如今只侍奉我们的神明。
+action,action-23489af1-d047-7b33-1cfa-00080cd87d99,"This kind of devotion is not tolerated in this land. Many years ago, we decided to move into the swamp.",这样的虔诚在这片土地上不被容忍。许多年前，我们决定迁入沼泽。
+action,action-3ae1f52a-9484-3702-f6a0-5a827d91f3c7,Here we are undisturbed and may worship our God in our own way.,在这里，我们不受打扰，可以用自己的方式敬拜我们的神明。
+option,choice-f48c7d74-02ea-5aab-859c-ee5130a34add,How do you worship?,你们如何敬拜？
+option,choice-d76b0c1a-aa90-7924-dc30-3a439682843b,Well...,呃……
+action,action-a76dceaf-768d-ee80-598a-24397dd8ad62,You seem to be afraid of details...,你似乎不敢深究细节……
+action,action-700824e7-436c-1979-415f-73a1012f27b9,But don't worry.,不过别担心。
+action,action-055d6121-b156-9949-bf1c-1aa553a0ab48,"Come here, my child.",过来吧，我的孩子。
+action,action-daefa047-f99a-5d0c-2965-ccc965779448,"You have been a great help to my brothers.
+That should not go unrewarded.","你帮了我的弟兄们大忙。
+这份恩情不该没有回报。"
+action,action-f0e837dc-8bb2-282d-97c0-0f276a646b06,"I, too, will give you a task that will test your abilities and your enthusiasm.",我也要交给你一项任务，它将考验你的能力与热忱。
+option,choice-0e68f65d-396d-1cc2-e70f-84a942553b02,Give me your task.,把任务交给我吧。
+option,choice-7f436370-d88d-e240-6cbd-c537d7631c2b,What is my reward?,我的报酬是什么？
+option,choice-c1633470-b07e-a89d-8c82-97d09922d0ab,I am not interested.,我没兴趣。
+action,action-8ce8a37b-ee46-0f69-cab6-b5fc14fb8cf0,"Your answer disappoints me.
+So be it...","你的回答令我失望。
+那就这样吧……"
+action,action-a2cb5da0-7787-a117-f1fd-a51190d2c190,"Days ago, I had a vision about an ancient book.
+The #:Arcanum Sanguis:#.","几天前，我在幻象中看到了一本古籍。
+#:血之秘典:#。"
+action,action-f94e3867-f8cb-5ed5-538c-43197a5c8854,I shall accept you into our ranks provided you carry out your task to my satisfaction.,只要你把任务完成得让我满意，我就接纳你加入我们的行列。
+action,action-6c30ec96-b6aa-2da8-84ad-79e5d58a7a41,"It was stolen from the Academy, north of here.",它是从北边的魔法学院被偷走的。
+action,action-825d170a-1492-1074-6de3-6827ac7c34a9,I want you to find and bring me said book.,我要你找到那本书，并把它带来给我。
+option,choice-050e62c6-e22d-a631-5769-e19212fe3538,Where can I find the book?,我能在哪里找到那本书？
+option,choice-1aa660b6-2973-3644-d16b-a68860be1bc2,How do you know about it?,你是怎么知道这本书的？
+option,choice-5bc2ef50-92f3-a82d-3e06-cebddbddb8e6,I already returned the book to the Academy.,我已经把书归还给学院了。
+option,choice-d0c42a74-9b75-8dc8-3bd5-4f1edee5fd48,I don't want to continue the search.,我不想继续寻找了。
+option,choice-3ddfdb7a-9ee5-abe2-f56a-f9fd6f9fc30f,Do you know a Lord Margyott?,你认识一位马尔乔特领主吗？
+option,choice-10bdc19d-4c69-2e10-78d7-d6010845122c,I know where the book is.,我知道书在哪里。
+option,choice-cdf43c93-37ea-2ffa-b549-5c97a14d99f2,What do you need for a skeleton key?,制作万能钥匙需要什么？
+option,choice-01e41e41-cece-3395-9a10-02e6152a7f58,I have everything needed for a skeleton key.,制作万能钥匙的材料我都备齐了。
+option,choice-c9f239e1-f685-81d5-fab8-d23a9d0bb49c,Here is the Arcanum Sanguis.,这就是血之秘典。
+option,choice-b768ad71-3484-24d0-6679-dad621c6b439,There's something else I want to talk about.,我还想谈点别的。
+action,action-44d5487d-85ec-2e19-7297-fce3f027caa7,Our practices are intended only for the few of us.,我们的仪轨只属于我们这少数人。
+action,action-ad3b4a2c-220e-0c2a-1ae3-4bbff930b22a,"In my vision, I saw the keeper of the Crossroad Inn.
+He was part of the theft.","在幻象中，我看到了十字路旅店的店主。
+他参与了那起盗窃。"
+action,action-ac3c0efd-6d7e-5b3b-922d-0d237e47f386,You may want to talk to him about the book.,你或许该找他谈谈那本书的事。
+action,action-61b3088b-8d45-a05c-b0bc-b1ccff674199,"Also, the mages of the academy are searching for it.
+Certainly, they already discovered something.","另外，学院的法师们也在寻找它。
+他们想必已经有所发现。"
+action,action-15790925-4eff-20ff-afbe-8e4b52a223d0,Many years ago I was told about the existence of this book.,许多年前，就有人告诉过我这本书的存在。
+action,action-1f00fbea-db22-85e0-2fd0-3eadbb3d4b12,"However, I was denied access to the academy, and thus to the book.",然而，学院拒绝我入内，我也因此无缘得见那本书。
+action,action-8c77ff81-0fc4-3ac5-c037-e0d27809f1ac,It seems to me that I was mistaken about you.,看来，我是看错你了。
+action,action-6caff4b5-1391-a5ae-0b69-1763760324ec,"What is it, my child?",怎么了，我的孩子？
+action,action-3b47dbee-3cb5-5a6f-ef6b-88e8658ec47b,Yes?,什么事？
+action,action-d8ada61c-87ab-3986-78f3-507b330a2cea,Are you sure about that?,你确定吗？
+option,choice-a4f2a66a-e80c-2d4d-9dd8-e928e5f03271,Yes.,确定。
+option,choice-b9a0d947-0a32-16d8-cc4a-e0161440e8a0,No. I am going to find the book.,不。我会去找那本书的。
+action,action-91aba49c-0d9c-4275-7066-b7074f4854d7,"Good.
+Is there anything else?","很好。
+还有别的事吗？"
+action,action-4110bc91-bfcf-6714-c11c-38bd1181542f,"Indeed.
+Though, it is a name I haven't heard for quite some time.","认识。
+不过，这个名字我已经很久没有听到了。"
+action,action-49f86b75-d4ee-1a13-a054-0bb1763595f9,Lord Margyott is the ruler of a far away island.,马尔乔特领主是一座遥远岛屿的统治者。
+action,action-0b3aca38-12d9-42ec-423b-068bd4f07973,"Excellent!
+Where is it?","好极了！
+书在哪里？"
+action,action-03e0185b-5c6c-48d5-0f44-015a8324fcfb,"Of course, they had to lock away the book.",他们当然得把书锁起来。
+option,choice-098996e6-4bf5-3591-6211-3348d2fa3282,The book is locked away in a chest.,书被锁在一个箱子里。
+action,action-15dc04d8-779e-cc95-8416-8631f206a969,"Over the years, I have acquired knowledge that seems incomprehensible to many.",这些年来，我习得了许多常人难以理解的知识。
+action,action-af3ef45a-4aa4-7342-10e2-40dc2630145b,This includes the knowledge of how to make a skeleton key - a key that opens any lock.,其中就包括万能钥匙的制法——一把能打开任何锁的钥匙。
+action,action-b0c66755-707a-2ae2-b522-a6d409475e9d,I shall make one for you if you bring me the missing items needed.,只要你把所缺的材料带来，我就为你做一把。
+action,action-7fe4e1d7-74e3-2b26-413c-39c44d712a53,Rumor says no one ever found the island without his invitation.,传闻说，没有他的邀请，谁也找不到那座岛。
+action,action-66e106c8-64f1-440e-f3c3-9d76a1e78bd9,I need one #:ore of orichalcum:# and a #:small red gem:# for the ritual.,仪式需要一块#:山铜矿石:#和一颗#:小块红色宝石:#。
+action,action-d837bde8-ce35-8cce-fb4d-a92984816e77,"For the base of the key, I need the #:bone of a skeleton:#.",至于钥匙的基底，我需要一根#:骷髅的骨头:#。
+action,action-2b534b95-d9c6-7d2c-32f5-acc9d1c085b6,I will now craft a key out of this bone.,现在，我就用这根骨头打造一把钥匙。
+action,action-52d5b53b-5d17-2c5a-4bf5-2df6900564dd,And imbue it with the magic to open any lock.,再为它注入能开启任何锁的魔力。
+action,action-b3a2e3ef-e3a8-5030-eff1-ce9a095d7389,...,……
+action,action-5f1ddc2e-5301-8dbe-ebef-8a92e8f60228,"Take this key and retrieve the Arcanum Sanguis.
+Be aware, that the key may only be used once.","拿上这把钥匙，去取回血之秘典。
+切记，这把钥匙只能使用一次。"
+action,action-24150504-a1d8-9225-e099-2abc38b21405,"Incredible... This artifact will take our cult in a new direction.
+I must thank you, my child.","不可思议……这件圣物将引领我们的教团走向新的方向。
+我必须感谢你，我的孩子。"
+action,action-92129552-5210-6d79-14de-a14537b64952,"You have proven yourself to be a valuable member of our cult.
+That should not go unrewarded.","你已经证明了自己是教团宝贵的一员。
+这份功劳不该没有回报。"
+action,action-61efe39a-4ed3-edd3-a3c2-54ecdd4fc083,"Meet me in front of the temple, which is located east of here.
+I will share our secrets with you.","到东边的神殿前与我会合。
+我会与你分享我们的秘密。"
+action,action-32c231b4-fa7d-698d-cd52-dc7cbacdbbd8,Yes indeed.,没错。
+action,action-7fd555bb-3352-484f-e68e-459d52b36949,"We realized that you could soon become a threat to us and the temple.
+So we decided to lock you inside it.","我们意识到，你很快就会成为我们和神殿的威胁。
+所以我们决定把你锁在里面。"
+action,action-6d7fdd4b-95eb-5700-dab2-9185616e4d76,"To my amazement, you seemed to be able to escape the dangers of the temple, as well as the temple itself.",令我惊讶的是，你不仅躲过了神殿中的重重危险，还从神殿本身逃了出来。
+action,action-b9bf1232-6346-7f7d-febf-9b95b5f7944b,"We must have misjudged you.
+This strength must not perish inside the temple.","我们一定是看走眼了。
+这样的力量绝不该消亡在神殿之中。"
+action,action-00beacd6-6e7d-ed90-cf4d-a0214c19c65b,No! This power should better join our community and grow even stronger!,不！这股力量更应该加入我们的社群，变得愈发强大！
+option,choice-ee1792b8-c2b8-4fee-ebfb-80926edbfa11,You are crazy!,你疯了！
+option,choice-e04a3bc9-cc10-54d2-fe64-5235b5ae253b,Sounds great!,听起来不错！
+action,action-fc781c23-259d-3679-eae7-ac42a0baf7a1,Are you sure you want to have your back on me and the community?,你确定要背弃我和整个社群吗？
+action,action-ca0f61bc-4e29-76ca-5348-999bacb0abd1,Very well!,很好！
+option,choice-fffacdd8-8668-a1c2-eea1-22143edd53b4,Yes. I don't want anything to do with you.,是的。我不想和你们扯上任何关系。
+option,choice-5178e69b-5252-7a82-e786-a4744ff9309d,No. I want to join the cult.,不。我想加入教团。
+action,action-4c56cedf-1fae-b3c6-f69d-cf08d3539d8e,Well then. Apparently we were not mistaken about you.,那好。看来我们没有看错你。
+action,action-f3e58543-8482-a7d6-b165-71254078eb29,From now on you are no longer welcome here!,从今往后，这里不再欢迎你！
+action,action-2bfbfe8f-a21e-46cd-0b71-afa9002d5b44,Everyone in our community had to pass a test to demonstrate will and dedication.,我们社群中的每个人都必须通过考验，以证明自己的意志与奉献。
+action,action-467550ae-1124-bdde-8f36-1b09da36d881,"As you can no longer serve our community, you are no longer welcome here.",既然你已无法再为我们的社群效力，这里也不再欢迎你。
+action,action-596cb873-9e73-8d4a-401b-da2b030ec826,"Meet me in inside the temple, which is located east of here.
+I will share our secrets with you.","到东边的神殿里与我会合。
+我会与你分享我们的秘密。"
+action,action-43489eb1-e3f1-b794-319a-0d1c4b4c57f5,"Your strength would be a great asset to our community. However, in a vision, I saw you entrusting a relict important to our cult to the wrong people.",你的力量本可以成为我们社群的一大助力。然而，我在幻象中看到，你把对教团至关重要的圣物托付给了不该托付的人。

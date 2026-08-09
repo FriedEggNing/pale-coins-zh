@@ -1,0 +1,49 @@
+type,id,text,zh
+action,action-45897a0c-f75f-eeee-48d2-45fe199c3968,"Welcome to the private collection of my esteemed master, Baron Frestek.",欢迎来到我尊敬的主人——弗雷斯泰克男爵的私人收藏馆。
+action,action-6a37fdb2-a7ee-64ec-3b02-e3f39f303999,What brings a noble adventurer like yourself to a collection like this?,是什么风把您这样尊贵的冒险者吹到了这收藏馆来？
+action,action-421e2205-9b9a-843a-a115-4f9e033d3043,"Would you care to view the exceedingly rare, and quite costly, items?",您可愿一观这些极为稀有、也颇为昂贵的藏品？
+action,action-1fe96e04-a86f-fc6b-08e4-13a3d3d109cf,Or are you perhaps interested in contributing something to the collection?,又或者，您有意为收藏添上一件藏品？
+action,action-ba93ae54-4ea5-4eb1-a153-08100752ff90,"Welcome to the private collection of my esteemed master, Baron Frestek.",欢迎来到我尊敬的主人——弗雷斯泰克男爵的私人收藏馆。
+action,action-c3b9dde0-5dba-418c-a42c-e57c3eddfb28,How may I be of service to you?,有什么我可以为您效劳的？
+option,choice-01efb615-65e3-b915-a10c-6a637d330ca7,What items does the Baron collect?,男爵都收藏些什么？
+option,choice-3f29d92a-28ad-d68a-edc2-1c6566e1a773,How may I contribute to the collection?,我要怎样才能为收藏出份力？
+option,choice-9eecc504-944b-4c9f-d721-ef7fcb9bd03f,I want to add something to the collection.,我想为收藏添一件东西。
+option,choice-2a964847-766b-60cb-6a46-7ee19035c623,"There's nothing I want, right now.",我现在没什么想要的。
+action,action-4d562088-c2f7-80d6-614a-983a1afc02bb,"Very well.
+Here's a list of all the items in the Baron's possession.","好的。
+这是男爵现有全部藏品的清单。"
+action,action-33d22584-5f62-581b-90c6-a10b5d2bd54a,"Well then.
+Wishing you all the best on your journey.","那好。
+祝您旅途一切顺利。"
+action,action-2ce1fb6a-87f8-a28e-351f-efe2b7764546,"Here you will find all manner of rare weapons, armors, and artifacts that Baron Frestek acquired during his travels.",在这里，您能见到弗雷斯泰克男爵游历各地时收得的各式稀有武器、防具与神器。
+action,action-634335bc-e6b2-c0aa-1cad-8700dd77c2d2,"You should know that he is an exceptionally meticulous collector.
+If he hears of a rare item, he notes it to his list and simply must obtain it.","您要知道，他是一位极其严谨的收藏家。
+只要听说某件稀有物品，他就会记进清单，非到手不可。"
+action,action-606ee0f9-52c9-8647-c0e2-c7d50623e4ab,"By now, it is well known that Frestek pays a correspondingly high price for any item he does not yet possess.",如今人尽皆知，凡是弗雷斯泰克尚未入手的物品，他都愿意出相称的高价。
+action,action-0c6c82d0-1aa1-b32b-a860-48f1ef5c536c,The Baron keeps a list of items he has at least heard of or read about.,男爵有一份清单，凡是他听闻或读到过的物品都记录在册。
+action,action-6c5d7a50-9beb-c9c0-b7ac-c152fb1a9768,"These items may be given to me.
+It is my duty to examine them, assess their value, and store them appropriately within the collection.","这些物品可以交给我。
+检验、估价并将它们妥善收入收藏，正是我的职责。"
+action,action-360da04b-3700-3fd1-2864-3f2e667177db,"Should you bring me an item the Baron does not yet possess, you will be given an appropriate reward.",若您带来男爵尚未拥有的物品，便会获得相应的酬谢。
+action,action-86910898-6665-4b11-8c2b-2140532aa213,"You already made a small contribution to the collection. 
+Please accept this gift in recognition of your efforts.","您已为收藏做出了一点贡献。
+请收下这份礼物，聊表谢意。"
+action,action-d25bfa85-eed2-9343-f796-8bf199e46094,"Your efforts to contribute to the collection have already become known around here.
+These rare stones are yours as a token of our appreciation.","您为收藏所做的贡献，在这里已传为佳话。
+这些稀有的宝石便赠予您，以表谢忱。"
+action,action-e01d161b-c183-6573-145c-06385569758a,"Your contribution to the Baron's collection is truly exceptional.
+This gift is bestowed by the Baron himself.","您对男爵收藏的贡献着实非凡。
+这份礼物是男爵亲自赐下的。"
+action,action-4137bde0-fb06-2591-d2ea-31afdb6b346e,"I must admit, I did not believe anyone capable of contributing so greatly.
+You have truly surprised me.","我必须承认，我从不曾相信有人能做出如此巨大的贡献。
+您着实令我惊讶。"
+action,action-465a9be3-38a1-a3da-3739-47e1cbedefe5,"This is among the rarest treasures in the Baron's collection.
+Please, accept it.","这是男爵收藏中最为稀有的珍宝之一。
+请您收下。"
+action,action-6d6c75e4-3f7a-f200-6a42-db6d13e9c01d,"I can hardly believe my eyes.
+The Baron's collection is now complete.","我简直不敢相信自己的眼睛。
+男爵的收藏如今圆满了。"
+action,action-a565f660-1b21-f505-7b37-cbc579056eed,"Nothing remains...
+Every item has been examined, appraised, and placed in its proper spot.","再无遗漏……
+每一件藏品都已检验、估价，并归于其位。"
+action,action-8856b950-a956-7759-53ee-6f83c6193115,Please accept this badge. It reflects your efforts and the Baron's gratitude.,请收下这枚徽章。它凝聚着您的辛劳，也承载着男爵的谢意。

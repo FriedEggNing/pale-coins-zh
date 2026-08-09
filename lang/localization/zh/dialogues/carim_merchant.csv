@@ -1,0 +1,5 @@
+type,id,text,zh
+option,choice-c8c65553-87c7-2834-0379-8fc4f49629e7,Exchange Blood Coins,兑换鲜血硬币
+option,choice-413b87b8-90ea-7ee1-eb1d-c616f086d26a,Trade in Carim's Bloody Dagger,上交卡里姆的染血匕首
+option,choice-b43111a5-9e1e-d5de-19ca-8935cea4d3a1,Leave,离开
+action,action-68beffa0-1697-1ceb-23b0-67f410801433,...,……

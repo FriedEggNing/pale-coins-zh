@@ -1,0 +1,8 @@
+type,id,text,zh
+action,action-0f543e9c-9956-086a-4651-6ba2dc21c0c1,"Thank you, man!",谢了，兄弟！
+action,action-aca547a0-81f9-9d3e-ef37-9960b743b300,"It feels great to be back in the camp once again.
+Make sure to talk to Balder!","能再次回到营地的感觉真好。
+记得去和巴尔德聊聊！"
+action,action-9563e6c1-29c1-977d-c954-1ad4a98c64b7,Do you need something?,你需要什么吗？
+action,action-a3b0a151-1f7e-3f75-adef-02b921a82151,I'll be staying here at the camp for a while.,我会在营地待上一阵子。
+option,choice-607f75cb-01f8-391d-9ab4-b5cdc5a56518,See you!,回头见！

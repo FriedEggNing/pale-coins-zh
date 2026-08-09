@@ -1,0 +1,16 @@
+type,id,text,zh
+action,action-4c272c90-2600-32b2-d542-a86a3b487f30,"Take a look!
+The freshest ingredients far and wide.","来看看吧！
+方圆百里最新鲜的食材。"
+option,choice-23ec6a57-3b09-6fe4-f6f7-79e669c9704a,Where do you get your goods?,你的货是从哪儿进的？
+option,choice-f256668a-05cd-1fd4-6bf6-003db66d8b05,Show me your wares.,让我看看你的货。
+option,choice-efda4633-e322-f728-98d5-6689efbc3921,See you!,回见！
+action,action-9d1556f2-d82d-d5b9-947b-9bd4cf78c9cf,Have a good day!,祝你今天愉快！
+action,action-95fd4222-0840-f581-d075-017631cac811,"Always happy to!
+Everything here is fresh!","乐意之至！
+这里的东西全都新鲜着呢！"
+action,action-45cda6c5-aa6e-b654-78fc-b41c8b9e0e80,"Well, most of it comes from the nearby farmers.",嗯，大部分是附近的农夫们供的。
+action,action-d76be398-389c-763e-4199-06c55337d0f1,"Some folks around here also have small fields outside the city.
+For them, it's a side hustle, and I can offer their goods at good prices.","这一带也有些人在城外种着小块田地。
+对他们来说是份副业，我也能以实惠的价格卖他们的货。"
+action,action-66f09577-015e-bff8-2d10-f326dc8849a1,"But I've already heard from several that bandits are raiding the fields. If this keeps up, many will give up their land.",不过我已经听好几个人说，盗匪在洗劫田地。再这样下去，很多人都会放弃自己的土地。

@@ -1,0 +1,15 @@
+type,id,text,zh
+action,action-df475352-ae9c-a2c7-115d-8032fdaa96c2,*The volcanic isle Ver'Kum,*火山岛维尔库姆
+action,action-fde666eb-259e-e830-6f2f-32746fa964c8,"In the distant reaches of the known world, where few ships dare stray, lies the volcanic isle of Ver'Kum - a land of smoldering cliffs, wandering mist, and dark clouds.",在已知世界的遥远尽头，鲜有船只敢于涉足之处，坐落着火山岛维尔库姆——一片遍布焦烟峭壁、迷雾游荡、乌云蔽日的土地。
+option,choice-f1c43793-14c1-4ece-4285-00f3ef8f5435,Ver'Kum,维尔库姆
+option,choice-6a73e559-e53c-aa18-ac55-ab67e4f191ca,The great disaster,大灾变
+option,choice-9c2f2a82-9eb2-fb6a-d5cf-feee584e5755,Ver'Kum Steel,维尔库姆钢
+option,choice-4b01a65d-7353-6726-413c-a9dac55272ca,leave,离开
+action,action-94de2d8f-a812-d73a-26cd-8fe60c83dcbe,"The volcano at the isle's center, known as the Black Maw, raises high into the dark clouds.
+Its warmth seeps through the earth and makes it felt by the inhabitants of Ver'Kum.","岛屿中央的火山名为黑喉，高耸入乌云之中。
+它的暖意渗过大地，维尔库姆的居民皆能感受得到。"
+action,action-a9b5e68e-aca3-c01e-7a38-c1019f0bb8b5,"One day, the great volcano Black Maw awakened in fury, swallowing Ver'Kum's settlements beneath waves of molten rock and choking ash.",一日，巨火山黑喉在盛怒中苏醒，将维尔库姆的聚落吞没于滚滚熔岩与令人窒息的火山灰之下。
+action,action-ba08f1e8-5f5a-c79c-33ee-0a1158cd2b97,"The island's people fled into the farthest reaches of the land, clinging to survival as their history and ancient knowledge was buried beneath the earth.",岛上的人们逃往大地最偏远的角落，在历史与古老知识被埋入地底之时艰难求生。
+action,action-606caa7b-b5f5-1560-6c5b-06318942cb7f,"For generations, they toiled, reclaiming what little remained and rebuilding upon the scars of fire.",数代人辛勤劳作，拾回所剩无几的一切，在烈火的伤痕之上重建家园。
+action,action-0be0b177-6b83-4601-5a52-483ab62bf284,The Ver'Kumi once unearthed something extraordinary - the ore deep within Ver'Kum's volcanic veins.,维尔库姆人曾发掘出一种非凡之物——深藏于维尔库姆火山矿脉中的矿石。
+action,action-8f29a965-62ff-5ce5-ed79-6c95bc6b14d6,"Tempered by fire, it yielded steel unlike any other, resilient and near unbreakable. Now, their craft stands as a testament to survival in a land that still trembles with the breath of the Black Maw.",经烈火淬炼，它炼出了举世无双的钢材，坚韧异常，近乎牢不可破。如今，他们的工艺已成为一座丰碑，见证着人们在这片仍随黑喉吐息而震颤的土地上生存至今。

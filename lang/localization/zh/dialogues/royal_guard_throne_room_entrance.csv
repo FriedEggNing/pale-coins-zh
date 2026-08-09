@@ -1,0 +1,18 @@
+type,id,text,zh
+action,action-daa83307-93e2-f301-b555-f8d8927bebe5,Stop!,站住！
+action,action-ce75e22f-056d-fb2e-7448-94a970b83d9e,An audience is currently taking place which no one else is allowed to attend.,现在正在进行一场谒见，任何外人不得入内。
+option,choice-6e9ad6c2-efc5-fc22-758f-8082d2f443a2,Who attends the audience?,谁在参加谒见？
+option,choice-8849c6dc-d3cd-2a45-8ea7-4324efd4c38b,When is the audience finished?,谒见什么时候结束？
+option,choice-7e374ae5-3131-20b4-390b-e0580a9501aa,I am on my way.,我这就走。
+action,action-c57a941c-a6d4-9dc5-165d-662bde40bd2e,Baron Frestek and King Weynard III discuss strategic issues.,弗雷斯泰克男爵正与韦纳德三世国王商讨军政要务。
+action,action-dc2b6155-b362-2236-df94-105ced8644f8,We were expressly told not to let anyone through until the audience was over.,我们接到明令，在谒见结束之前不得放任何人通过。
+action,action-1e0f48a6-c655-2c8c-6239-78bd154536a0,This may take a while.,这可能要等上一阵子。
+action,action-a895aa10-b6c1-2248-91fb-b5bf9a88538d,"The baron and our King usually have different ideas, which often drags out their conversations.",男爵和我们的国王往往意见相左，他们的谈话常常拖得很久。
+action,action-65b80670-73a5-354f-3cf9-82e6f70df972,Good.,很好。
+action,action-1d4cb870-ce37-f458-d135-ae7f049e11e7,"It appears that Baron Frestek's audience already ended.
+You are free to go into the castle.","看来弗雷斯泰克男爵的谒见已经结束了。
+你可以进入城堡了。"
+action,action-f984bc16-c7da-df02-b708-cd75e3f3b33b,You may now enter the throne room.,你现在可以进入王座厅了。
+action,action-793a75dc-9b5a-2b4e-c4ee-5f3c6cd3e3c6,"However, stay respectful in there and do nothing stupid.
+One does not speak to the king lightly.","不过，在里面放尊重些，别做蠢事。
+同国王说话可不是儿戏。"

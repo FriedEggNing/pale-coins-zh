@@ -1,0 +1,39 @@
+type,id,text,zh
+action,action-67739201-c1d9-6be1-1da2-de729515822b,"So... mind telling me what you saw, lad?",那么……小伙子，能说说你看到了什么吗？
+option,choice-76d71746-e6c9-8666-51d4-ab952028514d,I entered this... realm and spoke to someone named Nuveyar.,我进入了一个……异境，还和一个叫努维亚的人说了话。
+option,choice-a67feafa-8733-e231-852d-9a39801b955a,I can't remember what happened.,我不记得发生了什么。
+action,action-b7dfc24f-5993-8eb0-4381-f3b8a5bd4954,"A realm you say? 
+Fascinating... What did this Nuveyar tell you?","你说异境？
+有意思……这个努维亚跟你说了什么？"
+action,action-6f14325a-ca99-46c3-619e-8013e8da606f,"Hmm... really? 
+*sigh* I was hoping to finally get some answers.","唔……真的吗？
+*叹气* 我还指望终于能得到些答案呢。"
+action,action-bfc7efc8-a4f3-c3e3-c261-a7fb842d8cef,The magic might just be too potent for someone like you.,那魔法对你这样的人来说，恐怕是太强了。
+action,action-73894d30-a973-11aa-ff7c-1dbf6f69a2ce,Did he mention anything about the Champion's Coin?,他有没有提到冠军硬币的事？
+action,action-d5c99684-db42-3751-6598-7a31e40a5e58,But about the coin... Could it be the one you seek?,不过说到那枚硬币……会不会就是你要找的那枚？
+option,choice-90b35628-9e7a-f3e2-51ca-0a64405b2b97,Yes. The coin has the power to grant wishes.,是的。那枚硬币拥有实现愿望的力量。
+option,choice-b8e91849-cf24-32aa-b9be-49ead01d2d86,"No, the coin might just be more figurative than anything.",不，那枚硬币恐怕更多只是个比喻。
+action,action-a69024e8-8740-d262-6f47-ba1a0341cc23,"Incredible!
+That type of power is unheard of!","不可思议！
+这种力量真是闻所未闻！"
+action,action-e40a4bb2-9dea-c0ad-c83f-3ee0f6ae7f82,"Gah!
+One disappointment after another it seems.","呸！
+看来真是一个失望接着一个。"
+action,action-63d58371-4e7f-f19e-0a6b-e51e89c44078,"However, as much as it is incredible, it is equally terrifying.",不过，这力量有多不可思议，就有多骇人。
+action,action-672ee5b9-a7e1-b798-fea8-ac13013accd4,Did you happen to see anything else?,你还看到别的什么了吗？
+option,choice-d9c1bd88-3e5a-9d25-ea29-f4027cd4bb81,Yes actually. Do you know anything about Dhul'oq?,还真有。你了解杜尔奥克吗？
+option,choice-0e64ede4-3b90-3d55-a400-41a6aae97306,"No, that is all.",没有，就这些。
+action,action-61f90cd2-9184-bab6-a6c6-525be91f96d5,"Dhul'oq?
+I'm afraid I've never heard of it.","杜尔奥克？
+恐怕我从没听说过。"
+action,action-3ad57dc6-d32c-2d15-a1bc-540e7938fcd2,"However, the library in the capital might have something on it.",不过，王都的图书馆里也许能查到些相关记载。
+action,action-a0e65183-20ec-eec9-6d71-2d1fb664317e,"Hmm... I can teleport you across the bridge, if you want.",唔……你要是愿意，我可以把你传送到桥对岸。
+action,action-fe568061-8a59-dbc4-6f91-09fe31b6f3f6,Or...,或者……
+action,action-8911a123-9254-bda2-9b71-7842131f9bc2,You could go through the wastelands south of the forest.,你也可以穿过森林以南的荒地。
+action,action-ab4750a1-00a5-928c-19c5-60b653a7381c,"Though, that would be akin to suicide.",不过，那无异于自寻死路。
+action,action-f88df5e7-ac85-27ad-e508-ca692632a334,"But then again, it's up to you.",话说回来，决定权在你。
+action,action-a3d83dc2-1366-59d3-fea8-25042e8b77ac,The bridge to the city has been broken down for a while now.,通往城里的桥已经断了有一阵子了。
+action,action-ed3f586d-12ae-5fe2-f745-7fc70371e9fe,That area is infested with orcs and the like.,那一带到处都是兽人之类的东西。
+action,action-9aec16f9-d66f-4702-38f2-9dcd29065549,"Though, that is a very specific question for someone, who doesn't remember what happened.",不过，对一个不记得发生了什么的人来说，这个问题问得可真具体。
+action,action-a789fac2-0e87-8f84-0a1a-b3520b4b376c,Very well.,好吧。
+action,action-922b06d6-d0fb-24b5-9ef4-b340cff84f02,You could pass the bridge to the east and make your way to the city.,你可以走东边的桥，然后前往城里。

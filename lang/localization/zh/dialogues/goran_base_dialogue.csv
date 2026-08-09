@@ -1,0 +1,121 @@
+type,id,text,zh
+action,action-9133a7b0-7646-7155-4fcc-8abb9f727691,Who goes there?!,谁在那儿？！
+action,action-189a0925-32ee-3f5e-90b6-9937b0cfb78c,"Oh, it's you, little one!",哦，是你啊，小家伙！
+action,action-90dd4bde-cfe5-65cd-f819-dd92c7f5a166,You need something?,有什么事吗？
+option,choice-8aabc48c-a95d-416a-0c1c-264700f553da,I'm just an adventurer.,我只是个冒险者。
+action,action-f750f877-eb94-8421-f59b-29c3e7b53806,"The last adventurer ended up stranded here, hah!",上一个冒险者最后被困死在了这儿，哈！
+option,choice-52b6f56f-3c17-c63c-668e-cd8284e0857c,What are you going to do now?,你现在打算怎么办？
+option,choice-c74f722e-d79b-8998-f6ab-ee9b0822652b,Who are you?,你是谁？
+option,choice-b514fe2d-6300-f0fd-b5e5-6e94a3f94571,Do you know about the Champion's Coin?,你知道冠军硬币吗？
+option,choice-704c6a58-3858-ac05-5723-5a93a87586d9,Tell me about your camp.,跟我说说你的营地。
+option,choice-10c5a7df-1cd8-8828-d093-e8982cb20419,Do you have something to do for me?,你有活儿给我干吗？
+option,choice-129cd649-e5a4-b576-b08d-f79eed3fdb5c,Why don't you let Randolph go free?,你为什么不放兰道夫走？
+option,choice-cc638581-c1a6-90b5-3006-62ec00b63ec8,I found the King's Ruby.,我找到了国王的红宝石。
+option,choice-d571dcc3-fd8b-ab9a-8a6f-5d39ff8c71c5,Regarding Randolph...,关于兰道夫……
+option,choice-47488536-057a-b6d7-2bce-78f1ccd96b2c,See you!,回头见！
+option,choice-b56592c6-1fe8-db1e-005d-b35755eaafea,See you!,回头见！
+action,action-71e0a9db-02dd-d5d1-aafa-ab8e72a1de7e,Are you for real?,你是认真的吗？
+action,action-8639e03c-929e-6e8d-7275-c8c9cff153ec,"I am #:Goran:#, the chief of these lousy bastards up here!",我是#:戈兰:#，山上这帮废物杂种的头儿！
+action,action-9fc7dffd-6799-31be-677c-21b220c06cd0,Remember my name if you value your life.,要是还想活命，就记住我的名字。
+action,action-bd9e73bf-fe13-2cd5-bb8b-308a4f884e20,"The what coin?
+I am afraid I have no clue what you're talking about.","什么硬币？
+恐怕我完全不知道你在说什么。"
+action,action-a1e861e5-82ab-768d-7e9e-90c91a177aab,You'd have better luck going to that old wizard working for Balder.,你还不如去找那个给巴尔德干活的老巫师，兴许更有戏。
+action,action-4d9adfad-1888-a728-a6bd-dcc53ed78e8a,Anything else?,还有别的事吗？
+action,action-72db1fbc-4bd0-068f-089c-dfd81217c18a,Stop wasting my time!,别浪费我的时间！
+action,action-a291bd02-0ba4-f829-350c-3c5e46a40d20,Me and Balder used to work together before he got too soft for my liking.,我和巴尔德以前是一伙的，后来他软得让我看不下去了。
+action,action-11d210dc-f235-30b4-9aa0-df718039e96b,So I beat the crap out of him!,所以我把他狠揍了一顿！
+action,action-eee3c9fd-7dd8-fbd7-ff33-54067a1803df,"He left the camp, taking a few of my men with him.",他离开了营地，还带走了我几个手下。
+action,action-ee24defb-110e-0f89-101e-b6b3def2f6d0,But I heard someone helped that Icefall dumbass already.,不过我听说，已经有人帮过那个冰瀑村的蠢货了。
+action,action-de80da1f-8728-1e9c-a420-b7ad305ece28,Thinking about the adventurer... The  bridge broke down a while ago.,说起那个冒险者……桥前段时间就塌了。
+action,action-4401b25e-adc6-57f8-fb0d-5c39b3d4299a,"How did you end up here on this side of the river?
+I don't think you belong to Balder's men, do you?","你是怎么到河这边来的？
+你不像是巴尔德的人，对吧？"
+option,choice-dd77f6ce-90a4-e73f-2c00-53ab18f01d4e,I don't know how I came here.,我不知道自己是怎么来的。
+option,choice-0a745c31-8531-8c87-436d-08c9a94d36a0,I was sent here by a god.,我是被一位神送来的。
+option,choice-291d662a-9187-50ff-5e1b-849eb928d079,I belong to Balder's men.,我是巴尔德的人。
+action,action-a5c3ca95-0bf5-cc76-046a-e4f2572b4f12,I know when someone is lying to me.,谁在对我撒谎，我一眼就能看出来。
+action,action-d63ae998-d43e-bd45-a240-6c8c97a53b18,"Anyway, is there something you need?",不管怎样，你有什么需要吗？
+action,action-3860f290-6310-ba6a-a203-033339cdd370,"By a god?
+This sounds...","被神送来的？
+这听起来……"
+action,action-e27da23d-9afa-b2a0-bdc9-674ead0504a7,...unusual.,……真不寻常。
+action,action-5ea34cbc-6201-20d1-f16b-f9e866fc5533,"Ha!
+A worm like you?!","哈！
+就你这条蛆虫？！"
+action,action-be0fa52c-8f35-93ad-006a-75095aa989d5,I know when someone is lying to me.,谁在对我撒谎，我一眼就能看出来。
+action,action-cb91384e-4666-001d-8e0d-0b0d6cb0488f,"Randolph decided to run away with Balder back then.
+So he decided AGAINST ME!","当年兰道夫决定跟着巴尔德跑了。
+也就是说，他决定跟我作对！"
+action,action-3495de9b-28db-c469-3fe2-e1f7b678d367,"So, why should I be so kind to let him go?!",那我凭什么好心放他走？！
+option,choice-5cfed264-cdb1-074f-eddd-64a92f99474d,What do you want?,你想要什么？
+action,action-d28dcf43-3171-a9a3-2110-71e84b00ecce,You can't give me what I truly want.,我真正想要的东西，你给不了。
+action,action-2f77d45f-432e-284d-4d72-7cda8c452840,"However, there is one little thing that interests me.
+The #:King's Ruby:#.","不过，倒有一样小东西让我感兴趣。
+#:国王的红宝石:#。"
+action,action-1bff1a82-5035-3c9d-3a89-1528b535d2c4,"Supposedly, the ruby is buried somewhere in the royal crypt.",据说，那颗红宝石就埋在王室墓穴的某处。
+action,action-55da524f-e4d9-e259-c956-6cb0ef70c47e,"Bring me the King's Ruby, and I will think about letting Randolph go free.",把国王的红宝石给我带来，我就考虑放兰道夫走。
+option,choice-fbe22e4f-d2d7-a17e-2c14-05a757fd3fc9,Where is the crypt?,墓穴在哪儿？
+option,choice-e2028eb6-ea77-29fb-0f18-515679c12bde,Fine.,好吧。
+action,action-d42e026c-643b-e86d-fa42-ead19265523e,Is there anything else?,还有别的事吗？
+action,action-d7f2a226-0d98-aa73-20a4-a1a10b0114a1,The crypt is located in the capital. You'll certainly find it once you visit the graveyard.,墓穴就在王都。你去墓园转转，肯定能找到。
+action,action-3497e2d9-7239-be30-711b-e00f72da38af,"Accessing the crypt is your problem, though.",不过，怎么进墓穴是你自己的事。
+action,action-02b4364e-26b4-4d11-9428-1c6026bf898e,Yeah?,怎么？
+option,choice-844d5ef5-2748-6ab8-9ca0-d005d95dde33,Where can I find the gem?,我在哪儿能找到那颗宝石？
+option,choice-c9bcc622-df31-74e7-2cd9-6cd339ce775f,I gave you the ruby already.,红宝石我已经给你了。
+option,choice-a3856c1f-f686-daf3-d625-a6b4b5bf8828,How about I find new men for your camp?,我给你的营地找些新人手怎么样？
+option,choice-88c39dbd-e517-c60a-fcf5-550815b2978d,I found a new one for your camp.,我给你的营地找来了一个新人。
+option,choice-a9f9a3b7-4f3d-17b7-cede-737ed888d468,I found new men for your camp.,我给你的营地找来了新人手。
+option,choice-90db9a13-ad86-3f14-3aae-24a92ee6f159,I'll be back.,我会回来的。
+action,action-b4ae0417-8094-3946-03f8-89da8895707e,"Supposedly, the ruby is buried somewhere in the royal crypt.",据说，那颗红宝石就埋在王室墓穴的某处。
+action,action-fb7e596f-38cd-694c-37da-957768e6245b,"Hmph!
+You want to bring me new men for the camp in exchange for Randolph?","哼！
+你想用给营地找新人手来换兰道夫？"
+action,action-69d951ff-3943-8100-ce46-eb70e623aec3,"Got afraid after hearing about a crypt, did ya?",一听到墓穴就怕了，是吧？
+action,action-566f18c5-584e-b342-32a0-2abb5893567c,"Yeah whatever!
+Bring me at least #:one more:# guy for the camp. Then, we shall talk about Randolph again!","行吧，随便！
+至少给营地#:再带一个:#人来。到时候，我们再谈兰道夫的事！"
+action,action-551b098b-b77f-045b-1935-9802780653e1,"Well then...
+We had a deal.","那好……
+我们可是说定了的。"
+action,action-802641d9-62e6-9598-c6d7-ee8a9bce0397,"As far as I'm concerned, Randolph and his friend can crawl back to Balder's ass.",要我说，兰道夫和他那朋友尽管爬回巴尔德的屁股底下去好了。
+action,action-601bddae-dd63-43ce-c5bd-0bd69d8bc03c,"HELL YEAH!
+You fucking did it!","太他妈好了！
+你真的办成了！"
+action,action-6713055d-55a9-9ca7-ad66-9608d6469de6,Now let me see that!,快让我瞧瞧！
+action,action-65fe7263-b5ae-2d3a-9217-4f329be74dd3,...,……
+action,action-ea0b120d-f9cd-181d-f038-9315f5bb4d9d,"It is incredible.
+You can't imagine how long I've been waiting for this moment.","太不可思议了。
+你无法想象我等这一刻等了多久。"
+action,action-c29e6e02-befd-a82c-1e54-96320b867412,"Come back later!
+There's something I need to do.","晚点再来！
+我有件事要办。"
+action,action-1422af29-3d21-9ac6-36ce-636360df2c21,"Well then. There is something I am interested in.
+The #:King's Ruby:#.","那好。有样东西我很感兴趣。
+#:国王的红宝石:#。"
+action,action-ee4c2314-578f-c0d5-a10b-62211201d949,"I already told you.
+Bring me the King's Ruby!","我已经跟你说过了。
+把国王的红宝石带来！"
+action,action-72504b2c-3f20-9d5e-9f41-424fd42a0f9c,Then we may talk again about Randolph.,到时候我们再谈兰道夫的事。
+action,action-fb2bbd73-cabe-2f55-543c-e04c0c339881,"If you want to do something, start with that.",你要是想干点什么，就先从这件事干起。
+action,action-9abba459-08bd-eae6-a7a1-779c44e9bd6b,"Supposedly, the ruby is buried somewhere in the royal crypt.",据说，那颗红宝石就埋在王室墓穴的某处。
+action,action-5ec9d04e-3958-3a83-dc26-287a97b34fa4,"Come back later!
+I have something important to do.","晚点再来！
+我有要紧事要办。"
+action,action-ed722b3b-2473-f00f-58e1-2dae0878dd01,For this traitor?,为了这个叛徒？
+action,action-e0c09aed-57e6-08d7-49ca-2924d5fd0872,"You? Really?
+A nobody like you asking for work?","你？当真？
+你这样的无名小卒也来讨活儿干？"
+option,choice-1455bb11-6b88-9d8c-1aed-44217019793e,I am not a nobody!,我可不是什么无名小卒！
+option,choice-f21d773b-e289-ab09-0a61-98e755df053d,Forget it.,算了。
+action,action-131ff496-90ce-eac3-c4cf-8c0c31ae9102,I already thought so.,我早就猜到了。
+action,action-fd87c812-8b23-e173-08a6-906e2aadad4d,"You know what?
+Randolph should go back to Balder.","你猜怎么着？
+兰道夫还是回巴尔德那儿去吧。"
+action,action-9bbfec68-1e45-bb36-65ed-4cb98cb0cae9,I have other things to take care of anyway.,反正我还有别的事要操心。
+action,action-41f72e64-cb9e-b7c4-fc55-a79346a05264,"Take care of yourself, little one!",自己保重，小家伙！
+action,action-0d6e488d-09f1-7d5f-736c-6c271e15c56f,"Honestly, I don't know.
+I was hoping to get rid of my #:problem:# with the King's Ruby.","说实话，我不知道。
+我本指望用国王的红宝石解决我的#:麻烦:#。"
+action,action-f8bdcbf8-be64-1939-89d9-0ed00691d0d8,"Now that that's off the table, I need to figure out something else.",既然这条路走不通了，我就得另想办法。
+action,action-4efefa38-2c54-ab01-0b36-371a7e690761,"Maybe, I should leave the camp for a while.",也许，我该离开营地一段时间。

@@ -1,0 +1,5 @@
+type,id,text,zh
+action,action-015d6b84-0bd7-996f-0c9b-68037d6a6cb4,*There is a round hole in the middle,*中间有一个圆形的孔洞
+option,choice-fbac4d85-0ef7-658f-8dbc-12ab30c02fdd,Sacrifice Heart of a Warrior,献祭战士之心
+option,choice-a39f7656-9f2a-2fab-320f-028129388b51,Sacrifice Dry Heart,献祭干枯之心
+option,choice-d3a3461a-8b3f-3450-0fc3-2880a75bea2c,Leave...,离开……

@@ -1,0 +1,17 @@
+type,id,text,zh
+action,action-e958bd2a-47cb-7bc6-30df-2ba6502251fe,"It's you again!
+How can I help you?","又是你啊！
+有什么可以效劳的？"
+action,action-305d4950-d665-014b-dd8c-78b4ca3e2db3,But first...,不过先……
+option,choice-a99ccd78-bf27-3d25-9e44-198a4d190f1b,Do you have something to sell?,你有东西卖吗？
+option,choice-7adf3815-9849-b799-5446-c551ad528bd5,Where do I get a capital permit?,我在哪儿能弄到王都的通行证？
+option,choice-5b32436e-2594-56f9-3fa7-35b8bfce2766,See you!,回见！
+action,action-d29225ea-cb89-b371-4b02-d0ca6de29109,Here's a little something for helping me out.,这是谢你帮忙的小小心意。
+action,action-df07972b-c164-9e96-29d0-7d337500c9d7,"This is a little trinket amongst traders.
+May it serve you well.","这是我们商人之间流传的小玩意儿。
+愿它对你有用。"
+action,action-23114237-e967-3111-f22e-5273a1c52ab5,"I think Glen has one to offer.
+You better ask him about that.","我记得格伦手里有一张。
+这事你最好去问他。"
+action,action-bf9f8e50-621a-64c1-0cd9-3a075c4d0ca7,Be sure to come back and have a look at my wares sometime!,记得改天回来看看我的货！
+action,action-9365a4cc-643e-155a-4c06-457ff40e3df9,Only the best for you!,只给你最好的货色！

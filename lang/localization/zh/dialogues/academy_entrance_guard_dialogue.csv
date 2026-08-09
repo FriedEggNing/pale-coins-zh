@@ -1,0 +1,29 @@
+type,id,text,zh
+action,action-25b1bd7b-3add-d619-a790-b4ad7a9ba1ca,"What brings you here, young lamb?",是什么风把你吹来的，年轻的羔羊？
+action,action-9608de49-9af4-d0ce-7db3-283f3b9cf785,Do you seek guidance by our Mages?,你是来寻求我们法师的指引？
+action,action-e4b83b5e-0070-c1c6-3005-201ddb901948,Or is it our wine you desire?,还是渴望我们的葡萄酒？
+action,action-72d7fe02-06d8-4614-0c46-ee46f16dd6dd,"There you are, young lamb.",你来了，年轻的羔羊。
+option,choice-712474bd-6994-86ff-c33d-531ba7fa1438,Did you call me lamb?,你刚才叫我羔羊？
+option,choice-4e393fcd-8a21-4ce3-ee8d-7cbccb687737,What are you doing here?,你在这里做什么？
+option,choice-53f0cc0b-ce79-0d34-e508-9cb73b813969,You mentioned wine.,你提到了葡萄酒。
+option,choice-42b3784c-7438-55b9-559e-d7e27be2e0f4,Open the gate.,开门吧。
+option,choice-463520f4-c365-1a48-886a-47cfd28e9d80,What do you know about the stolen Arcanum Sanguis?,关于被盗的血之秘典，你知道些什么？
+option,choice-fa4b8c79-7944-f10c-6264-bb35c98b17b3,See you!,回见！
+action,action-9418219d-6490-e2e4-f70c-5c52e3d8ef2f,Below the saving hands of our father we all are lambs.,在我们的父神施予救赎的双手之下，我们皆是羔羊。
+action,action-c1044e12-de22-c818-798c-3bb8d10a7630,It does not matter who you are in the eyes of our father.,在我们的父神眼中，你是何人并无分别。
+option,choice-4e7a7129-81b4-6379-ff57-13e64d37ecfe,Our father?,我们的父神？
+option,choice-b1cf68cf-f9cf-132a-53b4-ec638370e2fc,I've heard enough.,我听够了。
+action,action-d120c95e-4288-3d7b-84e3-f4dd61b191ca,"Yes!
+Our father who created the earth, the fire, the sea, the rivers, the wind and every living creature.","正是！
+我们的父神创造了大地、火焰、海洋、河流、风，以及一切生灵。"
+action,action-7607b770-60b8-274a-0634-3425a91b0ffd,It is our father who grants us the strength and will to participate as a part of this world.,是我们的父神赐予我们力量与意志，让我们得以作为这世界的一部分而存在。
+action,action-bd58d8a2-502d-d1e3-d947-b1237ec754f8,It is he who we serve and it is he who enables us to use greater powers such as magic.,我们侍奉的是他，而正是他让我们能够运用魔法这般伟大的力量。
+action,action-5d08c7aa-e774-a3ed-8e1e-db6e5edc0263,I am the guardian of the academy gate.,我是学院大门的守卫。
+action,action-4cc339a2-e08c-fdb9-0056-b852884ed273,My task is to decide whether one is granted access or has to leave.,我的职责是判定来者可以入内，还是必须离开。
+action,action-6eb16c29-8735-4452-2880-664b0da63717,Haven't you heard about our wine?,你没听说过我们的葡萄酒吗？
+action,action-86a0c2a2-3178-18f0-9e5b-fa3bd8bc70ff,"It is a good which is often consumed and highly requested in Grenmark, as well as other regions and lands.",无论在格伦马克，还是在其他地区与国度，它都是广受欢迎、供不应求的佳品。
+action,action-7dfc9734-fa94-ab17-393d-8f2945cfd85a,"I see you have no evil intentions, so you are granted entry.",我看得出你并无恶意，准你入内。
+action,action-173b50af-db92-d1ee-d30a-a240ebed1638,May our father guide your way.,愿我们的父神指引你的道路。
+action,action-e85415d0-3266-d857-a543-60a78d974907,"Young lamb, why do you ask about such a dangerous book?",年轻的羔羊，你为何要打听这样一本危险的书？
+action,action-36b58073-da21-8bac-59c2-1a343a357d39,"Though, it is true that the book was stolen just recently.",不过，那本书确实是前不久被盗的。
+action,action-102b45ce-fdf3-8edc-d21a-9b119d4f1107,"You may want to talk to the mages inside the academy about that, as I am just a mere keeper of the gate.",这件事你最好去问学院里的法师们，我只不过是个看门人罢了。

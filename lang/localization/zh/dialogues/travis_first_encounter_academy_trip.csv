@@ -1,0 +1,35 @@
+type,id,text,zh
+action,action-d99eb3ea-a709-0124-3a37-6365d740569f,"Ahh, hello there!",啊，你好！
+action,action-35cfe359-ff40-da7e-aab2-f51b2b5900cb,"If you're looking for a trip to the academy, I have to disappoint you.
+We're already on our way back to the capital.","如果你是想去学院的话，那恐怕要让你失望了。
+我们已经在返回王都的路上了。"
+option,choice-11ba50a6-0c7c-90c2-0766-3669cdd46226,How do I get to the capital?,我要怎么去王都？
+option,choice-424b0f16-4db7-d65c-ae55-b3dee73cd4a3,Is there a way to get a permit?,有办法拿到通行证吗？
+option,choice-6f1811db-c84c-7760-e02d-75de4d0cd709,What are you doing here?,你在这里做什么？
+option,choice-71f7e8ed-4892-9807-7b70-338b76e97ab6,Academy of Mages?,魔法学院？
+option,choice-dd4ae99a-31a1-50cd-607b-46482d2b8a2c,Where is the Academy?,学院在哪里？
+option,choice-29bd070e-c812-cb93-6e80-6e57e49e7857,See you!,回见！
+action,action-921afd9c-40f4-9856-07fd-aebcd2a9c710,"Basically, you only need to follow the road south until you find Roland's farm.",简单来说，你只需沿着大路一直向南走，直到看见罗兰的农场。
+action,action-3d7f1273-d98b-a146-ead7-8f9bfa27c4dd,"From there, keep heading east, and you'll end up in front of the capital.",从那里继续向东，你就会来到王都门前。
+action,action-179d8936-c757-de07-e74b-d1c2822e564c,"But without the official permit, you will not be allowed into the capital.",不过，没有官方通行证的话，你是不能进入王都的。
+action,action-ecd8b575-6f03-d63f-16e3-b029d9af95e1,"Let me think about it.
+Usually, everyone had to submit a form, which was processed over a few weeks.","让我想想。
+通常，每个人都得提交一份申请，审批要花上几个星期。"
+action,action-3ae9f27f-4bd8-e490-8609-a9a582a9669f,But now it is no longer as easy as it once was.,但如今，事情不像从前那么容易了。
+action,action-07e0c963-16a4-a3ab-68b8-4ea4841fef3a,"If you want to enter to the capital soon, you could ask #:Renbrand:#, one of the highest-ranking royal guards about it.",如果你想尽快进入王都，可以去问问#:伦布兰德:#，他是皇家卫队里军衔最高的成员之一。
+action,action-907cb8e8-d11d-bbf9-39e2-77e1c8aecb6e,"You will find him south of the capital, in a camp of the Royal Army.",你可以在王都以南的皇家军队营地里找到他。
+action,action-583a6490-9790-803f-a66c-a89f2be72e6e,"As the Royal Guard, it is my duty to help the citizens of the capital.",身为皇家卫队的一员，帮助王都的市民是我的职责。
+action,action-fb1142b8-a912-01df-6edd-7743b0bf5f00,That's why I make sure that people here can enjoy a safe trip to the Academy of Mages without being attacked by bandits.,所以我在此确保人们能安全前往魔法学院，不受强盗袭击。
+action,action-4115dd74-bee5-bcdf-2d7a-053d72dcb67e,"Have you never heard of the Academy?
+It is widely known, even outside Grenmark.","你从没听说过学院吗？
+它可是声名远扬，甚至传到了格伦马克之外。"
+action,action-43d847d7-2707-33c3-8601-7adf70bf16c8,"The academy is the place for many young people of the capital when they are looking for an apprenticeship as a magician.
+However, only a few are actually accepted as a magician.","王都的许多年轻人想拜师学习魔法时，都会前往学院。
+不过，真正被收为法师的只有寥寥数人。"
+action,action-2ab5c993-4a81-3acd-9a50-0bdcccc0d29d,"A large part of the people is only interested in the wine that the academy produces, though.",话说回来，大部分人感兴趣的只是学院酿造的葡萄酒。
+action,action-19c13ba1-20b4-fe6a-e800-6fbc4892107b,"When you follow the road north of here, and head east as soon as you reach the Stonehenge, you'll find yourself at the gates of the Marin Passage.",沿着这里北边的大路走，到了巨石阵后立刻转向东，你就会来到马林通道的大门前。
+action,action-3a32a64d-839d-4837-40fb-51d50c60d7c7,"However, the gates to the passage are usually closed for people without an explicit permit.",不过，通道的大门通常不对没有正式通行证的人开放。
+action,action-57fed0aa-ebe0-5ad8-92ae-ff69c748869c,"That's why we, the Royal Guard, have to protect the people who want to visit the academy.",正因如此，我们皇家卫队才要保护那些想去学院的人。
+action,action-401f7d6b-2e62-c81c-7b28-475ec529fe21,Behind the passage lies the academy.,穿过通道，就是学院了。
+action,action-16b3520b-01ed-0444-2fa2-a49c4f3dfd1a,"Raiders have gathered in the passage, and attack people and merchants.",掠夺者聚集在通道里，袭击行人和商旅。
+action,action-1a841aaa-31b1-89f2-7110-09ce060d9de1,Of course!,当然！

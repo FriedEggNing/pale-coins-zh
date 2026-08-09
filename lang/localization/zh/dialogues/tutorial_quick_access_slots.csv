@@ -1,0 +1,3 @@
+type,id,text,zh
+action,action-7bca6c02-31ee-58e4-b30c-f0e43de58375,Use ###input.INPUT_QUICK_ACCESS_FAVORITE### to assign weapons and consumables to your quick access slots from your inventory.,使用 ###input.INPUT_QUICK_ACCESS_FAVORITE### 可在背包中将武器和消耗品指派到快捷栏。
+action,action-7768b975-f8e8-730d-c3ca-c352e5926352,You can assign weapons and consumables to your quick access slots by pressing the keys 1-8 in the inventory.,在背包中按 1-8 键，即可将武器和消耗品指派到快捷栏。

@@ -1,0 +1,14 @@
+type,id,text,zh
+action,action-7bf1162c-d306-9485-d692-2c2f8049ff22,Can I help you?,有什么能帮你的吗？
+action,action-6c6b71e7-f9e3-f1cb-a0cf-072e742e7c49,I am taking care of the stables.,我在照看这些马厩。
+option,choice-29caa679-1236-0b56-2875-f7b24914fc4a,What are you doing?,你在做什么？
+option,choice-66fd27c6-a872-6b40-3b0b-af06a73dc89d,Why are there no horses?,为什么这里没有马？
+option,choice-79648ae7-0c9c-f398-47d4-1be1b129435c,See you!,回见！
+action,action-ccf1a38a-83fa-689d-4dcf-86dc1aed0b61,"Usually, I take care of the horses as well.
+But the stables are empty, as you can see.","平时我也负责照料马匹。
+但你也看到了，马厩现在空空如也。"
+action,action-d8545c56-273f-8d75-aa28-ec1d016de858,You've probably heard about the monsters on the trade route to Erstadt.,你大概也听说了，通往埃尔施塔特的商路上出了怪物。
+action,action-7b94626e-7913-bdf0-14dc-34d4e64cc2aa,"Obviously, no merchant dares to travel from Erstadt to our capital.",显然，没有商人敢从埃尔施塔特赶来王都了。
+action,action-d5483ab3-762b-f7de-0816-7e78f5f996ca,"But that shouldn't stop me from doing my job.
+The stables don't clean themselves.","但这不妨碍我做好分内的活儿。
+马厩可不会自己打扫自己。"

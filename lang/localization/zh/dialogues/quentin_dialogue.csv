@@ -1,0 +1,102 @@
+type,id,text,zh
+action,action-30c271cf-bc00-f659-dd27-675aa46fc859,Yes?,啥事？
+option,choice-4de79156-f659-e162-0527-25a1c6d3dd09,Have you found out anything about the stone door yet?,关于那扇石门，你查到什么了吗？
+option,choice-8c64249e-e579-f3fe-d606-7a098722b10e,I opened the stone door.,我把石门打开了。
+option,choice-2dd99087-22d2-d2f4-7163-39fa61ae2090,Did you find what you were looking for in the ruins?,你在遗迹里找到你要找的东西了吗？
+option,choice-b7d7ae59-22dd-bf8e-113a-5a8773c2e27d,Have you ever seen a key like this? (Bellkeeper Key),你见过这样的钥匙吗？（守钟人钥匙）
+option,choice-d569aac2-4334-24c6-c63e-edae77ba224d,Regarding the key of a bellkeeper...,关于守钟人的钥匙……
+option,choice-d62b3694-7fa5-f285-a6f0-fbd143544036,Do you sell the fake key of the bellkeeper?,那把守钟人的假钥匙你卖吗？
+option,choice-9c4c4a7e-aa72-7f02-0bd6-1c9e01e916c3,I'm on my way.,我先走了。
+action,action-69f8e4bc-4f10-a160-da26-1789400000b0,Catch you later!,回见！
+action,action-5c5a6bd6-8dee-40ca-a98d-90cbd91aa1c1,I am working on it.,我还在想办法。
+action,action-3a5eb385-10db-25ad-f0b3-e2ba4d4764dc,Though...,不过……
+action,action-37e37074-8f36-5474-5250-42b9f53028a3,I overheard someone talkin' 'bout the library in the capital. The king's library to be specific.,我偶然听人聊起王都的图书馆。确切地说，是国王的图书馆。
+action,action-47b047ee-3192-66f4-0c56-2baca5019241,"However, only the king, his mages or someone with the advisor's permission may access the library.",不过，只有国王、他的法师，或是拿到顾问许可的人才能进图书馆。
+action,action-1faf1315-b7fc-c18d-c87f-bc57c1cbeefd,"Unless you get a permission, we may have to find something else.",除非你能弄到许可，不然咱们就得另想办法了。
+action,action-4808edac-b2a9-9ca6-7517-22c7689d05e5,"You did it?
+How?","你办到了？
+怎么做到的？"
+option,choice-257c42c6-9abc-896e-6552-6e2cbb99c52a,By using one of Lyrak's scrolls.,用了莱拉克的一张卷轴。
+action,action-f4531b92-4303-08bf-7cd8-3924db32249c,"Awesome!
+I owe you one.","太棒了！
+我欠你个人情。"
+action,action-d7e99be0-ef8c-d154-6a13-f6584c7103d4,"But first, I need to check out what's inside these ruins.",不过首先，我得去看看遗迹里头有什么。
+action,action-0de2cfe9-93cd-ae05-dffe-442f7da9fc0a,See you!,回头见！
+action,action-f2450910-6c7d-8cd9-d959-2d973636a419,More or less.,算是吧。
+action,action-1b3bb1e9-0882-400f-1b27-0e3422621e32,"But I'm still waiting for my client.
+After all, he was the one who wanted to know what was in the ruins.","但我还在等我的雇主。
+毕竟，是他想知道遗迹里有什么。"
+action,action-c033a16f-2836-1dc2-ee91-46e92c0306ae,"You helped me a lot with my mission.
+Without you, I would still be searching for a way to open the stone door.","这趟差事你帮了我大忙。
+没有你，我现在还在琢磨怎么打开那扇石门呢。"
+action,action-d0391844-e64c-ae9f-6426-580b0881dcb9,"Take this as your reward.
+You deserve it.","这是给你的报酬。
+你应得的。"
+action,action-5b00572c-1042-70f3-e9cf-bfb22e7635b4,"However, on the lowest level, behind the undead knight, there was another door.
+Did you see that?","不过，在最底层，那个不死骑士身后还有一扇门。
+你看到了吗？"
+action,action-28623442-81e9-99a3-4411-00a1cff7c838,It looked like you need four keys to make the thing move.,看样子得用四把钥匙才能让那玩意儿动起来。
+action,action-33686416-f2a4-2d9d-9e7f-947319b0ba17,"But that would be too much for me right now.
+I'm glad I made it out of the ruins alive.","但眼下那对我来说太勉强了。
+能活着从遗迹里出来我就谢天谢地了。"
+action,action-38c2d7db-bc77-bc9c-61f3-be7151fd97d1,Let me see!,让我瞧瞧！
+action,action-4f572b2e-50bc-137c-625b-930fd73f51fd,...,……
+action,action-ca1d86af-43e9-e5dc-5867-b6fc97e185ae,"That's an interestingly shaped key.
+Also, what's that material? It looks like gold. Is it?","这钥匙的造型真有意思。
+还有，这是什么材质？看着像金子。是吗？"
+action,action-0fa20cd4-abd4-c3ad-26f5-cc10feccaced,Where did you find that key?,你在哪儿找到这把钥匙的？
+option,choice-d52d9b58-eb87-3851-3d1a-e18a7a2358fc,In one of the ruins with the stone doors.,在一处有石门的遗迹里。
+action,action-b0e63101-13e7-249b-f645-74cff884564f,"In one of these ruins, you say?",你是说，就在那些遗迹里？
+action,action-2b98e59f-d93d-c54c-375c-40588230fd29,"Huh, I was sure I grabbed everything worth takin'.",嗯？我明明确信值钱的东西都被我搜刮干净了。
+action,action-7eaf22f1-1675-e307-e3c6-514bb945ae99,"Also, Could this be the thing my client is looking for?",还有，这该不会就是我雇主要找的东西吧？
+action,action-b929b799-d2fd-83d5-d26c-69d669fc386e,"Listen, I might have a plan!",听着，我可能有个计划！
+action,action-8959de0a-87ec-8ef9-2f65-69be2c270f6e,"There's a guy I trust in the capital who can forge anything.
+Give me the key, and I'll have a duplicate made.","王都里有个我信得过的家伙，什么都能仿造。
+把钥匙给我，我去弄个复制品。"
+action,action-da6d005a-e36c-dcc0-19ee-b1e5ce472e51,"The fake goes to my client, I get the gold and you can have the real one.",假的给我雇主，金币归我，真钥匙归你。
+action,action-2fd116c9-bdf5-6ee6-b14b-c09e8b9f1bde,Yeah?,怎么样？
+option,choice-a6f55d65-0349-6c21-97c5-a1ec82d9e63a,Why should I give you the key?,我凭什么把钥匙给你？
+option,choice-28d5d391-67a4-0863-a2cb-9302b0e121b5,Take the key.,钥匙拿去吧。
+option,choice-4b6a4179-66d3-d9f4-3923-6347e5c063a9,I need to think about it.,我得考虑考虑。
+action,action-8a9d15ea-a30e-583c-72fc-69a5fd017cd3,"Hehe, I knew it!
+How about you get some gold as soon as I have the duplicate?","嘿嘿，我就知道！
+等我拿到复制品，就分你一些金币，怎么样？"
+action,action-fc55c964-2b84-3c8a-b79d-ac8cf778790c,"If not, I'm sure we'll find something to make it worth your time.",就算不行，咱们也肯定能找到别的好处，不会让你白忙活。
+action,action-af111c4f-fd63-e476-95f1-f11230459eb9,Alright! I'll head off to the capital now.,好嘞！我这就动身去王都。
+action,action-1c4d3b69-70aa-74a0-c4ac-cfea0b172451,You know where to find me!,你知道上哪儿找我！
+action,action-64a56391-eb49-569b-b1f7-9848d5e68489,Best if we meet up there.,咱们最好在那儿碰头。
+action,action-d8a3c4e6-2d51-d3d5-6247-f150a356b104,"You'll likely find me near the fountain, just beside the market square.",你多半能在喷泉附近找到我，就在市集广场旁边。
+action,action-ce3f8ed9-2bd0-c37f-1a7a-93240770cc4d,"Man, I can't do that!",老兄，这可不行！
+action,action-6c8f59b1-e4dd-27da-6099-0798f8b620ec,"While I am not sure, I think my client is interested in the key.
+And I am interested in my client's money, you know?","虽说我也不确定，但我觉得我雇主感兴趣的就是这把钥匙。
+而我感兴趣的是雇主的钱，你懂吧？"
+option,choice-ecebbb34-1377-36a6-87f7-33c291fad0ed,How much does your client pay?,你的雇主出多少钱？
+option,choice-ee9cb14b-b72a-dd01-9f39-88b89df3fff5,I want to buy the key.,我想买下这把钥匙。
+option,choice-e1199be2-3d1f-b7ec-c962-2f11918509e3,I'll be back later.,我稍后再来。
+action,action-2e441475-d2d2-9220-9add-f7ccb41eaa05,"Haha! So, if you're trying to make a counteroffer, I'm afraid I'll have to disappoint you.",哈哈！所以，要是你想跟我抬价竞买，恐怕得让你失望了。
+action,action-182cd72f-7fae-0c17-9fa4-bb584b51b64c,I was actually planning to keep this to myself. My client is paying me a handsome sum of 5000 gold coins.,这事我本来打算烂在肚子里的。我雇主可是要付我一大笔钱——足足5000金币。
+action,action-739dba95-33e4-8b83-9d66-8e89a344d15f,"Also, I've spent at least half the amount on the forgery already.",而且，光是仿造那把钥匙，我就至少花掉了一半的钱。
+action,action-ea89faab-d966-7454-8eb2-a0eb7fdfc03f,"You're kidding, right?
+I already told you, that my client will most likely pay 5000 gold for the key.","你在开玩笑吧？
+我都说了，我雇主多半会为这把钥匙付5000金币。"
+option,choice-0e33c89b-c47b-8599-5b71-00254177bd86,I can give you 5000 gold coins right now.,我现在就能给你5000金币。
+option,choice-0df0a8cc-8634-a8ae-1ac7-54ba6b9b1fdf,Take these 7000 gold coins.,收下这7000金币吧。
+option,choice-1dcf6c8b-6820-6dfd-30ac-84a7298b1c00,I'll think about it.,我再考虑考虑。
+action,action-e8778aa5-986f-70c8-c231-4c88c3555c4b,Forget it. This key is reseved for my client.,想都别想。这把钥匙是留给我雇主的。
+action,action-df208e9f-5743-bac8-e1de-ba2ae7c7fdf7,"Nope!
+I don't need the money that badly to break my deal with my client.","不行！
+我还没缺钱缺到要毁掉和雇主交易的地步。"
+option,choice-13cc2a2f-200d-4ecf-22c1-80e11cb33617,You sure your client is even after the key?,你确定你的雇主要的真是这把钥匙？
+action,action-e0de29d4-3253-a1f9-e925-2682a9047e4f,"Pretty sure, yeah. Why do you ask?",相当确定。怎么这么问？
+option,choice-bd09d67f-135d-2fe6-34a5-fc942da7afca,What if they're after something completely different?,万一他们要找的完全是别的东西呢？
+action,action-d9f27a81-4fcb-69b9-99be-19f1aeeee8ff,"All I'd end up with in my pocket is a golden key that doesn't even come close to covering the expenses. That's what you're trying to say, right?",那我兜里最后就只剩一把连成本都远远抵不上的金钥匙。你想说的是这个，对吧？
+action,action-2adea4d0-2009-e5d9-9b6d-9e4e3c515215,"Fine. I'll consider a deal.
+But only if it seriously benefits me.","行吧。我可以考虑做笔交易。
+但前提是我得有实实在在的好处。"
+option,choice-10bfa37f-059b-9ce0-deab-f8b1f837a217,How much gold are we talking?,你要多少金币？
+action,action-b8ce6322-524b-a93d-a83a-bea6554fd4bb,"Let me think. That forgery cost me a fortune. Plus, I'm risking my client's wrath.",让我想想。那件仿品花了我一大笔钱。再说，我还得冒着惹恼雇主的风险。
+action,action-dbe0dc50-12ce-2cd5-00c6-ff7b541fdbf8,All things considered… #:7000 gold:#.,全都算上的话……#:7000金币:#。
+action,action-245f4c23-332b-a58d-0fd8-cdc4448726ce,"He! He he!
+That's... a lot of money.","嘿！嘿嘿！
+这……可真是一大笔钱。"
+action,action-bd41da43-fdce-94da-f326-a01a734f8807,"Thanks, buddy! Here's the duplicate.",谢了，伙计！这是那件复制品。
