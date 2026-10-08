@@ -6,7 +6,7 @@
         指定路径：... -File install.ps1 -GamePath "D:\Steam\steamapps\common\Pale Coins"
 
   做的事：备份原字体 → 复制汉化文件 → 替换字体 → 把语言设为 zh
-  卸载请运行 uninstall.ps1
+  卸载请双击 uninstall.bat
 #>
 param([string]$GamePath)
 
@@ -143,6 +143,6 @@ Say "        真点了也不要紧，重新运行本脚本即可恢复。" Yello
 Say "     2. 屏幕最底部那行操作提示会被裁掉一点，只是显示问题。" Yellow
 Say ""
 Say "  想彻底解决这两个问题，请参考 README 里的「方法 B」。" Gray
-Say "  卸载请运行 uninstall.ps1" Gray
+Say "  卸载请双击 uninstall.bat" Gray
 Say ""
 Read-Host "  按回车退出"
