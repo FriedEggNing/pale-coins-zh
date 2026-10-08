@@ -32,16 +32,22 @@ anything that reads wrong.*
 
 ### 方法 A：一键安装（推荐）
 
-下载并解压本包后，**右键 `install.ps1` → 使用 PowerShell 运行**。
+下载并解压本包后，**双击 `install.bat`** 即可。
 脚本会自动找到游戏目录、备份原字体、复制汉化文件、并把语言设为中文。
+如果没有自动找到游戏，会提示你把游戏目录路径贴进去。
 
-如果自动找不到游戏，可以手动指定路径：
+卸载：双击 `uninstall.bat`，会还原原版字体、删除汉化文件、把语言改回英文。
 
-```powershell
-powershell -ExecutionPolicy Bypass -File install.ps1 -GamePath "D:\Steam\steamapps\common\Pale Coins"
+> **请用 `.bat` 而不是直接跑 `.ps1`。** Windows 默认禁止执行 PowerShell 脚本
+> （执行策略为 Restricted），直接双击或右键 `install.ps1` 多半会报
+> "running scripts is disabled on this system"。`.bat` 会自动带上
+> `-ExecutionPolicy Bypass` 绕过这个限制，跟系统语言（简中/繁中/英文）无关。
+
+也可以直接指定路径：
+
 ```
-
-卸载：运行 `uninstall.ps1`，会还原原版字体、删除汉化文件、把语言改回英文。
+install.bat -GamePath "D:\Steam\steamapps\common\Pale Coins"
+```
 
 > 装之前请先关掉游戏。脚本会把原版字体备份到游戏目录下的 `_zh_backup\`。
 

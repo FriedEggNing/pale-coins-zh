@@ -27,36 +27,41 @@ function Find-Game {
         $steam = (Get-ItemProperty 'HKCU:\Software\Valve\Steam' -ErrorAction Stop).SteamPath
         if ($steam) {
             $steam = $steam -replace '/', '\'
-            $candidates += Join-Path $steam 'steamapps\common\Pale Coins'
-            $vdf = Join-Path $steam 'steamapps\libraryfolders.vdf'
+            $candidates += ($steam.TrimEnd('\') + '\steamapps\common\Pale Coins')
+            $vdf = ($steam.TrimEnd('\') + '\steamapps\libraryfolders.vdf')
             if (Test-Path $vdf) {
                 foreach ($m in [regex]::Matches((Get-Content $vdf -Raw), '"path"\s*"([^"]+)"')) {
                     $p = $m.Groups[1].Value -replace '\\\\', '\'
-                    $candidates += Join-Path $p 'steamapps\common\Pale Coins'
+                    $candidates += ($p.TrimEnd('\') + '\steamapps\common\Pale Coins')
                 }
             }
         }
     } catch { }
-    foreach ($d in @('C','D','E','F','G','H')) {
+    $drives = (Get-PSDrive -PSProvider FileSystem -ErrorAction SilentlyContinue).Name
+    foreach ($d in $drives) {
         $candidates += "${d}:\Steam\steamapps\common\Pale Coins"
         $candidates += "${d}:\SteamLibrary\steamapps\common\Pale Coins"
     }
     foreach ($c in ($candidates | Select-Object -Unique)) {
-        if (Test-Path (Join-Path $c 'Pale Coins.exe')) { return $c }
+        if (Test-Path ($c + '\Pale Coins.exe')) { return $c }
     }
     return $null
 }
 
 if (-not $GamePath) { $GamePath = Find-Game }
 if (-not $GamePath) {
-    Say "  找不到游戏目录。" Red
-    Say "  请在 Steam 里右键游戏 → 管理 → 浏览本地文件，复制路径后重新运行：" Yellow
-    Say '      powershell -ExecutionPolicy Bypass -File install.ps1 -GamePath "你的路径"' Yellow
+    Say "  没有自动找到游戏目录。" Yellow
+    Say "  请在 Steam 里右键游戏 → 管理 → 浏览本地文件，" Gray
+    Say "  把打开的那个文件夹路径复制过来（地址栏点一下就能复制）。" Gray
     Say ""
-    Read-Host "  按回车退出"
-    exit 1
+    $GamePath = (Read-Host "  请粘贴游戏目录路径").Trim().Trim('"').Trim()
+    if (-not $GamePath) {
+        Say "  没有输入路径，已取消。" Red
+        Read-Host "  按回车退出"
+        exit 1
+    }
 }
-if (-not (Test-Path (Join-Path $GamePath 'Pale Coins.exe'))) {
+if (-not (Test-Path ($GamePath.TrimEnd('\') + '\Pale Coins.exe'))) {
     Say "  这个目录里没有 Pale Coins.exe：" Red
     Say "    $GamePath" Red
     Read-Host "  按回车退出"
