@@ -61,6 +61,8 @@ install.bat -GamePath "D:\Steam\steamapps\common\Pale Coins"
    （`Strong-Regular.ttf` 保持原样，不要动。）
 4. 打开 `%LOCALAPPDATA%\Pale_Coins\settings.json`，
    把 `"gameplay_language":"en"` 改成 `"gameplay_language":"zh"`，保存。
+   如果**根本没有这个文件**（游戏从没保存过设置），就新建一个，内容只写一行：
+   `{"gameplay_language":"zh"}` —— 其余设置游戏会自己取默认值。
 5. 启动游戏。
 
 #### ⚠️ 方法 A 的两个已知问题

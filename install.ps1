@@ -117,20 +117,24 @@ Copy-Item $srcFont (Join-Path $GamePath 'pixelplay.ttf') -Force
 Say "  已替换字体（PixelFont.ttf / pixelplay.ttf）" Green
 
 # ---------- 6. 设置语言 ----------
-$cfg = Join-Path $env:LOCALAPPDATA 'Pale_Coins\settings.json'
+$cfgDir = Join-Path $env:LOCALAPPDATA 'Pale_Coins'
+$cfg    = Join-Path $cfgDir 'settings.json'
+$enc    = New-Object System.Text.UTF8Encoding($false)
 if (Test-Path $cfg) {
-    $enc = New-Object System.Text.UTF8Encoding($false)
     $t = [IO.File]::ReadAllText($cfg, $enc)
     if ($t -match '"gameplay_language"\s*:\s*"[a-z\-]+"') {
         $t = [regex]::Replace($t, '"gameplay_language"\s*:\s*"[a-z\-]+"', '"gameplay_language":"zh"')
-        [IO.File]::WriteAllText($cfg, $t, $enc)
-        Say "  已将语言设为中文" Green
     } else {
-        Say "  settings.json 里没找到语言项，请手动添加 \"gameplay_language\":\"zh\"" Yellow
+        # 文件在但没有语言项：插到最前面
+        $t = [regex]::Replace($t, '^\s*\{', '{"gameplay_language":"zh",', 1)
     }
+    [IO.File]::WriteAllText($cfg, $t, $enc)
+    Say "  已将语言设为中文" Green
 } else {
-    Say "  还没有 settings.json（游戏一次都没运行过）。" Yellow
-    Say "  请先启动一次游戏再退出，然后重新运行本脚本。" Yellow
+    # 游戏从没保存过设置时不会有这个文件；只写语言一项即可，其余由游戏取默认值
+    if (-not (Test-Path $cfgDir)) { New-Item -ItemType Directory -Path $cfgDir -Force | Out-Null }
+    [IO.File]::WriteAllText($cfg, '{"gameplay_language":"zh"}', $enc)
+    Say "  已创建 settings.json 并将语言设为中文" Green
 }
 
 # ---------- 完成 ----------
